@@ -13,4 +13,4 @@ jobs:
       - name: Install requirements
         run: pip install -r pivni-valka/requirements.txt
       - name: Test
-        run: pytest
+        run: pytest pivni-valka/tests.py
