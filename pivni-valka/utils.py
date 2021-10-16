@@ -59,7 +59,7 @@ def publish_page(path: str, unique_beers_count_jirka: int, unique_beers_count_da
 
 
 def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> None:
-    path = pathlib.Path(f"stats.csv")
+    path = pathlib.Path(f"pivni-valka/stats.csv")
 
     lines = [f'{datetime.date.today()},{unique_beers_count_jirka},{unique_beers_count_dan}\n']
 
