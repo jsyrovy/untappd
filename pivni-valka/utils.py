@@ -41,7 +41,7 @@ def parse_unique_beers_count(user_profile: str) -> int:
 
 def get_template() -> jinja2.Template:
     env = jinja2.Environment(
-        loader=jinja2.FileSystemLoader("templates"),
+        loader=jinja2.FileSystemLoader("pivni-valka/templates"),
         autoescape=jinja2.select_autoescape(["html", "xml"]),
     )
     return env.get_template('pivni-valka.html')
