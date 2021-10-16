@@ -14,7 +14,7 @@ def main():
     unique_beers_count_dan = utils.parse_unique_beers_count(user_profile_dan)
 
     utils.save_stats(unique_beers_count_jirka, unique_beers_count_dan)
-    utils.publish_page('pivni-valka/pivni-valka.html', unique_beers_count_jirka, unique_beers_count_dan)
+    utils.publish_page('pivni-valka/index.html', unique_beers_count_jirka, unique_beers_count_dan)
 
     print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
 
