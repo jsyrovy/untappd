@@ -9,21 +9,16 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.9.5"
-      - name: Cache
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ hashFiles('pivni-valka/requirements.txt') }}
-      - name: Install requirements
-        run: pip install -r pivni-valka/requirements.txt
       - name: Setup timezone
         uses: zcong1993/setup-timezone@master
         with:
           timezone: Europe/Prague
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.5"
+      - name: Create venv
+        run: make init
       - name: Run
         run: python pivni-valka/run.py
       - name: Save
