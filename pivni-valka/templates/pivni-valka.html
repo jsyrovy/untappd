@@ -32,20 +32,23 @@
             grid-template-rows: auto;
             grid-template-areas:
                 "item-jirka item-dan"
+                "item-chart item-chart"
         }
 
         .item-count {
             text-align: center;
             margin: 5px;
-            background: #f0f0f0;
+            color: white;
         }
 
         .item-jirka {
             grid-area: item-jirka;
+            background: #51d49a;
         }
 
         .item-dan {
             grid-area: item-dan;
+            background: #278db2;
         }
 
         .count {
@@ -55,20 +58,59 @@
         .name {
             font-size: 2rem;
         }
+
+        .item-chart {
+            grid-area: item-chart;
+            margin: 5px;
+        }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"
+            integrity="sha256-bC3LCZCwKeehY6T4fFi9VfOU0gztUa+S4cnkIhVPZ5E="
+            crossorigin="anonymous"></script>
 </head>
 <body>
 <div class="wrapper">
     <div class="container">
         <div class="item-count item-jirka">
-            <div class="count">unique_beers_count_jirka</div>
+            <div class="count">{{ unique_beers_count_jirka }}</div>
             <div class="name">Jirka</div>
         </div>
         <div class="item-count item-dan">
-            <div class="count">unique_beers_count_dan</div>
+            <div class="count">{{ unique_beers_count_dan }}</div>
             <div class="name">Dan</div>
+        </div>
+        <div class="item-chart">
+            <canvas id="chart"></canvas>
         </div>
     </div>
 </div>
+<script>
+    const ctx = document.getElementById('chart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: {{ chart_labels | safe }},
+            datasets: [{
+                label: 'Jirka',
+                data: {{ chart_data_jirka | safe }},
+                borderColor: '#51d49a',
+                backgroundColor: '#51d49a'
+            },
+                {
+                    label: 'Dan',
+                    data: {{ chart_data_dan | safe }},
+                    borderColor: '#278db2',
+                    backgroundColor: '#278db2'
+                }]
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            }
+        },
+    });
+</script>
 </body>
 </html>
