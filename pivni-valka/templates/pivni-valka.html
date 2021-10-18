@@ -4,17 +4,48 @@
     <meta charset="UTF-8"/>
     <title>Pivní válka</title>
     <style>
-        .parent {
-            display: flex;
-            flex-wrap: wrap;
+        html, body {
+            height: 100%;
         }
 
-        .child {
-            flex: 0 1 250px;
-            background: #f0f0f0;
+        body {
+            margin: 0;
+            font-family: sans-serif;
+        }
+
+        .wrapper {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 250px 250px;
+            grid-template-rows: auto;
+            grid-template-areas:
+                "item-jirka item-dan"
+        }
+
+        .item-count {
             text-align: center;
-            margin: 0.5rem;
-            padding: 0.5rem;
+            margin: 5px;
+            background: #f0f0f0;
+        }
+
+        .item-jirka {
+            grid-area: item-jirka;
+        }
+
+        .item-dan {
+            grid-area: item-dan;
         }
 
         .count {
@@ -24,21 +55,19 @@
         .name {
             font-size: 2rem;
         }
-
-        body {
-            font-family: sans-serif;
-        }
     </style>
 </head>
 <body>
-<div class="parent">
-    <div class="child">
-        <div class="count">{{ unique_beers_count_jirka }}</div>
-        <div class="name">Jirka</div>
-    </div>
-    <div class="child">
-        <div class="count">{{ unique_beers_count_dan }}</div>
-        <div class="name">Dan</div>
+<div class="wrapper">
+    <div class="container">
+        <div class="item-count item-jirka">
+            <div class="count">unique_beers_count_jirka</div>
+            <div class="name">Jirka</div>
+        </div>
+        <div class="item-count item-dan">
+            <div class="count">unique_beers_count_dan</div>
+            <div class="name">Dan</div>
+        </div>
     </div>
 </div>
 </body>
