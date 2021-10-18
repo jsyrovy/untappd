@@ -63,6 +63,25 @@
             grid-area: item-chart;
             margin: 5px;
         }
+
+        @media only screen and (max-width: 991px) {
+            .container {
+                width: 100%;
+                grid-template-columns: 100%;
+                grid-template-areas:
+                    "item-jirka"
+                    "item-dan"
+                    "item-chart"
+            }
+
+            .count {
+                font-size: 8rem;
+            }
+
+            .name {
+                font-size: 4rem;
+            }
+        }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"
             integrity="sha256-bC3LCZCwKeehY6T4fFi9VfOU0gztUa+S4cnkIhVPZ5E="
