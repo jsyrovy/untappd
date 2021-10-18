@@ -4,7 +4,7 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:
 jobs:
-  publish:
+  pivni-valka:
     runs-on: ubuntu-18.04
     steps:
       - name: Check out
@@ -20,7 +20,7 @@ jobs:
       - name: Create venv
         run: make init
       - name: Run
-        run: python pivni-valka/run.py
+        run: make run-pivni-valka
       - name: Save
         uses: EndBug/add-and-commit@v4
         with:
