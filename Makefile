@@ -20,5 +20,8 @@ init:
 run-pivni-valka:
 	${PYTHON} pivni-valka/run.py
 
+run-pivni-valka-local:
+	${PYTHON} pivni-valka/run.py --local
+
 test-pivni-valka:
 	${PYTHON} -m pytest pivni-valka/tests.py
