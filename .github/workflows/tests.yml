@@ -15,7 +15,7 @@ jobs:
       - name: Test pivni-valka
         run: make test-pivni-valka
       - name: Test pipa
-          run: make test-pipa
+        run: make test-pipa
   smoke:
     runs-on: ubuntu-18.04
     steps:
