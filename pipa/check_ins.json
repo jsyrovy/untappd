@@ -1,0 +1,164 @@
+{
+  "check_ins": [
+    {
+      "id": 1089933153,
+      "dt": "2021-10-20T20:15:44+02:00",
+      "beer_name": "Kamenická 12 Tmavá",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-kamenicka-12-tmava/2583806"
+    },
+    {
+      "id": 1089904035,
+      "dt": "2021-10-20T18:26:12+02:00",
+      "beer_name": "Maracuja",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-maracuja/4244852"
+    },
+    {
+      "id": 1089720268,
+      "dt": "2021-10-19T20:20:12+02:00",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
+      "id": 1089718161,
+      "dt": "2021-10-19T20:12:31+02:00",
+      "beer_name": "Drifter",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-drifter/2950687"
+    },
+    {
+      "id": 1089695444,
+      "dt": "2021-10-19T18:31:47+02:00",
+      "beer_name": "Podzim 2021",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-podzim-2021/4537147"
+    },
+    {
+      "id": 1089695213,
+      "dt": "2021-10-19T18:30:34+02:00",
+      "beer_name": "Podzim 2021",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-podzim-2021/4537147"
+    },
+    {
+      "id": 1089691433,
+      "dt": "2021-10-19T18:08:42+02:00",
+      "beer_name": "Podzim 2021",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-podzim-2021/4537147"
+    },
+    {
+      "id": 1089690040,
+      "dt": "2021-10-19T17:59:56+02:00",
+      "beer_name": "Autumn Tactics",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-autumn-tactics/2906506"
+    },
+    {
+      "id": 1089688597,
+      "dt": "2021-10-19T17:50:13+02:00",
+      "beer_name": "Autumn Tactics",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-autumn-tactics/2906506"
+    },
+    {
+      "id": 1089681680,
+      "dt": "2021-10-19T16:50:33+02:00",
+      "beer_name": "IPA TONE 0801 (Sour IPA: Galaxy, Idaho 7, Azacca)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-tone-0801-sour-ipa-galaxy-idaho-7-azacca/4528308"
+    },
+    {
+      "id": 1089681623,
+      "dt": "2021-10-19T16:49:54+02:00",
+      "beer_name": "IPA TONE 0801 (Sour IPA: Galaxy, Idaho 7, Azacca)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-tone-0801-sour-ipa-galaxy-idaho-7-azacca/4528308"
+    },
+    {
+      "id": 1089577260,
+      "dt": "2021-10-18T22:57:17+02:00",
+      "beer_name": "IPA+ Mango",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-mango/4523731"
+    },
+    {
+      "id": 1088889412,
+      "dt": "2021-10-16T23:50:45+02:00",
+      "beer_name": "Ježibaba",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-jezibaba/4113838"
+    },
+    {
+      "id": 1088147008,
+      "dt": "2021-10-15T21:55:02+02:00",
+      "beer_name": "Ježibaba",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-jezibaba/4113838"
+    },
+    {
+      "id": 1088147003,
+      "dt": "2021-10-15T21:55:02+02:00",
+      "beer_name": "Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-lollihop/1911036"
+    },
+    {
+      "id": 1088146018,
+      "dt": "2021-10-15T21:53:42+02:00",
+      "beer_name": "Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-lollihop/1911036"
+    },
+    {
+      "id": 1088058726,
+      "dt": "2021-10-15T19:59:25+02:00",
+      "beer_name": "Kamenická 12 Tmavá",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-kamenicka-12-tmava/2583806"
+    },
+    {
+      "id": 1088046451,
+      "dt": "2021-10-15T19:40:24+02:00",
+      "beer_name": "Kamenická 12 Tmavá",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-kamenicka-12-tmava/2583806"
+    },
+    {
+      "id": 1088034819,
+      "dt": "2021-10-15T19:21:35+02:00",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
+      "id": 1088019269,
+      "dt": "2021-10-15T18:53:41+02:00",
+      "beer_name": "Nelson Motueka Simcoe Double IPA 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nelson-motueka-simcoe-double-ipa-17/4516805"
+    }
+  ]
+}
