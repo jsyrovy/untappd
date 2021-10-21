@@ -1,4 +1,3 @@
-import jinja2
 import json
 import pathlib
 import random
@@ -6,6 +5,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from typing import List, Dict, Any
 
+import jinja2
 from bs4 import BeautifulSoup
 
 import utils
