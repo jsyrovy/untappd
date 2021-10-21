@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Pípa</title>
+    <link rel="icon" type="image/png" href="/favicon.png"/>
+    <style>
+        body {
+            margin-top: 50px;
+            font-family: sans-serif;
+            text-align: center;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+{% for check_in in check_ins %}
+    <div>{{ check_in.dt.strftime('%Y-%m-%d') }} - {{ check_in.beer_name }} - {{ check_in.serving }}</div>
+{% endfor %}
+</body>
+</html>

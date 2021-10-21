@@ -14,10 +14,16 @@ help:
 	@echo "  generate stats and publish page"
 	@echo "make test-pivni-valka"
 	@echo "  run tests"
+	@echo "make run-pipa"
+	@echo "  download stats and publish page"
+	@echo "make run-pipa-local"
+	@echo "  generate stats and publish page"
+	@echo "make test-pipa"
+	@echo "  run tests"
 
 init:
 	python3 -m venv venv
-	${PYTHON} -m pip install -r pivni_valka/requirements.txt
+	${PYTHON} -m pip install -r requirements.txt
 
 run-pivni-valka:
 	${PYTHON} run_pivni_valka.py
@@ -27,3 +33,12 @@ run-pivni-valka-local:
 
 test-pivni-valka:
 	${PYTHON} -m pytest pivni_valka/tests.py
+
+run-pipa:
+	${PYTHON} run_pipa.py
+
+run-pipa-local:
+	${PYTHON} run_pipa.py --local
+
+test-pipa:
+	${PYTHON} -m pytest pipa/tests.py

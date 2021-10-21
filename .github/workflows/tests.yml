@@ -12,8 +12,10 @@ jobs:
           python-version: "3.9.5"
       - name: Create venv
         run: make init
-      - name: Test
+      - name: Test pivni-valka
         run: make test-pivni-valka
+      - name: Test pipa
+          run: make test-pipa
   smoke:
     runs-on: ubuntu-18.04
     steps:
@@ -25,7 +27,7 @@ jobs:
           python-version: "3.9.5"
       - name: Create venv
         run: make init
-      - name: Test
+      - name: Test pivni-valka
         run: |
           rm -f pivni_valka/index.html pivni_valka/stats.csv
           make run-pivni-valka
@@ -33,3 +35,11 @@ jobs:
           test -e pivni_valka/stats.csv
           grep "Pivní válka" pivni_valka/index.html
           grep "date,jirka,dan" pivni_valka/stats.csv
+      - name: Test pipa
+          run: |
+            rm -f pipa/index.html pipa/check_ins.json
+            make run-pipa
+            test -e pipa/index.html
+            test -e pipa/check_ins.json
+            grep "Pípa" pipa/index.html
+            grep "id" pipa/check_ins.json

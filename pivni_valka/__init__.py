@@ -7,7 +7,6 @@ from collections import OrderedDict
 from typing import List, Tuple
 
 import jinja2
-import requests
 from bs4 import BeautifulSoup
 
 import utils
@@ -16,16 +15,12 @@ STATS_PATH = "pivni_valka/stats.csv"
 
 
 def run() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--local', action='store_true', help="don't download data from website")
-    args = parser.parse_args()
-
-    unique_beers_count_jirka, unique_beers_count_dan = get_unique_beers_count(args.local)
+    unique_beers_count_jirka, unique_beers_count_dan = get_unique_beers_count(utils.is_run_locally())
 
     save_stats(unique_beers_count_jirka, unique_beers_count_dan)
     chart_labels, chart_data_jirka, chart_data_dan = get_stats()
     publish_page(
-        utils.get_template('pivni_valka', 'pivni-valka.html'),
+        utils.get_template(__name__, 'pivni-valka.html'),
         'pivni_valka/index.html',
         unique_beers_count_jirka,
         unique_beers_count_dan,
@@ -53,12 +48,7 @@ def get_unique_beers_count(local: bool) -> Tuple[int, int]:
 
 
 def download_user_profile(user_name: str) -> str:
-    url = f'https://untappd.com/user/{user_name}'
-    headers = {'User-Agent': utils.get_random_user_agent()}
-
-    r = requests.get(url, headers=headers)
-
-    return r.text
+    return utils.download_page(f'{utils.BASE_URL}/user/{user_name}')
 
 
 def parse_unique_beers_count(user_profile: str) -> int:

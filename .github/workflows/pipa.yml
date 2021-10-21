@@ -1,0 +1,30 @@
+name: pipa
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+jobs:
+  pivni-valka:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+      - name: Setup timezone
+        uses: zcong1993/setup-timezone@master
+        with:
+          timezone: Europe/Prague
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.5"
+      - name: Create venv
+        run: make init
+      - name: Run
+        run: make run-pipa
+      - name: Save
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          commit_message: Update pipa
