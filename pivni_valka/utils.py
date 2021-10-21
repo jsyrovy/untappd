@@ -16,7 +16,7 @@ USER_AGENTS = (
     'Chrome OS/Chrome browser: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36',
 )
 
-STATS_PATH = "pivni-valka/stats.csv"
+STATS_PATH = "pivni_valka/stats.csv"
 
 
 def get_random_user_agent() -> str:
@@ -66,7 +66,7 @@ def get_stats() -> Tuple[List[str], List[int], List[int]]:
 
 def get_template() -> jinja2.Template:
     env = jinja2.Environment(
-        loader=jinja2.FileSystemLoader("pivni-valka/templates"),
+        loader=jinja2.FileSystemLoader("pivni_valka/templates"),
         autoescape=jinja2.select_autoescape(["html", "xml"]),
     )
     return env.get_template('pivni-valka.html')

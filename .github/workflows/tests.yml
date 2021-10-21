@@ -27,9 +27,9 @@ jobs:
         run: make init
       - name: Test
         run: |
-          rm -f pivni-valka/index.html pivni-valka/stats.csv
+          rm -f pivni_valka/index.html pivni_valka/stats.csv
           make run-pivni-valka
-          test -e pivni-valka/index.html
-          test -e pivni-valka/stats.csv
-          grep "Pivní válka" pivni-valka/index.html
-          grep "date,jirka,dan" pivni-valka/stats.csv
+          test -e pivni_valka/index.html
+          test -e pivni_valka/stats.csv
+          grep "Pivní válka" pivni_valka/index.html
+          grep "date,jirka,dan" pivni_valka/stats.csv

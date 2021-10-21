@@ -15,13 +15,13 @@ help:
 
 init:
 	python3 -m venv venv
-	${PYTHON} -m pip install -r pivni-valka/requirements.txt
+	${PYTHON} -m pip install -r pivni_valka/requirements.txt
 
 run-pivni-valka:
-	${PYTHON} pivni-valka/run.py
+	${PYTHON} run_pivni_valka.py
 
 run-pivni-valka-local:
-	${PYTHON} pivni-valka/run.py --local
+	${PYTHON} run_pivni_valka.py --local
 
 test-pivni-valka:
-	${PYTHON} -m pytest pivni-valka/tests.py
+	${PYTHON} -m pytest pivni_valka/tests.py

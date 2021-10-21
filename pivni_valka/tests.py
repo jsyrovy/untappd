@@ -1,6 +1,6 @@
 import pytest
 
-import utils
+import pivni_valka.utils as utils
 
 USER_PROFILE = ''' \
 <html>

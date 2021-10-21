@@ -3,10 +3,10 @@ import random
 import time
 from typing import Tuple
 
-import utils
+import pivni_valka.utils as utils
 
 
-def main() -> None:
+def run() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument('--local', action='store_true', help="don't download data from website")
     args = parser.parse_args()
@@ -16,7 +16,7 @@ def main() -> None:
     utils.save_stats(unique_beers_count_jirka, unique_beers_count_dan)
     chart_labels, chart_data_jirka, chart_data_dan = utils.get_stats()
     utils.publish_page(
-        'pivni-valka/index.html',
+        'pivni_valka/index.html',
         unique_beers_count_jirka,
         unique_beers_count_dan,
         chart_labels,
@@ -40,7 +40,3 @@ def get_unique_beers_count(local: bool) -> Tuple[int, int]:
     unique_beers_count_dan = utils.parse_unique_beers_count(user_profile_dan)
 
     return unique_beers_count_jirka, unique_beers_count_dan
-
-
-if __name__ == '__main__':
-    main()
