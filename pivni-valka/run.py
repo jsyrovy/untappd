@@ -13,9 +13,8 @@ def main():
     user_profile_dan = utils.download_user_profile('mencik2')
     unique_beers_count_dan = utils.parse_unique_beers_count(user_profile_dan)
 
-    chart_labels, chart_data_jirka, chart_data_dan = utils.get_stats()
-
     utils.save_stats(unique_beers_count_jirka, unique_beers_count_dan)
+    chart_labels, chart_data_jirka, chart_data_dan = utils.get_stats()
     utils.publish_page(
         'pivni-valka/index.html',
         unique_beers_count_jirka,
