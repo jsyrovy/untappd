@@ -1,11 +1,12 @@
 import argparse
 import random
 import time
+from typing import Tuple
 
 import utils
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument('--local', action='store_true', help="don't download data from website")
     args = parser.parse_args()
@@ -26,7 +27,7 @@ def main():
     print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
 
 
-def get_unique_beers_count(local):
+def get_unique_beers_count(local: bool) -> Tuple[int, int]:
     if local:
         return random.randrange(1000), random.randrange(1000)
 
