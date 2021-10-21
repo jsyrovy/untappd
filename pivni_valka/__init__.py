@@ -1,9 +1,18 @@
 import argparse
+import datetime
+import pathlib
 import random
 import time
-from typing import Tuple
+from collections import OrderedDict
+from typing import List, Tuple
 
-import pivni_valka.utils as utils
+import jinja2
+import requests
+from bs4 import BeautifulSoup
+
+import utils
+
+STATS_PATH = "pivni_valka/stats.csv"
 
 
 def run() -> None:
@@ -13,9 +22,10 @@ def run() -> None:
 
     unique_beers_count_jirka, unique_beers_count_dan = get_unique_beers_count(args.local)
 
-    utils.save_stats(unique_beers_count_jirka, unique_beers_count_dan)
-    chart_labels, chart_data_jirka, chart_data_dan = utils.get_stats()
-    utils.publish_page(
+    save_stats(unique_beers_count_jirka, unique_beers_count_dan)
+    chart_labels, chart_data_jirka, chart_data_dan = get_stats()
+    publish_page(
+        utils.get_template('pivni_valka', 'pivni-valka.html'),
         'pivni_valka/index.html',
         unique_beers_count_jirka,
         unique_beers_count_dan,
@@ -31,12 +41,87 @@ def get_unique_beers_count(local: bool) -> Tuple[int, int]:
     if local:
         return random.randrange(1000), random.randrange(1000)
 
-    user_profile_jirka = utils.download_user_profile('sejrik')
-    unique_beers_count_jirka = utils.parse_unique_beers_count(user_profile_jirka)
+    user_profile_jirka = download_user_profile('sejrik')
+    unique_beers_count_jirka = parse_unique_beers_count(user_profile_jirka)
 
     time.sleep(random.randrange(5))
 
-    user_profile_dan = utils.download_user_profile('mencik2')
-    unique_beers_count_dan = utils.parse_unique_beers_count(user_profile_dan)
+    user_profile_dan = download_user_profile('mencik2')
+    unique_beers_count_dan = parse_unique_beers_count(user_profile_dan)
 
     return unique_beers_count_jirka, unique_beers_count_dan
+
+
+def download_user_profile(user_name: str) -> str:
+    url = f'https://untappd.com/user/{user_name}'
+    headers = {'User-Agent': utils.get_random_user_agent()}
+
+    r = requests.get(url, headers=headers)
+
+    return r.text
+
+
+def parse_unique_beers_count(user_profile: str) -> int:
+    soup = BeautifulSoup(user_profile, 'html.parser')
+
+    try:
+        unique_beers_count = soup.find('div', class_='stats').find_all('a')[1].find('span', class_='stat').text
+    except Exception as e:
+        raise ValueError('Cannot parse user profile.') from e
+
+    return int(unique_beers_count.replace(',', ''))
+
+
+def get_stats() -> Tuple[List[str], List[int], List[int]]:
+    data = OrderedDict()
+    chart_labels = []
+    chart_data_jirka = []
+    chart_data_dan = []
+
+    for line in pathlib.Path(STATS_PATH).read_text().splitlines()[1:]:
+        date, unique_beers_count_jirka, unique_beers_count_dan = line.split(',')
+        data[date] = {
+            'unique_beers_count_jirka': int(unique_beers_count_jirka),
+            'unique_beers_count_dan': int(unique_beers_count_dan),
+        }
+
+    for key in data:
+        chart_labels.append(key)
+        chart_data_jirka.append(data[key]['unique_beers_count_jirka'])
+        chart_data_dan.append(data[key]['unique_beers_count_dan'])
+
+    return chart_labels[-14:], chart_data_jirka[-14:], chart_data_dan[-14:]
+
+
+def publish_page(
+    template: jinja2.Template,
+    path: str,
+    unique_beers_count_jirka: int,
+    unique_beers_count_dan: int,
+    chart_labels: List[str],
+    chart_data_jirka: List[int],
+    chart_data_dan: List[int],
+) -> None:
+    page = pathlib.Path(path)
+    page.write_text(
+        template.render(
+            unique_beers_count_jirka=unique_beers_count_jirka,
+            unique_beers_count_dan=unique_beers_count_dan,
+            chart_labels=chart_labels,
+            chart_data_jirka=chart_data_jirka,
+            chart_data_dan=chart_data_dan,
+        ),
+        "UTF-8",
+    )
+
+
+def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> None:
+    path = pathlib.Path(STATS_PATH)
+
+    lines = [f'{datetime.date.today()},{unique_beers_count_jirka},{unique_beers_count_dan}\n']
+
+    if not path.exists():
+        lines.insert(0, "date,jirka,dan\n")
+
+    with path.open("a", encoding='utf-8') as f:
+        f.writelines(lines)

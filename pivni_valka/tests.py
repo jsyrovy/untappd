@@ -1,6 +1,6 @@
 import pytest
 
-import pivni_valka.utils as utils
+import pivni_valka
 
 USER_PROFILE = ''' \
 <html>
@@ -48,14 +48,14 @@ USER_PROFILE = ''' \
 def test_parse_unique_beers_count():
     user_profile = USER_PROFILE.format(unique_beers_count='1,234')
 
-    assert utils.parse_unique_beers_count(user_profile) == 1234
+    assert pivni_valka.parse_unique_beers_count(user_profile) == 1234
 
 
 def test_parse_unique_beers_count_with_invalid_user_profile():
     user_profile = '<html></html>'
 
     with pytest.raises(ValueError) as excinfo:
-        utils.parse_unique_beers_count(user_profile)
+        pivni_valka.parse_unique_beers_count(user_profile)
 
     assert str(excinfo.value) == 'Cannot parse user profile.'
 
@@ -64,6 +64,6 @@ def test_parse_unique_beers_count_with_invalid_count():
     user_profile = USER_PROFILE.format(unique_beers_count='NaN')
 
     with pytest.raises(ValueError) as excinfo:
-        utils.parse_unique_beers_count(user_profile)
+        pivni_valka.parse_unique_beers_count(user_profile)
 
     assert 'invalid literal for int() with base 10' in str(excinfo.value)

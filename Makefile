@@ -10,6 +10,8 @@ help:
 	@echo "  create venv and install requirements"
 	@echo "make run-pivni-valka"
 	@echo "  download stats and publish page"
+	@echo "make run-pivni-valka-local"
+	@echo "  generate stats and publish page"
 	@echo "make test-pivni-valka"
 	@echo "  run tests"
 
