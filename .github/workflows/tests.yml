@@ -14,3 +14,22 @@ jobs:
         run: make init
       - name: Test
         run: make test-pivni-valka
+  smoke:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.5"
+      - name: Create venv
+        run: make init
+      - name: Test
+        run: |
+          rm -f pivni-valka/index.html pivni-valka/stats.csv
+          make run-pivni-valka
+          test -e pivni-valka/index.html
+          test -e pivni-valka/stats.csv
+          grep "Pivní válka" pivni-valka/index.html
+          grep "date,jirka,dan" pivni-valka/stats.csv
