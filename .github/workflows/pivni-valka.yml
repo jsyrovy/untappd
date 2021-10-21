@@ -21,8 +21,8 @@ jobs:
         run: make init
       - name: Run
         run: make run-pivni-valka
-      - name: Sleep
-        run: sleep 1
+      - name: Git status
+        run: git status
       - name: Save
         uses: EndBug/add-and-commit@v4
         with:
