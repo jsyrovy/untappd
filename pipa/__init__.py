@@ -71,7 +71,7 @@ def run() -> None:
 
     save_check_ins(check_ins)
 
-    unique_beers_checkins = []
+    unique_beers_checkins: List[CheckIn] = []
 
     for check_in in [check_in for check_in in check_ins if check_in.serving == 'Čepované']:
         if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_checkins]:
