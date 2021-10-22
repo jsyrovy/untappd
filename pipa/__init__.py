@@ -70,7 +70,14 @@ def run() -> None:
     check_ins.sort(key=lambda check_in: check_in.id, reverse=True)
 
     save_check_ins(check_ins)
-    publish_page(utils.get_template(__name__, 'pipa.html'), 'pipa/index.html', check_ins)
+
+    unique_beers_checkins = []
+
+    for check_in in check_ins:
+        if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_checkins]:
+            unique_beers_checkins.append(check_in)
+
+    publish_page(utils.get_template(__name__, 'pipa.html'), 'pipa/index.html', unique_beers_checkins)
 
 
 def get_new_check_ins(local: bool) -> List[CheckIn]:
