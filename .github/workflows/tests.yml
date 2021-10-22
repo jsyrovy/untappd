@@ -16,6 +16,21 @@ jobs:
         run: make test-pivni-valka
       - name: Test pipa
         run: make test-pipa
+  mypy:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.5"
+      - name: Install mypy
+        run: pip install mypy
+      - name: Install mypy types
+        run: mypy --install-types
+      - name: Test
+        run: mypy --ignore-missing-imports .
   smoke:
     runs-on: ubuntu-18.04
     steps:
