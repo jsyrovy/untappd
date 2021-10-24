@@ -48,7 +48,7 @@ test-pipa:
 	${PYTHON} -m pytest pipa/tests.py
 
 mypy-install-types:
-	${PYTHON} -m mypy --install-types
+	${PYTHON} -m mypy --install-types --non-interactive
 
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .
