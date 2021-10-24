@@ -20,6 +20,10 @@ help:
 	@echo "  generate stats and publish page"
 	@echo "make test-pipa"
 	@echo "  run tests"
+	@echo "make mypy-install-types"
+	@echo "  install mypy types"
+	@echo "make mypy"
+	@echo "  run mypy test"
 
 init:
 	python3 -m venv venv
@@ -42,3 +46,9 @@ run-pipa-local:
 
 test-pipa:
 	${PYTHON} -m pytest pipa/tests.py
+
+mypy-install-types:
+	${PYTHON} -m mypy --install-types
+
+mypy:
+	${PYTHON} -m mypy --ignore-missing-imports .

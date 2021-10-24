@@ -28,9 +28,9 @@ jobs:
       - name: Create venv
         run: make init
       - name: Install mypy types
-        run: mypy --install-types
+        run: make mypy-install-types
       - name: Test
-        run: mypy --ignore-missing-imports .
+        run: make mypy
   smoke:
     runs-on: ubuntu-18.04
     steps:
