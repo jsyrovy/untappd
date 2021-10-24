@@ -1,6 +1,110 @@
 {
   "check_ins": [
     {
+      "id": 1091416060,
+      "dt": "2021-10-23T22:27:32+02:00",
+      "beer_name": "Kurtizana Mango 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-mango-13/4500799"
+    },
+    {
+      "id": 1091414813,
+      "dt": "2021-10-23T22:26:22+02:00",
+      "beer_name": "Nectar of Darkness 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-darkness-17/4500317"
+    },
+    {
+      "id": 1091414359,
+      "dt": "2021-10-23T22:25:58+02:00",
+      "beer_name": "Samit",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-samit/2799982"
+    },
+    {
+      "id": 1091412633,
+      "dt": "2021-10-23T22:24:23+02:00",
+      "beer_name": "Prisma",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-prisma/4535231"
+    },
+    {
+      "id": 1091401020,
+      "dt": "2021-10-23T22:13:18+02:00",
+      "beer_name": "Prisma",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-prisma/4535231"
+    },
+    {
+      "id": 1091365222,
+      "dt": "2021-10-23T21:40:00+02:00",
+      "beer_name": "New Zealand Pale Ale 12",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-zealand-pale-ale-12/2514889"
+    },
+    {
+      "id": 1091291170,
+      "dt": "2021-10-23T20:32:04+02:00",
+      "beer_name": "Prisma",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-prisma/4535231"
+    },
+    {
+      "id": 1091256409,
+      "dt": "2021-10-23T19:57:58+02:00",
+      "beer_name": "Kurtizana Mango 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-mango-13/4500799"
+    },
+    {
+      "id": 1091140071,
+      "dt": "2021-10-23T17:46:25+02:00",
+      "beer_name": "Líný čert Kokosový 12°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-liny-cert-kokosovy-120/4560384"
+    },
+    {
+      "id": 1091121965,
+      "dt": "2021-10-23T17:18:43+02:00",
+      "beer_name": "Prisma",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-prisma/4535231"
+    },
+    {
+      "id": 1091107392,
+      "dt": "2021-10-23T16:54:37+02:00",
+      "beer_name": "Samit",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-samit/2799982"
+    },
+    {
+      "id": 1091094851,
+      "dt": "2021-10-23T16:33:14+02:00",
+      "beer_name": "Dates, Figs, Sour Cherry & Raspberry Sorbet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-dates-figs-sour-cherry-and-raspberry-sorbet/4534917"
+    },
+    {
+      "id": 1091082799,
+      "dt": "2021-10-23T16:11:42+02:00",
+      "beer_name": "Kurtizana Mango 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-mango-13/4500799"
+    },
+    {
       "id": 1090845741,
       "dt": "2021-10-23T01:50:05+02:00",
       "beer_name": "Joe In the Garden – Forest Fruit Edition",
