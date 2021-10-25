@@ -1,6 +1,38 @@
 {
   "check_ins": [
     {
+      "id": 1091720191,
+      "dt": "2021-10-24T09:54:39+02:00",
+      "beer_name": "New Zealand Pale Ale 12",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-zealand-pale-ale-12/2514889"
+    },
+    {
+      "id": 1091720126,
+      "dt": "2021-10-24T09:53:30+02:00",
+      "beer_name": "Líný čert Kokosový 12°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-liny-cert-kokosovy-120/4560384"
+    },
+    {
+      "id": 1091719966,
+      "dt": "2021-10-24T09:50:53+02:00",
+      "beer_name": "Kurtizana Mango 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-mango-13/4500799"
+    },
+    {
+      "id": 1091719905,
+      "dt": "2021-10-24T09:50:11+02:00",
+      "beer_name": "Samit",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-samit/2799982"
+    },
+    {
       "id": 1091416060,
       "dt": "2021-10-23T22:27:32+02:00",
       "beer_name": "Kurtizana Mango 13",
