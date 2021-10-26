@@ -77,7 +77,7 @@ def run() -> None:
         if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_checkins]:
             unique_beers_checkins.append(check_in)
 
-    publish_page(utils.get_template(__name__, 'pipa.html'), 'pipa/index.html', unique_beers_checkins)
+    publish_page(utils.get_template('pipa.html'), 'pipa/index.html', unique_beers_checkins)
 
 
 def get_new_check_ins(local: bool) -> List[CheckIn]:

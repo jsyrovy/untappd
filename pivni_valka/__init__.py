@@ -19,7 +19,7 @@ def run() -> None:
     save_stats(unique_beers_count_jirka, unique_beers_count_dan)
     chart_labels, chart_data_jirka, chart_data_dan = get_stats()
     publish_page(
-        utils.get_template(__name__, 'pivni-valka.html'),
+        utils.get_template('pivni-valka.html'),
         'pivni_valka/index.html',
         unique_beers_count_jirka,
         unique_beers_count_dan,
