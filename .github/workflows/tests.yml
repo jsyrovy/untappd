@@ -27,8 +27,6 @@ jobs:
           python-version: "3.9.5"
       - name: Create venv
         run: make init
-      - name: Install mypy types
-        run: make mypy-install-types
       - name: Test
         run: make mypy
   smoke:
