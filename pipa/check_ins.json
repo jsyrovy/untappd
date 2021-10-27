@@ -1,6 +1,70 @@
 {
   "check_ins": [
     {
+      "id": 1092318829,
+      "dt": "2021-10-26T20:19:55+02:00",
+      "beer_name": "Buttenheimer Kellerbier",
+      "brewery": "St. GeorgenBräu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/st-georgenbrau-buttenheimer-kellerbier/69869"
+    },
+    {
+      "id": 1092304433,
+      "dt": "2021-10-26T19:18:56+02:00",
+      "beer_name": "Hazy Discovery Vilnius",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-vilnius/4478990"
+    },
+    {
+      "id": 1092304225,
+      "dt": "2021-10-26T19:17:55+02:00",
+      "beer_name": "Hazy Discovery Vilnius",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-vilnius/4478990"
+    },
+    {
+      "id": 1092297670,
+      "dt": "2021-10-26T18:45:03+02:00",
+      "beer_name": "Weizen 11",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-weizen-11/2680709"
+    },
+    {
+      "id": 1092294088,
+      "dt": "2021-10-26T18:25:17+02:00",
+      "beer_name": "Weizen 11",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-weizen-11/2680709"
+    },
+    {
+      "id": 1092293083,
+      "dt": "2021-10-26T18:19:35+02:00",
+      "beer_name": "Hoppy Tree Friend",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-tree-friend/4547238"
+    },
+    {
+      "id": 1092291440,
+      "dt": "2021-10-26T18:09:17+02:00",
+      "beer_name": "Hoppy Tree Friend",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-tree-friend/4547238"
+    },
+    {
+      "id": 1092290885,
+      "dt": "2021-10-26T18:05:44+02:00",
+      "beer_name": "I Love You Pumpkin",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-i-love-you-pumpkin/3465142"
+    },
+    {
       "id": 1092192946,
       "dt": "2021-10-25T23:53:38+02:00",
       "beer_name": "Dillertaler Rotblondes Kellerbier",
