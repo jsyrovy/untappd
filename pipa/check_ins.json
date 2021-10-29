@@ -1,6 +1,30 @@
 {
   "check_ins": [
     {
+      "id": 1092713682,
+      "dt": "2021-10-28T17:48:01+02:00",
+      "beer_name": "I Love You Pumpkin",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-i-love-you-pumpkin/3465142"
+    },
+    {
+      "id": 1092704042,
+      "dt": "2021-10-28T16:44:31+02:00",
+      "beer_name": "Líný čert Kokosový 12°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-liny-cert-kokosovy-120/4560384"
+    },
+    {
+      "id": 1092692147,
+      "dt": "2021-10-28T14:11:22+02:00",
+      "beer_name": "ART #8 New Wawe NEIPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-art-8-new-wawe-neipa/4537342"
+    },
+    {
       "id": 1092562270,
       "dt": "2021-10-27T22:34:53+02:00",
       "beer_name": "Výčepní 10°",
