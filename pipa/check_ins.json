@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1093786584,
+      "dt": "2021-10-30T22:11:51+02:00",
+      "beer_name": "Wish Višně",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-wish-visne/3914144"
+    },
+    {
+      "id": 1093599585,
+      "dt": "2021-10-30T18:51:39+02:00",
+      "beer_name": "Shake ‘N’ Kveik",
+      "brewery": "Pivovar Patchwork",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-patchwork-shake-n-kveik/4507860"
+    },
+    {
       "id": 1092995607,
       "dt": "2021-10-29T16:13:33+02:00",
       "beer_name": "Bad Flash Fanatic NEIPA – Sabro 14",
