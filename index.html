@@ -5,17 +5,83 @@
     <title>Untappd</title>
     <link rel="icon" type="image/png" href="favicon.png"/>
     <style>
+        html, body {
+            height: 100%;
+        }
+
         body {
-            margin-top: 50px;
+            margin: 0;
             font-family: sans-serif;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .wrapper {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 250px 250px;
+            grid-template-rows: auto;
+            grid-template-areas: "item-pipa item-pivni-valka"
+        }
+
+        .item {
             text-align: center;
+            margin: 5px;
+            padding: 25px;
+            color: white;
             font-size: 2rem;
-            line-height: 1.5;
+        }
+
+        .item-pipa {
+            grid-area: item-pipa;
+            background: #51d49a;
+        }
+
+        .item-pivni-valka {
+            grid-area: item-pivni-valka;
+            background: #278db2;
+        }
+
+        @media only screen and (max-width: 991px) {
+            .container {
+                width: 100%;
+                grid-template-columns: 100%;
+                grid-template-areas:
+                    "item-pipa"
+                    "item-pivni-valka"
+            }
+
+            .item {
+                font-size: 8rem;
+            }
         }
     </style>
 </head>
 <body>
-<div><a href="pipa">Pípa</a></div>
-<div><a href="pivni_valka">Pivní válka</a></div>
+<div class="wrapper">
+    <div class="container">
+        <a href="pipa" class="item item-pipa">
+            Pípa
+        </a>
+        <a href="pivni_valka" class="item item-pivni-valka">
+            Pivní válka
+        </a>
+    </div>
+</div>
 </body>
 </html>
