@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1094485957,
+      "dt": "2021-11-01T16:22:04+01:00",
+      "beer_name": "Kamenická Žitná IPA 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-kamenicka-zitna-ipa-14/2746325"
+    },
+    {
       "id": 1094190678,
       "dt": "2021-10-31T18:14:55+01:00",
       "beer_name": "Shake ‘N’ Kveik",
