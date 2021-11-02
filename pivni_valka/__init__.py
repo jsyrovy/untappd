@@ -26,6 +26,8 @@ def run() -> None:
         chart_labels,
         chart_data_jirka,
         chart_data_dan,
+        get_diff(chart_data_jirka),
+        get_diff(chart_data_dan),
     )
 
     print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
@@ -82,6 +84,15 @@ def get_stats() -> Tuple[List[str], List[int], List[int]]:
     return chart_labels[-14:], chart_data_jirka[-14:], chart_data_dan[-14:]
 
 
+def get_diff(chart_data: List[int]) -> str:
+    try:
+        diff = chart_data[-1] - chart_data[-2]
+    except IndexError:
+        return '0'
+
+    return f'+{diff}' if diff > 0 else str(diff)
+
+
 def publish_page(
     template: jinja2.Template,
     path: str,
@@ -90,6 +101,8 @@ def publish_page(
     chart_labels: List[str],
     chart_data_jirka: List[int],
     chart_data_dan: List[int],
+    diff_jirka: str,
+    diff_dan: str,
 ) -> None:
     page = pathlib.Path(path)
     page.write_text(
@@ -99,6 +112,8 @@ def publish_page(
             chart_labels=chart_labels,
             chart_data_jirka=chart_data_jirka,
             chart_data_dan=chart_data_dan,
+            diff_jirka=diff_jirka,
+            diff_dan=diff_dan,
         ),
         "UTF-8",
     )
