@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1094642871,
+      "dt": "2021-11-02T15:37:27+01:00",
+      "beer_name": "Eliášův oheň",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-eliasuv-ohen/2521550"
+    },
+    {
       "id": 1094485957,
       "dt": "2021-11-01T16:22:04+01:00",
       "beer_name": "Kamenická Žitná IPA 14",
@@ -87,6 +95,14 @@
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-clock-art-8-new-wawe-neipa/4537342"
+    },
+    {
+      "id": 1092692147,
+      "dt": "2021-10-28T14:11:22+02:00",
+      "beer_name": "ART #8 PL New Wave NEIPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-art-8-pl-new-wave-neipa/4537342"
     },
     {
       "id": 1092562270,
