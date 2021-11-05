@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1095146897,
+      "dt": "2021-11-04T22:14:32+01:00",
+      "beer_name": "Most 11 IPL",
+      "brewery": "Pivovar Louka",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-louka-most-11-ipl/4559041"
+    },
+    {
+      "id": 1095118726,
+      "dt": "2021-11-04T21:10:48+01:00",
+      "beer_name": "Slash",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-slash/4323502"
+    },
+    {
+      "id": 1095111803,
+      "dt": "2021-11-04T20:54:23+01:00",
+      "beer_name": "Steam Brew German Red",
+      "brewery": "Privatbrauerei Eichbaum",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/privatbrauerei-eichbaum-steam-brew-german-red/2581343"
+    },
+    {
+      "id": 1095111473,
+      "dt": "2021-11-04T20:53:39+01:00",
+      "beer_name": "W Samo Południe",
+      "brewery": "Browar Dziki Wschód",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dziki-wschod-w-samo-poludnie/4540809"
+    },
+    {
+      "id": 1095111337,
+      "dt": "2021-11-04T20:53:21+01:00",
+      "beer_name": "Fresh Hop Ale Most",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-fresh-hop-ale-most/3991928"
+    },
+    {
+      "id": 1095110837,
+      "dt": "2021-11-04T20:52:06+01:00",
+      "beer_name": "Exorcist Barrel Aged",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-exorcist-barrel-aged/3553761"
+    },
+    {
+      "id": 1095090506,
+      "dt": "2021-11-04T19:59:10+01:00",
+      "beer_name": "Exorcist Barrel Aged",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-exorcist-barrel-aged/3553761"
+    },
+    {
+      "id": 1095067223,
+      "dt": "2021-11-04T18:46:17+01:00",
+      "beer_name": "Fresh Hop Ale Most",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-fresh-hop-ale-most/3991928"
+    },
+    {
+      "id": 1095066232,
+      "dt": "2021-11-04T18:42:57+01:00",
+      "beer_name": "W Samo Południe",
+      "brewery": "Browar Dziki Wschód",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dziki-wschod-w-samo-poludnie/4540809"
+    },
+    {
       "id": 1094642871,
       "dt": "2021-11-02T15:37:27+01:00",
       "beer_name": "Eliášův oheň",
