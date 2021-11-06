@@ -1,6 +1,86 @@
 {
   "check_ins": [
     {
+      "id": 1095619427,
+      "dt": "2021-11-05T23:50:55+01:00",
+      "beer_name": "Sattran Dry Hopped",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran-dry-hopped/3998028"
+    },
+    {
+      "id": 1095618960,
+      "dt": "2021-11-05T23:50:18+01:00",
+      "beer_name": "Sattran",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran/3997138"
+    },
+    {
+      "id": 1095618286,
+      "dt": "2021-11-05T23:49:25+01:00",
+      "beer_name": "Rišaví Zmikund",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-risavi-zmikund/1148281"
+    },
+    {
+      "id": 1095617475,
+      "dt": "2021-11-05T23:48:23+01:00",
+      "beer_name": "Slash",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-slash/4323502"
+    },
+    {
+      "id": 1095617205,
+      "dt": "2021-11-05T23:47:59+01:00",
+      "beer_name": "Most 11 IPL",
+      "brewery": "Pivovar Louka",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-louka-most-11-ipl/4559041"
+    },
+    {
+      "id": 1095520146,
+      "dt": "2021-11-05T21:48:32+01:00",
+      "beer_name": "Tengerine New Louny",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tengerine-new-louny/4481174"
+    },
+    {
+      "id": 1095517670,
+      "dt": "2021-11-05T21:45:36+01:00",
+      "beer_name": "Rišaví Zmikund",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-risavi-zmikund/1148281"
+    },
+    {
+      "id": 1095516352,
+      "dt": "2021-11-05T21:44:00+01:00",
+      "beer_name": "Herbee",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-herbee/4511126"
+    },
+    {
+      "id": 1095444617,
+      "dt": "2021-11-05T20:12:33+01:00",
+      "beer_name": "ART #8 PL New Wave NEIPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-art-8-pl-new-wave-neipa/4537342"
+    },
+    {
+      "id": 1095425963,
+      "dt": "2021-11-05T19:44:25+01:00",
+      "beer_name": "Kid",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-kid/3867762"
+    },
+    {
       "id": 1095146897,
       "dt": "2021-11-04T22:14:32+01:00",
       "beer_name": "Most 11 IPL",
