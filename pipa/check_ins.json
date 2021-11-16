@@ -1,6 +1,94 @@
 {
   "check_ins": [
     {
+      "id": 1099282043,
+      "dt": "2021-11-15T20:51:01+01:00",
+      "beer_name": "Loud Tempest (3rd Anniversary Nepomucen Collab)",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-loud-tempest-3rd-anniversary-nepomucen-collab/4510479"
+    },
+    {
+      "id": 1099281977,
+      "dt": "2021-11-15T20:50:41+01:00",
+      "beer_name": "Fruitzilla (3rd Anniversary Monsters Collab)",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-fruitzilla-3rd-anniversary-monsters-collab/4512292"
+    },
+    {
+      "id": 1099274470,
+      "dt": "2021-11-15T20:13:24+01:00",
+      "beer_name": "Fruitzilla (3rd Anniversary Monsters Collab)",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-fruitzilla-3rd-anniversary-monsters-collab/4512292"
+    },
+    {
+      "id": 1099273225,
+      "dt": "2021-11-15T20:06:47+01:00",
+      "beer_name": "Loud Tempest (3rd Anniversary Nepomucen Collab)",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-loud-tempest-3rd-anniversary-nepomucen-collab/4510479"
+    },
+    {
+      "id": 1099272788,
+      "dt": "2021-11-15T20:04:34+01:00",
+      "beer_name": "Beaver Moon",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-beaver-moon/4576352"
+    },
+    {
+      "id": 1099258936,
+      "dt": "2021-11-15T18:43:57+01:00",
+      "beer_name": "Beaver Moon",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-beaver-moon/4576352"
+    },
+    {
+      "id": 1099258835,
+      "dt": "2021-11-15T18:43:14+01:00",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1099258553,
+      "dt": "2021-11-15T18:41:16+01:00",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1099246892,
+      "dt": "2021-11-15T16:57:28+01:00",
+      "beer_name": "Fresh Hop Pale Ale 2021",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-pale-ale-2021/4551104"
+    },
+    {
+      "id": 1099246401,
+      "dt": "2021-11-15T16:50:18+01:00",
+      "beer_name": "Fresh Hop Pale Ale 2021",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-pale-ale-2021/4551104"
+    },
+    {
+      "id": 1099245510,
+      "dt": "2021-11-15T16:37:03+01:00",
+      "beer_name": "Herbee",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-herbee/4511126"
+    },
+    {
       "id": 1095619427,
       "dt": "2021-11-05T23:50:55+01:00",
       "beer_name": "Sattran Dry Hopped",
