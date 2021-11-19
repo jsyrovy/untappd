@@ -12,6 +12,11 @@ import utils
 
 CHECK_INS_PATH = 'pipa/check_ins.json'
 
+SERVING_DRAFT = 'Čepované'
+SERVING_BOTTLE = 'Lahvové'
+SERVING_CAN = 'Plechovkové'
+SERVING_UNKNOWN = 'Nezadáno'
+
 
 @dataclass
 class CheckIn:
@@ -29,7 +34,7 @@ class CheckIn:
             datetime.now(),
             'Pivo',
             'Pivovar',
-            'Čepované',
+            SERVING_DRAFT,
             utils.BASE_URL,
         )
 
@@ -73,7 +78,7 @@ def run() -> None:
 
     unique_beers_checkins: List[CheckIn] = []
 
-    for check_in in [check_in for check_in in check_ins if check_in.serving == 'Čepované']:
+    for check_in in [check_in for check_in in check_ins if check_in.serving == SERVING_DRAFT]:
         if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_checkins]:
             unique_beers_checkins.append(check_in)
 
@@ -95,10 +100,10 @@ def parse_check_ins(page: str) -> List[CheckIn]:
 
     def get_czech_serving(en_serving: str) -> str:
         return {
-            'Draft': 'Čepované',
-            'Bottle': 'Lahvové',
-            'Can': 'Plechovkové',
-            None: 'Nezadáno'
+            'Draft': SERVING_DRAFT,
+            'Bottle': SERVING_BOTTLE,
+            'Can': SERVING_CAN,
+            None: SERVING_UNKNOWN,
         }.get(en_serving, en_serving)
 
     soup = BeautifulSoup(page, 'html.parser')
