@@ -98,6 +98,7 @@ def parse_check_ins(page: str) -> List[CheckIn]:
             'Draft': 'Čepované',
             'Bottle': 'Lahvové',
             'Can': 'Plechovkové',
+            None: 'Nezadáno'
         }.get(en_serving, en_serving)
 
     soup = BeautifulSoup(page, 'html.parser')
@@ -118,7 +119,8 @@ def parse_check_ins(page: str) -> List[CheckIn]:
         dt = parse_dt(feedback.find('a', class_='time').text)
         beer_name = links[1].text
         brewery = links[2].text
-        serving = get_czech_serving(checkin_comment.find('p', class_='serving').find('span').text)
+        serving_section = checkin_comment.find('p', class_='serving')
+        serving = get_czech_serving(serving_section.find('span').text if serving_section else None)
         beer_link = f'{utils.BASE_URL}{links[1]["href"]}'
 
         beers.append(CheckIn(id_, dt, beer_name, brewery, serving, beer_link))
