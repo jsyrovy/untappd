@@ -1,6 +1,38 @@
 {
   "check_ins": [
     {
+      "id": 1100326993,
+      "dt": "2021-11-20T00:21:24+01:00",
+      "beer_name": "Zkruhovec vol. II",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-zkruhovec-vol-ii/4534288"
+    },
+    {
+      "id": 1100297686,
+      "dt": "2021-11-19T23:37:11+01:00",
+      "beer_name": "Chiméra",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-chimera/4508150"
+    },
+    {
+      "id": 1100069077,
+      "dt": "2021-11-19T17:27:12+01:00",
+      "beer_name": "FIFTY FIFTY 2 - Black Currant & Banana",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-fifty-fifty-2-black-currant-and-banana/4480169"
+    },
+    {
+      "id": 1100060373,
+      "dt": "2021-11-19T16:56:23+01:00",
+      "beer_name": "FIFTY FIFTY 2 - Black Currant & Banana",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-fifty-fifty-2-black-currant-and-banana/4480169"
+    },
+    {
       "id": 1099764683,
       "dt": "2021-11-18T08:40:59+01:00",
       "beer_name": "Chiméra",
