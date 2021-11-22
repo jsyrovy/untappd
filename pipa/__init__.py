@@ -124,7 +124,7 @@ def parse_check_ins(page: str) -> List[CheckIn]:
         dt = parse_dt(feedback.find('a', class_='time').text)
         beer_name = links[1].text
         brewery = links[2].text
-        serving_section = checkin_comment.find('p', class_='serving')
+        serving_section = checkin_comment.find('p', class_='serving') if checkin_comment else None
         serving = get_czech_serving(serving_section.find('span').text if serving_section else None)
         beer_link = f'{utils.BASE_URL}{links[1]["href"]}'
 
