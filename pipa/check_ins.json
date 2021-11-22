@@ -1,6 +1,30 @@
 {
   "check_ins": [
     {
+      "id": 1101252241,
+      "dt": "2021-11-21T19:30:50+01:00",
+      "beer_name": "Epsilon",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-epsilon/4586298"
+    },
+    {
+      "id": 1100886547,
+      "dt": "2021-11-20T23:03:01+01:00",
+      "beer_name": "Chiméra",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-chimera/4508150"
+    },
+    {
+      "id": 1100855762,
+      "dt": "2021-11-20T22:30:26+01:00",
+      "beer_name": "Gunslinger",
+      "brewery": "Pivovar Raven",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-raven-gunslinger/1614466"
+    },
+    {
       "id": 1100326993,
       "dt": "2021-11-20T00:21:24+01:00",
       "beer_name": "Zkruhovec vol. II",
