@@ -28,7 +28,7 @@ class CheckIn:
     beer_link: str
 
     @staticmethod
-    def get_random():
+    def get_random() -> 'CheckIn':
         return CheckIn(
             random.randrange(1000),
             datetime.now(),
@@ -39,7 +39,7 @@ class CheckIn:
         )
 
     @staticmethod
-    def from_json(json_: Dict[str, Any]):
+    def from_json(json_: Dict[str, Any]) -> 'CheckIn':
         return CheckIn(
             json_['id'],
             datetime.fromisoformat(json_['dt']),
@@ -49,7 +49,7 @@ class CheckIn:
             json_['beer_link'],
         )
 
-    def to_json(self):
+    def to_json(self) -> Dict[str, Any]:
         return {
             'id': self.id,
             'dt': self.dt.isoformat(),
