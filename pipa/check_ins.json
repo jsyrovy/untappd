@@ -1,6 +1,46 @@
 {
   "check_ins": [
     {
+      "id": 1101598147,
+      "dt": "2021-11-23T01:53:33+01:00",
+      "beer_name": "Weizen 13",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-weizen-13/2376194"
+    },
+    {
+      "id": 1101596881,
+      "dt": "2021-11-23T01:48:30+01:00",
+      "beer_name": "Chiméra",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-chimera/4508150"
+    },
+    {
+      "id": 1101596760,
+      "dt": "2021-11-23T01:48:02+01:00",
+      "beer_name": "Epsilon",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-epsilon/4586298"
+    },
+    {
+      "id": 1101532446,
+      "dt": "2021-11-22T21:03:28+01:00",
+      "beer_name": "Sattran",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran/3997138"
+    },
+    {
+      "id": 1101532309,
+      "dt": "2021-11-22T21:02:44+01:00",
+      "beer_name": "Sattran Dry Hopped",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran-dry-hopped/3998028"
+    },
+    {
       "id": 1101252241,
       "dt": "2021-11-21T19:30:50+01:00",
       "beer_name": "Epsilon",
