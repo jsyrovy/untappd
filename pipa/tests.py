@@ -43,3 +43,15 @@ def test_check_in_to_json():
     assert json_['brewery'] == check_in.brewery
     assert json_['serving'] == check_in.serving
     assert json_['beer_link'] == check_in.beer_link
+
+
+def test_check_ins_order():
+    first_check_in = pipa.CheckIn.get_random()
+    middle_check_in = pipa.CheckIn.get_random()
+    last_check_in = pipa.CheckIn.get_random()
+
+    check_ins = pipa.get_unique_beers_check_ins([last_check_in, first_check_in, middle_check_in])
+
+    assert first_check_in.dt < middle_check_in.dt < last_check_in.dt
+    assert len(check_ins) == 1
+    assert check_ins[0] == last_check_in
