@@ -1,6 +1,30 @@
 {
   "check_ins": [
     {
+      "id": 1101659799,
+      "dt": "2021-11-23T16:04:45+01:00",
+      "beer_name": "Epsilon",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-epsilon/4586298"
+    },
+    {
+      "id": 1101658880,
+      "dt": "2021-11-23T15:45:57+01:00",
+      "beer_name": "Chiméra",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-chimera/4508150"
+    },
+    {
+      "id": 1101651336,
+      "dt": "2021-11-23T12:35:47+01:00",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
       "id": 1101598147,
       "dt": "2021-11-23T01:53:33+01:00",
       "beer_name": "Weizen 13",
