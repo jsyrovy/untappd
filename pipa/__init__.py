@@ -75,14 +75,9 @@ def run() -> None:
     check_ins.sort(key=lambda check_in: check_in.id, reverse=True)
 
     save_check_ins(check_ins)
+    unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
 
-    unique_beers_checkins: List[CheckIn] = []
-
-    for check_in in [check_in for check_in in check_ins if check_in.serving in (SERVING_DRAFT, SERVING_UNKNOWN)]:
-        if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_checkins]:
-            unique_beers_checkins.append(check_in)
-
-    publish_page(utils.get_template('pipa.html'), 'pipa/index.html', unique_beers_checkins)
+    publish_page(utils.get_template('pipa.html'), 'pipa/index.html', unique_beers_check_ins)
 
 
 def get_new_check_ins(local: bool) -> List[CheckIn]:
@@ -148,6 +143,15 @@ def save_check_ins(check_ins: List[CheckIn]) -> None:
     with open(CHECK_INS_PATH, 'w', encoding='utf-8') as f:
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
+
+def get_unique_beers_check_ins(check_ins: List[CheckIn]) -> List[CheckIn]:
+    unique_beers_check_ins: List[CheckIn] = []
+
+    for check_in in [check_in for check_in in check_ins if check_in.serving in (SERVING_DRAFT, SERVING_UNKNOWN)]:
+        if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_check_ins]:
+            unique_beers_check_ins.append(check_in)
+
+    return unique_beers_check_ins
 
 def publish_page(template: jinja2.Template, path: str, check_ins: List[CheckIn]) -> None:
     page = pathlib.Path(path)
