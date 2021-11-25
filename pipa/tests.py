@@ -55,3 +55,15 @@ def test_check_ins_order():
     assert first_check_in.dt < middle_check_in.dt < last_check_in.dt
     assert len(check_ins) == 1
     assert check_ins[0] == last_check_in
+
+
+def test_check_ins_sort():
+    first_check_in = pipa.CheckIn.get_random()
+    middle_check_in = pipa.CheckIn.get_random()
+    last_check_in = pipa.CheckIn.get_random()
+
+    check_ins = [last_check_in, first_check_in, middle_check_in]
+    pipa.sort_check_ins(check_ins)
+
+    assert first_check_in.dt < middle_check_in.dt < last_check_in.dt
+    assert check_ins[0].dt > check_ins[1].dt > check_ins[2].dt

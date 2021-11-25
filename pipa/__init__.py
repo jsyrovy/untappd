@@ -72,8 +72,7 @@ def run() -> None:
         check_ins.append(new_check_in)
         print(f'Novy check in {new_check_in.id} - {new_check_in.beer_name}.')
 
-    check_ins.sort(key=lambda check_in: check_in.id, reverse=True)
-
+    sort_check_ins(check_ins)
     save_check_ins(check_ins)
     unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
 
@@ -137,6 +136,10 @@ def load_check_ins() -> List[CheckIn]:
     return [CheckIn.from_json(check_in) for check_in in json.loads(path.read_text())['check_ins']]
 
 
+def sort_check_ins(check_ins: List[CheckIn]) -> None:
+    check_ins.sort(key=lambda check_in: check_in.dt, reverse=True)
+
+
 def save_check_ins(check_ins: List[CheckIn]) -> None:
     data = {'check_ins': [check_in.to_json() for check_in in check_ins]}
 
@@ -152,6 +155,7 @@ def get_unique_beers_check_ins(check_ins: List[CheckIn]) -> List[CheckIn]:
             unique_beers_check_ins.append(check_in)
 
     return unique_beers_check_ins
+
 
 def publish_page(template: jinja2.Template, path: str, check_ins: List[CheckIn]) -> None:
     page = pathlib.Path(path)
