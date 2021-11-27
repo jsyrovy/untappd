@@ -1,6 +1,46 @@
 {
   "check_ins": [
     {
+      "id": 1102620816,
+      "dt": "2021-11-26T18:22:08+01:00",
+      "beer_name": "Padrísimo",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-padrisimo/4488026"
+    },
+    {
+      "id": 1102620616,
+      "dt": "2021-11-26T18:21:47+01:00",
+      "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-fruit-garden-3-sour-ale-with-orange-x-nectarine-x-pomegranate/4508070"
+    },
+    {
+      "id": 1102609822,
+      "dt": "2021-11-26T18:03:02+01:00",
+      "beer_name": "New England IPA 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-england-ipa-14/3695462"
+    },
+    {
+      "id": 1102609365,
+      "dt": "2021-11-26T18:02:03+01:00",
+      "beer_name": "Podlipák 11",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-podlipak-11/4081441"
+    },
+    {
+      "id": 1102594152,
+      "dt": "2021-11-26T17:27:51+01:00",
+      "beer_name": "New England IPA 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-england-ipa-14/3695462"
+    },
+    {
       "id": 1102404947,
       "dt": "2021-11-25T23:09:40+01:00",
       "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
