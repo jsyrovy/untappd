@@ -1,6 +1,46 @@
 {
   "check_ins": [
     {
+      "id": 1103603526,
+      "dt": "2021-11-28T01:33:39+01:00",
+      "beer_name": "Hop Attack",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hop-attack/4483515"
+    },
+    {
+      "id": 1103576824,
+      "dt": "2021-11-28T00:50:36+01:00",
+      "beer_name": "Hazy Discovery Barcelona",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-barcelona/4480214"
+    },
+    {
+      "id": 1103573820,
+      "dt": "2021-11-28T00:46:08+01:00",
+      "beer_name": "Juicy Bomb 14 DDH NEIPA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-juicy-bomb-14-ddh-neipa/4572539"
+    },
+    {
+      "id": 1103535486,
+      "dt": "2021-11-27T23:55:42+01:00",
+      "beer_name": "Hazy Discovery Barcelona",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-barcelona/4480214"
+    },
+    {
+      "id": 1103523018,
+      "dt": "2021-11-27T23:40:36+01:00",
+      "beer_name": "Juicy Bomb 14 DDH NEIPA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-juicy-bomb-14-ddh-neipa/4572539"
+    },
+    {
       "id": 1102620816,
       "dt": "2021-11-26T18:22:08+01:00",
       "beer_name": "Padrísimo",
