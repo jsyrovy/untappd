@@ -1,6 +1,46 @@
 {
   "check_ins": [
     {
+      "id": 1104116613,
+      "dt": "2021-11-29T23:10:27+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1104116437,
+      "dt": "2021-11-29T23:09:26+01:00",
+      "beer_name": "Gajdoš 12",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-gajdos-12/3903050"
+    },
+    {
+      "id": 1104116085,
+      "dt": "2021-11-29T23:07:28+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1104056878,
+      "dt": "2021-11-29T16:07:06+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1104055713,
+      "dt": "2021-11-29T15:42:06+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
       "id": 1103873385,
       "dt": "2021-11-28T20:52:56+01:00",
       "beer_name": "Summer Day 10",
