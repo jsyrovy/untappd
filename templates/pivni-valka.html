@@ -111,14 +111,14 @@
             <div class="item-count item-jirka">
                 <span class="count">{{ unique_beers_count_jirka }}</span>
                 <span class="diff">{{ diff_jirka }}</span>
-                <div class="name">Jirka</div>
+                <div class="name">Jirka {% if unique_beers_count_jirka > unique_beers_count_dan %}👑{% endif %}</div>
             </div>
         </a>
         <a href="https://untappd.com/user/mencik2">
             <div class="item-count item-dan">
                 <span class="count">{{ unique_beers_count_dan }}</span>
                 <span class="diff">{{ diff_dan }}</span>
-                <div class="name">Dan</div>
+                <div class="name">Dan {% if unique_beers_count_dan > unique_beers_count_jirka %}👑{% endif %}</div>
             </div>
         </a>
         <div class="item-chart">
