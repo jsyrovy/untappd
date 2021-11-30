@@ -2,7 +2,7 @@ import json
 import pathlib
 import random
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any
 
 import jinja2
@@ -31,7 +31,7 @@ class CheckIn:
     def get_random() -> 'CheckIn':
         return CheckIn(
             random.randrange(1000),
-            datetime.now(),
+            datetime.now(tz=timezone(timedelta(seconds=7200))),
             'Pivo',
             'Pivovar',
             SERVING_DRAFT,
