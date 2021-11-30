@@ -70,41 +70,16 @@ def test_parse_unique_beers_count_with_invalid_count():
     assert 'invalid literal for int() with base 10' in str(excinfo.value)
 
 
-def test_winner_badge():
-    unique_beers_count_jirka = 10
-    unique_beers_count_dan = 5
-
-    page = _get_page(unique_beers_count_jirka, unique_beers_count_dan)
-
-    assert unique_beers_count_jirka > unique_beers_count_dan
-    assert 'Jirka 👑' in page
-    assert 'Dan 👑' not in page
-
-
-def test_winner_badge_dan():
-    unique_beers_count_jirka = 5
-    unique_beers_count_dan = 10
-
-    page = _get_page(unique_beers_count_jirka, unique_beers_count_dan)
-
-    assert unique_beers_count_jirka < unique_beers_count_dan
-    assert 'Jirka 👑' not in page
-    assert 'Dan 👑' in page
-
-
-def test_no_winner_badge():
-    unique_beers_count_jirka = 5
-    unique_beers_count_dan = 5
-
-    page = _get_page(unique_beers_count_jirka, unique_beers_count_dan)
-
-    assert unique_beers_count_jirka == unique_beers_count_dan
-    assert 'Jirka 👑' not in page
-    assert 'Dan 👑' not in page
-
-
-def _get_page(unique_beers_count_jirka, unique_beers_count_dan):
-    return pivni_valka.get_page(
+@pytest.mark.parametrize(
+    'unique_beers_count_jirka, unique_beers_count_dan, has_crown_jirka, has_crown_dan',
+    (
+        (10, 5, True, False),
+        (5, 10, False, True),
+        (10, 10, False, False),
+    ),
+)
+def test_winner_badge(unique_beers_count_jirka, unique_beers_count_dan, has_crown_jirka, has_crown_dan):
+    page = pivni_valka.get_page(
         utils.get_template('pivni-valka.html', ('templates', '../templates')),
         unique_beers_count_jirka=unique_beers_count_jirka,
         unique_beers_count_dan=unique_beers_count_dan,
@@ -114,3 +89,6 @@ def _get_page(unique_beers_count_jirka, unique_beers_count_dan):
         diff_jirka='',
         diff_dan='',
     )
+
+    assert ('Jirka 👑' in page) == has_crown_jirka
+    assert ('Dan 👑' in page) == has_crown_dan
