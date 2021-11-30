@@ -33,9 +33,9 @@ def download_page(url: str) -> str:
     return r.text
 
 
-def get_template(file: str) -> jinja2.Template:
+def get_template(file: str, templates_path='templates') -> jinja2.Template:
     env = jinja2.Environment(
-        loader=jinja2.FileSystemLoader('templates'),
+        loader=jinja2.FileSystemLoader(templates_path),
         autoescape=jinja2.select_autoescape(["html", "xml"]),
     )
     return env.get_template(file)

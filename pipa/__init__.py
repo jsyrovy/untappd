@@ -75,8 +75,10 @@ def run() -> None:
     sort_check_ins(check_ins)
     save_check_ins(check_ins)
     unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
+    page = get_page(utils.get_template('pipa.html'), unique_beers_check_ins)
 
-    publish_page(utils.get_template('pipa.html'), 'pipa/index.html', unique_beers_check_ins)
+    with open('pipa/index.html', 'w', encoding=utils.ENCODING) as f:
+        f.write(page)
 
 
 def get_new_check_ins(local: bool) -> List[CheckIn]:
@@ -157,6 +159,5 @@ def get_unique_beers_check_ins(check_ins: List[CheckIn]) -> List[CheckIn]:
     return unique_beers_check_ins
 
 
-def publish_page(template: jinja2.Template, path: str, check_ins: List[CheckIn]) -> None:
-    with open(path, 'w', encoding=utils.ENCODING) as f:
-        f.write(template.render(check_ins=check_ins))
+def get_page(template: jinja2.Template, check_ins: List[CheckIn]) -> str:
+    return template.render(check_ins=check_ins)

@@ -18,9 +18,8 @@ def run() -> None:
 
     save_stats(unique_beers_count_jirka, unique_beers_count_dan)
     chart_labels, chart_data_jirka, chart_data_dan = get_stats()
-    publish_page(
+    page = get_page(
         utils.get_template('pivni-valka.html'),
-        'pivni_valka/index.html',
         unique_beers_count_jirka,
         unique_beers_count_dan,
         chart_labels,
@@ -29,6 +28,9 @@ def run() -> None:
         get_diff(chart_data_jirka),
         get_diff(chart_data_dan),
     )
+
+    with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
+        f.write(page)
 
     print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
 
@@ -94,9 +96,8 @@ def get_diff(chart_data: List[int]) -> str:
     return f'+{diff}' if diff > 0 else str(diff)
 
 
-def publish_page(
+def get_page(
     template: jinja2.Template,
-    path: str,
     unique_beers_count_jirka: int,
     unique_beers_count_dan: int,
     chart_labels: List[str],
@@ -104,19 +105,16 @@ def publish_page(
     chart_data_dan: List[int],
     diff_jirka: str,
     diff_dan: str,
-) -> None:
-    with open(path, 'w', encoding=utils.ENCODING) as f:
-        f.write(
-            template.render(
-                unique_beers_count_jirka=unique_beers_count_jirka,
-                unique_beers_count_dan=unique_beers_count_dan,
-                chart_labels=chart_labels,
-                chart_data_jirka=chart_data_jirka,
-                chart_data_dan=chart_data_dan,
-                diff_jirka=diff_jirka,
-                diff_dan=diff_dan,
-            )
-        )
+) -> str:
+    return template.render(
+        unique_beers_count_jirka=unique_beers_count_jirka,
+        unique_beers_count_dan=unique_beers_count_dan,
+        chart_labels=chart_labels,
+        chart_data_jirka=chart_data_jirka,
+        chart_data_dan=chart_data_dan,
+        diff_jirka=diff_jirka,
+        diff_dan=diff_dan,
+    )
 
 
 def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> None:
