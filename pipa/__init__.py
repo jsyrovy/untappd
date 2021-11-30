@@ -143,7 +143,7 @@ def sort_check_ins(check_ins: List[CheckIn]) -> None:
 def save_check_ins(check_ins: List[CheckIn]) -> None:
     data = {'check_ins': [check_in.to_json() for check_in in check_ins]}
 
-    with open(CHECK_INS_PATH, 'w', encoding='utf-8') as f:
+    with open(CHECK_INS_PATH, 'w', encoding=utils.ENCODING) as f:
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
 
@@ -158,5 +158,5 @@ def get_unique_beers_check_ins(check_ins: List[CheckIn]) -> List[CheckIn]:
 
 
 def publish_page(template: jinja2.Template, path: str, check_ins: List[CheckIn]) -> None:
-    page = pathlib.Path(path)
-    page.write_text(template.render(check_ins=check_ins), "UTF-8")
+    with open(path, 'w', encoding=utils.ENCODING) as f:
+        f.write(template.render(check_ins=check_ins))

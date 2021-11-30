@@ -69,12 +69,13 @@ def get_stats() -> Tuple[List[str], List[int], List[int]]:
     chart_data_jirka = []
     chart_data_dan = []
 
-    for line in pathlib.Path(STATS_PATH).read_text().splitlines()[1:]:
-        date, unique_beers_count_jirka, unique_beers_count_dan = line.split(',')
-        data[date] = {
-            'unique_beers_count_jirka': int(unique_beers_count_jirka),
-            'unique_beers_count_dan': int(unique_beers_count_dan),
-        }
+    with open(STATS_PATH, 'r', encoding=utils.ENCODING) as f:
+        for line in f.readlines()[1:]:
+            date, unique_beers_count_jirka, unique_beers_count_dan = line.split(',')
+            data[date] = {
+                'unique_beers_count_jirka': int(unique_beers_count_jirka),
+                'unique_beers_count_dan': int(unique_beers_count_dan),
+            }
 
     for key in data:
         chart_labels.append(key)
@@ -104,19 +105,18 @@ def publish_page(
     diff_jirka: str,
     diff_dan: str,
 ) -> None:
-    page = pathlib.Path(path)
-    page.write_text(
-        template.render(
-            unique_beers_count_jirka=unique_beers_count_jirka,
-            unique_beers_count_dan=unique_beers_count_dan,
-            chart_labels=chart_labels,
-            chart_data_jirka=chart_data_jirka,
-            chart_data_dan=chart_data_dan,
-            diff_jirka=diff_jirka,
-            diff_dan=diff_dan,
-        ),
-        "UTF-8",
-    )
+    with open(path, 'w', encoding=utils.ENCODING) as f:
+        f.write(
+            template.render(
+                unique_beers_count_jirka=unique_beers_count_jirka,
+                unique_beers_count_dan=unique_beers_count_dan,
+                chart_labels=chart_labels,
+                chart_data_jirka=chart_data_jirka,
+                chart_data_dan=chart_data_dan,
+                diff_jirka=diff_jirka,
+                diff_dan=diff_dan,
+            )
+        )
 
 
 def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> None:
@@ -127,5 +127,5 @@ def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> No
     if not path.exists():
         lines.insert(0, "date,jirka,dan\n")
 
-    with path.open("a", encoding='utf-8') as f:
+    with path.open("a", encoding=utils.ENCODING) as f:
         f.writelines(lines)
