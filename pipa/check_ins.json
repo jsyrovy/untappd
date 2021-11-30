@@ -1,6 +1,302 @@
 {
   "check_ins": [
     {
+      "id": 1104116613,
+      "dt": "2021-11-29T23:10:27+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1104116437,
+      "dt": "2021-11-29T23:09:26+01:00",
+      "beer_name": "Gajdoš 12",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-gajdos-12/3903050"
+    },
+    {
+      "id": 1104116085,
+      "dt": "2021-11-29T23:07:28+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1104056878,
+      "dt": "2021-11-29T16:07:06+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1104055713,
+      "dt": "2021-11-29T15:42:06+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1103873385,
+      "dt": "2021-11-28T20:52:56+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1103603526,
+      "dt": "2021-11-28T01:33:39+01:00",
+      "beer_name": "Hop Attack",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hop-attack/4483515"
+    },
+    {
+      "id": 1103576824,
+      "dt": "2021-11-28T00:50:36+01:00",
+      "beer_name": "Hazy Discovery Barcelona",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-barcelona/4480214"
+    },
+    {
+      "id": 1103573820,
+      "dt": "2021-11-28T00:46:08+01:00",
+      "beer_name": "Juicy Bomb 14 DDH NEIPA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-juicy-bomb-14-ddh-neipa/4572539"
+    },
+    {
+      "id": 1103535486,
+      "dt": "2021-11-27T23:55:42+01:00",
+      "beer_name": "Hazy Discovery Barcelona",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-barcelona/4480214"
+    },
+    {
+      "id": 1103523018,
+      "dt": "2021-11-27T23:40:36+01:00",
+      "beer_name": "Juicy Bomb 14 DDH NEIPA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-juicy-bomb-14-ddh-neipa/4572539"
+    },
+    {
+      "id": 1102620816,
+      "dt": "2021-11-26T18:22:08+01:00",
+      "beer_name": "Padrísimo",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-padrisimo/4488026"
+    },
+    {
+      "id": 1102620616,
+      "dt": "2021-11-26T18:21:47+01:00",
+      "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-fruit-garden-3-sour-ale-with-orange-x-nectarine-x-pomegranate/4508070"
+    },
+    {
+      "id": 1102609822,
+      "dt": "2021-11-26T18:03:02+01:00",
+      "beer_name": "New England IPA 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-england-ipa-14/3695462"
+    },
+    {
+      "id": 1102609365,
+      "dt": "2021-11-26T18:02:03+01:00",
+      "beer_name": "Podlipák 11",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-podlipak-11/4081441"
+    },
+    {
+      "id": 1102594152,
+      "dt": "2021-11-26T17:27:51+01:00",
+      "beer_name": "New England IPA 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-england-ipa-14/3695462"
+    },
+    {
+      "id": 1102404947,
+      "dt": "2021-11-25T23:09:40+01:00",
+      "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
+      "brewery": "Deer Bear",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/deer-bear-fruit-garden-3-sour-ale-with-orange-x-nectarine-x-pomegranate/4508070"
+    },
+    {
+      "id": 1102404662,
+      "dt": "2021-11-25T23:09:10+01:00",
+      "beer_name": "Padrísimo",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-padrisimo/4488026"
+    },
+    {
+      "id": 1102404450,
+      "dt": "2021-11-25T23:08:45+01:00",
+      "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
+      "brewery": "Deer Bear",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/deer-bear-fruit-garden-3-sour-ale-with-orange-x-nectarine-x-pomegranate/4508070"
+    },
+    {
+      "id": 1102376493,
+      "dt": "2021-11-25T22:20:50+01:00",
+      "beer_name": "Padrísimo",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-padrisimo/4488026"
+    },
+    {
+      "id": 1102372308,
+      "dt": "2021-11-25T22:14:13+01:00",
+      "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-blueberry-raspberry-chocolate-and-maple-syrup/4597701"
+    },
+    {
+      "id": 1102369352,
+      "dt": "2021-11-25T22:09:35+01:00",
+      "beer_name": "Weizen 13",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-weizen-13/2376194"
+    },
+    {
+      "id": 1102368963,
+      "dt": "2021-11-25T22:08:59+01:00",
+      "beer_name": "NELA",
+      "brewery": "Pioneer Beer",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pioneer-beer-nela/4578647"
+    },
+    {
+      "id": 1102352886,
+      "dt": "2021-11-25T21:44:46+01:00",
+      "beer_name": "Ronin",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-ronin/4537245"
+    },
+    {
+      "id": 1102352525,
+      "dt": "2021-11-25T21:44:15+01:00",
+      "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-blueberry-raspberry-chocolate-and-maple-syrup/4597701"
+    },
+    {
+      "id": 1102351258,
+      "dt": "2021-11-25T21:42:18+01:00",
+      "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-blueberry-raspberry-chocolate-and-maple-syrup/4597701"
+    },
+    {
+      "id": 1102343288,
+      "dt": "2021-11-25T21:29:51+01:00",
+      "beer_name": "Ronin",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-ronin/4537245"
+    },
+    {
+      "id": 1102329084,
+      "dt": "2021-11-25T21:09:18+01:00",
+      "beer_name": "Ronin",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-ronin/4537245"
+    },
+    {
+      "id": 1102303008,
+      "dt": "2021-11-25T20:30:35+01:00",
+      "beer_name": "NELA",
+      "brewery": "Pioneer Beer",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pioneer-beer-nela/4578647"
+    },
+    {
+      "id": 1102302680,
+      "dt": "2021-11-25T20:30:05+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1102277044,
+      "dt": "2021-11-25T19:47:33+01:00",
+      "beer_name": "NELA",
+      "brewery": "Pioneer Beer",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pioneer-beer-nela/4578647"
+    },
+    {
+      "id": 1102275568,
+      "dt": "2021-11-25T19:45:01+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1102257540,
+      "dt": "2021-11-25T19:11:46+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
+      "id": 1102243766,
+      "dt": "2021-11-25T18:42:07+01:00",
+      "beer_name": "Epsilon",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-epsilon/4586298"
+    },
+    {
+      "id": 1101659799,
+      "dt": "2021-11-23T16:04:45+01:00",
+      "beer_name": "Epsilon",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-epsilon/4586298"
+    },
+    {
+      "id": 1101658880,
+      "dt": "2021-11-23T15:45:57+01:00",
+      "beer_name": "Chiméra",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-chimera/4508150"
+    },
+    {
+      "id": 1101651336,
+      "dt": "2021-11-23T12:35:47+01:00",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
       "id": 1101598147,
       "dt": "2021-11-23T01:53:33+01:00",
       "beer_name": "Weizen 13",
