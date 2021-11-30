@@ -10,7 +10,8 @@ from bs4 import BeautifulSoup
 
 import utils
 
-STATS_PATH = "pivni_valka/stats.csv"
+STATS_PATH = 'pivni_valka/stats.csv'
+DAYS_IN_CHART = 14
 
 
 def run() -> None:
@@ -84,7 +85,7 @@ def get_stats() -> Tuple[List[str], List[int], List[int]]:
         chart_data_jirka.append(data[key]['unique_beers_count_jirka'])
         chart_data_dan.append(data[key]['unique_beers_count_dan'])
 
-    return chart_labels[-14:], chart_data_jirka[-14:], chart_data_dan[-14:]
+    return chart_labels[-DAYS_IN_CHART:], chart_data_jirka[-DAYS_IN_CHART:], chart_data_dan[-DAYS_IN_CHART:]
 
 
 def get_diff(chart_data: List[int]) -> str:
@@ -123,7 +124,7 @@ def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> No
     lines = [f'{datetime.date.today()},{unique_beers_count_jirka},{unique_beers_count_dan}\n']
 
     if not path.exists():
-        lines.insert(0, "date,jirka,dan\n")
+        lines.insert(0, 'date,jirka,dan\n')
 
-    with path.open("a", encoding=utils.ENCODING) as f:
+    with path.open('a', encoding=utils.ENCODING) as f:
         f.writelines(lines)
