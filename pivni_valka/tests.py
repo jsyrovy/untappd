@@ -105,7 +105,7 @@ def test_no_winner_badge():
 
 def _get_page(unique_beers_count_jirka, unique_beers_count_dan):
     return pivni_valka.get_page(
-        utils.get_template('pivni-valka.html', '../templates'),
+        utils.get_template('pivni-valka.html', ('templates', '../templates')),
         unique_beers_count_jirka=unique_beers_count_jirka,
         unique_beers_count_dan=unique_beers_count_dan,
         chart_labels=[],
