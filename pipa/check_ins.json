@@ -1,6 +1,38 @@
 {
   "check_ins": [
     {
+      "id": 1104605567,
+      "dt": "2021-12-02T15:34:02+01:00",
+      "beer_name": "Blizard Winter Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-blizard-winter-ale/2397001"
+    },
+    {
+      "id": 1104591859,
+      "dt": "2021-12-02T09:53:06+01:00",
+      "beer_name": "Únětické Pivo 12°",
+      "brewery": "Únětický pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/uneticky-pivovar-uneticke-pivo-12/103923"
+    },
+    {
+      "id": 1104591804,
+      "dt": "2021-12-02T09:51:19+01:00",
+      "beer_name": "New England IPA 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-england-ipa-14/3695462"
+    },
+    {
+      "id": 1104591781,
+      "dt": "2021-12-02T09:50:33+01:00",
+      "beer_name": "Tekutý Kapřík (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2021/4609856"
+    },
+    {
       "id": 1104116613,
       "dt": "2021-11-29T23:10:27+01:00",
       "beer_name": "Tekutý Kapřík (2021)",
