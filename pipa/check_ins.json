@@ -1,6 +1,158 @@
 {
   "check_ins": [
     {
+      "id": 1105307640,
+      "dt": "2021-12-04T02:51:48+01:00",
+      "beer_name": "Cin City",
+      "brewery": "Mad Scientist",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/mad-scientist-cin-city/4565452"
+    },
+    {
+      "id": 1105271149,
+      "dt": "2021-12-04T01:51:19+01:00",
+      "beer_name": "Sakura",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-sakura/4537233"
+    },
+    {
+      "id": 1105255677,
+      "dt": "2021-12-04T01:27:07+01:00",
+      "beer_name": "Zlatý Prasátko (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2021/4609886"
+    },
+    {
+      "id": 1105248310,
+      "dt": "2021-12-04T01:15:45+01:00",
+      "beer_name": "Barber Shop",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-barber-shop/4478542"
+    },
+    {
+      "id": 1105218006,
+      "dt": "2021-12-04T00:30:09+01:00",
+      "beer_name": "Linecký Věneček",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-linecky-venecek/3553453"
+    },
+    {
+      "id": 1105207128,
+      "dt": "2021-12-04T00:14:27+01:00",
+      "beer_name": "Christmas Smoothie Orange Vanilla",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-smoothie-orange-vanilla/4612011"
+    },
+    {
+      "id": 1105206956,
+      "dt": "2021-12-04T00:14:11+01:00",
+      "beer_name": "Two-Headed Giant",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-two-headed-giant/4618600"
+    },
+    {
+      "id": 1105205464,
+      "dt": "2021-12-04T00:12:14+01:00",
+      "beer_name": "Christmas Smoothie Orange Vanilla",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-smoothie-orange-vanilla/4612011"
+    },
+    {
+      "id": 1105188141,
+      "dt": "2021-12-03T23:47:02+01:00",
+      "beer_name": "Two-Headed Giant",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-two-headed-giant/4618600"
+    },
+    {
+      "id": 1105182532,
+      "dt": "2021-12-03T23:38:55+01:00",
+      "beer_name": "Christmas Triple Milkshake IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-triple-milkshake-ipa/4618369"
+    },
+    {
+      "id": 1105170685,
+      "dt": "2021-12-03T23:22:15+01:00",
+      "beer_name": "Christmas Triple Milkshake IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-triple-milkshake-ipa/4618369"
+    },
+    {
+      "id": 1105164283,
+      "dt": "2021-12-03T23:13:30+01:00",
+      "beer_name": "Christmas Double New England IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-double-new-england-ipa/4618364"
+    },
+    {
+      "id": 1105163345,
+      "dt": "2021-12-03T23:12:07+01:00",
+      "beer_name": "Zlatý Prasátko (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2021/4609886"
+    },
+    {
+      "id": 1105149095,
+      "dt": "2021-12-03T22:52:12+01:00",
+      "beer_name": "IPA TONE 0209 (NEIPA: Zappa, Zamba, Citra, Idaho 7)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-tone-0209-neipa-zappa-zamba-citra-idaho-7/4608140"
+    },
+    {
+      "id": 1105122386,
+      "dt": "2021-12-03T22:17:02+01:00",
+      "beer_name": "IPA TONE 0209 (NEIPA: Zappa, Zamba, Citra, Idaho 7)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-tone-0209-neipa-zappa-zamba-citra-idaho-7/4608140"
+    },
+    {
+      "id": 1105120399,
+      "dt": "2021-12-03T22:14:37+01:00",
+      "beer_name": "Zlatý Prasátko (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2021/4609886"
+    },
+    {
+      "id": 1104964232,
+      "dt": "2021-12-03T18:39:02+01:00",
+      "beer_name": "Juicy Bomb 14 DDH NEIPA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-juicy-bomb-14-ddh-neipa/4572539"
+    },
+    {
+      "id": 1104963920,
+      "dt": "2021-12-03T18:38:26+01:00",
+      "beer_name": "Hazy Discovery Barcelona",
+      "brewery": "Browar PINTA",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-pinta-hazy-discovery-barcelona/4480214"
+    },
+    {
+      "id": 1104889107,
+      "dt": "2021-12-03T11:12:51+01:00",
+      "beer_name": "Jungle Haze",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-jungle-haze/4549778"
+    },
+    {
       "id": 1104605567,
       "dt": "2021-12-02T15:34:02+01:00",
       "beer_name": "Blizard Winter Ale",
