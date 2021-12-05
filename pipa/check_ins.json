@@ -1,6 +1,38 @@
 {
   "check_ins": [
     {
+      "id": 1105679885,
+      "dt": "2021-12-04T21:10:35+01:00",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1105636547,
+      "dt": "2021-12-04T20:28:33+01:00",
+      "beer_name": "Gajdoš 12",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-gajdos-12/3903050"
+    },
+    {
+      "id": 1105599030,
+      "dt": "2021-12-04T19:48:55+01:00",
+      "beer_name": "Zlatý Prasátko (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2021/4609886"
+    },
+    {
+      "id": 1105559832,
+      "dt": "2021-12-04T19:02:45+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
       "id": 1105307640,
       "dt": "2021-12-04T02:51:48+01:00",
       "beer_name": "Cin City",
