@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1106466201,
+      "dt": "2021-12-06T17:09:01+01:00",
+      "beer_name": "Zlatý Prasátko (2021)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2021/4609886"
+    },
+    {
       "id": 1105679885,
       "dt": "2021-12-04T21:10:35+01:00",
       "beer_name": "Maisel's Weisse Original",
