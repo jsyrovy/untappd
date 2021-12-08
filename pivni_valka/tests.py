@@ -71,12 +71,12 @@ def test_parse_unique_beers_count_with_invalid_count():
 
 
 @pytest.mark.parametrize(
-    'unique_beers_count_jirka, unique_beers_count_dan, has_crown_jirka, has_crown_dan',
-    (
+    ('unique_beers_count_jirka', 'unique_beers_count_dan', 'has_crown_jirka', 'has_crown_dan'),
+    [
         (10, 5, True, False),
         (5, 10, False, True),
         (10, 10, False, False),
-    ),
+    ],
 )
 def test_winner_badge(unique_beers_count_jirka, unique_beers_count_dan, has_crown_jirka, has_crown_dan):
     page = pivni_valka.get_page(
@@ -92,3 +92,30 @@ def test_winner_badge(unique_beers_count_jirka, unique_beers_count_dan, has_crow
 
     assert ('Jirka 👑' in page) == has_crown_jirka
     assert ('Dan 👑' in page) == has_crown_dan
+
+
+@pytest.mark.parametrize(
+    ('unique_beers_count_jirka', 'unique_beers_count_dan', 'diff_jirka', 'diff_dan', 'expected_result'),
+    [
+        (10, 5, 0, 0, ''),
+        (10, 5, 1, 0, 'Jirka včera vypil 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
+        (10, 5, 0, 1, 'Dan včera vypil 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
+        (5, 10, 1, 0, 'Jirka včera vypil 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
+        (5, 10, 0, 1, 'Dan včera vypil 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
+        (10, 10, 1, 0, 'Jirka včera vypil 1 🍺. Oba nyní mají 10 🍺.'),
+        (10, 10, 0, 1, 'Dan včera vypil 1 🍺. Oba nyní mají 10 🍺.'),
+        (10, 5, 2, 1, 'Jirka včera vypil 2 🍺, Dan jen 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
+        (10, 5, 1, 2, 'Dan včera vypil 2 🍺, Jirka jen 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
+        (5, 10, 2, 1, 'Jirka včera vypil 2 🍺, Dan jen 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
+        (5, 10, 1, 2, 'Dan včera vypil 2 🍺, Jirka jen 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
+        (10, 10, 2, 1, 'Jirka včera vypil 2 🍺, Dan jen 1 🍺. Oba nyní mají 10 🍺.'),
+        (10, 10, 1, 2, 'Dan včera vypil 2 🍺, Jirka jen 1 🍺. Oba nyní mají 10 🍺.'),
+    ],
+)
+def test_get_tweet_status(unique_beers_count_jirka, unique_beers_count_dan, diff_jirka, diff_dan, expected_result):
+    assert pivni_valka.get_tweet_status(
+        unique_beers_count_jirka,
+        unique_beers_count_dan,
+        diff_jirka,
+        diff_dan,
+    ) == expected_result

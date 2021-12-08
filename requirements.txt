@@ -4,3 +4,4 @@ jinja2
 pytest
 mypy
 types-requests
+tweepy

@@ -5,6 +5,8 @@ from typing import Tuple
 import jinja2 as jinja2
 import requests
 
+from . import twitter
+
 ENCODING = 'utf-8'
 USER_AGENTS = (
     'Windows 10/ Edge browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246',

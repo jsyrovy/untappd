@@ -19,6 +19,8 @@ def run() -> None:
 
     save_stats(unique_beers_count_jirka, unique_beers_count_dan)
     chart_labels, chart_data_jirka, chart_data_dan = get_stats()
+    diff_jirka = get_diff(chart_data_jirka)
+    diff_dan = get_diff(chart_data_dan)
     page = get_page(
         utils.get_template('pivni-valka.html'),
         unique_beers_count_jirka,
@@ -26,12 +28,16 @@ def run() -> None:
         chart_labels,
         chart_data_jirka,
         chart_data_dan,
-        get_diff(chart_data_jirka),
-        get_diff(chart_data_dan),
+        get_formatted_diff(diff_jirka),
+        get_formatted_diff(diff_dan),
     )
 
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
+
+    if diff_jirka + diff_dan > 0:
+        twitter_client = utils.twitter.Client()
+        twitter_client.tweet(get_tweet_status(unique_beers_count_jirka, unique_beers_count_dan, diff_jirka, diff_dan))
 
     print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
 
@@ -88,12 +94,14 @@ def get_stats() -> Tuple[List[str], List[int], List[int]]:
     return chart_labels[-DAYS_IN_CHART:], chart_data_jirka[-DAYS_IN_CHART:], chart_data_dan[-DAYS_IN_CHART:]
 
 
-def get_diff(chart_data: List[int]) -> str:
+def get_diff(chart_data: List[int]) -> int:
     try:
-        diff = chart_data[-1] - chart_data[-2]
+        return chart_data[-1] - chart_data[-2]
     except IndexError:
-        return '0'
+        return 0
 
+
+def get_formatted_diff(diff: int) -> str:
     return f'+{diff}' if diff > 0 else str(diff)
 
 
@@ -128,3 +136,32 @@ def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> No
 
     with path.open('a', encoding=utils.ENCODING) as f:
         f.writelines(lines)
+
+
+def get_tweet_status(unique_beers_count_jirka: int, unique_beers_count_dan: int, diff_jirka: int, diff_dan: int) -> str:
+    status = ''
+
+    if diff_jirka == diff_dan == 0:
+        return status
+
+    if diff_jirka == 0:
+        status += f'Dan včera vypil {diff_dan} 🍺.'
+
+    if diff_dan == 0:
+        status += f'Jirka včera vypil {diff_jirka} 🍺.'
+
+    if diff_jirka > diff_dan > 0:
+        status += f'Jirka včera vypil {diff_jirka} 🍺, Dan jen {diff_dan} 🍺.'
+    elif diff_dan > diff_jirka > 0:
+        status += f'Dan včera vypil {diff_dan} 🍺, Jirka jen {diff_jirka} 🍺.'
+
+    status += ' '
+
+    if unique_beers_count_jirka > unique_beers_count_dan:
+        status += f'Jirka vede s {unique_beers_count_jirka} 🍺, Dan zaostává s {unique_beers_count_dan} 🍺.'
+    elif unique_beers_count_dan > unique_beers_count_jirka:
+        status += f'Dan vede s {unique_beers_count_dan} 🍺, Jirka zaostává s {unique_beers_count_jirka} 🍺.'
+    else:
+        status += f'Oba nyní mají {unique_beers_count_jirka} 🍺.'
+
+    return status
