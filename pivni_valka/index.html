@@ -40,6 +40,7 @@
             grid-template-areas:
                 "item-jirka item-dan"
                 "item-chart item-chart"
+                "item-twitter item-twitter"
         }
 
         .item-count {
@@ -77,6 +78,11 @@
             margin: 5px;
         }
 
+        .item-twitter {
+            grid-area: item-twitter;
+            margin: 5px;
+        }
+
         @media only screen and (max-width: 991px) {
             .container {
                 width: 100%;
@@ -85,6 +91,7 @@
                     "item-jirka"
                     "item-dan"
                     "item-chart"
+                    "item-twitter"
             }
 
             .count {
@@ -123,6 +130,12 @@
         </a>
         <div class="item-chart">
             <canvas id="chart"></canvas>
+        </div>
+        <div class="item-twitter">
+            <a class="twitter-timeline" href="https://twitter.com/pivni_valka?ref_src=twsrc%5Etfw">
+                Tweets by pivni_valka
+            </a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
     </div>
 </div>
