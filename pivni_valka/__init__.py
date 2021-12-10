@@ -35,7 +35,7 @@ def run() -> None:
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
 
-    if diff_jirka + diff_dan > 0:
+    if not utils.is_run_locally() and diff_jirka + diff_dan > 0:
         twitter_client = utils.twitter.Client()
         twitter_client.tweet(get_tweet_status(unique_beers_count_jirka, unique_beers_count_dan, diff_jirka, diff_dan))
 
