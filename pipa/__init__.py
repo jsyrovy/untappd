@@ -1,4 +1,5 @@
 import json
+import logging
 import pathlib
 import random
 from dataclasses import dataclass
@@ -66,11 +67,11 @@ def run() -> None:
 
     for new_check_in in new_check_ins:
         if new_check_in in check_ins:
-            print(f'Check in {new_check_in.id} jiz existuje.')
+            logging.info(f'Check in {new_check_in.id} jiz existuje.')
             continue
 
         check_ins.append(new_check_in)
-        print(f'Novy check in {new_check_in.id} - {new_check_in.beer_name}.')
+        logging.info(f'Novy check in {new_check_in.id} - {new_check_in.beer_name}.')
 
     sort_check_ins(check_ins)
     save_check_ins(check_ins)

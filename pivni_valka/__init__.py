@@ -1,4 +1,5 @@
 import datetime
+import logging
 import pathlib
 import random
 import time
@@ -42,9 +43,9 @@ def run() -> None:
         try:
             twitter_client.tweet(status)
         except utils.twitter.DuplicateTweetError:
-            print(f'Tweet jiz existuje: {status}')
+            logging.warning(f'Tweet jiz existuje: {status}')
 
-    print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
+    logging.info(f'{unique_beers_count_jirka=} {unique_beers_count_dan=}')
 
 
 def get_unique_beers_count(local: bool) -> Tuple[int, int]:
