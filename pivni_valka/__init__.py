@@ -37,7 +37,12 @@ def run() -> None:
 
     if not utils.is_run_locally() and diff_jirka + diff_dan > 0:
         twitter_client = utils.twitter.Client()
-        twitter_client.tweet(get_tweet_status(unique_beers_count_jirka, unique_beers_count_dan, diff_jirka, diff_dan))
+        status = get_tweet_status(unique_beers_count_jirka, unique_beers_count_dan, diff_jirka, diff_dan)
+
+        try:
+            twitter_client.tweet(status)
+        except utils.twitter.DuplicateTweetError:
+            print(f'Tweet jiz existuje: {status}')
 
     print(f'{unique_beers_count_jirka=}\n{unique_beers_count_dan=}')
 

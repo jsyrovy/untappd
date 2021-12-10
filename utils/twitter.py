@@ -5,6 +5,10 @@ import tweepy
 import tweepy.models
 
 
+class DuplicateTweetError(Exception):
+    ...
+
+
 class Client:
     def __init__(
         self,
@@ -22,4 +26,10 @@ class Client:
         self.api = tweepy.API(self._auth)
 
     def tweet(self, status: str) -> None:
-        self.api.update_status(status)
+        try:
+            self.api.update_status(status)
+        except tweepy.errors.Forbidden as e:
+            if 'Status is a duplicate.' in str(e):
+                raise DuplicateTweetError from e
+
+            raise
