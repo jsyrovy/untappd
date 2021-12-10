@@ -1,6 +1,54 @@
 {
   "check_ins": [
     {
+      "id": 1107170368,
+      "dt": "2021-12-09T20:11:31+01:00",
+      "beer_name": "Sundae: Belgian Waffle",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-belgian-waffle/4191287"
+    },
+    {
+      "id": 1107152290,
+      "dt": "2021-12-09T19:21:40+01:00",
+      "beer_name": "Sour Pina Colada",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sour-pina-colada/4435493"
+    },
+    {
+      "id": 1107151447,
+      "dt": "2021-12-09T19:19:01+01:00",
+      "beer_name": "Sundae: Belgian Waffle",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-belgian-waffle/4191287"
+    },
+    {
+      "id": 1107143581,
+      "dt": "2021-12-09T18:53:50+01:00",
+      "beer_name": "Barber Shop",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-barber-shop/4478542"
+    },
+    {
+      "id": 1107143025,
+      "dt": "2021-12-09T18:51:54+01:00",
+      "beer_name": "Sakura",
+      "brewery": "Deer Bear",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/deer-bear-sakura/4537233"
+    },
+    {
+      "id": 1107142917,
+      "dt": "2021-12-09T18:51:29+01:00",
+      "beer_name": "Cin City",
+      "brewery": "Mad Scientist",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/mad-scientist-cin-city/4565452"
+    },
+    {
       "id": 1106466201,
       "dt": "2021-12-06T17:09:01+01:00",
       "beer_name": "Zlatý Prasátko (2021)",
