@@ -24,17 +24,28 @@ def run() -> None:
     diff_dan = get_diff(chart_data_dan)
     page = get_page(
         utils.get_template('pivni-valka.html'),
-        unique_beers_count_jirka,
-        unique_beers_count_dan,
-        chart_labels,
-        chart_data_jirka,
-        chart_data_dan,
-        get_formatted_diff(diff_jirka),
-        get_formatted_diff(diff_dan),
+        unique_beers_count_jirka=unique_beers_count_jirka,
+        unique_beers_count_dan=unique_beers_count_dan,
+        chart_labels=chart_labels,
+        chart_data_jirka=chart_data_jirka,
+        chart_data_dan=chart_data_dan,
+        diff_jirka=get_formatted_diff(diff_jirka),
+        diff_dan=get_formatted_diff(diff_dan),
     )
 
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
+
+    chart_labels, chart_data_jirka, chart_data_dan = get_stats(all_=True)
+    page_all = get_page(
+        utils.get_template('pivni-valka-all.html'),
+        chart_labels=chart_labels,
+        chart_data_jirka=chart_data_jirka,
+        chart_data_dan=chart_data_dan,
+    )
+
+    with open('pivni_valka/all.html', 'w', encoding=utils.ENCODING) as f:
+        f.write(page_all)
 
     if not utils.is_run_locally() and diff_jirka + diff_dan > 0:
         twitter_client = utils.twitter.Client()
@@ -78,7 +89,7 @@ def parse_unique_beers_count(user_profile: str) -> int:
     return int(unique_beers_count.replace(',', ''))
 
 
-def get_stats() -> Tuple[List[str], List[int], List[int]]:
+def get_stats(all_=False) -> Tuple[List[str], List[int], List[int]]:
     data = OrderedDict()
     chart_labels = []
     chart_data_jirka = []
@@ -97,6 +108,9 @@ def get_stats() -> Tuple[List[str], List[int], List[int]]:
         chart_data_jirka.append(data[key]['unique_beers_count_jirka'])
         chart_data_dan.append(data[key]['unique_beers_count_dan'])
 
+    if all_:
+        return chart_labels, chart_data_jirka, chart_data_dan
+
     return chart_labels[-DAYS_IN_CHART:], chart_data_jirka[-DAYS_IN_CHART:], chart_data_dan[-DAYS_IN_CHART:]
 
 
@@ -111,25 +125,8 @@ def get_formatted_diff(diff: int) -> str:
     return f'+{diff}' if diff > 0 else str(diff)
 
 
-def get_page(
-    template: jinja2.Template,
-    unique_beers_count_jirka: int,
-    unique_beers_count_dan: int,
-    chart_labels: List[str],
-    chart_data_jirka: List[int],
-    chart_data_dan: List[int],
-    diff_jirka: str,
-    diff_dan: str,
-) -> str:
-    return template.render(
-        unique_beers_count_jirka=unique_beers_count_jirka,
-        unique_beers_count_dan=unique_beers_count_dan,
-        chart_labels=chart_labels,
-        chart_data_jirka=chart_data_jirka,
-        chart_data_dan=chart_data_dan,
-        diff_jirka=diff_jirka,
-        diff_dan=diff_dan,
-    )
+def get_page(template: jinja2.Template, **kwargs) -> str:
+    return template.render(**kwargs)
 
 
 def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int) -> None:
