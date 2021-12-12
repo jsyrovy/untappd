@@ -49,3 +49,6 @@ test-pipa:
 
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .
+
+remove-pivni-valka-stats-duplicates:
+	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
