@@ -1,6 +1,62 @@
 {
   "check_ins": [
     {
+      "id": 1108240435,
+      "dt": "2021-12-11T21:48:44+01:00",
+      "beer_name": "Baby, all I want for Christmas is IPA (2021)",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-baby-all-i-want-for-christmas-is-ipa-2021/4617600"
+    },
+    {
+      "id": 1108069444,
+      "dt": "2021-12-11T18:49:32+01:00",
+      "beer_name": "Weihenstephaner Hefeweissbier Alkoholfrei",
+      "brewery": "Bayerische Staatsbrauerei Weihenstephan",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier-alkoholfrei/84089"
+    },
+    {
+      "id": 1108048961,
+      "dt": "2021-12-11T18:20:38+01:00",
+      "beer_name": "Nanny State",
+      "brewery": "BrewDog",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brewdog-nanny-state/10839"
+    },
+    {
+      "id": 1108038970,
+      "dt": "2021-12-11T18:05:04+01:00",
+      "beer_name": "Zero Five",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-zero-five/3522945"
+    },
+    {
+      "id": 1108020756,
+      "dt": "2021-12-11T17:31:35+01:00",
+      "beer_name": "IPA TONE 0206 (NEIPA: HBC 586, Mosaic)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-tone-0206-neipa-hbc-586-mosaic/4289869"
+    },
+    {
+      "id": 1107996016,
+      "dt": "2021-12-11T16:37:44+01:00",
+      "beer_name": "Svatomartinský Ležák 12.6°",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-svatomartinsky-lezak-12-60/4580457"
+    },
+    {
+      "id": 1107922641,
+      "dt": "2021-12-11T08:45:45+01:00",
+      "beer_name": "Sundae: Belgian Waffle",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-belgian-waffle/4191287"
+    },
+    {
       "id": 1107170368,
       "dt": "2021-12-09T20:11:31+01:00",
       "beer_name": "Sundae: Belgian Waffle",
