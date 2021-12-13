@@ -1,6 +1,134 @@
 {
   "check_ins": [
     {
+      "id": 1108860950,
+      "dt": "2021-12-12T23:56:09+01:00",
+      "beer_name": "Hard Seltzer Tangerine",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-hard-seltzer-nectarine/4095414"
+    },
+    {
+      "id": 1108801797,
+      "dt": "2021-12-12T22:00:40+01:00",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1108801092,
+      "dt": "2021-12-12T21:59:25+01:00",
+      "beer_name": "Christmas Double New England IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-double-new-england-ipa/4618364"
+    },
+    {
+      "id": 1108800879,
+      "dt": "2021-12-12T21:59:02+01:00",
+      "beer_name": "Linecký Věneček",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-linecky-venecek/3553453"
+    },
+    {
+      "id": 1108800671,
+      "dt": "2021-12-12T21:58:39+01:00",
+      "beer_name": "Christmas Triple Milkshake IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-triple-milkshake-ipa/4618369"
+    },
+    {
+      "id": 1108800443,
+      "dt": "2021-12-12T21:58:15+01:00",
+      "beer_name": "Two-Headed Giant",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-two-headed-giant/4618600"
+    },
+    {
+      "id": 1108800224,
+      "dt": "2021-12-12T21:57:52+01:00",
+      "beer_name": "Christmas Smoothie Orange Vanilla",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-smoothie-orange-vanilla/4612011"
+    },
+    {
+      "id": 1108799955,
+      "dt": "2021-12-12T21:57:24+01:00",
+      "beer_name": "Cin City",
+      "brewery": "Mad Scientist",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/mad-scientist-cin-city/4565452"
+    },
+    {
+      "id": 1108799766,
+      "dt": "2021-12-12T21:57:04+01:00",
+      "beer_name": "Sakura",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-sakura/4537233"
+    },
+    {
+      "id": 1108799497,
+      "dt": "2021-12-12T21:56:38+01:00",
+      "beer_name": "Sundae: Belgian Waffle",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-belgian-waffle/4191287"
+    },
+    {
+      "id": 1108799198,
+      "dt": "2021-12-12T21:56:08+01:00",
+      "beer_name": "Sour Pina Colada",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sour-pina-colada/4435493"
+    },
+    {
+      "id": 1108699851,
+      "dt": "2021-12-12T19:02:48+01:00",
+      "beer_name": "Nadílka 20 - 2021",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nadilka-20-2021/4613827"
+    },
+    {
+      "id": 1108688457,
+      "dt": "2021-12-12T18:37:22+01:00",
+      "beer_name": "Christmas Triple Milkshake IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-christmas-triple-milkshake-ipa/4618369"
+    },
+    {
+      "id": 1108674938,
+      "dt": "2021-12-12T18:04:49+01:00",
+      "beer_name": "Fresh Hop New England IPA",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-new-england-ipa/4621408"
+    },
+    {
+      "id": 1108673277,
+      "dt": "2021-12-12T18:00:16+01:00",
+      "beer_name": "IPA TONE 0206 (NEIPA: HBC 586, Mosaic)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-ipa-tone-0206-neipa-hbc-586-mosaic/4289869"
+    },
+    {
+      "id": 1108667378,
+      "dt": "2021-12-12T17:43:36+01:00",
+      "beer_name": "Sky APA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-sky-apa/1283037"
+    },
+    {
       "id": 1108240435,
       "dt": "2021-12-11T21:48:44+01:00",
       "beer_name": "Baby, all I want for Christmas is IPA (2021)",
