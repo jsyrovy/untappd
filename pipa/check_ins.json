@@ -1,6 +1,102 @@
 {
   "check_ins": [
     {
+      "id": 1109023474,
+      "dt": "2021-12-13T20:38:28+01:00",
+      "beer_name": "Windmills 11",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-windmills-11/4608195"
+    },
+    {
+      "id": 1109022646,
+      "dt": "2021-12-13T20:35:36+01:00",
+      "beer_name": "Sundae: Banana Split #2",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-banana-split-2/4488275"
+    },
+    {
+      "id": 1109015821,
+      "dt": "2021-12-13T20:10:30+01:00",
+      "beer_name": "Two-Headed Giant",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-two-headed-giant/4618600"
+    },
+    {
+      "id": 1109013584,
+      "dt": "2021-12-13T20:02:16+01:00",
+      "beer_name": "Punk IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-punk-ipa/4491126"
+    },
+    {
+      "id": 1109007975,
+      "dt": "2021-12-13T19:39:00+01:00",
+      "beer_name": "Punk IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-punk-ipa/4491126"
+    },
+    {
+      "id": 1109005503,
+      "dt": "2021-12-13T19:27:43+01:00",
+      "beer_name": "Fresh Hop West Coast IPA",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-west-coast-ipa/4621427"
+    },
+    {
+      "id": 1109005384,
+      "dt": "2021-12-13T19:27:09+01:00",
+      "beer_name": "Fresh Hop West Coast IPA",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-west-coast-ipa/4621427"
+    },
+    {
+      "id": 1108996327,
+      "dt": "2021-12-13T18:41:21+01:00",
+      "beer_name": "Hauskrecht Brněnská 11",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-brnenska-11/917211"
+    },
+    {
+      "id": 1108996042,
+      "dt": "2021-12-13T18:39:45+01:00",
+      "beer_name": "Hauskrecht Brněnská 11",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-brnenska-11/917211"
+    },
+    {
+      "id": 1108994917,
+      "dt": "2021-12-13T18:33:28+01:00",
+      "beer_name": "Dvanda",
+      "brewery": "Poddžbánský pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/poddzbansky-pivovar-dvanda/4435631"
+    },
+    {
+      "id": 1108993594,
+      "dt": "2021-12-13T18:25:43+01:00",
+      "beer_name": "Dvanda",
+      "brewery": "Poddžbánský pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/poddzbansky-pivovar-dvanda/4435631"
+    },
+    {
+      "id": 1108980294,
+      "dt": "2021-12-13T16:24:19+01:00",
+      "beer_name": "Ježíšek 20 ",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
       "id": 1108860950,
       "dt": "2021-12-12T23:56:09+01:00",
       "beer_name": "Hard Seltzer Tangerine",
