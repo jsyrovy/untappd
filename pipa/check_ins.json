@@ -1,6 +1,62 @@
 {
   "check_ins": [
     {
+      "id": 1109480451,
+      "dt": "2021-12-15T22:05:31+01:00",
+      "beer_name": "Svatomartinský Ležák 12.6°",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-svatomartinsky-lezak-12-60/4580457"
+    },
+    {
+      "id": 1109467841,
+      "dt": "2021-12-15T21:32:27+01:00",
+      "beer_name": "Windmills 11",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-windmills-11/4608195"
+    },
+    {
+      "id": 1109467637,
+      "dt": "2021-12-15T21:32:00+01:00",
+      "beer_name": "Single Hop Ale Amarillo",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-single-hop-ale-amarillo/2073351"
+    },
+    {
+      "id": 1109467152,
+      "dt": "2021-12-15T21:30:45+01:00",
+      "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
+      "brewery": "Nachmelená opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-amarillo-and-citra-and-sabro-neipa-15/4588477"
+    },
+    {
+      "id": 1109466704,
+      "dt": "2021-12-15T21:29:39+01:00",
+      "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
+      "brewery": "Nachmelená opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-amarillo-and-citra-and-sabro-neipa-15/4588477"
+    },
+    {
+      "id": 1109413019,
+      "dt": "2021-12-15T18:49:24+01:00",
+      "beer_name": "Cossack's Whip",
+      "brewery": "Dogma Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/dogma-brewery-cossack-s-whip/4194327"
+    },
+    {
+      "id": 1109410948,
+      "dt": "2021-12-15T18:40:19+01:00",
+      "beer_name": "Windmills 11",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-windmills-11/4608195"
+    },
+    {
       "id": 1109171295,
       "dt": "2021-12-14T16:34:44+01:00",
       "beer_name": "Windmills 11",
