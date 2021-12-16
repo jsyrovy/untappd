@@ -157,6 +157,8 @@ def get_tweet_status(unique_beers_count_jirka: int, unique_beers_count_dan: int,
         status += f'Jirka včera vypil {diff_jirka} 🍺, Dan jen {diff_dan} 🍺.'
     elif diff_dan > diff_jirka > 0:
         status += f'Dan včera vypil {diff_dan} 🍺, Jirka jen {diff_jirka} 🍺.'
+    elif diff_jirka == diff_dan > 0:
+        status += f'Jirka i Dan včera vypili {diff_jirka} 🍺.'
 
     status += ' '
 
