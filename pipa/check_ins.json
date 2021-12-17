@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1109627263,
+      "dt": "2021-12-16T10:28:56+01:00",
+      "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
+      "brewery": "Nachmelená opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-amarillo-and-citra-and-sabro-neipa-15/4588477"
+    },
+    {
+      "id": 1109627114,
+      "dt": "2021-12-16T10:24:28+01:00",
+      "beer_name": "Windmills 11",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-windmills-11/4608195"
+    },
+    {
       "id": 1109480451,
       "dt": "2021-12-15T22:05:31+01:00",
       "beer_name": "Svatomartinský Ležák 12.6°",
