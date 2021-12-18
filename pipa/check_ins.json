@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1110109750,
+      "dt": "2021-12-17T21:01:53+01:00",
+      "beer_name": "Helena Ch.",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-helena-ch/4597752"
+    },
+    {
+      "id": 1110049744,
+      "dt": "2021-12-17T19:43:01+01:00",
+      "beer_name": "Merry Beermas 13°",
+      "brewery": "Krušnohor ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/krusnohor-marry-beermas-130/1855951"
+    },
+    {
+      "id": 1110047889,
+      "dt": "2021-12-17T19:40:07+01:00",
+      "beer_name": "Merry Beermas 13°",
+      "brewery": "Krušnohor ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/krusnohor-marry-beermas-130/1855951"
+    },
+    {
+      "id": 1110029966,
+      "dt": "2021-12-17T19:10:36+01:00",
+      "beer_name": "Punk IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-punk-ipa/4491126"
+    },
+    {
+      "id": 1110022028,
+      "dt": "2021-12-17T18:56:21+01:00",
+      "beer_name": "Punk IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-punk-ipa/4491126"
+    },
+    {
+      "id": 1110007277,
+      "dt": "2021-12-17T18:28:28+01:00",
+      "beer_name": "Jungle Haze",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-jungle-haze/4549778"
+    },
+    {
+      "id": 1110006385,
+      "dt": "2021-12-17T18:26:42+01:00",
+      "beer_name": "Snowie",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-snowie/4610412"
+    },
+    {
+      "id": 1109966470,
+      "dt": "2021-12-17T16:33:10+01:00",
+      "beer_name": "Jungle Haze",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-jungle-haze/4549778"
+    },
+    {
+      "id": 1109961572,
+      "dt": "2021-12-17T16:09:12+01:00",
+      "beer_name": "Kurtizána IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
+    },
+    {
       "id": 1109627263,
       "dt": "2021-12-16T10:28:56+01:00",
       "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
