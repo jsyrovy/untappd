@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1110515913,
+      "dt": "2021-12-18T16:22:44+01:00",
+      "beer_name": "Jungle Haze",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-jungle-haze/4549778"
+    },
+    {
+      "id": 1110512722,
+      "dt": "2021-12-18T16:13:37+01:00",
+      "beer_name": "Mandarin",
+      "brewery": "Pivovar Raven",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-raven-mandarin/3808195"
+    },
+    {
       "id": 1110109750,
       "dt": "2021-12-17T21:01:53+01:00",
       "beer_name": "Helena Ch.",
