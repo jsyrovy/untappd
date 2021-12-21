@@ -1,6 +1,166 @@
 {
   "check_ins": [
     {
+      "id": 1111634705,
+      "dt": "2021-12-21T00:09:08+01:00",
+      "beer_name": "Cinnamon Danish",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-cinnamon-danish/4344824"
+    },
+    {
+      "id": 1111634416,
+      "dt": "2021-12-21T00:08:17+01:00",
+      "beer_name": "Sundae: Banana Split #2",
+      "brewery": "Browar NOOK",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-banana-split-2/4488275"
+    },
+    {
+      "id": 1111589931,
+      "dt": "2021-12-20T21:51:05+01:00",
+      "beer_name": "Sundae: Banana Split #2",
+      "brewery": "Browar NOOK",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-banana-split-2/4488275"
+    },
+    {
+      "id": 1111588507,
+      "dt": "2021-12-20T21:47:05+01:00",
+      "beer_name": "Cinnamon Danish",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-cinnamon-danish/4344824"
+    },
+    {
+      "id": 1111581451,
+      "dt": "2021-12-20T21:27:43+01:00",
+      "beer_name": "ART #5 Candyfloss Pastry Imperial Stout",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-art-5-candyfloss-pastry-imperial-stout/4433591"
+    },
+    {
+      "id": 1111578402,
+      "dt": "2021-12-20T21:19:32+01:00",
+      "beer_name": "Vault 104",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-vault-104/4062078"
+    },
+    {
+      "id": 1111577793,
+      "dt": "2021-12-20T21:17:45+01:00",
+      "beer_name": "Black Label #6",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-6/4569379"
+    },
+    {
+      "id": 1111577576,
+      "dt": "2021-12-20T21:17:10+01:00",
+      "beer_name": "Sattran Dry Hopped",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran-dry-hopped/3998028"
+    },
+    {
+      "id": 1111570505,
+      "dt": "2021-12-20T20:57:00+01:00",
+      "beer_name": "Sattran",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran/3997138"
+    },
+    {
+      "id": 1111570372,
+      "dt": "2021-12-20T20:56:37+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
+      "id": 1111564860,
+      "dt": "2021-12-20T20:40:17+01:00",
+      "beer_name": "Sattran Dry Hopped",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran-dry-hopped/3998028"
+    },
+    {
+      "id": 1111561925,
+      "dt": "2021-12-20T20:31:56+01:00",
+      "beer_name": "Sattran",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran/3997138"
+    },
+    {
+      "id": 1111554037,
+      "dt": "2021-12-20T20:07:28+01:00",
+      "beer_name": "Baby, All I Want (for Christmas) Is IPA",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-baby-all-i-want-for-christmas-is-ipa/2979041"
+    },
+    {
+      "id": 1111549560,
+      "dt": "2021-12-20T19:52:31+01:00",
+      "beer_name": "Riwaka",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-riwaka/4629437"
+    },
+    {
+      "id": 1111548838,
+      "dt": "2021-12-20T19:50:17+01:00",
+      "beer_name": "Maxi Sour Fik",
+      "brewery": "MadCat",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/madcat-maxi-sour-fik/4642257"
+    },
+    {
+      "id": 1111545051,
+      "dt": "2021-12-20T19:36:37+01:00",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1111544089,
+      "dt": "2021-12-20T19:33:10+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
+      "id": 1111539497,
+      "dt": "2021-12-20T19:16:09+01:00",
+      "beer_name": "Shoshone",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-shoshone/4629426"
+    },
+    {
+      "id": 1111539421,
+      "dt": "2021-12-20T19:15:52+01:00",
+      "beer_name": "Riwaka",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-riwaka/4629437"
+    },
+    {
+      "id": 1111539215,
+      "dt": "2021-12-20T19:15:05+01:00",
+      "beer_name": "Helena Ch.",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-helena-ch/4597752"
+    },
+    {
       "id": 1110515913,
       "dt": "2021-12-18T16:22:44+01:00",
       "beer_name": "Jungle Haze",
