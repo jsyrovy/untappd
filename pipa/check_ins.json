@@ -1,6 +1,30 @@
 {
   "check_ins": [
     {
+      "id": 1111790241,
+      "dt": "2021-12-21T19:25:00+01:00",
+      "beer_name": "Philadelphia Sour Maracuja",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-maracuja/4488875"
+    },
+    {
+      "id": 1111780012,
+      "dt": "2021-12-21T18:51:03+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
+      "id": 1111761461,
+      "dt": "2021-12-21T17:28:04+01:00",
+      "beer_name": "Samotář 13 (single Hop) Galaxy",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-samotar-13-single-hop-galaxy/4616446"
+    },
+    {
       "id": 1111634705,
       "dt": "2021-12-21T00:09:08+01:00",
       "beer_name": "Cinnamon Danish",
