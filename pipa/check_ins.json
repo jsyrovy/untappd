@@ -1,6 +1,86 @@
 {
   "check_ins": [
     {
+      "id": 1112639107,
+      "dt": "2021-12-23T23:14:23+01:00",
+      "beer_name": "Luscious Lonely Virgin 16",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-luscious-lonely-virgin-16/4621059"
+    },
+    {
+      "id": 1112634845,
+      "dt": "2021-12-23T23:08:35+01:00",
+      "beer_name": "Luscious Lonely Virgin 16",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-luscious-lonely-virgin-16/4621059"
+    },
+    {
+      "id": 1112625675,
+      "dt": "2021-12-23T22:56:06+01:00",
+      "beer_name": "Snowie",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-snowie/4610412"
+    },
+    {
+      "id": 1112624477,
+      "dt": "2021-12-23T22:54:35+01:00",
+      "beer_name": "Cinnamon Danish",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-cinnamon-danish/4344824"
+    },
+    {
+      "id": 1112623441,
+      "dt": "2021-12-23T22:53:08+01:00",
+      "beer_name": "Sundae: Banana Split #2",
+      "brewery": "Browar NOOK",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-banana-split-2/4488275"
+    },
+    {
+      "id": 1112622067,
+      "dt": "2021-12-23T22:51:19+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
+      "id": 1112621029,
+      "dt": "2021-12-23T22:49:55+01:00",
+      "beer_name": "Splash: Lemon & Red Grapefruit",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-splash-lemon-and-red-grapefruit/4454552"
+    },
+    {
+      "id": 1112618627,
+      "dt": "2021-12-23T22:46:33+01:00",
+      "beer_name": "Splash: Lemon & Red Grapefruit",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-splash-lemon-and-red-grapefruit/4454552"
+    },
+    {
+      "id": 1112618600,
+      "dt": "2021-12-23T22:46:31+01:00",
+      "beer_name": "Splash: Lemon & Red Grapefruit",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-splash-lemon-and-red-grapefruit/4454552"
+    },
+    {
+      "id": 1112555419,
+      "dt": "2021-12-23T21:25:56+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
       "id": 1111790241,
       "dt": "2021-12-21T19:25:00+01:00",
       "beer_name": "Philadelphia Sour Maracuja",
