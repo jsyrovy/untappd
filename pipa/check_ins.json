@@ -1,6 +1,54 @@
 {
   "check_ins": [
     {
+      "id": 1113188913,
+      "dt": "2021-12-24T22:28:26+01:00",
+      "beer_name": "Ježíšek 20 ",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
+      "id": 1112966100,
+      "dt": "2021-12-24T17:58:51+01:00",
+      "beer_name": "Ježíšek 20 ",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
+      "id": 1112965434,
+      "dt": "2021-12-24T17:57:42+01:00",
+      "beer_name": "Luscious Lonely Virgin 16",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-luscious-lonely-virgin-16/4621059"
+    },
+    {
+      "id": 1112948159,
+      "dt": "2021-12-24T17:26:15+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
+      "id": 1112944061,
+      "dt": "2021-12-24T17:18:24+01:00",
+      "beer_name": "Ježíšek 20 ",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
+      "id": 1112943706,
+      "dt": "2021-12-24T17:17:43+01:00",
+      "beer_name": "Hoppy Cow",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-cow/4640802"
+    },
+    {
       "id": 1112639107,
       "dt": "2021-12-23T23:14:23+01:00",
       "beer_name": "Luscious Lonely Virgin 16",
