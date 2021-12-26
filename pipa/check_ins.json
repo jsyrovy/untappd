@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1113702817,
+      "dt": "2021-12-25T21:12:11+01:00",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1113679518,
+      "dt": "2021-12-25T20:42:42+01:00",
+      "beer_name": "Boží Ležák!",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-lezak/4071919"
+    },
+    {
       "id": 1113188913,
       "dt": "2021-12-24T22:28:26+01:00",
       "beer_name": "Ježíšek 20 ",
