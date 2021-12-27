@@ -1,6 +1,46 @@
 {
   "check_ins": [
     {
+      "id": 1113992617,
+      "dt": "2021-12-26T12:12:16+01:00",
+      "beer_name": "Sattran Dry Hopped",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-sattran-dry-hopped/3998028"
+    },
+    {
+      "id": 1113992563,
+      "dt": "2021-12-26T12:11:40+01:00",
+      "beer_name": "Frozen Waste",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-frozen-waste/2075365"
+    },
+    {
+      "id": 1113992529,
+      "dt": "2021-12-26T12:11:10+01:00",
+      "beer_name": "Black Label #6",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-6/4569379"
+    },
+    {
+      "id": 1113992470,
+      "dt": "2021-12-26T12:10:24+01:00",
+      "beer_name": "Lemon Cheesecake",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-lemon-cheesecake/4181858"
+    },
+    {
+      "id": 1113992371,
+      "dt": "2021-12-26T12:08:56+01:00",
+      "beer_name": "Kurtizána IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
+    },
+    {
       "id": 1113702817,
       "dt": "2021-12-25T21:12:11+01:00",
       "beer_name": "Boží NEIPA!",
