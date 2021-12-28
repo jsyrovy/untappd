@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1114538066,
+      "dt": "2021-12-27T18:37:20+01:00",
+      "beer_name": "Tropic Edge",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-tropic-edge/3495180"
+    },
+    {
+      "id": 1114520901,
+      "dt": "2021-12-27T17:45:24+01:00",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
       "id": 1113992617,
       "dt": "2021-12-26T12:12:16+01:00",
       "beer_name": "Sattran Dry Hopped",
