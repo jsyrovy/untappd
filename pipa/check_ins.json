@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1117183976,
+      "dt": "2022-01-02T10:30:03+01:00",
+      "beer_name": "Black Label #6",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-6/4569379"
+    },
+    {
+      "id": 1117183923,
+      "dt": "2022-01-02T10:28:54+01:00",
+      "beer_name": "Maxi Sour Fik",
+      "brewery": "MadCat",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/madcat-maxi-sour-fik/4642257"
+    },
+    {
       "id": 1116341981,
       "dt": "2021-12-31T21:21:54+01:00",
       "beer_name": "Double IPA",
