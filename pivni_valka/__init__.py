@@ -4,7 +4,7 @@ import pathlib
 import random
 import time
 from collections import OrderedDict
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -12,14 +12,13 @@ from bs4 import BeautifulSoup
 import utils
 
 STATS_PATH = 'pivni_valka/stats.csv'
-DAYS_IN_CHART = 14
 
 
 def run() -> None:
     unique_beers_count_jirka, unique_beers_count_dan = get_unique_beers_count(utils.is_run_locally())
 
     save_stats(unique_beers_count_jirka, unique_beers_count_dan)
-    chart_labels, chart_data_jirka, chart_data_dan = get_stats()
+    chart_labels, chart_data_jirka, chart_data_dan = get_stats(days=14)
     diff_jirka = get_diff(chart_data_jirka)
     diff_dan = get_diff(chart_data_dan)
     page = get_page(
@@ -36,15 +35,26 @@ def run() -> None:
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
 
-    chart_labels, chart_data_jirka, chart_data_dan = get_stats(all_=True)
-    page_all = get_page(
-        utils.get_template('pivni-valka-all.html'),
+    chart_labels, chart_data_jirka, chart_data_dan = get_stats(days=365)
+    page_year = get_page(
+        utils.get_template('pivni-valka-chart.html'),
         chart_labels=chart_labels,
         chart_data_jirka=chart_data_jirka,
         chart_data_dan=chart_data_dan,
     )
 
-    with open('pivni_valka/all.html', 'w', encoding=utils.ENCODING) as f:
+    with open('pivni_valka/chart_year.html', 'w', encoding=utils.ENCODING) as f:
+        f.write(page_year)
+
+    chart_labels, chart_data_jirka, chart_data_dan = get_stats()
+    page_all = get_page(
+        utils.get_template('pivni-valka-chart.html'),
+        chart_labels=chart_labels,
+        chart_data_jirka=chart_data_jirka,
+        chart_data_dan=chart_data_dan,
+    )
+
+    with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_all)
 
     if not utils.is_run_locally() and diff_jirka + diff_dan > 0:
@@ -89,7 +99,7 @@ def parse_unique_beers_count(user_profile: str) -> int:
     return int(unique_beers_count.replace(',', ''))
 
 
-def get_stats(all_=False) -> Tuple[List[str], List[int], List[int]]:
+def get_stats(days: Optional[int] = None) -> Tuple[List[str], List[int], List[int]]:
     data = OrderedDict()
     chart_labels = []
     chart_data_jirka = []
@@ -108,10 +118,10 @@ def get_stats(all_=False) -> Tuple[List[str], List[int], List[int]]:
         chart_data_jirka.append(data[key]['unique_beers_count_jirka'])
         chart_data_dan.append(data[key]['unique_beers_count_dan'])
 
-    if all_:
+    if not days:
         return chart_labels, chart_data_jirka, chart_data_dan
 
-    return chart_labels[-DAYS_IN_CHART:], chart_data_jirka[-DAYS_IN_CHART:], chart_data_dan[-DAYS_IN_CHART:]
+    return chart_labels[-days:], chart_data_jirka[-days:], chart_data_dan[-days:]
 
 
 def get_diff(chart_data: List[int]) -> int:
