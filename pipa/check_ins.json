@@ -41,6 +41,14 @@
       "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
     },
     {
+      "id": 1115378721,
+      "dt": "2021-12-29T22:00:17+01:00",
+      "beer_name": "Philadelphia Sour Raspberry ",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
       "id": 1115317244,
       "dt": "2021-12-29T20:25:33+01:00",
       "beer_name": "Maxi Sour Fik",
@@ -143,6 +151,14 @@
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/pivovar-obora-luscious-lonely-virgin-16/4621059"
+    },
+    {
+      "id": 1112965434,
+      "dt": "2021-12-24T17:57:42+01:00",
+      "beer_name": "Patry Sour - Luscious Lonely Virgin",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-patry-sour-luscious-lonely-virgin/4621059"
     },
     {
       "id": 1112948159,
