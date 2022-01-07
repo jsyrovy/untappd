@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1118150415,
+      "dt": "2022-01-06T23:24:41+01:00",
+      "beer_name": "Triple Gelato: Berries & Cream",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-triple-gelato-berries-and-cream/4424236"
+    },
+    {
       "id": 1117183976,
       "dt": "2022-01-02T10:30:03+01:00",
       "beer_name": "Black Label #6",
