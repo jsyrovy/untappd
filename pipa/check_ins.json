@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1119036481,
+      "dt": "2022-01-09T00:56:36+01:00",
+      "beer_name": "Fresh Mosaic 15",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-fresh-mosaic-15/4638396"
+    },
+    {
+      "id": 1118963239,
+      "dt": "2022-01-08T23:15:11+01:00",
+      "beer_name": "Southern Sun",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-southern-sun/4663000"
+    },
+    {
       "id": 1118150415,
       "dt": "2022-01-06T23:24:41+01:00",
       "beer_name": "Triple Gelato: Berries & Cream",
