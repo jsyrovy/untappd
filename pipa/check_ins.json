@@ -1,6 +1,166 @@
 {
   "check_ins": [
     {
+      "id": 1119512312,
+      "dt": "2022-01-10T22:47:28+01:00",
+      "beer_name": "Double Gelato: Blue Velvet",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-double-gelato-blue-velvet/4467691"
+    },
+    {
+      "id": 1119505652,
+      "dt": "2022-01-10T22:05:10+01:00",
+      "beer_name": "Mango Island",
+      "brewery": "Chroust",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/chroust-mango-island/4539443"
+    },
+    {
+      "id": 1119494962,
+      "dt": "2022-01-10T21:01:36+01:00",
+      "beer_name": "Meran Dandelion",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-meran-dandelion/4636361"
+    },
+    {
+      "id": 1119493764,
+      "dt": "2022-01-10T20:54:28+01:00",
+      "beer_name": "Meran Dandelion",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-meran-dandelion/4636361"
+    },
+    {
+      "id": 1119493211,
+      "dt": "2022-01-10T20:51:15+01:00",
+      "beer_name": "Meran Dandelion",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-meran-dandelion/4636361"
+    },
+    {
+      "id": 1119489788,
+      "dt": "2022-01-10T20:30:38+01:00",
+      "beer_name": "Porter ROPA",
+      "brewery": "Jan Čaroděj Slabý",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/jan-carodej-slaby-porter-ropa/4609999"
+    },
+    {
+      "id": 1119489112,
+      "dt": "2022-01-10T20:26:24+01:00",
+      "beer_name": "Double Gelato: Frugtsalad",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-double-gelato-frugtsalad/4352320"
+    },
+    {
+      "id": 1119488304,
+      "dt": "2022-01-10T20:21:29+01:00",
+      "beer_name": "Double Gelato: Frugtsalad",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-double-gelato-frugtsalad/4352320"
+    },
+    {
+      "id": 1119487610,
+      "dt": "2022-01-10T20:17:24+01:00",
+      "beer_name": "Double Gelato: Frugtsalad",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-double-gelato-frugtsalad/4352320"
+    },
+    {
+      "id": 1119486939,
+      "dt": "2022-01-10T20:13:07+01:00",
+      "beer_name": "Sundae: Fruta De Praia",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-fruta-de-praia/4277805"
+    },
+    {
+      "id": 1119486801,
+      "dt": "2022-01-10T20:12:10+01:00",
+      "beer_name": "Sundae: Fruta De Praia",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-fruta-de-praia/4277805"
+    },
+    {
+      "id": 1119485999,
+      "dt": "2022-01-10T20:06:58+01:00",
+      "beer_name": "Sundae: Fruta De Praia",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-fruta-de-praia/4277805"
+    },
+    {
+      "id": 1119485073,
+      "dt": "2022-01-10T20:00:10+01:00",
+      "beer_name": "Švestkové",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-svestkove/4589165"
+    },
+    {
+      "id": 1119484954,
+      "dt": "2022-01-10T19:59:19+01:00",
+      "beer_name": "Švestkové",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-svestkove/4589165"
+    },
+    {
+      "id": 1119484468,
+      "dt": "2022-01-10T19:55:55+01:00",
+      "beer_name": "Švestkové",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-svestkove/4589165"
+    },
+    {
+      "id": 1119483484,
+      "dt": "2022-01-10T19:48:51+01:00",
+      "beer_name": "Smasher: Cryo Pop B Blend",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-smasher-cryo-pop-b-blend/4595763"
+    },
+    {
+      "id": 1119483175,
+      "dt": "2022-01-10T19:46:45+01:00",
+      "beer_name": "Smasher: Cryo Pop B Blend",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-smasher-cryo-pop-b-blend/4595763"
+    },
+    {
+      "id": 1119483090,
+      "dt": "2022-01-10T19:46:04+01:00",
+      "beer_name": "Smasher: Cryo Pop B Blend",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-smasher-cryo-pop-b-blend/4595763"
+    },
+    {
+      "id": 1119482768,
+      "dt": "2022-01-10T19:43:35+01:00",
+      "beer_name": "Smasher: Cryo Pop B Blend",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-smasher-cryo-pop-b-blend/4595763"
+    },
+    {
+      "id": 1119481919,
+      "dt": "2022-01-10T19:37:15+01:00",
+      "beer_name": "Pink Boots",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-pink-boots/3790605"
+    },
+    {
       "id": 1119036481,
       "dt": "2022-01-09T00:56:36+01:00",
       "beer_name": "Fresh Mosaic 15",
