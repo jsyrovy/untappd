@@ -1,6 +1,102 @@
 {
   "check_ins": [
     {
+      "id": 1119588679,
+      "dt": "2022-01-11T13:21:43+01:00",
+      "beer_name": "Hard Seltzer Tangerine",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-hard-seltzer-tangerine/4095414"
+    },
+    {
+      "id": 1119588651,
+      "dt": "2022-01-11T13:20:51+01:00",
+      "beer_name": "Oops... I Did It Again!",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-oops-i-did-it-again/2156753"
+    },
+    {
+      "id": 1119588629,
+      "dt": "2022-01-11T13:20:02+01:00",
+      "beer_name": "Extra Dope",
+      "brewery": "3 Sons Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/3-sons-brewing-co-extra-dope/3792658"
+    },
+    {
+      "id": 1119588610,
+      "dt": "2022-01-11T13:19:26+01:00",
+      "beer_name": "SABRO 14",
+      "brewery": "Jan Čaroděj Slabý",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/jan-carodej-slaby-sabro-14/4210989"
+    },
+    {
+      "id": 1119588601,
+      "dt": "2022-01-11T13:18:48+01:00",
+      "beer_name": "Pink Boots",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-pink-boots/3790605"
+    },
+    {
+      "id": 1119588574,
+      "dt": "2022-01-11T13:17:58+01:00",
+      "beer_name": "Smasher: Cryo Pop B Blend",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-smasher-cryo-pop-b-blend/4595763"
+    },
+    {
+      "id": 1119588522,
+      "dt": "2022-01-11T13:16:11+01:00",
+      "beer_name": "Švestkové",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-svestkove/4589165"
+    },
+    {
+      "id": 1119588506,
+      "dt": "2022-01-11T13:15:40+01:00",
+      "beer_name": "Single Hop Ale Mosaic 13°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-mosaic-13/1641769"
+    },
+    {
+      "id": 1119588487,
+      "dt": "2022-01-11T13:15:09+01:00",
+      "beer_name": "Sundae: Fruta De Praia",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-fruta-de-praia/4277805"
+    },
+    {
+      "id": 1119588326,
+      "dt": "2022-01-11T13:09:02+01:00",
+      "beer_name": "Double Gelato: Frugtsalad",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-double-gelato-frugtsalad/4352320"
+    },
+    {
+      "id": 1119588157,
+      "dt": "2022-01-11T13:03:59+01:00",
+      "beer_name": "Meran Dandelion",
+      "brewery": "Fenetra",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/fenetra-meran-dandelion/4636361"
+    },
+    {
+      "id": 1119588144,
+      "dt": "2022-01-11T13:03:31+01:00",
+      "beer_name": "Mango Island",
+      "brewery": "Chroust",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/chroust-mango-island/4539443"
+    },
+    {
       "id": 1119512312,
       "dt": "2022-01-10T22:47:28+01:00",
       "beer_name": "Double Gelato: Blue Velvet",
