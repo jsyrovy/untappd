@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1120127497,
+      "dt": "2022-01-14T17:43:19+01:00",
+      "beer_name": "FREE PAN DA",
+      "brewery": "Browar Nepomucen",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-free-pan-da/3861717"
+    },
+    {
       "id": 1119588679,
       "dt": "2022-01-11T13:21:43+01:00",
       "beer_name": "Hard Seltzer Tangerine",
