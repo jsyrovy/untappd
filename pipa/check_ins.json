@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1121268034,
+      "dt": "2022-01-16T22:34:31+01:00",
+      "beer_name": "Fresh Citra 15",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-fresh-citra-15/4649555"
+    },
+    {
       "id": 1120127497,
       "dt": "2022-01-14T17:43:19+01:00",
       "beer_name": "FREE PAN DA",
