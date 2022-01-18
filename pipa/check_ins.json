@@ -1,6 +1,166 @@
 {
   "check_ins": [
     {
+      "id": 1121454194,
+      "dt": "2022-01-17T20:50:00+01:00",
+      "beer_name": "Děkujeme - Barley Wine",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-dekujeme-barley-wine/4677833"
+    },
+    {
+      "id": 1121454169,
+      "dt": "2022-01-17T20:49:55+01:00",
+      "beer_name": "Děkujeme - Barley Wine",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-dekujeme-barley-wine/4677833"
+    },
+    {
+      "id": 1121453914,
+      "dt": "2022-01-17T20:48:50+01:00",
+      "beer_name": "Děkujeme - Barley Wine",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-dekujeme-barley-wine/4677833"
+    },
+    {
+      "id": 1121450408,
+      "dt": "2022-01-17T20:32:57+01:00",
+      "beer_name": "Flemish",
+      "brewery": "Pivovar Obora",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-flemish/4627695"
+    },
+    {
+      "id": 1121449895,
+      "dt": "2022-01-17T20:30:28+01:00",
+      "beer_name": "Flemish",
+      "brewery": "Pivovar Obora",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-flemish/4627695"
+    },
+    {
+      "id": 1121449817,
+      "dt": "2022-01-17T20:30:07+01:00",
+      "beer_name": "Flemish",
+      "brewery": "Pivovar Obora",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-flemish/4627695"
+    },
+    {
+      "id": 1121448391,
+      "dt": "2022-01-17T20:23:07+01:00",
+      "beer_name": "Barrel-aged Batch #03",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-03/4262728"
+    },
+    {
+      "id": 1121448218,
+      "dt": "2022-01-17T20:22:15+01:00",
+      "beer_name": "Barrel-aged Batch #03",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-03/4262728"
+    },
+    {
+      "id": 1121447898,
+      "dt": "2022-01-17T20:20:57+01:00",
+      "beer_name": "Barrel-aged Batch #03",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-03/4262728"
+    },
+    {
+      "id": 1121445428,
+      "dt": "2022-01-17T20:08:52+01:00",
+      "beer_name": "Barrel-aged Batch #02",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-02/4262720"
+    },
+    {
+      "id": 1121445308,
+      "dt": "2022-01-17T20:08:17+01:00",
+      "beer_name": "Barrel-aged Batch #02",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-02/4262720"
+    },
+    {
+      "id": 1121445302,
+      "dt": "2022-01-17T20:08:16+01:00",
+      "beer_name": "Barrel-aged Batch #02",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-02/4262720"
+    },
+    {
+      "id": 1121444552,
+      "dt": "2022-01-17T20:04:22+01:00",
+      "beer_name": "Barrel-aged Batch #01",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-01/4262715"
+    },
+    {
+      "id": 1121443934,
+      "dt": "2022-01-17T20:01:11+01:00",
+      "beer_name": "Barrel-aged Batch #01",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-01/4262715"
+    },
+    {
+      "id": 1121443787,
+      "dt": "2022-01-17T20:00:21+01:00",
+      "beer_name": "Barrel-aged Batch #01",
+      "brewery": "Pivovar Proud",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-proud-barrel-aged-batch-01/4262715"
+    },
+    {
+      "id": 1121442292,
+      "dt": "2022-01-17T19:52:46+01:00",
+      "beer_name": "Triple Gelato: Berries & Cream",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-triple-gelato-berries-and-cream/4424236"
+    },
+    {
+      "id": 1121442185,
+      "dt": "2022-01-17T19:52:07+01:00",
+      "beer_name": "RED Ale",
+      "brewery": "Slovácký pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/slovacky-pivovar-red-ale/4007723"
+    },
+    {
+      "id": 1121441725,
+      "dt": "2022-01-17T19:49:28+01:00",
+      "beer_name": "Kateřina",
+      "brewery": "Kyjovský pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/kyjovsky-pivovar-katerina/3260195"
+    },
+    {
+      "id": 1121441662,
+      "dt": "2022-01-17T19:49:09+01:00",
+      "beer_name": "IPA Hloh Peřenoklaný Infuse",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ipa-hloh-perenoklany-infuse/4650346"
+    },
+    {
+      "id": 1121441605,
+      "dt": "2022-01-17T19:48:49+01:00",
+      "beer_name": "Gelato: Pink Guava, Passion Fruit & Peach",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-pink-guava-passion-fruit-and-peach/3765021"
+    },
+    {
       "id": 1121268034,
       "dt": "2022-01-16T22:34:31+01:00",
       "beer_name": "Fresh Citra 15",
