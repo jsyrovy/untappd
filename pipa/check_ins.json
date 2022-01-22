@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1122174858,
+      "dt": "2022-01-21T20:18:25+01:00",
+      "beer_name": "Američan z Tigálu",
+      "brewery": "Pivovar Tišnov",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-tisnov-american-z-tigalu/2785841"
+    },
+    {
       "id": 1121696559,
       "dt": "2022-01-19T09:08:00+01:00",
       "beer_name": "Drunk Reindeer 2021",
