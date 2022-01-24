@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1123151329,
+      "dt": "2022-01-23T19:10:01+01:00",
+      "beer_name": "Ježibaba 12",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-jezibaba-12/1573582"
+    },
+    {
+      "id": 1123148037,
+      "dt": "2022-01-23T19:00:43+01:00",
+      "beer_name": "Session Juicy Lucy",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-session-juicy-lucy/3660932"
+    },
+    {
       "id": 1122174858,
       "dt": "2022-01-21T20:18:25+01:00",
       "beer_name": "Američan z Tigálu",
