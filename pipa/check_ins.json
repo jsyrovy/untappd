@@ -1,6 +1,110 @@
 {
   "check_ins": [
     {
+      "id": 1123414485,
+      "dt": "2022-01-24T22:15:38+01:00",
+      "beer_name": "Black Label #2: Ice Double IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-2-ice-double-ipa/2418149"
+    },
+    {
+      "id": 1123413155,
+      "dt": "2022-01-24T22:06:57+01:00",
+      "beer_name": "Black Label #1: Oak & Raisin Barley Wine",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-1-oak-and-raisin-barley-wine/1832225"
+    },
+    {
+      "id": 1123410985,
+      "dt": "2022-01-24T21:52:59+01:00",
+      "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
+      "brewery": "Deer Bear",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/deer-bear-fruit-garden-3-sour-ale-with-orange-x-nectarine-x-pomegranate/4508070"
+    },
+    {
+      "id": 1123409855,
+      "dt": "2022-01-24T21:45:35+01:00",
+      "beer_name": "Katsumoto",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-katsumoto/4577125"
+    },
+    {
+      "id": 1123405845,
+      "dt": "2022-01-24T21:21:15+01:00",
+      "beer_name": "Hazy El Dorado",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-hazy-el-dorado/4648464"
+    },
+    {
+      "id": 1123403694,
+      "dt": "2022-01-24T21:07:59+01:00",
+      "beer_name": "Noteckie Bursztynowe",
+      "brewery": "Browar Czarnków",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/browar-czarnkow-noteckie-bursztynowe/1032891"
+    },
+    {
+      "id": 1123402398,
+      "dt": "2022-01-24T20:59:52+01:00",
+      "beer_name": "Ronin",
+      "brewery": "Deer Bear",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/deer-bear-ronin/4537245"
+    },
+    {
+      "id": 1123395147,
+      "dt": "2022-01-24T20:14:57+01:00",
+      "beer_name": "Katsumoto",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-katsumoto/4577125"
+    },
+    {
+      "id": 1123392698,
+      "dt": "2022-01-24T19:58:27+01:00",
+      "beer_name": "Hazy El Dorado",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-hazy-el-dorado/4648464"
+    },
+    {
+      "id": 1123390290,
+      "dt": "2022-01-24T19:40:50+01:00",
+      "beer_name": "Noteckie Bursztynowe",
+      "brewery": "Browar Czarnków",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/browar-czarnkow-noteckie-bursztynowe/1032891"
+    },
+    {
+      "id": 1123389529,
+      "dt": "2022-01-24T19:35:13+01:00",
+      "beer_name": "Eichhofener Helles",
+      "brewery": "Schlossbrauerei Eichhofen",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlossbrauerei-eichhofen-eichhofener-helles/87771"
+    },
+    {
+      "id": 1123388881,
+      "dt": "2022-01-24T19:30:11+01:00",
+      "beer_name": "Kasztelan Jasne Pełne",
+      "brewery": "Browar Kasztelan",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-kasztelan-kasztelan-jasne-pelne/67702"
+    },
+    {
+      "id": 1123388595,
+      "dt": "2022-01-24T19:28:04+01:00",
+      "beer_name": "Slovácká 12°",
+      "brewery": "Slovácký pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/slovacky-pivovar-slovacka-120/3784858"
+    },
+    {
       "id": 1123151329,
       "dt": "2022-01-23T19:10:01+01:00",
       "beer_name": "Ježibaba 12",
