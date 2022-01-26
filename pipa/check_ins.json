@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1123496166,
+      "dt": "2022-01-25T16:44:33+01:00",
+      "beer_name": "Winter Enigma",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-winter-enigma/3089338"
+    },
+    {
+      "id": 1123494951,
+      "dt": "2022-01-25T16:20:08+01:00",
+      "beer_name": "New Norway IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-new-norway-ipa/2642167"
+    },
+    {
       "id": 1123414485,
       "dt": "2022-01-24T22:15:38+01:00",
       "beer_name": "Black Label #2: Ice Double IPA",
