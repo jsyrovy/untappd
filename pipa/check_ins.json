@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1123848692,
+      "dt": "2022-01-27T19:42:32+01:00",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1123830194,
+      "dt": "2022-01-27T18:15:17+01:00",
+      "beer_name": "Sun Blast IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-sun-blast-ipa/3619316"
+    },
+    {
       "id": 1123496166,
       "dt": "2022-01-25T16:44:33+01:00",
       "beer_name": "Winter Enigma",
