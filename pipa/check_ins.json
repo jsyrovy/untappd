@@ -1,6 +1,70 @@
 {
   "check_ins": [
     {
+      "id": 1124268934,
+      "dt": "2022-01-28T23:36:20+01:00",
+      "beer_name": "Černokněžník",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-cernokneznik/4247451"
+    },
+    {
+      "id": 1124216232,
+      "dt": "2022-01-28T22:12:16+01:00",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1124168063,
+      "dt": "2022-01-28T21:03:35+01:00",
+      "beer_name": "Fanouš",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-fanous/1206402"
+    },
+    {
+      "id": 1124150124,
+      "dt": "2022-01-28T20:37:12+01:00",
+      "beer_name": "Southern Sun",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-southern-sun/4663000"
+    },
+    {
+      "id": 1124111575,
+      "dt": "2022-01-28T19:31:05+01:00",
+      "beer_name": "Perníček",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pernicek/4251374"
+    },
+    {
+      "id": 1124111126,
+      "dt": "2022-01-28T19:30:17+01:00",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1124104025,
+      "dt": "2022-01-28T19:16:33+01:00",
+      "beer_name": "New Norway IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-new-norway-ipa/2642167"
+    },
+    {
+      "id": 1124088649,
+      "dt": "2022-01-28T18:44:02+01:00",
+      "beer_name": "New Norway IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-new-norway-ipa/2642167"
+    },
+    {
       "id": 1123848692,
       "dt": "2022-01-27T19:42:32+01:00",
       "beer_name": "Plum Chocolate Smoothie",
