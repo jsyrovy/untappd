@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1125180224,
+      "dt": "2022-01-30T21:02:11+01:00",
+      "beer_name": "Muflon Gose",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-muflon-gose/4606121"
+    },
+    {
+      "id": 1125179987,
+      "dt": "2022-01-30T21:01:46+01:00",
+      "beer_name": "Muflon Gose",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-muflon-gose/4606121"
+    },
+    {
+      "id": 1125171770,
+      "dt": "2022-01-30T20:45:57+01:00",
+      "beer_name": "Upside Down Cake",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-upside-down-cake/4116844"
+    },
+    {
+      "id": 1125166282,
+      "dt": "2022-01-30T20:34:33+01:00",
+      "beer_name": "Sundae: Belgian Waffle",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-belgian-waffle/4191287"
+    },
+    {
+      "id": 1125158899,
+      "dt": "2022-01-30T20:18:37+01:00",
+      "beer_name": "Sundae: Belgian Waffle",
+      "brewery": "Browar NOOK",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nook-sundae-belgian-waffle/4191287"
+    },
+    {
+      "id": 1125154988,
+      "dt": "2022-01-30T20:09:52+01:00",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1125151427,
+      "dt": "2022-01-30T20:01:59+01:00",
+      "beer_name": "Lifelink",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lifelink/4681903"
+    },
+    {
+      "id": 1125103526,
+      "dt": "2022-01-30T17:55:24+01:00",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
+    },
+    {
+      "id": 1125099183,
+      "dt": "2022-01-30T17:40:53+01:00",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
       "id": 1124684659,
       "dt": "2022-01-29T20:56:24+01:00",
       "beer_name": "Catcher",
