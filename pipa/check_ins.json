@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1125381845,
+      "dt": "2022-01-31T18:37:13+01:00",
+      "beer_name": "Gosebumps Tropico",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-gosebumps-tropico/3953857"
+    },
+    {
       "id": 1125180224,
       "dt": "2022-01-30T21:02:11+01:00",
       "beer_name": "Muflon Gose",
