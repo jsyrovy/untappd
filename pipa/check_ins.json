@@ -1,6 +1,118 @@
 {
   "check_ins": [
     {
+      "id": 1125990889,
+      "dt": "2022-02-04T03:11:16+01:00",
+      "beer_name": "Catcher",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-catcher/4681906"
+    },
+    {
+      "id": 1125990677,
+      "dt": "2022-02-04T03:10:26+01:00",
+      "beer_name": "Aecht Schlenkerla Rauchbier - Weizen",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-weizen/472"
+    },
+    {
+      "id": 1125954739,
+      "dt": "2022-02-04T01:10:23+01:00",
+      "beer_name": "Rauchbier 14",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-rauchbier-14/2377767"
+    },
+    {
+      "id": 1125907922,
+      "dt": "2022-02-03T22:36:09+01:00",
+      "beer_name": "Pink Boots 2021",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-pink-boots-2021/4595750"
+    },
+    {
+      "id": 1125907597,
+      "dt": "2022-02-03T22:35:00+01:00",
+      "beer_name": "Flemish",
+      "brewery": "Pivovar Obora",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-flemish/4627695"
+    },
+    {
+      "id": 1125907515,
+      "dt": "2022-02-03T22:34:44+01:00",
+      "beer_name": "Děkujeme - Barley Wine",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-dekujeme-barley-wine/4677833"
+    },
+    {
+      "id": 1125907122,
+      "dt": "2022-02-03T22:33:26+01:00",
+      "beer_name": "Katsumoto",
+      "brewery": "Deer Bear",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/deer-bear-katsumoto/4577125"
+    },
+    {
+      "id": 1125907008,
+      "dt": "2022-02-03T22:33:01+01:00",
+      "beer_name": "Black Label #1: Oak & Raisin Barley Wine",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-1-oak-and-raisin-barley-wine/1832225"
+    },
+    {
+      "id": 1125906926,
+      "dt": "2022-02-03T22:32:42+01:00",
+      "beer_name": "Black Label #2: Ice Double IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-black-label-2-ice-double-ipa/2418149"
+    },
+    {
+      "id": 1125906799,
+      "dt": "2022-02-03T22:32:14+01:00",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1125906632,
+      "dt": "2022-02-03T22:31:35+01:00",
+      "beer_name": "Hazy El Dorado",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-hazy-el-dorado/4648464"
+    },
+    {
+      "id": 1125843161,
+      "dt": "2022-02-03T18:53:57+01:00",
+      "beer_name": "Drifter",
+      "brewery": "Pivovar Raven",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-raven-drifter/2950687"
+    },
+    {
+      "id": 1125840430,
+      "dt": "2022-02-03T18:40:32+01:00",
+      "beer_name": "New Zealand Pale Ale 12",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-zealand-pale-ale-12/2514889"
+    },
+    {
+      "id": 1125657887,
+      "dt": "2022-02-02T18:24:36+01:00",
+      "beer_name": "Catcher",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-catcher/4681906"
+    },
+    {
       "id": 1125381845,
       "dt": "2022-01-31T18:37:13+01:00",
       "beer_name": "Gosebumps Tropico",
