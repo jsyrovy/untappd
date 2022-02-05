@@ -1,6 +1,62 @@
 {
   "check_ins": [
     {
+      "id": 1126258681,
+      "dt": "2022-02-04T23:06:27+01:00",
+      "beer_name": "Piwakawaka",
+      "brewery": "Chroust",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/chroust-piwakawaka/4699837"
+    },
+    {
+      "id": 1126256792,
+      "dt": "2022-02-04T23:03:22+01:00",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1126254380,
+      "dt": "2022-02-04T22:59:35+01:00",
+      "beer_name": "Švestkové",
+      "brewery": "Pivovar Kunratice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-kunratice-svestkove/4589165"
+    },
+    {
+      "id": 1126091969,
+      "dt": "2022-02-04T18:32:32+01:00",
+      "beer_name": "Aecht Schlenkerla Rauchbier - Hansla",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-hansla/3249784"
+    },
+    {
+      "id": 1126079166,
+      "dt": "2022-02-04T17:59:17+01:00",
+      "beer_name": "Capulin",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-capulin/4690916"
+    },
+    {
+      "id": 1126079136,
+      "dt": "2022-02-04T17:59:12+01:00",
+      "beer_name": "Upside Down Cake",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-upside-down-cake/4116844"
+    },
+    {
+      "id": 1126068003,
+      "dt": "2022-02-04T17:23:49+01:00",
+      "beer_name": "Lifelink",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lifelink/4681903"
+    },
+    {
       "id": 1125990889,
       "dt": "2022-02-04T03:11:16+01:00",
       "beer_name": "Catcher",
