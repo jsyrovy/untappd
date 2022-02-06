@@ -1,6 +1,30 @@
 {
   "check_ins": [
     {
+      "id": 1126862991,
+      "dt": "2022-02-05T23:51:39+01:00",
+      "beer_name": "Capulin",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-capulin/4690916"
+    },
+    {
+      "id": 1126841424,
+      "dt": "2022-02-05T23:26:04+01:00",
+      "beer_name": "Upside Down Cake",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-upside-down-cake/4116844"
+    },
+    {
+      "id": 1126554055,
+      "dt": "2022-02-05T17:47:20+01:00",
+      "beer_name": "Capulin",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-capulin/4690916"
+    },
+    {
       "id": 1126258681,
       "dt": "2022-02-04T23:06:27+01:00",
       "beer_name": "Piwakawaka",
