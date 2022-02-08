@@ -1,6 +1,166 @@
 {
   "check_ins": [
     {
+      "id": 1127434501,
+      "dt": "2022-02-07T22:08:18+01:00",
+      "beer_name": "Bezalkoholowe Mango Ale",
+      "brewery": "Browar Grodzisk",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/browar-grodzisk-bezalkoholowe-mango-ale/3713873"
+    },
+    {
+      "id": 1127430545,
+      "dt": "2022-02-07T21:44:47+01:00",
+      "beer_name": "St-Louis Premium Kriek",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-st-louis-premium-kriek/3209899"
+    },
+    {
+      "id": 1127428608,
+      "dt": "2022-02-07T21:33:43+01:00",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1127425989,
+      "dt": "2022-02-07T21:18:58+01:00",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1127425916,
+      "dt": "2022-02-07T21:18:39+01:00",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1127421523,
+      "dt": "2022-02-07T20:54:15+01:00",
+      "beer_name": "Guaranteed",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-guaranteed/4498438"
+    },
+    {
+      "id": 1127421290,
+      "dt": "2022-02-07T20:52:56+01:00",
+      "beer_name": "Guaranteed",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-guaranteed/4498438"
+    },
+    {
+      "id": 1127418616,
+      "dt": "2022-02-07T20:37:15+01:00",
+      "beer_name": "ART51 New England IPA Apricot",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-art51-new-england-ipa-apricot/4558389"
+    },
+    {
+      "id": 1127418450,
+      "dt": "2022-02-07T20:36:12+01:00",
+      "beer_name": "ART51 New England IPA Apricot",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-art51-new-england-ipa-apricot/4558389"
+    },
+    {
+      "id": 1127417314,
+      "dt": "2022-02-07T20:29:37+01:00",
+      "beer_name": "Slapshot",
+      "brewery": "Sudden Death Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sudden-death-brewing-co-slapshot/4317529"
+    },
+    {
+      "id": 1127417089,
+      "dt": "2022-02-07T20:28:12+01:00",
+      "beer_name": "Slapshot",
+      "brewery": "Sudden Death Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sudden-death-brewing-co-slapshot/4317529"
+    },
+    {
+      "id": 1127413916,
+      "dt": "2022-02-07T20:09:19+01:00",
+      "beer_name": "Space Chill",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-space-chill/4690610"
+    },
+    {
+      "id": 1127413709,
+      "dt": "2022-02-07T20:08:01+01:00",
+      "beer_name": "Space Chill",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-space-chill/4690610"
+    },
+    {
+      "id": 1127411894,
+      "dt": "2022-02-07T19:57:30+01:00",
+      "beer_name": "Piwakawaka",
+      "brewery": "Chroust",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/chroust-piwakawaka/4699837"
+    },
+    {
+      "id": 1127411842,
+      "dt": "2022-02-07T19:57:09+01:00",
+      "beer_name": "Piwakawaka",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-piwakawaka/4699837"
+    },
+    {
+      "id": 1127410916,
+      "dt": "2022-02-07T19:51:03+01:00",
+      "beer_name": "Red",
+      "brewery": "Lobeč",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/lobec-red/2988681"
+    },
+    {
+      "id": 1127410495,
+      "dt": "2022-02-07T19:48:29+01:00",
+      "beer_name": "Red",
+      "brewery": "Lobeč",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/lobec-red/2988681"
+    },
+    {
+      "id": 1127408819,
+      "dt": "2022-02-07T19:37:45+01:00",
+      "beer_name": "Aecht Schlenkerla Rauchbier - Märzen",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-marzen/471"
+    },
+    {
+      "id": 1127408257,
+      "dt": "2022-02-07T19:34:08+01:00",
+      "beer_name": "Helles Schlenkerla Lagerbier",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-helles-schlenkerla-lager/19471"
+    },
+    {
+      "id": 1127408097,
+      "dt": "2022-02-07T19:33:02+01:00",
+      "beer_name": "Helles Schlenkerla Lagerbier",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-helles-schlenkerla-lager/19471"
+    },
+    {
       "id": 1126862991,
       "dt": "2022-02-05T23:51:39+01:00",
       "beer_name": "Capulin",
