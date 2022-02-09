@@ -30,12 +30,12 @@
 
         .container {
             display: grid;
-            grid-template-columns: 250px 250px;
+            grid-template-columns: 250px 250px 250px;
             grid-template-rows: auto;
             grid-template-areas:
-                "item-jirka item-dan"
-                "item-chart item-chart"
-                "item-twitter item-twitter"
+                "item-jirka item-dan item-matej"
+                "item-chart item-chart item-chart"
+                "item-twitter item-twitter item-twitter"
         }
 
         .item-count {
@@ -46,12 +46,17 @@
 
         .item-jirka {
             grid-area: item-jirka;
-            background: #51d49a;
+            background: #06d6a0;
         }
 
         .item-dan {
             grid-area: item-dan;
-            background: #278db2;
+            background: #118ab2;
+        }
+
+        .item-matej {
+            grid-area: item-matej;
+            background: #073b4c;
         }
 
         .count {
@@ -86,6 +91,7 @@
                 grid-template-areas:
                     "item-jirka"
                     "item-dan"
+                    "item-matej"
                     "item-chart"
                     "item-twitter"
             }
@@ -114,14 +120,21 @@
             <div class="item-count item-jirka">
                 <span class="count">{{ unique_beers_count_jirka }}</span>
                 <span class="diff">{{ diff_jirka }}</span>
-                <div class="name">Jirka {% if unique_beers_count_jirka > unique_beers_count_dan %}👑{% endif %}</div>
+                <div class="name">Jirka {% if unique_beers_count_jirka > unique_beers_count_dan and unique_beers_count_jirka > unique_beers_count_matej %}👑{% endif %}</div>
             </div>
         </a>
         <a href="https://untappd.com/user/mencik2">
             <div class="item-count item-dan">
                 <span class="count">{{ unique_beers_count_dan }}</span>
                 <span class="diff">{{ diff_dan }}</span>
-                <div class="name">Dan {% if unique_beers_count_dan > unique_beers_count_jirka %}👑{% endif %}</div>
+                <div class="name">Dan {% if unique_beers_count_dan > unique_beers_count_jirka and unique_beers_count_dan > unique_beers_count_matej %}👑{% endif %}</div>
+            </div>
+        </a>
+        <a href="https://untappd.com/user/Mates511">
+            <div class="item-count item-matej">
+                <span class="count">{{ unique_beers_count_dan }}</span>
+                <span class="diff">{{ diff_dan }}</span>
+                <div class="name">Matěj {% if unique_beers_count_matej > unique_beers_count_jirka and unique_beers_count_matej > unique_beers_count_dan %}👑{% endif %}</div>
             </div>
         </a>
         <div class="item-chart">
@@ -143,18 +156,26 @@
         type: 'line',
         data: {
             labels: {{ chart_labels | safe }},
-            datasets: [{
-                label: 'Jirka',
-                data: {{ chart_data_jirka | safe }},
-                borderColor: '#51d49a',
-                backgroundColor: '#51d49a'
-            },
+            datasets: [
+                {
+                    label: 'Jirka',
+                    data: {{ chart_data_jirka | safe }},
+                    borderColor: '#06d6a0',
+                    backgroundColor: '#06d6a0'
+                },
                 {
                     label: 'Dan',
                     data: {{ chart_data_dan | safe }},
-                    borderColor: '#278db2',
-                    backgroundColor: '#278db2'
-                }]
+                    borderColor: '#118ab2',
+                    backgroundColor: '#118ab2'
+                },
+                {
+                    label: 'Matěj',
+                    data: {{ chart_data_matej | safe }},
+                    borderColor: '#073b4c',
+                    backgroundColor: '#073b4c'
+                }
+            ]
         },
         options: {
             plugins: {

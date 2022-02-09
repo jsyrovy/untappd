@@ -71,54 +71,83 @@ def test_parse_unique_beers_count_with_invalid_count():
 
 
 @pytest.mark.parametrize(
-    ('unique_beers_count_jirka', 'unique_beers_count_dan', 'has_crown_jirka', 'has_crown_dan'),
+    (
+        'unique_beers_count_jirka',
+        'unique_beers_count_dan',
+        'unique_beers_count_matej',
+        'has_crown_jirka',
+        'has_crown_dan',
+        'has_crown_matej',
+    ),
     [
-        (10, 5, True, False),
-        (5, 10, False, True),
-        (10, 10, False, False),
+        (10, 5, 2, True, False, False),
+        (5, 10, 2, False, True, False),
+        (2, 5, 10, False, False, True),
+        (10, 10, 10, False, False, False),
     ],
 )
-def test_winner_badge(unique_beers_count_jirka, unique_beers_count_dan, has_crown_jirka, has_crown_dan):
+def test_winner_badge(
+    unique_beers_count_jirka,
+    unique_beers_count_dan,
+    unique_beers_count_matej,
+    has_crown_jirka,
+    has_crown_dan,
+    has_crown_matej,
+):
     page = pivni_valka.get_page(
         utils.get_template('pivni-valka.html', ('templates', '../templates')),
         unique_beers_count_jirka=unique_beers_count_jirka,
         unique_beers_count_dan=unique_beers_count_dan,
+        unique_beers_count_matej=unique_beers_count_matej,
         chart_labels=[],
         chart_data_jirka=[],
         chart_data_dan=[],
+        chart_data_matej=[],
         diff_jirka='',
         diff_dan='',
+        diff_matej='',
     )
 
     assert ('Jirka 👑' in page) == has_crown_jirka
     assert ('Dan 👑' in page) == has_crown_dan
+    assert ('Matěj 👑' in page) == has_crown_matej
 
 
 @pytest.mark.parametrize(
-    ('unique_beers_count_jirka', 'unique_beers_count_dan', 'diff_jirka', 'diff_dan', 'expected_result'),
+    (
+        'unique_beers_count_jirka',
+        'unique_beers_count_dan',
+        'unique_beers_count_matej',
+        'diff_jirka',
+        'diff_dan',
+        'diff_matej',
+        'expected_result',
+    ),
     [
-        (10, 5, 0, 0, ''),
-        (10, 5, 1, 0, 'Jirka včera vypil 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
-        (10, 5, 0, 1, 'Dan včera vypil 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
-        (10, 5, 1, 1, 'Jirka i Dan včera vypili 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
-        (5, 10, 1, 0, 'Jirka včera vypil 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
-        (5, 10, 0, 1, 'Dan včera vypil 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
-        (5, 10, 1, 1, 'Jirka i Dan včera vypili 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
-        (10, 10, 1, 0, 'Jirka včera vypil 1 🍺. Oba nyní mají 10 🍺.'),
-        (10, 10, 0, 1, 'Dan včera vypil 1 🍺. Oba nyní mají 10 🍺.'),
-        (10, 10, 1, 1, 'Jirka i Dan včera vypili 1 🍺. Oba nyní mají 10 🍺.'),
-        (10, 5, 2, 1, 'Jirka včera vypil 2 🍺, Dan jen 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
-        (10, 5, 1, 2, 'Dan včera vypil 2 🍺, Jirka jen 1 🍺. Jirka vede s 10 🍺, Dan zaostává s 5 🍺.'),
-        (5, 10, 2, 1, 'Jirka včera vypil 2 🍺, Dan jen 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
-        (5, 10, 1, 2, 'Dan včera vypil 2 🍺, Jirka jen 1 🍺. Dan vede s 10 🍺, Jirka zaostává s 5 🍺.'),
-        (10, 10, 2, 1, 'Jirka včera vypil 2 🍺, Dan jen 1 🍺. Oba nyní mají 10 🍺.'),
-        (10, 10, 1, 2, 'Dan včera vypil 2 🍺, Jirka jen 1 🍺. Oba nyní mají 10 🍺.'),
+        (10, 5, 2, 0, 0, 0, ''),
+        (10, 5, 2, 1, 0, 0, 'Jirka včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
+        (10, 5, 2, 0, 1, 0, 'Dan včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
+        (10, 5, 2, 0, 0, 1, 'Matěj včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
+        (10, 5, 2, 1, 1, 0, 'Jirka včera vypil 1 🍺. Dan včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
+        (10, 5, 2, 1, 0, 1, 'Jirka včera vypil 1 🍺. Matěj včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
+        (10, 5, 2, 0, 1, 1, 'Dan včera vypil 1 🍺. Matěj včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
+        (10, 5, 2, 1, 1, 1, 'Jirka včera vypil 1 🍺. Dan včera vypil 1 🍺. Matěj včera vypil 1 🍺. Jirka má celkem 10 🍺, Dan 5 🍺 a Matěj 2 🍺.'),
     ],
 )
-def test_get_tweet_status(unique_beers_count_jirka, unique_beers_count_dan, diff_jirka, diff_dan, expected_result):
+def test_get_tweet_status(
+    unique_beers_count_jirka,
+    unique_beers_count_dan,
+    unique_beers_count_matej,
+    diff_jirka,
+    diff_dan,
+    diff_matej,
+    expected_result,
+):
     assert pivni_valka.get_tweet_status(
         unique_beers_count_jirka,
         unique_beers_count_dan,
+        unique_beers_count_matej,
         diff_jirka,
         diff_dan,
+        diff_matej,
     ) == expected_result
