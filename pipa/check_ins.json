@@ -1,6 +1,22 @@
 {
   "check_ins": [
     {
+      "id": 1128261810,
+      "dt": "2022-02-11T21:46:47+01:00",
+      "beer_name": "Capulin",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-capulin/4690916"
+    },
+    {
+      "id": 1128259213,
+      "dt": "2022-02-11T21:43:04+01:00",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
       "id": 1127434501,
       "dt": "2022-02-07T22:08:18+01:00",
       "beer_name": "Bezalkoholowe Mango Ale",
