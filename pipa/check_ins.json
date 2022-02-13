@@ -1,6 +1,14 @@
 {
   "check_ins": [
     {
+      "id": 1128960832,
+      "dt": "2022-02-13T00:17:01+01:00",
+      "beer_name": "Paradise Ale",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-paradise-ale/1297130"
+    },
+    {
       "id": 1128261810,
       "dt": "2022-02-11T21:46:47+01:00",
       "beer_name": "Capulin",
