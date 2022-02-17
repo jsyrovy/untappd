@@ -14,11 +14,11 @@ help:
 	@echo "  generate stats and publish page"
 	@echo "make test-pivni-valka"
 	@echo "  run tests"
-	@echo "make run-pipa"
+	@echo "make run-hospody"
 	@echo "  download stats and publish page"
-	@echo "make run-pipa-local"
+	@echo "make run-hospody-local"
 	@echo "  generate stats and publish page"
-	@echo "make test-pipa"
+	@echo "make test-hospody"
 	@echo "  run tests"
 	@echo "make mypy-install-types"
 	@echo "  install mypy types"
@@ -38,14 +38,14 @@ run-pivni-valka-local:
 test-pivni-valka:
 	${PYTHON} -m pytest pivni_valka/tests.py
 
-run-pipa:
-	${PYTHON} run_pipa.py
+run-hospody:
+	${PYTHON} run_hospody.py
 
-run-pipa-local:
-	${PYTHON} run_pipa.py --local
+run-hospody-local:
+	${PYTHON} run_hospody.py --local
 
-test-pipa:
-	${PYTHON} -m pytest pipa/tests.py
+test-hospody:
+	${PYTHON} -m pytest hospody/tests.py
 
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .

@@ -1,10 +1,10 @@
-name: pipa
+name: hospody
 on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
 jobs:
-  pipa:
+  hospody:
     runs-on: ubuntu-18.04
     steps:
       - name: Check out
@@ -20,11 +20,11 @@ jobs:
       - name: Create venv
         run: make init
       - name: Run
-        run: make run-pipa
+        run: make run-hospody
       - name: Save
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          commit_message: Update pipa
+          commit_message: Update hospody

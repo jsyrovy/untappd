@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 import utils
 
-CHECK_INS_PATH = 'pipa/check_ins.json'
+CHECK_INS_PATH = 'hospody/check_ins.json'
 
 SERVING_DRAFT = 'Čepované'
 SERVING_BOTTLE = 'Lahvové'
@@ -76,9 +76,9 @@ def run() -> None:
     sort_check_ins(check_ins)
     save_check_ins(check_ins)
     unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
-    page = get_page(utils.get_template('pipa.html'), unique_beers_check_ins)
+    page = get_page(utils.get_template('hospody.html'), unique_beers_check_ins)
 
-    with open('pipa/index.html', 'w', encoding=utils.ENCODING) as f:
+    with open('hospody/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
 
 

@@ -1,10 +1,10 @@
 import datetime
 
-import pipa
+import hospody
 
 
 def test_create_random_check_in():
-    check_in = pipa.CheckIn.get_random()
+    check_in = hospody.CheckIn.get_random()
 
     assert check_in.id
     assert check_in.dt
@@ -23,7 +23,7 @@ def test_create_check_in_from_json():
         'serving': 'cepovane',
         'beer_link': 'https://pivo.org'
     }
-    check_in = pipa.CheckIn.from_json(json_)
+    check_in = hospody.CheckIn.from_json(json_)
 
     assert check_in.id == json_['id']
     assert check_in.dt == datetime.datetime(2000, 1, 1, 0, 0, 0)
@@ -34,7 +34,9 @@ def test_create_check_in_from_json():
 
 
 def test_check_in_to_json():
-    check_in = pipa.CheckIn(42, datetime.datetime(2000, 1, 1, 0, 0, 0), 'pivo', 'pivovar', 'cepovane', 'https://pivo.org')
+    check_in = hospody.CheckIn(
+        42, datetime.datetime(2000, 1, 1, 0, 0, 0), 'pivo', 'pivovar', 'cepovane', 'https://pivo.org'
+    )
     json_ = check_in.to_json()
 
     assert json_['id'] == check_in.id
@@ -46,11 +48,11 @@ def test_check_in_to_json():
 
 
 def test_check_ins_order():
-    first_check_in = pipa.CheckIn.get_random()
-    middle_check_in = pipa.CheckIn.get_random()
-    last_check_in = pipa.CheckIn.get_random()
+    first_check_in = hospody.CheckIn.get_random()
+    middle_check_in = hospody.CheckIn.get_random()
+    last_check_in = hospody.CheckIn.get_random()
 
-    check_ins = pipa.get_unique_beers_check_ins([last_check_in, first_check_in, middle_check_in])
+    check_ins = hospody.get_unique_beers_check_ins([last_check_in, first_check_in, middle_check_in])
 
     assert first_check_in.dt < middle_check_in.dt < last_check_in.dt
     assert len(check_ins) == 1
@@ -58,12 +60,12 @@ def test_check_ins_order():
 
 
 def test_check_ins_sort():
-    first_check_in = pipa.CheckIn.get_random()
-    middle_check_in = pipa.CheckIn.get_random()
-    last_check_in = pipa.CheckIn.get_random()
+    first_check_in = hospody.CheckIn.get_random()
+    middle_check_in = hospody.CheckIn.get_random()
+    last_check_in = hospody.CheckIn.get_random()
 
     check_ins = [last_check_in, first_check_in, middle_check_in]
-    pipa.sort_check_ins(check_ins)
+    hospody.sort_check_ins(check_ins)
 
     assert first_check_in.dt < middle_check_in.dt < last_check_in.dt
     assert check_ins[0].dt > check_ins[1].dt > check_ins[2].dt
