@@ -18,24 +18,34 @@ SERVING_BOTTLE = 'Lahvové'
 SERVING_CAN = 'Plechovkové'
 SERVING_UNKNOWN = 'Nezadáno'
 
+VENUE_PIPA = 'U Toulavé pípy'
+
+URLS = {
+    VENUE_PIPA: f'{utils.BASE_URL}/v/u-toulave-pipy/3663231',
+}
+
 
 @dataclass
 class CheckIn:
     id: int
     dt: datetime
+    venue_name: str
     beer_name: str
     brewery: str
     serving: str
     beer_link: str
+    venue_link: str
 
     @staticmethod
     def get_random() -> 'CheckIn':
         return CheckIn(
             random.randrange(1000),
             datetime.now(tz=timezone(timedelta(seconds=7200))),
+            'Hospoda',
             'Pivo',
             'Pivovar',
             SERVING_DRAFT,
+            utils.BASE_URL,
             utils.BASE_URL,
         )
 
@@ -44,16 +54,19 @@ class CheckIn:
         return CheckIn(
             json_['id'],
             datetime.fromisoformat(json_['dt']),
+            json_['venue_name'],
             json_['beer_name'],
             json_['brewery'],
             json_['serving'],
             json_['beer_link'],
+            URLS[json_['venue_name']],
         )
 
     def to_json(self) -> Dict[str, Any]:
         return {
             'id': self.id,
             'dt': self.dt.isoformat(),
+            'venue_name': self.venue_name,
             'beer_name': self.beer_name,
             'brewery': self.brewery,
             'serving': self.serving,
@@ -62,7 +75,7 @@ class CheckIn:
 
 
 def run() -> None:
-    new_check_ins = get_new_check_ins(utils.is_run_locally())
+    new_check_ins = get_new_check_ins(utils.is_run_locally(), VENUE_PIPA)
     check_ins = load_check_ins()
 
     for new_check_in in new_check_ins:
@@ -82,15 +95,15 @@ def run() -> None:
         f.write(page)
 
 
-def get_new_check_ins(local: bool) -> List[CheckIn]:
+def get_new_check_ins(local: bool, venue_name: str) -> List[CheckIn]:
     if local:
         return [CheckIn.get_random(), CheckIn.get_random(), CheckIn.get_random()]
 
-    page = utils.download_page(f'{utils.BASE_URL}/v/u-toulave-pipy/3663231')
-    return parse_check_ins(page)
+    page = utils.download_page(URLS[venue_name])
+    return parse_check_ins(page, venue_name)
 
 
-def parse_check_ins(page: str) -> List[CheckIn]:
+def parse_check_ins(page: str, venue_name: str) -> List[CheckIn]:
     def parse_dt(s: str) -> datetime:
         utc_dt = datetime.strptime(s, '%a, %d %b %Y %H:%M:%S %z')
         return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
@@ -125,7 +138,7 @@ def parse_check_ins(page: str) -> List[CheckIn]:
         serving = get_czech_serving(serving_section.find('span').text if serving_section else None)
         beer_link = f'{utils.BASE_URL}{links[1]["href"]}'
 
-        beers.append(CheckIn(id_, dt, beer_name, brewery, serving, beer_link))
+        beers.append(CheckIn(id_, dt, venue_name, beer_name, brewery, serving, beer_link, URLS[venue_name]))
 
     return beers
 

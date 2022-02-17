@@ -3,6 +3,7 @@
     {
       "id": 1128960832,
       "dt": "2022-02-13T00:17:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Paradise Ale",
       "brewery": "Pivovar Zhůřák",
       "serving": "Čepované",
@@ -11,6 +12,7 @@
     {
       "id": 1128261810,
       "dt": "2022-02-11T21:46:47+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Capulin",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -19,6 +21,7 @@
     {
       "id": 1128259213,
       "dt": "2022-02-11T21:43:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -27,6 +30,7 @@
     {
       "id": 1127434501,
       "dt": "2022-02-07T22:08:18+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Bezalkoholowe Mango Ale",
       "brewery": "Browar Grodzisk",
       "serving": "Lahvové",
@@ -35,6 +39,7 @@
     {
       "id": 1127430545,
       "dt": "2022-02-07T21:44:47+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "St-Louis Premium Kriek",
       "brewery": "Kasteel Brouwerij Vanhonsebrouck",
       "serving": "Lahvové",
@@ -43,6 +48,7 @@
     {
       "id": 1127428608,
       "dt": "2022-02-07T21:33:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -51,6 +57,7 @@
     {
       "id": 1127425989,
       "dt": "2022-02-07T21:18:58+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -59,6 +66,7 @@
     {
       "id": 1127425916,
       "dt": "2022-02-07T21:18:39+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -67,6 +75,7 @@
     {
       "id": 1127421523,
       "dt": "2022-02-07T20:54:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Guaranteed",
       "brewery": "Browar Stu Mostów",
       "serving": "Plechovkové",
@@ -75,6 +84,7 @@
     {
       "id": 1127421290,
       "dt": "2022-02-07T20:52:56+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Guaranteed",
       "brewery": "Browar Stu Mostów",
       "serving": "Plechovkové",
@@ -83,6 +93,7 @@
     {
       "id": 1127418616,
       "dt": "2022-02-07T20:37:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART51 New England IPA Apricot",
       "brewery": "Browar Stu Mostów",
       "serving": "Plechovkové",
@@ -91,6 +102,7 @@
     {
       "id": 1127418450,
       "dt": "2022-02-07T20:36:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART51 New England IPA Apricot",
       "brewery": "Browar Stu Mostów",
       "serving": "Plechovkové",
@@ -99,6 +111,7 @@
     {
       "id": 1127417314,
       "dt": "2022-02-07T20:29:37+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Slapshot",
       "brewery": "Sudden Death Brewing Co.",
       "serving": "Plechovkové",
@@ -107,6 +120,7 @@
     {
       "id": 1127417089,
       "dt": "2022-02-07T20:28:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Slapshot",
       "brewery": "Sudden Death Brewing Co.",
       "serving": "Plechovkové",
@@ -115,6 +129,7 @@
     {
       "id": 1127413916,
       "dt": "2022-02-07T20:09:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Space Chill",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -123,6 +138,7 @@
     {
       "id": 1127413709,
       "dt": "2022-02-07T20:08:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Space Chill",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -131,6 +147,7 @@
     {
       "id": 1127411894,
       "dt": "2022-02-07T19:57:30+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Piwakawaka",
       "brewery": "Chroust",
       "serving": "Lahvové",
@@ -139,6 +156,7 @@
     {
       "id": 1127411842,
       "dt": "2022-02-07T19:57:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Piwakawaka",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -147,6 +165,7 @@
     {
       "id": 1127410916,
       "dt": "2022-02-07T19:51:03+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Red",
       "brewery": "Lobeč",
       "serving": "Lahvové",
@@ -155,6 +174,7 @@
     {
       "id": 1127410495,
       "dt": "2022-02-07T19:48:29+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Red",
       "brewery": "Lobeč",
       "serving": "Lahvové",
@@ -163,6 +183,7 @@
     {
       "id": 1127408819,
       "dt": "2022-02-07T19:37:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Aecht Schlenkerla Rauchbier - Märzen",
       "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
       "serving": "Lahvové",
@@ -171,6 +192,7 @@
     {
       "id": 1127408257,
       "dt": "2022-02-07T19:34:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Helles Schlenkerla Lagerbier",
       "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
       "serving": "Lahvové",
@@ -179,6 +201,7 @@
     {
       "id": 1127408097,
       "dt": "2022-02-07T19:33:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Helles Schlenkerla Lagerbier",
       "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
       "serving": "Lahvové",
@@ -187,6 +210,7 @@
     {
       "id": 1126862991,
       "dt": "2022-02-05T23:51:39+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Capulin",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -195,6 +219,7 @@
     {
       "id": 1126841424,
       "dt": "2022-02-05T23:26:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Upside Down Cake",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -203,6 +228,7 @@
     {
       "id": 1126554055,
       "dt": "2022-02-05T17:47:20+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Capulin",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -211,6 +237,7 @@
     {
       "id": 1126258681,
       "dt": "2022-02-04T23:06:27+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Piwakawaka",
       "brewery": "Chroust",
       "serving": "Nezadáno",
@@ -219,6 +246,7 @@
     {
       "id": 1126256792,
       "dt": "2022-02-04T23:03:22+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -227,6 +255,7 @@
     {
       "id": 1126254380,
       "dt": "2022-02-04T22:59:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Švestkové",
       "brewery": "Pivovar Kunratice",
       "serving": "Lahvové",
@@ -235,6 +264,7 @@
     {
       "id": 1126091969,
       "dt": "2022-02-04T18:32:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Aecht Schlenkerla Rauchbier - Hansla",
       "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
       "serving": "Lahvové",
@@ -243,6 +273,7 @@
     {
       "id": 1126079166,
       "dt": "2022-02-04T17:59:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Capulin",
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
@@ -251,6 +282,7 @@
     {
       "id": 1126079136,
       "dt": "2022-02-04T17:59:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Upside Down Cake",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -259,6 +291,7 @@
     {
       "id": 1126068003,
       "dt": "2022-02-04T17:23:49+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Lifelink",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -267,6 +300,7 @@
     {
       "id": 1125990889,
       "dt": "2022-02-04T03:11:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Catcher",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -275,6 +309,7 @@
     {
       "id": 1125990677,
       "dt": "2022-02-04T03:10:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Aecht Schlenkerla Rauchbier - Weizen",
       "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
       "serving": "Lahvové",
@@ -283,6 +318,7 @@
     {
       "id": 1125954739,
       "dt": "2022-02-04T01:10:23+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Rauchbier 14",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Lahvové",
@@ -291,6 +327,7 @@
     {
       "id": 1125907922,
       "dt": "2022-02-03T22:36:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Pink Boots 2021",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -299,6 +336,7 @@
     {
       "id": 1125907597,
       "dt": "2022-02-03T22:35:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Flemish",
       "brewery": "Pivovar Obora",
       "serving": "Lahvové",
@@ -307,6 +345,7 @@
     {
       "id": 1125907515,
       "dt": "2022-02-03T22:34:44+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Děkujeme - Barley Wine",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -315,6 +354,7 @@
     {
       "id": 1125907122,
       "dt": "2022-02-03T22:33:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Katsumoto",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -323,6 +363,7 @@
     {
       "id": 1125907008,
       "dt": "2022-02-03T22:33:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #1: Oak & Raisin Barley Wine",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -331,6 +372,7 @@
     {
       "id": 1125906926,
       "dt": "2022-02-03T22:32:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #2: Ice Double IPA",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -339,6 +381,7 @@
     {
       "id": 1125906799,
       "dt": "2022-02-03T22:32:14+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -347,6 +390,7 @@
     {
       "id": 1125906632,
       "dt": "2022-02-03T22:31:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy El Dorado",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -355,6 +399,7 @@
     {
       "id": 1125843161,
       "dt": "2022-02-03T18:53:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Drifter",
       "brewery": "Pivovar Raven",
       "serving": "Nezadáno",
@@ -363,6 +408,7 @@
     {
       "id": 1125840430,
       "dt": "2022-02-03T18:40:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New Zealand Pale Ale 12",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Nezadáno",
@@ -371,6 +417,7 @@
     {
       "id": 1125657887,
       "dt": "2022-02-02T18:24:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Catcher",
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
@@ -379,6 +426,7 @@
     {
       "id": 1125381845,
       "dt": "2022-01-31T18:37:13+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Gosebumps Tropico",
       "brewery": "The Barn Beer Co.",
       "serving": "Čepované",
@@ -387,6 +435,7 @@
     {
       "id": 1125180224,
       "dt": "2022-01-30T21:02:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Muflon Gose",
       "brewery": "Pivovar Kunratice",
       "serving": "Lahvové",
@@ -395,6 +444,7 @@
     {
       "id": 1125179987,
       "dt": "2022-01-30T21:01:46+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Muflon Gose",
       "brewery": "Pivovar Kunratice",
       "serving": "Lahvové",
@@ -403,6 +453,7 @@
     {
       "id": 1125171770,
       "dt": "2022-01-30T20:45:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Upside Down Cake",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -411,6 +462,7 @@
     {
       "id": 1125166282,
       "dt": "2022-01-30T20:34:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Belgian Waffle",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -419,6 +471,7 @@
     {
       "id": 1125158899,
       "dt": "2022-01-30T20:18:37+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Belgian Waffle",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -427,6 +480,7 @@
     {
       "id": 1125154988,
       "dt": "2022-01-30T20:09:52+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -435,6 +489,7 @@
     {
       "id": 1125151427,
       "dt": "2022-01-30T20:01:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Lifelink",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -443,6 +498,7 @@
     {
       "id": 1125103526,
       "dt": "2022-01-30T17:55:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cloudya",
       "brewery": "Pioneer Beer",
       "serving": "Čepované",
@@ -451,6 +507,7 @@
     {
       "id": 1125099183,
       "dt": "2022-01-30T17:40:53+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -459,6 +516,7 @@
     {
       "id": 1124684659,
       "dt": "2022-01-29T20:56:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Catcher",
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
@@ -467,6 +525,7 @@
     {
       "id": 1124604110,
       "dt": "2022-01-29T19:22:21+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Boží NEIPA!",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -475,6 +534,7 @@
     {
       "id": 1124603703,
       "dt": "2022-01-29T19:21:49+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Southern Sun",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -483,6 +543,7 @@
     {
       "id": 1124589219,
       "dt": "2022-01-29T19:01:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Perníček",
       "brewery": "Beer Poets",
       "serving": "Čepované",
@@ -491,6 +552,7 @@
     {
       "id": 1124588805,
       "dt": "2022-01-29T19:01:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -499,6 +561,7 @@
     {
       "id": 1124268934,
       "dt": "2022-01-28T23:36:20+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Černokněžník",
       "brewery": "Pivovar U Vojtěchů",
       "serving": "Nezadáno",
@@ -507,6 +570,7 @@
     {
       "id": 1124216232,
       "dt": "2022-01-28T22:12:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Boží NEIPA!",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -515,6 +579,7 @@
     {
       "id": 1124168063,
       "dt": "2022-01-28T21:03:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fanouš",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -523,6 +588,7 @@
     {
       "id": 1124150124,
       "dt": "2022-01-28T20:37:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Southern Sun",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -531,6 +597,7 @@
     {
       "id": 1124111575,
       "dt": "2022-01-28T19:31:05+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Perníček",
       "brewery": "Beer Poets",
       "serving": "Čepované",
@@ -539,6 +606,7 @@
     {
       "id": 1124111126,
       "dt": "2022-01-28T19:30:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -547,6 +615,7 @@
     {
       "id": 1124104025,
       "dt": "2022-01-28T19:16:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New Norway IPA",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -555,6 +624,7 @@
     {
       "id": 1124088649,
       "dt": "2022-01-28T18:44:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New Norway IPA",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -563,6 +633,7 @@
     {
       "id": 1123848692,
       "dt": "2022-01-27T19:42:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Plum Chocolate Smoothie",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -571,6 +642,7 @@
     {
       "id": 1123830194,
       "dt": "2022-01-27T18:15:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sun Blast IPA",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -579,6 +651,7 @@
     {
       "id": 1123496166,
       "dt": "2022-01-25T16:44:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Winter Enigma",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -587,6 +660,7 @@
     {
       "id": 1123494951,
       "dt": "2022-01-25T16:20:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New Norway IPA",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -595,6 +669,7 @@
     {
       "id": 1123414485,
       "dt": "2022-01-24T22:15:38+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #2: Ice Double IPA",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -603,6 +678,7 @@
     {
       "id": 1123413155,
       "dt": "2022-01-24T22:06:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #1: Oak & Raisin Barley Wine",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -611,6 +687,7 @@
     {
       "id": 1123410985,
       "dt": "2022-01-24T21:52:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
       "brewery": "Deer Bear",
       "serving": "Nezadáno",
@@ -619,6 +696,7 @@
     {
       "id": 1123409855,
       "dt": "2022-01-24T21:45:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Katsumoto",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -627,6 +705,7 @@
     {
       "id": 1123405845,
       "dt": "2022-01-24T21:21:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy El Dorado",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -635,6 +714,7 @@
     {
       "id": 1123403694,
       "dt": "2022-01-24T21:07:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Noteckie Bursztynowe",
       "brewery": "Browar Czarnków",
       "serving": "Taster",
@@ -643,6 +723,7 @@
     {
       "id": 1123402398,
       "dt": "2022-01-24T20:59:52+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ronin",
       "brewery": "Deer Bear",
       "serving": "Nezadáno",
@@ -651,6 +732,7 @@
     {
       "id": 1123395147,
       "dt": "2022-01-24T20:14:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Katsumoto",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -659,6 +741,7 @@
     {
       "id": 1123392698,
       "dt": "2022-01-24T19:58:27+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy El Dorado",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -667,6 +750,7 @@
     {
       "id": 1123390290,
       "dt": "2022-01-24T19:40:50+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Noteckie Bursztynowe",
       "brewery": "Browar Czarnków",
       "serving": "Lahvové",
@@ -675,6 +759,7 @@
     {
       "id": 1123389529,
       "dt": "2022-01-24T19:35:13+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Eichhofener Helles",
       "brewery": "Schlossbrauerei Eichhofen",
       "serving": "Lahvové",
@@ -683,6 +768,7 @@
     {
       "id": 1123388881,
       "dt": "2022-01-24T19:30:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kasztelan Jasne Pełne",
       "brewery": "Browar Kasztelan",
       "serving": "Plechovkové",
@@ -691,6 +777,7 @@
     {
       "id": 1123388595,
       "dt": "2022-01-24T19:28:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Slovácká 12°",
       "brewery": "Slovácký pivovar",
       "serving": "Lahvové",
@@ -699,6 +786,7 @@
     {
       "id": 1123151329,
       "dt": "2022-01-23T19:10:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježibaba 12",
       "brewery": "Pivovar Obora",
       "serving": "Čepované",
@@ -707,6 +795,7 @@
     {
       "id": 1123148037,
       "dt": "2022-01-23T19:00:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Session Juicy Lucy",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -715,6 +804,7 @@
     {
       "id": 1122174858,
       "dt": "2022-01-21T20:18:25+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Američan z Tigálu",
       "brewery": "Pivovar Tišnov",
       "serving": "Lahvové",
@@ -723,6 +813,7 @@
     {
       "id": 1121696559,
       "dt": "2022-01-19T09:08:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Drunk Reindeer 2021",
       "brewery": "MadCat",
       "serving": "Nezadáno",
@@ -731,6 +822,7 @@
     {
       "id": 1121454194,
       "dt": "2022-01-17T20:50:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Děkujeme - Barley Wine",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -739,6 +831,7 @@
     {
       "id": 1121454169,
       "dt": "2022-01-17T20:49:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Děkujeme - Barley Wine",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -747,6 +840,7 @@
     {
       "id": 1121453914,
       "dt": "2022-01-17T20:48:50+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Děkujeme - Barley Wine",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -755,6 +849,7 @@
     {
       "id": 1121450408,
       "dt": "2022-01-17T20:32:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Flemish",
       "brewery": "Pivovar Obora",
       "serving": "Lahvové",
@@ -763,6 +858,7 @@
     {
       "id": 1121449895,
       "dt": "2022-01-17T20:30:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Flemish",
       "brewery": "Pivovar Obora",
       "serving": "Lahvové",
@@ -771,6 +867,7 @@
     {
       "id": 1121449817,
       "dt": "2022-01-17T20:30:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Flemish",
       "brewery": "Pivovar Obora",
       "serving": "Lahvové",
@@ -779,6 +876,7 @@
     {
       "id": 1121448391,
       "dt": "2022-01-17T20:23:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #03",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -787,6 +885,7 @@
     {
       "id": 1121448218,
       "dt": "2022-01-17T20:22:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #03",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -795,6 +894,7 @@
     {
       "id": 1121447898,
       "dt": "2022-01-17T20:20:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #03",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -803,6 +903,7 @@
     {
       "id": 1121445428,
       "dt": "2022-01-17T20:08:52+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #02",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -811,6 +912,7 @@
     {
       "id": 1121445308,
       "dt": "2022-01-17T20:08:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #02",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -819,6 +921,7 @@
     {
       "id": 1121445302,
       "dt": "2022-01-17T20:08:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #02",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -827,6 +930,7 @@
     {
       "id": 1121444552,
       "dt": "2022-01-17T20:04:22+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #01",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -835,6 +939,7 @@
     {
       "id": 1121443934,
       "dt": "2022-01-17T20:01:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #01",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -843,6 +948,7 @@
     {
       "id": 1121443787,
       "dt": "2022-01-17T20:00:21+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barrel-aged Batch #01",
       "brewery": "Pivovar Proud",
       "serving": "Lahvové",
@@ -851,6 +957,7 @@
     {
       "id": 1121442292,
       "dt": "2022-01-17T19:52:46+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Triple Gelato: Berries & Cream",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -859,6 +966,7 @@
     {
       "id": 1121442185,
       "dt": "2022-01-17T19:52:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "RED Ale",
       "brewery": "Slovácký pivovar",
       "serving": "Lahvové",
@@ -867,6 +975,7 @@
     {
       "id": 1121441725,
       "dt": "2022-01-17T19:49:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kateřina",
       "brewery": "Kyjovský pivovar",
       "serving": "Lahvové",
@@ -875,6 +984,7 @@
     {
       "id": 1121441662,
       "dt": "2022-01-17T19:49:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA Hloh Peřenoklaný Infuse",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -883,6 +993,7 @@
     {
       "id": 1121441605,
       "dt": "2022-01-17T19:48:49+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Gelato: Pink Guava, Passion Fruit & Peach",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -891,6 +1002,7 @@
     {
       "id": 1121268034,
       "dt": "2022-01-16T22:34:31+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Citra 15",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -899,6 +1011,7 @@
     {
       "id": 1120127497,
       "dt": "2022-01-14T17:43:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "FREE PAN DA",
       "brewery": "Browar Nepomucen",
       "serving": "Plechovkové",
@@ -907,6 +1020,7 @@
     {
       "id": 1119588679,
       "dt": "2022-01-11T13:21:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hard Seltzer Tangerine",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -915,6 +1029,7 @@
     {
       "id": 1119588651,
       "dt": "2022-01-11T13:20:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Oops... I Did It Again!",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -923,6 +1038,7 @@
     {
       "id": 1119588629,
       "dt": "2022-01-11T13:20:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Extra Dope",
       "brewery": "3 Sons Brewing Co.",
       "serving": "Plechovkové",
@@ -931,6 +1047,7 @@
     {
       "id": 1119588610,
       "dt": "2022-01-11T13:19:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "SABRO 14",
       "brewery": "Jan Čaroděj Slabý",
       "serving": "Lahvové",
@@ -939,6 +1056,7 @@
     {
       "id": 1119588601,
       "dt": "2022-01-11T13:18:48+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Pink Boots",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -947,6 +1065,7 @@
     {
       "id": 1119588574,
       "dt": "2022-01-11T13:17:58+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Smasher: Cryo Pop B Blend",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -955,6 +1074,7 @@
     {
       "id": 1119588522,
       "dt": "2022-01-11T13:16:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Švestkové",
       "brewery": "Pivovar Kunratice",
       "serving": "Lahvové",
@@ -963,6 +1083,7 @@
     {
       "id": 1119588506,
       "dt": "2022-01-11T13:15:40+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Single Hop Ale Mosaic 13°",
       "brewery": "Pivovar Mazák",
       "serving": "Nezadáno",
@@ -971,6 +1092,7 @@
     {
       "id": 1119588487,
       "dt": "2022-01-11T13:15:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Fruta De Praia",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -979,6 +1101,7 @@
     {
       "id": 1119588326,
       "dt": "2022-01-11T13:09:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Double Gelato: Frugtsalad",
       "brewery": "Funky Fluid",
       "serving": "Čepované",
@@ -987,6 +1110,7 @@
     {
       "id": 1119588157,
       "dt": "2022-01-11T13:03:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Meran Dandelion",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -995,6 +1119,7 @@
     {
       "id": 1119588144,
       "dt": "2022-01-11T13:03:31+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Mango Island",
       "brewery": "Chroust",
       "serving": "Lahvové",
@@ -1003,6 +1128,7 @@
     {
       "id": 1119512312,
       "dt": "2022-01-10T22:47:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Double Gelato: Blue Velvet",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1011,6 +1137,7 @@
     {
       "id": 1119505652,
       "dt": "2022-01-10T22:05:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Mango Island",
       "brewery": "Chroust",
       "serving": "Lahvové",
@@ -1019,6 +1146,7 @@
     {
       "id": 1119494962,
       "dt": "2022-01-10T21:01:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Meran Dandelion",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1027,6 +1155,7 @@
     {
       "id": 1119493764,
       "dt": "2022-01-10T20:54:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Meran Dandelion",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1035,6 +1164,7 @@
     {
       "id": 1119493211,
       "dt": "2022-01-10T20:51:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Meran Dandelion",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1043,6 +1173,7 @@
     {
       "id": 1119489788,
       "dt": "2022-01-10T20:30:38+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Porter ROPA",
       "brewery": "Jan Čaroděj Slabý",
       "serving": "Lahvové",
@@ -1051,6 +1182,7 @@
     {
       "id": 1119489112,
       "dt": "2022-01-10T20:26:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Double Gelato: Frugtsalad",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1059,6 +1191,7 @@
     {
       "id": 1119488304,
       "dt": "2022-01-10T20:21:29+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Double Gelato: Frugtsalad",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1067,6 +1200,7 @@
     {
       "id": 1119487610,
       "dt": "2022-01-10T20:17:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Double Gelato: Frugtsalad",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1075,6 +1209,7 @@
     {
       "id": 1119486939,
       "dt": "2022-01-10T20:13:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Fruta De Praia",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1083,6 +1218,7 @@
     {
       "id": 1119486801,
       "dt": "2022-01-10T20:12:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Fruta De Praia",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1091,6 +1227,7 @@
     {
       "id": 1119485999,
       "dt": "2022-01-10T20:06:58+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Fruta De Praia",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1099,6 +1236,7 @@
     {
       "id": 1119485073,
       "dt": "2022-01-10T20:00:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Švestkové",
       "brewery": "Pivovar Kunratice",
       "serving": "Lahvové",
@@ -1107,6 +1245,7 @@
     {
       "id": 1119484954,
       "dt": "2022-01-10T19:59:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Švestkové",
       "brewery": "Pivovar Kunratice",
       "serving": "Lahvové",
@@ -1115,6 +1254,7 @@
     {
       "id": 1119484468,
       "dt": "2022-01-10T19:55:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Švestkové",
       "brewery": "Pivovar Kunratice",
       "serving": "Plechovkové",
@@ -1123,6 +1263,7 @@
     {
       "id": 1119483484,
       "dt": "2022-01-10T19:48:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Smasher: Cryo Pop B Blend",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1131,6 +1272,7 @@
     {
       "id": 1119483175,
       "dt": "2022-01-10T19:46:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Smasher: Cryo Pop B Blend",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1139,6 +1281,7 @@
     {
       "id": 1119483090,
       "dt": "2022-01-10T19:46:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Smasher: Cryo Pop B Blend",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1147,6 +1290,7 @@
     {
       "id": 1119482768,
       "dt": "2022-01-10T19:43:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Smasher: Cryo Pop B Blend",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1155,6 +1299,7 @@
     {
       "id": 1119481919,
       "dt": "2022-01-10T19:37:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Pink Boots",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1163,6 +1308,7 @@
     {
       "id": 1119036481,
       "dt": "2022-01-09T00:56:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Mosaic 15",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -1171,6 +1317,7 @@
     {
       "id": 1118963239,
       "dt": "2022-01-08T23:15:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Southern Sun",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1179,6 +1326,7 @@
     {
       "id": 1118150415,
       "dt": "2022-01-06T23:24:41+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Triple Gelato: Berries & Cream",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1187,6 +1335,7 @@
     {
       "id": 1117183976,
       "dt": "2022-01-02T10:30:03+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #6",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1195,6 +1344,7 @@
     {
       "id": 1117183923,
       "dt": "2022-01-02T10:28:54+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Maxi Sour Fik",
       "brewery": "MadCat",
       "serving": "Lahvové",
@@ -1203,6 +1353,7 @@
     {
       "id": 1116341981,
       "dt": "2021-12-31T21:21:54+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Double IPA",
       "brewery": "Pivovar Mordýř",
       "serving": "Nezadáno",
@@ -1211,6 +1362,7 @@
     {
       "id": 1115380263,
       "dt": "2021-12-29T22:02:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Philadelphia Sour Maracuja",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1219,6 +1371,7 @@
     {
       "id": 1115378721,
       "dt": "2021-12-29T22:00:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Philadelphia Sour Raspberry",
       "brewery": "Pivovar Obora",
       "serving": "Čepované",
@@ -1227,6 +1380,7 @@
     {
       "id": 1115378721,
       "dt": "2021-12-29T22:00:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Philadelphia Sour Raspberry ",
       "brewery": "Pivovar Obora",
       "serving": "Čepované",
@@ -1235,6 +1389,7 @@
     {
       "id": 1115317244,
       "dt": "2021-12-29T20:25:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Maxi Sour Fik",
       "brewery": "MadCat",
       "serving": "Lahvové",
@@ -1243,6 +1398,7 @@
     {
       "id": 1114538066,
       "dt": "2021-12-27T18:37:20+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tropic Edge",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1251,6 +1407,7 @@
     {
       "id": 1114520901,
       "dt": "2021-12-27T17:45:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Boží NEIPA!",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1259,6 +1416,7 @@
     {
       "id": 1113992617,
       "dt": "2021-12-26T12:12:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran Dry Hopped",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1267,6 +1425,7 @@
     {
       "id": 1113992563,
       "dt": "2021-12-26T12:11:40+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Frozen Waste",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1275,6 +1434,7 @@
     {
       "id": 1113992529,
       "dt": "2021-12-26T12:11:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #6",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -1283,6 +1443,7 @@
     {
       "id": 1113992470,
       "dt": "2021-12-26T12:10:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Lemon Cheesecake",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1291,6 +1452,7 @@
     {
       "id": 1113992371,
       "dt": "2021-12-26T12:08:56+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizána IPA",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -1299,6 +1461,7 @@
     {
       "id": 1113702817,
       "dt": "2021-12-25T21:12:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Boží NEIPA!",
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
@@ -1307,6 +1470,7 @@
     {
       "id": 1113679518,
       "dt": "2021-12-25T20:42:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Boží Ležák!",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1315,6 +1479,7 @@
     {
       "id": 1113188913,
       "dt": "2021-12-24T22:28:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježíšek 20 ",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -1323,6 +1488,7 @@
     {
       "id": 1112966100,
       "dt": "2021-12-24T17:58:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježíšek 20 ",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -1331,6 +1497,7 @@
     {
       "id": 1112965434,
       "dt": "2021-12-24T17:57:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Luscious Lonely Virgin 16",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1339,6 +1506,7 @@
     {
       "id": 1112965434,
       "dt": "2021-12-24T17:57:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Patry Sour - Luscious Lonely Virgin",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1347,6 +1515,7 @@
     {
       "id": 1112965434,
       "dt": "2021-12-24T17:57:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Pastry Sour - Luscious Lonely Virgin",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1355,6 +1524,7 @@
     {
       "id": 1112948159,
       "dt": "2021-12-24T17:26:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1363,6 +1533,7 @@
     {
       "id": 1112944061,
       "dt": "2021-12-24T17:18:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježíšek 20 ",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -1371,6 +1542,7 @@
     {
       "id": 1112943706,
       "dt": "2021-12-24T17:17:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1379,6 +1551,7 @@
     {
       "id": 1112639107,
       "dt": "2021-12-23T23:14:23+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Luscious Lonely Virgin 16",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1387,6 +1560,7 @@
     {
       "id": 1112634845,
       "dt": "2021-12-23T23:08:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Luscious Lonely Virgin 16",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1395,6 +1569,7 @@
     {
       "id": 1112625675,
       "dt": "2021-12-23T22:56:06+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Snowie",
       "brewery": "Kynšperský pivovar",
       "serving": "Čepované",
@@ -1403,6 +1578,7 @@
     {
       "id": 1112624477,
       "dt": "2021-12-23T22:54:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cinnamon Danish",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1411,6 +1587,7 @@
     {
       "id": 1112623441,
       "dt": "2021-12-23T22:53:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Banana Split #2",
       "brewery": "Browar NOOK",
       "serving": "Čepované",
@@ -1419,6 +1596,7 @@
     {
       "id": 1112622067,
       "dt": "2021-12-23T22:51:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1427,6 +1605,7 @@
     {
       "id": 1112621029,
       "dt": "2021-12-23T22:49:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Splash: Lemon & Red Grapefruit",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1435,6 +1614,7 @@
     {
       "id": 1112618627,
       "dt": "2021-12-23T22:46:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Splash: Lemon & Red Grapefruit",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1443,6 +1623,7 @@
     {
       "id": 1112618600,
       "dt": "2021-12-23T22:46:31+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Splash: Lemon & Red Grapefruit",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -1451,6 +1632,7 @@
     {
       "id": 1112555419,
       "dt": "2021-12-23T21:25:56+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1459,6 +1641,7 @@
     {
       "id": 1111790241,
       "dt": "2021-12-21T19:25:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Philadelphia Sour Maracuja",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1467,6 +1650,7 @@
     {
       "id": 1111780012,
       "dt": "2021-12-21T18:51:03+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -1475,6 +1659,7 @@
     {
       "id": 1111761461,
       "dt": "2021-12-21T17:28:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Samotář 13 (single Hop) Galaxy",
       "brewery": "Pivovar U Vojtěchů",
       "serving": "Čepované",
@@ -1483,6 +1668,7 @@
     {
       "id": 1111634705,
       "dt": "2021-12-21T00:09:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cinnamon Danish",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1491,6 +1677,7 @@
     {
       "id": 1111634416,
       "dt": "2021-12-21T00:08:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Banana Split #2",
       "brewery": "Browar NOOK",
       "serving": "Čepované",
@@ -1499,6 +1686,7 @@
     {
       "id": 1111589931,
       "dt": "2021-12-20T21:51:05+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Banana Split #2",
       "brewery": "Browar NOOK",
       "serving": "Čepované",
@@ -1507,6 +1695,7 @@
     {
       "id": 1111588507,
       "dt": "2021-12-20T21:47:05+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cinnamon Danish",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1515,6 +1704,7 @@
     {
       "id": 1111581451,
       "dt": "2021-12-20T21:27:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART #5 Candyfloss Pastry Imperial Stout",
       "brewery": "Pivovar Clock",
       "serving": "Plechovkové",
@@ -1523,6 +1713,7 @@
     {
       "id": 1111578402,
       "dt": "2021-12-20T21:19:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Vault 104",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -1531,6 +1722,7 @@
     {
       "id": 1111577793,
       "dt": "2021-12-20T21:17:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Black Label #6",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -1539,6 +1731,7 @@
     {
       "id": 1111577576,
       "dt": "2021-12-20T21:17:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran Dry Hopped",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1547,6 +1740,7 @@
     {
       "id": 1111570505,
       "dt": "2021-12-20T20:57:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1555,6 +1749,7 @@
     {
       "id": 1111570372,
       "dt": "2021-12-20T20:56:37+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1563,6 +1758,7 @@
     {
       "id": 1111564860,
       "dt": "2021-12-20T20:40:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran Dry Hopped",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1571,6 +1767,7 @@
     {
       "id": 1111561925,
       "dt": "2021-12-20T20:31:56+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -1579,6 +1776,7 @@
     {
       "id": 1111554037,
       "dt": "2021-12-20T20:07:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Baby, All I Want (for Christmas) Is IPA",
       "brewery": "Falkon",
       "serving": "Lahvové",
@@ -1587,6 +1785,7 @@
     {
       "id": 1111549560,
       "dt": "2021-12-20T19:52:31+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Riwaka",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1595,6 +1794,7 @@
     {
       "id": 1111548838,
       "dt": "2021-12-20T19:50:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Maxi Sour Fik",
       "brewery": "MadCat",
       "serving": "Lahvové",
@@ -1603,6 +1803,7 @@
     {
       "id": 1111545051,
       "dt": "2021-12-20T19:36:37+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Boží NEIPA!",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1611,6 +1812,7 @@
     {
       "id": 1111544089,
       "dt": "2021-12-20T19:33:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Cow",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1619,6 +1821,7 @@
     {
       "id": 1111539497,
       "dt": "2021-12-20T19:16:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Shoshone",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1627,6 +1830,7 @@
     {
       "id": 1111539421,
       "dt": "2021-12-20T19:15:52+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Riwaka",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1635,6 +1839,7 @@
     {
       "id": 1111539215,
       "dt": "2021-12-20T19:15:05+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Helena Ch.",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -1643,6 +1848,7 @@
     {
       "id": 1110515913,
       "dt": "2021-12-18T16:22:44+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Jungle Haze",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1651,6 +1857,7 @@
     {
       "id": 1110512722,
       "dt": "2021-12-18T16:13:37+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Mandarin",
       "brewery": "Pivovar Raven",
       "serving": "Nezadáno",
@@ -1659,6 +1866,7 @@
     {
       "id": 1110109750,
       "dt": "2021-12-17T21:01:53+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Helena Ch.",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -1667,6 +1875,7 @@
     {
       "id": 1110049744,
       "dt": "2021-12-17T19:43:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Merry Beermas 13°",
       "brewery": "Krušnohor ",
       "serving": "Lahvové",
@@ -1675,6 +1884,7 @@
     {
       "id": 1110047889,
       "dt": "2021-12-17T19:40:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Merry Beermas 13°",
       "brewery": "Krušnohor ",
       "serving": "Lahvové",
@@ -1683,6 +1893,7 @@
     {
       "id": 1110029966,
       "dt": "2021-12-17T19:10:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Punk IPA",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1691,6 +1902,7 @@
     {
       "id": 1110022028,
       "dt": "2021-12-17T18:56:21+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Punk IPA",
       "brewery": "Pivovar Obora",
       "serving": "Čepované",
@@ -1699,6 +1911,7 @@
     {
       "id": 1110007277,
       "dt": "2021-12-17T18:28:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Jungle Haze",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1707,6 +1920,7 @@
     {
       "id": 1110006385,
       "dt": "2021-12-17T18:26:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Snowie",
       "brewery": "Kynšperský pivovar",
       "serving": "Čepované",
@@ -1715,6 +1929,7 @@
     {
       "id": 1109966470,
       "dt": "2021-12-17T16:33:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Jungle Haze",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -1723,6 +1938,7 @@
     {
       "id": 1109961572,
       "dt": "2021-12-17T16:09:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizána IPA",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -1731,6 +1947,7 @@
     {
       "id": 1109627263,
       "dt": "2021-12-16T10:28:56+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
       "brewery": "Nachmelená opice",
       "serving": "Čepované",
@@ -1739,6 +1956,7 @@
     {
       "id": 1109627114,
       "dt": "2021-12-16T10:24:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Windmills 11",
       "brewery": "černý potoka",
       "serving": "Čepované",
@@ -1747,6 +1965,7 @@
     {
       "id": 1109480451,
       "dt": "2021-12-15T22:05:31+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Svatomartinský Ležák 12.6°",
       "brewery": "Pivovar U Vojtěchů",
       "serving": "Čepované",
@@ -1755,6 +1974,7 @@
     {
       "id": 1109467841,
       "dt": "2021-12-15T21:32:27+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Windmills 11",
       "brewery": "černý potoka",
       "serving": "Čepované",
@@ -1763,6 +1983,7 @@
     {
       "id": 1109467637,
       "dt": "2021-12-15T21:32:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Single Hop Ale Amarillo",
       "brewery": "MadCat",
       "serving": "Čepované",
@@ -1771,6 +1992,7 @@
     {
       "id": 1109467152,
       "dt": "2021-12-15T21:30:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
       "brewery": "Nachmelená opice",
       "serving": "Čepované",
@@ -1779,6 +2001,7 @@
     {
       "id": 1109466704,
       "dt": "2021-12-15T21:29:39+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Amarillo & Citra & Sabro NEIPA 15%",
       "brewery": "Nachmelená opice",
       "serving": "Čepované",
@@ -1787,6 +2010,7 @@
     {
       "id": 1109413019,
       "dt": "2021-12-15T18:49:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cossack's Whip",
       "brewery": "Dogma Brewery",
       "serving": "Plechovkové",
@@ -1795,6 +2019,7 @@
     {
       "id": 1109410948,
       "dt": "2021-12-15T18:40:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Windmills 11",
       "brewery": "černý potoka",
       "serving": "Čepované",
@@ -1803,6 +2028,7 @@
     {
       "id": 1109171295,
       "dt": "2021-12-14T16:34:44+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Windmills 11",
       "brewery": "černý potoka",
       "serving": "Čepované",
@@ -1811,6 +2037,7 @@
     {
       "id": 1109023474,
       "dt": "2021-12-13T20:38:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Windmills 11",
       "brewery": "černý potoka",
       "serving": "Čepované",
@@ -1819,6 +2046,7 @@
     {
       "id": 1109022646,
       "dt": "2021-12-13T20:35:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Banana Split #2",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1827,6 +2055,7 @@
     {
       "id": 1109015821,
       "dt": "2021-12-13T20:10:30+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Two-Headed Giant",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1835,6 +2064,7 @@
     {
       "id": 1109013584,
       "dt": "2021-12-13T20:02:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Punk IPA",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1843,6 +2073,7 @@
     {
       "id": 1109007975,
       "dt": "2021-12-13T19:39:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Punk IPA",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1851,6 +2082,7 @@
     {
       "id": 1109005503,
       "dt": "2021-12-13T19:27:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop West Coast IPA",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1859,6 +2091,7 @@
     {
       "id": 1109005384,
       "dt": "2021-12-13T19:27:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop West Coast IPA",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1867,6 +2100,7 @@
     {
       "id": 1108996327,
       "dt": "2021-12-13T18:41:21+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hauskrecht Brněnská 11",
       "brewery": "Brněnská pivovarnická společnost",
       "serving": "Lahvové",
@@ -1875,6 +2109,7 @@
     {
       "id": 1108996042,
       "dt": "2021-12-13T18:39:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hauskrecht Brněnská 11",
       "brewery": "Brněnská pivovarnická společnost",
       "serving": "Lahvové",
@@ -1883,6 +2118,7 @@
     {
       "id": 1108994917,
       "dt": "2021-12-13T18:33:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dvanda",
       "brewery": "Poddžbánský pivovar",
       "serving": "Lahvové",
@@ -1891,6 +2127,7 @@
     {
       "id": 1108993594,
       "dt": "2021-12-13T18:25:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dvanda",
       "brewery": "Poddžbánský pivovar",
       "serving": "Lahvové",
@@ -1899,6 +2136,7 @@
     {
       "id": 1108980294,
       "dt": "2021-12-13T16:24:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježíšek 20 ",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Plechovkové",
@@ -1907,6 +2145,7 @@
     {
       "id": 1108860950,
       "dt": "2021-12-12T23:56:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hard Seltzer Tangerine",
       "brewery": "Pivovar Obora",
       "serving": "Plechovkové",
@@ -1915,6 +2154,7 @@
     {
       "id": 1108801797,
       "dt": "2021-12-12T22:00:40+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Summer Day 10",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -1923,6 +2163,7 @@
     {
       "id": 1108801092,
       "dt": "2021-12-12T21:59:25+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Double New England IPA",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -1931,6 +2172,7 @@
     {
       "id": 1108800879,
       "dt": "2021-12-12T21:59:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Linecký Věneček",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -1939,6 +2181,7 @@
     {
       "id": 1108800671,
       "dt": "2021-12-12T21:58:39+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Triple Milkshake IPA",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -1947,6 +2190,7 @@
     {
       "id": 1108800443,
       "dt": "2021-12-12T21:58:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Two-Headed Giant",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -1955,6 +2199,7 @@
     {
       "id": 1108800224,
       "dt": "2021-12-12T21:57:52+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Smoothie Orange Vanilla",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -1963,6 +2208,7 @@
     {
       "id": 1108799955,
       "dt": "2021-12-12T21:57:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cin City",
       "brewery": "Mad Scientist",
       "serving": "Plechovkové",
@@ -1971,6 +2217,7 @@
     {
       "id": 1108799766,
       "dt": "2021-12-12T21:57:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sakura",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -1979,6 +2226,7 @@
     {
       "id": 1108799497,
       "dt": "2021-12-12T21:56:38+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Belgian Waffle",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1987,6 +2235,7 @@
     {
       "id": 1108799198,
       "dt": "2021-12-12T21:56:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sour Pina Colada",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -1995,6 +2244,7 @@
     {
       "id": 1108699851,
       "dt": "2021-12-12T19:02:48+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Nadílka 20 - 2021",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Plechovkové",
@@ -2003,6 +2253,7 @@
     {
       "id": 1108688457,
       "dt": "2021-12-12T18:37:22+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Triple Milkshake IPA",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -2011,6 +2262,7 @@
     {
       "id": 1108674938,
       "dt": "2021-12-12T18:04:49+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop New England IPA",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2019,6 +2271,7 @@
     {
       "id": 1108673277,
       "dt": "2021-12-12T18:00:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA TONE 0206 (NEIPA: HBC 586, Mosaic)",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2027,6 +2280,7 @@
     {
       "id": 1108667378,
       "dt": "2021-12-12T17:43:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sky APA",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -2035,6 +2289,7 @@
     {
       "id": 1108240435,
       "dt": "2021-12-11T21:48:44+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Baby, all I want for Christmas is IPA (2021)",
       "brewery": "Falkon",
       "serving": "Lahvové",
@@ -2043,6 +2298,7 @@
     {
       "id": 1108069444,
       "dt": "2021-12-11T18:49:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weihenstephaner Hefeweissbier Alkoholfrei",
       "brewery": "Bayerische Staatsbrauerei Weihenstephan",
       "serving": "Lahvové",
@@ -2051,6 +2307,7 @@
     {
       "id": 1108048961,
       "dt": "2021-12-11T18:20:38+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Nanny State",
       "brewery": "BrewDog",
       "serving": "Lahvové",
@@ -2059,6 +2316,7 @@
     {
       "id": 1108038970,
       "dt": "2021-12-11T18:05:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zero Five",
       "brewery": "Thornbridge Brewery",
       "serving": "Lahvové",
@@ -2067,6 +2325,7 @@
     {
       "id": 1108020756,
       "dt": "2021-12-11T17:31:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA TONE 0206 (NEIPA: HBC 586, Mosaic)",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2075,6 +2334,7 @@
     {
       "id": 1107996016,
       "dt": "2021-12-11T16:37:44+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Svatomartinský Ležák 12.6°",
       "brewery": "Pivovar U Vojtěchů",
       "serving": "Čepované",
@@ -2083,6 +2343,7 @@
     {
       "id": 1107922641,
       "dt": "2021-12-11T08:45:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Belgian Waffle",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -2091,6 +2352,7 @@
     {
       "id": 1107170368,
       "dt": "2021-12-09T20:11:31+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Belgian Waffle",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -2099,6 +2361,7 @@
     {
       "id": 1107152290,
       "dt": "2021-12-09T19:21:40+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sour Pina Colada",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -2107,6 +2370,7 @@
     {
       "id": 1107151447,
       "dt": "2021-12-09T19:19:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sundae: Belgian Waffle",
       "brewery": "Browar NOOK",
       "serving": "Plechovkové",
@@ -2115,6 +2379,7 @@
     {
       "id": 1107143581,
       "dt": "2021-12-09T18:53:50+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barber Shop",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2123,6 +2388,7 @@
     {
       "id": 1107143025,
       "dt": "2021-12-09T18:51:54+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sakura",
       "brewery": "Deer Bear",
       "serving": "Nezadáno",
@@ -2131,6 +2397,7 @@
     {
       "id": 1107142917,
       "dt": "2021-12-09T18:51:29+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cin City",
       "brewery": "Mad Scientist",
       "serving": "Plechovkové",
@@ -2139,6 +2406,7 @@
     {
       "id": 1106466201,
       "dt": "2021-12-06T17:09:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zlatý Prasátko (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2147,6 +2415,7 @@
     {
       "id": 1105679885,
       "dt": "2021-12-04T21:10:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Maisel's Weisse Original",
       "brewery": "Brauerei Gebr. Maisel",
       "serving": "Čepované",
@@ -2155,6 +2424,7 @@
     {
       "id": 1105636547,
       "dt": "2021-12-04T20:28:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Gajdoš 12",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -2163,6 +2433,7 @@
     {
       "id": 1105599030,
       "dt": "2021-12-04T19:48:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zlatý Prasátko (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2171,6 +2442,7 @@
     {
       "id": 1105559832,
       "dt": "2021-12-04T19:02:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Summer Day 10",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -2179,6 +2451,7 @@
     {
       "id": 1105307640,
       "dt": "2021-12-04T02:51:48+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Cin City",
       "brewery": "Mad Scientist",
       "serving": "Plechovkové",
@@ -2187,6 +2460,7 @@
     {
       "id": 1105271149,
       "dt": "2021-12-04T01:51:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sakura",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2195,6 +2469,7 @@
     {
       "id": 1105255677,
       "dt": "2021-12-04T01:27:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zlatý Prasátko (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2203,6 +2478,7 @@
     {
       "id": 1105248310,
       "dt": "2021-12-04T01:15:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Barber Shop",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2211,6 +2487,7 @@
     {
       "id": 1105218006,
       "dt": "2021-12-04T00:30:09+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Linecký Věneček",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -2219,6 +2496,7 @@
     {
       "id": 1105207128,
       "dt": "2021-12-04T00:14:27+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Smoothie Orange Vanilla",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -2227,6 +2505,7 @@
     {
       "id": 1105206956,
       "dt": "2021-12-04T00:14:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Two-Headed Giant",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2235,6 +2514,7 @@
     {
       "id": 1105205464,
       "dt": "2021-12-04T00:12:14+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Smoothie Orange Vanilla",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -2243,6 +2523,7 @@
     {
       "id": 1105188141,
       "dt": "2021-12-03T23:47:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Two-Headed Giant",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2251,6 +2532,7 @@
     {
       "id": 1105182532,
       "dt": "2021-12-03T23:38:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Triple Milkshake IPA",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -2259,6 +2541,7 @@
     {
       "id": 1105170685,
       "dt": "2021-12-03T23:22:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Triple Milkshake IPA",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -2267,6 +2550,7 @@
     {
       "id": 1105164283,
       "dt": "2021-12-03T23:13:30+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Christmas Double New England IPA",
       "brewery": "Chroust",
       "serving": "Plechovkové",
@@ -2275,6 +2559,7 @@
     {
       "id": 1105163345,
       "dt": "2021-12-03T23:12:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zlatý Prasátko (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2283,6 +2568,7 @@
     {
       "id": 1105149095,
       "dt": "2021-12-03T22:52:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA TONE 0209 (NEIPA: Zappa, Zamba, Citra, Idaho 7)",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2291,6 +2577,7 @@
     {
       "id": 1105122386,
       "dt": "2021-12-03T22:17:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA TONE 0209 (NEIPA: Zappa, Zamba, Citra, Idaho 7)",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2299,6 +2586,7 @@
     {
       "id": 1105120399,
       "dt": "2021-12-03T22:14:37+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zlatý Prasátko (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2307,6 +2595,7 @@
     {
       "id": 1104964232,
       "dt": "2021-12-03T18:39:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Juicy Bomb 14 DDH NEIPA",
       "brewery": "Pivovar Antoš ",
       "serving": "Lahvové",
@@ -2315,6 +2604,7 @@
     {
       "id": 1104963920,
       "dt": "2021-12-03T18:38:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy Discovery Barcelona",
       "brewery": "Browar PINTA",
       "serving": "Plechovkové",
@@ -2323,6 +2613,7 @@
     {
       "id": 1104889107,
       "dt": "2021-12-03T11:12:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Jungle Haze",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -2331,6 +2622,7 @@
     {
       "id": 1104605567,
       "dt": "2021-12-02T15:34:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Blizard Winter Ale",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -2339,6 +2631,7 @@
     {
       "id": 1104591859,
       "dt": "2021-12-02T09:53:06+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Únětické Pivo 12°",
       "brewery": "Únětický pivovar",
       "serving": "Čepované",
@@ -2347,6 +2640,7 @@
     {
       "id": 1104591804,
       "dt": "2021-12-02T09:51:19+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New England IPA 14",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -2355,6 +2649,7 @@
     {
       "id": 1104591781,
       "dt": "2021-12-02T09:50:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tekutý Kapřík (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2363,6 +2658,7 @@
     {
       "id": 1104116613,
       "dt": "2021-11-29T23:10:27+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tekutý Kapřík (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2371,6 +2667,7 @@
     {
       "id": 1104116437,
       "dt": "2021-11-29T23:09:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Gajdoš 12",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -2379,6 +2676,7 @@
     {
       "id": 1104116085,
       "dt": "2021-11-29T23:07:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Summer Day 10",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -2387,6 +2685,7 @@
     {
       "id": 1104056878,
       "dt": "2021-11-29T16:07:06+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tekutý Kapřík (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2395,6 +2694,7 @@
     {
       "id": 1104055713,
       "dt": "2021-11-29T15:42:06+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Summer Day 10",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -2403,6 +2703,7 @@
     {
       "id": 1103873385,
       "dt": "2021-11-28T20:52:56+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Summer Day 10",
       "brewery": "Pivovar Louka",
       "serving": "Čepované",
@@ -2411,6 +2712,7 @@
     {
       "id": 1103603526,
       "dt": "2021-11-28T01:33:39+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hop Attack",
       "brewery": "Browar PINTA",
       "serving": "Plechovkové",
@@ -2419,6 +2721,7 @@
     {
       "id": 1103576824,
       "dt": "2021-11-28T00:50:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy Discovery Barcelona",
       "brewery": "Browar PINTA",
       "serving": "Plechovkové",
@@ -2427,6 +2730,7 @@
     {
       "id": 1103573820,
       "dt": "2021-11-28T00:46:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Juicy Bomb 14 DDH NEIPA",
       "brewery": "Pivovar Antoš ",
       "serving": "Lahvové",
@@ -2435,6 +2739,7 @@
     {
       "id": 1103535486,
       "dt": "2021-11-27T23:55:42+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy Discovery Barcelona",
       "brewery": "Browar PINTA",
       "serving": "Plechovkové",
@@ -2443,6 +2748,7 @@
     {
       "id": 1103523018,
       "dt": "2021-11-27T23:40:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Juicy Bomb 14 DDH NEIPA",
       "brewery": "Pivovar Antoš ",
       "serving": "Lahvové",
@@ -2451,6 +2757,7 @@
     {
       "id": 1102620816,
       "dt": "2021-11-26T18:22:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Padrísimo",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2459,6 +2766,7 @@
     {
       "id": 1102620616,
       "dt": "2021-11-26T18:21:47+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2467,6 +2775,7 @@
     {
       "id": 1102609822,
       "dt": "2021-11-26T18:03:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New England IPA 14",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -2475,6 +2784,7 @@
     {
       "id": 1102609365,
       "dt": "2021-11-26T18:02:03+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Podlipák 11",
       "brewery": "Pivovar U Vojtěchů",
       "serving": "Čepované",
@@ -2483,6 +2793,7 @@
     {
       "id": 1102594152,
       "dt": "2021-11-26T17:27:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New England IPA 14",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -2491,6 +2802,7 @@
     {
       "id": 1102404947,
       "dt": "2021-11-25T23:09:40+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
       "brewery": "Deer Bear",
       "serving": "Lahvové",
@@ -2499,6 +2811,7 @@
     {
       "id": 1102404662,
       "dt": "2021-11-25T23:09:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Padrísimo",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2507,6 +2820,7 @@
     {
       "id": 1102404450,
       "dt": "2021-11-25T23:08:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fruit Garden 3 - Sour Ale with Orange x Nectarine x Pomegranate",
       "brewery": "Deer Bear",
       "serving": "Lahvové",
@@ -2515,6 +2829,7 @@
     {
       "id": 1102376493,
       "dt": "2021-11-25T22:20:50+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Padrísimo",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2523,6 +2838,7 @@
     {
       "id": 1102372308,
       "dt": "2021-11-25T22:14:13+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2531,6 +2847,7 @@
     {
       "id": 1102369352,
       "dt": "2021-11-25T22:09:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 13",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -2539,6 +2856,7 @@
     {
       "id": 1102368963,
       "dt": "2021-11-25T22:08:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "NELA",
       "brewery": "Pioneer Beer",
       "serving": "Lahvové",
@@ -2547,6 +2865,7 @@
     {
       "id": 1102352886,
       "dt": "2021-11-25T21:44:46+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ronin",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2555,6 +2874,7 @@
     {
       "id": 1102352525,
       "dt": "2021-11-25T21:44:15+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2563,6 +2883,7 @@
     {
       "id": 1102351258,
       "dt": "2021-11-25T21:42:18+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2571,6 +2892,7 @@
     {
       "id": 1102343288,
       "dt": "2021-11-25T21:29:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ronin",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2579,6 +2901,7 @@
     {
       "id": 1102329084,
       "dt": "2021-11-25T21:09:18+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ronin",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2587,6 +2910,7 @@
     {
       "id": 1102303008,
       "dt": "2021-11-25T20:30:35+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "NELA",
       "brewery": "Pioneer Beer",
       "serving": "Lahvové",
@@ -2595,6 +2919,7 @@
     {
       "id": 1102302680,
       "dt": "2021-11-25T20:30:05+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tekutý Kapřík (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Lahvové",
@@ -2603,6 +2928,7 @@
     {
       "id": 1102277044,
       "dt": "2021-11-25T19:47:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "NELA",
       "brewery": "Pioneer Beer",
       "serving": "Lahvové",
@@ -2611,6 +2937,7 @@
     {
       "id": 1102275568,
       "dt": "2021-11-25T19:45:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tekutý Kapřík (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Lahvové",
@@ -2619,6 +2946,7 @@
     {
       "id": 1102257540,
       "dt": "2021-11-25T19:11:46+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tekutý Kapřík (2021)",
       "brewery": "Pivovar Clock",
       "serving": "Lahvové",
@@ -2627,6 +2955,7 @@
     {
       "id": 1102243766,
       "dt": "2021-11-25T18:42:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Epsilon",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -2635,6 +2964,7 @@
     {
       "id": 1101659799,
       "dt": "2021-11-23T16:04:45+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Epsilon",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -2643,6 +2973,7 @@
     {
       "id": 1101658880,
       "dt": "2021-11-23T15:45:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2651,6 +2982,7 @@
     {
       "id": 1101651336,
       "dt": "2021-11-23T12:35:47+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Stromboli",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2659,6 +2991,7 @@
     {
       "id": 1101598147,
       "dt": "2021-11-23T01:53:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 13",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -2667,6 +3000,7 @@
     {
       "id": 1101596881,
       "dt": "2021-11-23T01:48:30+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2675,6 +3009,7 @@
     {
       "id": 1101596760,
       "dt": "2021-11-23T01:48:02+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Epsilon",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -2683,6 +3018,7 @@
     {
       "id": 1101532446,
       "dt": "2021-11-22T21:03:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -2691,6 +3027,7 @@
     {
       "id": 1101532309,
       "dt": "2021-11-22T21:02:44+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran Dry Hopped",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -2699,6 +3036,7 @@
     {
       "id": 1101252241,
       "dt": "2021-11-21T19:30:50+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Epsilon",
       "brewery": "Chroust",
       "serving": "Čepované",
@@ -2707,6 +3045,7 @@
     {
       "id": 1100886547,
       "dt": "2021-11-20T23:03:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
@@ -2715,6 +3054,7 @@
     {
       "id": 1100855762,
       "dt": "2021-11-20T22:30:26+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Gunslinger",
       "brewery": "Pivovar Raven",
       "serving": "Nezadáno",
@@ -2723,6 +3063,7 @@
     {
       "id": 1100326993,
       "dt": "2021-11-20T00:21:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zkruhovec vol. II",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -2731,6 +3072,7 @@
     {
       "id": 1100297686,
       "dt": "2021-11-19T23:37:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2739,6 +3081,7 @@
     {
       "id": 1100069077,
       "dt": "2021-11-19T17:27:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "FIFTY FIFTY 2 - Black Currant & Banana",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2747,6 +3090,7 @@
     {
       "id": 1100060373,
       "dt": "2021-11-19T16:56:23+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "FIFTY FIFTY 2 - Black Currant & Banana",
       "brewery": "Deer Bear",
       "serving": "Plechovkové",
@@ -2755,6 +3099,7 @@
     {
       "id": 1099764683,
       "dt": "2021-11-18T08:40:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2763,6 +3108,7 @@
     {
       "id": 1099621599,
       "dt": "2021-11-17T20:25:05+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zkruhovec vol. II",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -2771,6 +3117,7 @@
     {
       "id": 1099601583,
       "dt": "2021-11-17T19:00:11+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
@@ -2779,6 +3126,7 @@
     {
       "id": 1099600973,
       "dt": "2021-11-17T18:57:07+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "APA – In Aeternum",
       "brewery": "Pivovar Čestmír",
       "serving": "Lahvové",
@@ -2787,6 +3135,7 @@
     {
       "id": 1099593256,
       "dt": "2021-11-17T18:18:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Green Mountain",
       "brewery": "Thornbridge Brewery",
       "serving": "Čepované",
@@ -2795,6 +3144,7 @@
     {
       "id": 1099592683,
       "dt": "2021-11-17T18:14:43+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Single Hop Ekuanot 15",
       "brewery": "Pivovar Čestmír",
       "serving": "Lahvové",
@@ -2803,6 +3153,7 @@
     {
       "id": 1099582618,
       "dt": "2021-11-17T16:53:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 13",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -2811,6 +3162,7 @@
     {
       "id": 1099577582,
       "dt": "2021-11-17T15:34:51+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Flash",
       "brewery": "Pivovar Volt",
       "serving": "Čepované",
@@ -2819,6 +3171,7 @@
     {
       "id": 1099576067,
       "dt": "2021-11-17T15:05:48+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zkruhovec vol. II",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -2827,6 +3180,7 @@
     {
       "id": 1099574947,
       "dt": "2021-11-17T14:39:08+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2835,6 +3189,7 @@
     {
       "id": 1099505043,
       "dt": "2021-11-17T01:02:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Chiméra",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -2843,6 +3198,7 @@
     {
       "id": 1099504243,
       "dt": "2021-11-17T00:59:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Motueka Sunrise",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2851,6 +3207,7 @@
     {
       "id": 1099484339,
       "dt": "2021-11-16T23:41:53+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Motueka Sunrise",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2859,6 +3216,7 @@
     {
       "id": 1099477629,
       "dt": "2021-11-16T23:13:40+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zkruhovec vol. II",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -2867,6 +3225,7 @@
     {
       "id": 1099476557,
       "dt": "2021-11-16T23:09:12+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Orange Pepper Weizen",
       "brewery": "Pivovar Genius noci",
       "serving": "Lahvové",
@@ -2875,6 +3234,7 @@
     {
       "id": 1099475709,
       "dt": "2021-11-16T23:05:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Orange Pepper Weizen",
       "brewery": "Pivovar Genius noci",
       "serving": "Lahvové",
@@ -2883,6 +3243,7 @@
     {
       "id": 1099467894,
       "dt": "2021-11-16T22:31:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Zkruhovec vol. II",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -2891,6 +3252,7 @@
     {
       "id": 1099411548,
       "dt": "2021-11-16T18:25:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Juice IT",
       "brewery": "Chernobeer Brewing Co. ",
       "serving": "Lahvové",
@@ -2899,6 +3261,7 @@
     {
       "id": 1099406060,
       "dt": "2021-11-16T17:45:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Apri(cool)",
       "brewery": "Krušnohor ",
       "serving": "Lahvové",
@@ -2907,6 +3270,7 @@
     {
       "id": 1099282043,
       "dt": "2021-11-15T20:51:01+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Loud Tempest (3rd Anniversary Nepomucen Collab)",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -2915,6 +3279,7 @@
     {
       "id": 1099281977,
       "dt": "2021-11-15T20:50:41+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fruitzilla (3rd Anniversary Monsters Collab)",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -2923,6 +3288,7 @@
     {
       "id": 1099274470,
       "dt": "2021-11-15T20:13:24+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fruitzilla (3rd Anniversary Monsters Collab)",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -2931,6 +3297,7 @@
     {
       "id": 1099273225,
       "dt": "2021-11-15T20:06:47+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Loud Tempest (3rd Anniversary Nepomucen Collab)",
       "brewery": "Funky Fluid",
       "serving": "Plechovkové",
@@ -2939,6 +3306,7 @@
     {
       "id": 1099272788,
       "dt": "2021-11-15T20:04:34+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Beaver Moon",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Plechovkové",
@@ -2947,6 +3315,7 @@
     {
       "id": 1099258936,
       "dt": "2021-11-15T18:43:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Beaver Moon",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Plechovkové",
@@ -2955,6 +3324,7 @@
     {
       "id": 1099258835,
       "dt": "2021-11-15T18:43:14+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fogtown",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2963,6 +3333,7 @@
     {
       "id": 1099258553,
       "dt": "2021-11-15T18:41:16+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fogtown",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2971,6 +3342,7 @@
     {
       "id": 1099246892,
       "dt": "2021-11-15T16:57:28+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop Pale Ale 2021",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2979,6 +3351,7 @@
     {
       "id": 1099246401,
       "dt": "2021-11-15T16:50:18+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop Pale Ale 2021",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -2987,6 +3360,7 @@
     {
       "id": 1099245510,
       "dt": "2021-11-15T16:37:03+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Herbee",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -2995,6 +3369,7 @@
     {
       "id": 1095619427,
       "dt": "2021-11-05T23:50:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran Dry Hopped",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -3003,6 +3378,7 @@
     {
       "id": 1095618960,
       "dt": "2021-11-05T23:50:18+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Sattran",
       "brewery": "Fenetra",
       "serving": "Lahvové",
@@ -3011,6 +3387,7 @@
     {
       "id": 1095618286,
       "dt": "2021-11-05T23:49:25+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Rišaví Zmikund",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3019,6 +3396,7 @@
     {
       "id": 1095617475,
       "dt": "2021-11-05T23:48:23+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Slash",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3027,6 +3405,7 @@
     {
       "id": 1095617205,
       "dt": "2021-11-05T23:47:59+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Most 11 IPL",
       "brewery": "Pivovar Louka",
       "serving": "Lahvové",
@@ -3035,6 +3414,7 @@
     {
       "id": 1095520146,
       "dt": "2021-11-05T21:48:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Tengerine New Louny",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3043,6 +3423,7 @@
     {
       "id": 1095517670,
       "dt": "2021-11-05T21:45:36+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Rišaví Zmikund",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3051,6 +3432,7 @@
     {
       "id": 1095516352,
       "dt": "2021-11-05T21:44:00+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Herbee",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3059,6 +3441,7 @@
     {
       "id": 1095444617,
       "dt": "2021-11-05T20:12:33+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART #8 PL New Wave NEIPA",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3067,6 +3450,7 @@
     {
       "id": 1095425963,
       "dt": "2021-11-05T19:44:25+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kid",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3075,6 +3459,7 @@
     {
       "id": 1095146897,
       "dt": "2021-11-04T22:14:32+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Most 11 IPL",
       "brewery": "Pivovar Louka",
       "serving": "Lahvové",
@@ -3083,6 +3468,7 @@
     {
       "id": 1095118726,
       "dt": "2021-11-04T21:10:48+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Slash",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3091,6 +3477,7 @@
     {
       "id": 1095111803,
       "dt": "2021-11-04T20:54:23+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Steam Brew German Red",
       "brewery": "Privatbrauerei Eichbaum",
       "serving": "Plechovkové",
@@ -3099,6 +3486,7 @@
     {
       "id": 1095111473,
       "dt": "2021-11-04T20:53:39+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "W Samo Południe",
       "brewery": "Browar Dziki Wschód",
       "serving": "Čepované",
@@ -3107,6 +3495,7 @@
     {
       "id": 1095111337,
       "dt": "2021-11-04T20:53:21+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop Ale Most",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3115,6 +3504,7 @@
     {
       "id": 1095110837,
       "dt": "2021-11-04T20:52:06+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Exorcist Barrel Aged",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3123,6 +3513,7 @@
     {
       "id": 1095090506,
       "dt": "2021-11-04T19:59:10+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Exorcist Barrel Aged",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3131,6 +3522,7 @@
     {
       "id": 1095067223,
       "dt": "2021-11-04T18:46:17+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Fresh Hop Ale Most",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3139,6 +3531,7 @@
     {
       "id": 1095066232,
       "dt": "2021-11-04T18:42:57+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "W Samo Południe",
       "brewery": "Browar Dziki Wschód",
       "serving": "Čepované",
@@ -3147,6 +3540,7 @@
     {
       "id": 1094642871,
       "dt": "2021-11-02T15:37:27+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Eliášův oheň",
       "brewery": "Pivovar Volt",
       "serving": "Čepované",
@@ -3155,6 +3549,7 @@
     {
       "id": 1094485957,
       "dt": "2021-11-01T16:22:04+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kamenická Žitná IPA 14",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3163,6 +3558,7 @@
     {
       "id": 1094190678,
       "dt": "2021-10-31T18:14:55+01:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Shake ‘N’ Kveik",
       "brewery": "Pivovar Patchwork",
       "serving": "Čepované",
@@ -3171,6 +3567,7 @@
     {
       "id": 1093786584,
       "dt": "2021-10-30T22:11:51+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Wish Višně",
       "brewery": "Pivovar Obora",
       "serving": "Čepované",
@@ -3179,6 +3576,7 @@
     {
       "id": 1093599585,
       "dt": "2021-10-30T18:51:39+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Shake ‘N’ Kveik",
       "brewery": "Pivovar Patchwork",
       "serving": "Čepované",
@@ -3187,6 +3585,7 @@
     {
       "id": 1092995607,
       "dt": "2021-10-29T16:13:33+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Bad Flash Fanatic NEIPA – Sabro 14",
       "brewery": "Bad Flash",
       "serving": "Čepované",
@@ -3195,6 +3594,7 @@
     {
       "id": 1092989174,
       "dt": "2021-10-29T15:31:48+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "I Love You Pumpkin",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -3203,6 +3603,7 @@
     {
       "id": 1092984988,
       "dt": "2021-10-29T14:55:01+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Bad Flash Fanatic NEIPA – Sabro 14",
       "brewery": "Bad Flash",
       "serving": "Čepované",
@@ -3211,6 +3612,7 @@
     {
       "id": 1092715266,
       "dt": "2021-10-28T17:56:31+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Bolševík 20°",
       "brewery": "Rodinný pivovar Vik",
       "serving": "Plechovkové",
@@ -3219,6 +3621,7 @@
     {
       "id": 1092713682,
       "dt": "2021-10-28T17:48:01+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "I Love You Pumpkin",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -3227,6 +3630,7 @@
     {
       "id": 1092704042,
       "dt": "2021-10-28T16:44:31+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Líný čert Kokosový 12°",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3235,6 +3639,7 @@
     {
       "id": 1092692147,
       "dt": "2021-10-28T14:11:22+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART #8 New Wawe NEIPA",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3243,6 +3648,7 @@
     {
       "id": 1092692147,
       "dt": "2021-10-28T14:11:22+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART #8 PL New Wave NEIPA",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3251,6 +3657,7 @@
     {
       "id": 1092562270,
       "dt": "2021-10-27T22:34:53+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Výčepní 10°",
       "brewery": "Rampelník",
       "serving": "Čepované",
@@ -3259,6 +3666,7 @@
     {
       "id": 1092475112,
       "dt": "2021-10-27T16:28:17+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Buttenheimer Kellerbier",
       "brewery": "St. GeorgenBräu",
       "serving": "Čepované",
@@ -3267,6 +3675,7 @@
     {
       "id": 1092473879,
       "dt": "2021-10-27T16:14:08+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA 15",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3275,6 +3684,7 @@
     {
       "id": 1092472225,
       "dt": "2021-10-27T15:51:14+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Art #08",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3283,6 +3693,7 @@
     {
       "id": 1092318829,
       "dt": "2021-10-26T20:19:55+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Buttenheimer Kellerbier",
       "brewery": "St. GeorgenBräu",
       "serving": "Čepované",
@@ -3291,6 +3702,7 @@
     {
       "id": 1092304433,
       "dt": "2021-10-26T19:18:56+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy Discovery Vilnius",
       "brewery": "Browar PINTA",
       "serving": "Plechovkové",
@@ -3299,6 +3711,7 @@
     {
       "id": 1092304225,
       "dt": "2021-10-26T19:17:55+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hazy Discovery Vilnius",
       "brewery": "Browar PINTA",
       "serving": "Plechovkové",
@@ -3307,6 +3720,7 @@
     {
       "id": 1092297670,
       "dt": "2021-10-26T18:45:03+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 11",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3315,6 +3729,7 @@
     {
       "id": 1092294088,
       "dt": "2021-10-26T18:25:17+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 11",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3323,6 +3738,7 @@
     {
       "id": 1092293083,
       "dt": "2021-10-26T18:19:35+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Tree Friend",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3331,6 +3747,7 @@
     {
       "id": 1092291440,
       "dt": "2021-10-26T18:09:17+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hoppy Tree Friend",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3339,6 +3756,7 @@
     {
       "id": 1092290885,
       "dt": "2021-10-26T18:05:44+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "I Love You Pumpkin",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -3347,6 +3765,7 @@
     {
       "id": 1092192946,
       "dt": "2021-10-25T23:53:38+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dillertaler Rotblondes Kellerbier",
       "brewery": "St. GeorgenBräu",
       "serving": "Čepované",
@@ -3355,6 +3774,7 @@
     {
       "id": 1092183343,
       "dt": "2021-10-25T23:06:49+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "ART #8 New Wawe NEIPA",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
@@ -3363,6 +3783,7 @@
     {
       "id": 1091720191,
       "dt": "2021-10-24T09:54:39+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New Zealand Pale Ale 12",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3371,6 +3792,7 @@
     {
       "id": 1091720126,
       "dt": "2021-10-24T09:53:30+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Líný čert Kokosový 12°",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3379,6 +3801,7 @@
     {
       "id": 1091719966,
       "dt": "2021-10-24T09:50:53+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizana Mango 13",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3387,6 +3810,7 @@
     {
       "id": 1091719905,
       "dt": "2021-10-24T09:50:11+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Samit",
       "brewery": "Pivovar Antoš ",
       "serving": "Čepované",
@@ -3395,6 +3819,7 @@
     {
       "id": 1091416060,
       "dt": "2021-10-23T22:27:32+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizana Mango 13",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3403,6 +3828,7 @@
     {
       "id": 1091414813,
       "dt": "2021-10-23T22:26:22+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Nectar of Darkness 17",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Plechovkové",
@@ -3411,6 +3837,7 @@
     {
       "id": 1091414359,
       "dt": "2021-10-23T22:25:58+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Samit",
       "brewery": "Pivovar Antoš ",
       "serving": "Čepované",
@@ -3419,6 +3846,7 @@
     {
       "id": 1091412633,
       "dt": "2021-10-23T22:24:23+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Prisma",
       "brewery": "Falkon",
       "serving": "Čepované",
@@ -3427,6 +3855,7 @@
     {
       "id": 1091401020,
       "dt": "2021-10-23T22:13:18+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Prisma",
       "brewery": "Falkon",
       "serving": "Čepované",
@@ -3435,6 +3864,7 @@
     {
       "id": 1091365222,
       "dt": "2021-10-23T21:40:00+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "New Zealand Pale Ale 12",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3443,6 +3873,7 @@
     {
       "id": 1091291170,
       "dt": "2021-10-23T20:32:04+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Prisma",
       "brewery": "Falkon",
       "serving": "Čepované",
@@ -3451,6 +3882,7 @@
     {
       "id": 1091256409,
       "dt": "2021-10-23T19:57:58+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizana Mango 13",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3459,6 +3891,7 @@
     {
       "id": 1091140071,
       "dt": "2021-10-23T17:46:25+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Líný čert Kokosový 12°",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3467,6 +3900,7 @@
     {
       "id": 1091121965,
       "dt": "2021-10-23T17:18:43+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Prisma",
       "brewery": "Falkon",
       "serving": "Čepované",
@@ -3475,6 +3909,7 @@
     {
       "id": 1091107392,
       "dt": "2021-10-23T16:54:37+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Samit",
       "brewery": "Pivovar Antoš ",
       "serving": "Čepované",
@@ -3483,6 +3918,7 @@
     {
       "id": 1091094851,
       "dt": "2021-10-23T16:33:14+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dates, Figs, Sour Cherry & Raspberry Sorbet",
       "brewery": "Sibeeria",
       "serving": "Čepované",
@@ -3491,6 +3927,7 @@
     {
       "id": 1091082799,
       "dt": "2021-10-23T16:11:42+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizana Mango 13",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3499,6 +3936,7 @@
     {
       "id": 1090845741,
       "dt": "2021-10-23T01:50:05+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Joe In the Garden – Forest Fruit Edition",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -3507,6 +3945,7 @@
     {
       "id": 1090771440,
       "dt": "2021-10-22T23:59:37+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kurtizana Mango 13",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3515,6 +3954,7 @@
     {
       "id": 1090765830,
       "dt": "2021-10-22T23:51:29+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Prisma",
       "brewery": "Falkon",
       "serving": "Čepované",
@@ -3523,6 +3963,7 @@
     {
       "id": 1090755507,
       "dt": "2021-10-22T23:36:55+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Líný čert Kokosový 12°",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3531,6 +3972,7 @@
     {
       "id": 1090749975,
       "dt": "2021-10-22T23:28:59+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 11",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3539,6 +3981,7 @@
     {
       "id": 1090487840,
       "dt": "2021-10-22T17:01:14+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dates, Figs, Sour Cherry & Raspberry Sorbet",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3547,6 +3990,7 @@
     {
       "id": 1090487348,
       "dt": "2021-10-22T17:00:00+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Hop Terror",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3555,6 +3999,7 @@
     {
       "id": 1090464013,
       "dt": "2021-10-22T15:41:01+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Rumpl - 13°",
       "brewery": "Rampelník",
       "serving": "Čepované",
@@ -3563,6 +4008,7 @@
     {
       "id": 1090462015,
       "dt": "2021-10-22T15:27:10+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježibaba",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3571,6 +4017,7 @@
     {
       "id": 1090249678,
       "dt": "2021-10-21T22:47:13+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dates, Figs, Sour Cherry & Raspberry Sorbet",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3579,6 +4026,7 @@
     {
       "id": 1090244748,
       "dt": "2021-10-21T22:35:00+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Dates, Figs, Sour Cherry & Raspberry Sorbet",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3587,6 +4035,7 @@
     {
       "id": 1090239602,
       "dt": "2021-10-21T22:22:14+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Jungle Haze",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -3595,6 +4044,7 @@
     {
       "id": 1090239432,
       "dt": "2021-10-21T22:21:49+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Joe In the Garden – Forest Fruit Edition",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -3603,6 +4053,7 @@
     {
       "id": 1090236628,
       "dt": "2021-10-21T22:15:11+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Joe In the Garden – Forest Fruit Edition",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -3611,6 +4062,7 @@
     {
       "id": 1090220933,
       "dt": "2021-10-21T21:38:10+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Joe In the Garden – Fruit Edition (Apricot, Sea Salt)",
       "brewery": "Pivovar Permon",
       "serving": "Plechovkové",
@@ -3619,6 +4071,7 @@
     {
       "id": 1090205061,
       "dt": "2021-10-21T21:02:22+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Jungle Haze",
       "brewery": "Pivovar Raven",
       "serving": "Lahvové",
@@ -3627,6 +4080,7 @@
     {
       "id": 1090189202,
       "dt": "2021-10-21T20:24:08+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Podzim 2021",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3635,6 +4089,7 @@
     {
       "id": 1090188851,
       "dt": "2021-10-21T20:23:14+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Autumn Tactics",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3643,6 +4098,7 @@
     {
       "id": 1090188248,
       "dt": "2021-10-21T20:21:39+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Autumn Tactics",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3651,6 +4107,7 @@
     {
       "id": 1090184422,
       "dt": "2021-10-21T20:11:57+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Weizen 11",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3659,6 +4116,7 @@
     {
       "id": 1090177704,
       "dt": "2021-10-21T19:53:53+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježibaba",
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
@@ -3667,6 +4125,7 @@
     {
       "id": 1089933153,
       "dt": "2021-10-20T20:15:44+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kamenická 12 Tmavá",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3675,6 +4134,7 @@
     {
       "id": 1089904035,
       "dt": "2021-10-20T18:26:12+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Maracuja",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -3683,6 +4143,7 @@
     {
       "id": 1089720268,
       "dt": "2021-10-19T20:20:12+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Nectar of Happiness 17",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -3691,6 +4152,7 @@
     {
       "id": 1089718161,
       "dt": "2021-10-19T20:12:31+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Drifter",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -3699,6 +4161,7 @@
     {
       "id": 1089695444,
       "dt": "2021-10-19T18:31:47+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Podzim 2021",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3707,6 +4170,7 @@
     {
       "id": 1089695213,
       "dt": "2021-10-19T18:30:34+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Podzim 2021",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3715,6 +4179,7 @@
     {
       "id": 1089691433,
       "dt": "2021-10-19T18:08:42+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Podzim 2021",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3723,6 +4188,7 @@
     {
       "id": 1089690040,
       "dt": "2021-10-19T17:59:56+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Autumn Tactics",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3731,6 +4197,7 @@
     {
       "id": 1089688597,
       "dt": "2021-10-19T17:50:13+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Autumn Tactics",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3739,6 +4206,7 @@
     {
       "id": 1089681680,
       "dt": "2021-10-19T16:50:33+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA TONE 0801 (Sour IPA: Galaxy, Idaho 7, Azacca)",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3747,6 +4215,7 @@
     {
       "id": 1089681623,
       "dt": "2021-10-19T16:49:54+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA TONE 0801 (Sour IPA: Galaxy, Idaho 7, Azacca)",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3755,6 +4224,7 @@
     {
       "id": 1089577260,
       "dt": "2021-10-18T22:57:17+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "IPA+ Mango",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3763,6 +4233,7 @@
     {
       "id": 1088889412,
       "dt": "2021-10-16T23:50:45+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježibaba",
       "brewery": "Pivovar Mordýř",
       "serving": "Lahvové",
@@ -3771,6 +4242,7 @@
     {
       "id": 1088147008,
       "dt": "2021-10-15T21:55:02+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Ježibaba",
       "brewery": "Pivovar Mordýř",
       "serving": "Lahvové",
@@ -3779,6 +4251,7 @@
     {
       "id": 1088147003,
       "dt": "2021-10-15T21:55:02+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Lollihop",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3787,6 +4260,7 @@
     {
       "id": 1088146018,
       "dt": "2021-10-15T21:53:42+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Lollihop",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
@@ -3795,6 +4269,7 @@
     {
       "id": 1088058726,
       "dt": "2021-10-15T19:59:25+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kamenická 12 Tmavá",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3803,6 +4278,7 @@
     {
       "id": 1088046451,
       "dt": "2021-10-15T19:40:24+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Kamenická 12 Tmavá",
       "brewery": "Pivovar Kamenice nad Lipou",
       "serving": "Čepované",
@@ -3811,6 +4287,7 @@
     {
       "id": 1088034819,
       "dt": "2021-10-15T19:21:35+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Nectar of Happiness 17",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
@@ -3819,6 +4296,7 @@
     {
       "id": 1088019269,
       "dt": "2021-10-15T18:53:41+02:00",
+      "venue_name": "U Toulavé pípy",
       "beer_name": "Nelson Motueka Simcoe Double IPA 17",
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",

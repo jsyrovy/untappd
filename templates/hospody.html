@@ -16,7 +16,7 @@
 </head>
 <body>
 {% for check_in in check_ins %}
-    <div>{{ check_in.dt.strftime('%Y-%m-%d') }} - <a href="{{ check_in.beer_link }}">{{ check_in.beer_name }}</a> - {{ check_in.serving }}</div>
+    <div>{{ check_in.dt.strftime('%Y-%m-%d') }} - <a href="{{ check_in.venue_link }}">{{ check_in.venue_name }}</a> - <a href="{{ check_in.beer_link }}">{{ check_in.beer_name }}</a> - {{ check_in.serving }}</div>
 {% endfor %}
 </body>
 </html>
