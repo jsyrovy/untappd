@@ -8,10 +8,12 @@ def test_create_random_check_in():
 
     assert check_in.id
     assert check_in.dt
+    assert check_in.venue_name
     assert check_in.beer_name
     assert check_in.brewery
     assert check_in.serving
     assert check_in.beer_link
+    assert check_in.venue_link
 
 
 def test_create_check_in_from_json():
@@ -19,6 +21,7 @@ def test_create_check_in_from_json():
         'id': 666,
         'dt': '2000-01-01 00:00:00',
         'beer_name': 'pivo',
+        'venue_name': 'U Toulavé pípy',
         'brewery': 'pivovar',
         'serving': 'cepovane',
         'beer_link': 'https://pivo.org'
@@ -27,6 +30,7 @@ def test_create_check_in_from_json():
 
     assert check_in.id == json_['id']
     assert check_in.dt == datetime.datetime(2000, 1, 1, 0, 0, 0)
+    assert check_in.venue_name == json_['venue_name']
     assert check_in.beer_name == json_['beer_name']
     assert check_in.brewery == json_['brewery']
     assert check_in.serving == json_['serving']
@@ -35,16 +39,25 @@ def test_create_check_in_from_json():
 
 def test_check_in_to_json():
     check_in = hospody.CheckIn(
-        42, datetime.datetime(2000, 1, 1, 0, 0, 0), 'pivo', 'pivovar', 'cepovane', 'https://pivo.org'
+        42,
+        datetime.datetime(2000, 1, 1, 0, 0, 0),
+        'hospoda',
+        'pivo',
+        'pivovar',
+        'cepovane',
+        'https://pivo.org',
+        'https://hospoda.org',
     )
     json_ = check_in.to_json()
 
     assert json_['id'] == check_in.id
     assert json_['dt'] == '2000-01-01T00:00:00'
+    assert json_['venue_name'] == check_in.venue_name
     assert json_['beer_name'] == check_in.beer_name
     assert json_['brewery'] == check_in.brewery
     assert json_['serving'] == check_in.serving
     assert json_['beer_link'] == check_in.beer_link
+    assert 'venue_link' not in json_
 
 
 def test_check_ins_order():
