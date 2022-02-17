@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1129932831,
+      "dt": "2022-02-16T21:47:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1129925360,
+      "dt": "2022-02-16T21:20:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "12 Saturn Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-12-saturn-single-hop/4703755"
+    },
+    {
+      "id": 1129884197,
+      "dt": "2022-02-16T18:28:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1129881237,
+      "dt": "2022-02-16T18:11:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Freedom IPA 14°",
+      "brewery": "Pivovar Bizon",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-bizon-freedom-ipa-140/621589"
+    },
+    {
+      "id": 1129879839,
+      "dt": "2022-02-16T18:01:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DC Ale",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-dc-ale/2326223"
+    },
+    {
+      "id": 1129252966,
+      "dt": "2022-02-13T19:42:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragon Love",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
+    },
+    {
+      "id": 1129210741,
+      "dt": "2022-02-13T17:51:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blizard - Mango",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-blizard-mango/4561947"
+    },
+    {
+      "id": 1129031541,
+      "dt": "2022-02-13T02:01:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragon Love",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
+    },
+    {
       "id": 1128960832,
       "dt": "2022-02-13T00:17:01+01:00",
       "venue_name": "U Toulavé pípy",
@@ -8,6 +80,78 @@
       "brewery": "Pivovar Zhůřák",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-zhurak-paradise-ale/1297130"
+    },
+    {
+      "id": 1128958876,
+      "dt": "2022-02-13T00:14:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jamestown",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-jamestown/3417884"
+    },
+    {
+      "id": 1128957408,
+      "dt": "2022-02-13T00:12:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blizard - Mango",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-blizard-mango/4561947"
+    },
+    {
+      "id": 1128945298,
+      "dt": "2022-02-12T23:56:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "White Coffee Chocolate",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-white-coffee-chocolate/4623708"
+    },
+    {
+      "id": 1128919119,
+      "dt": "2022-02-12T23:25:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bacchus Frambozenbier",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-bacchus-frambozenbier/20489"
+    },
+    {
+      "id": 1128917989,
+      "dt": "2022-02-12T23:23:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blizard - Mango",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-blizard-mango/4561947"
+    },
+    {
+      "id": 1128914643,
+      "dt": "2022-02-12T23:20:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jamestown",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-jamestown/3417884"
+    },
+    {
+      "id": 1128373435,
+      "dt": "2022-02-12T00:37:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Masopust",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-masopust/3687038"
+    },
+    {
+      "id": 1128319078,
+      "dt": "2022-02-11T23:12:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Czech Ale",
+      "brewery": "Pivovar Trilobit",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-trilobit-czech-ale/2703764"
     },
     {
       "id": 1128261810,
@@ -26,6 +170,42 @@
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1128258984,
+      "dt": "2022-02-11T21:42:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Buttenheimer Weißbier",
+      "brewery": "St. GeorgenBräu",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/st-georgenbrau-buttenheimer-weissbier/64955"
+    },
+    {
+      "id": 1128258669,
+      "dt": "2022-02-11T21:42:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tears of St Laurent",
+      "brewery": "Wild Creatures",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/wild-creatures-tears-of-st-laurent/1746904"
+    },
+    {
+      "id": 1127684230,
+      "dt": "2022-02-09T17:41:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Knajp Rajdr",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-knajp-rajdr/2543959"
+    },
+    {
+      "id": 1127683952,
+      "dt": "2022-02-09T17:39:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Darknet",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-darknet/4634996"
     },
     {
       "id": 1127434501,
