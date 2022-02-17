@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1130113124,
+      "dt": "2022-02-17T20:39:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jamestown",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-jamestown/3417884"
+    },
+    {
+      "id": 1130107699,
+      "dt": "2022-02-17T20:22:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1130105518,
+      "dt": "2022-02-17T20:15:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1130069579,
+      "dt": "2022-02-17T17:50:11+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
       "id": 1129932831,
       "dt": "2022-02-16T21:47:35+01:00",
       "venue_name": "Pivní ambasáda",
