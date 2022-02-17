@@ -5,18 +5,89 @@
     <title>Hospody</title>
     <link rel="icon" type="image/png" href="../favicon.png"/>
     <link rel="apple-touch-icon" href="../favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            margin-top: 50px;
             font-family: sans-serif;
-            text-align: center;
-            font-size: 1rem;
+        }
+        .container {
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .responsive-table li {
+            border-radius: 3px;
+            padding: 25px 30px;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 25px;
+        }
+        .responsive-table .table-header {
+            background-color: #51d49a;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+        .responsive-table .table-row {
+            background-color: #ffffff;
+            box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+        }
+        .responsive-table .col-1 {
+            flex-basis: 11%;
+        }
+        .responsive-table .col-2 {
+            flex-basis: 15%;
+        }
+        .responsive-table .col-3 {
+            flex-basis: 59%;
+        }
+        .responsive-table .col-4 {
+            flex-basis: 15%;
+        }
+        @media (max-width: 767px) {
+            .responsive-table .table-header {
+                display: none;
+            }
+            .responsive-table li {
+                display: block;
+            }
+            .responsive-table .col {
+                flex-basis: 100%;
+            }
+            .responsive-table .col {
+                display: flex;
+                padding: 10px 0;
+            }
+            .responsive-table .col:before {
+                color: #6C7A89;
+                padding-right: 10px;
+                content: attr(data-label);
+                flex-basis: 50%;
+                text-align: right;
+            }
         }
     </style>
 </head>
 <body>
-{% for check_in in check_ins %}
-    <div>{{ check_in.dt.strftime('%Y-%m-%d') }} - <a href="{{ check_in.venue_link }}">{{ check_in.venue_name }}</a> - <a href="{{ check_in.beer_link }}">{{ check_in.beer_name }}</a> - {{ check_in.serving }}</div>
-{% endfor %}
+    <div class="container">
+        <ul class="responsive-table">
+            <li class="table-header">
+                <div class="col col-1">Datum</div>
+                <div class="col col-2">Hospoda</div>
+                <div class="col col-3">Pivo</div>
+                <div class="col col-4">Servírování</div>
+            </li>
+            {% for check_in in check_ins %}
+                <li class="table-row">
+                    <div class="col col-1" data-label="Datum">{{ check_in.dt.strftime('%Y-%m-%d') }}</div>
+                    <div class="col col-2" data-label="Hospoda"><a href="{{ check_in.venue_link }}">{{ check_in.venue_name }}</a></div>
+                    <div class="col col-3" data-label="Pivo"><a href="{{ check_in.beer_link }}">{{ check_in.beer_name }}</a></div>
+                    <div class="col col-4" data-label="Servírování">{{ check_in.serving }}</div>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
 </body>
 </html>
