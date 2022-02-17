@@ -2,7 +2,6 @@ import datetime
 import logging
 import pathlib
 import random
-import time
 from collections import OrderedDict
 from typing import List, Tuple, Optional
 
@@ -86,12 +85,12 @@ def get_unique_beers_count(local: bool) -> Tuple[int, int, int]:
     user_profile_jirka = download_user_profile('sejrik')
     unique_beers_count_jirka = parse_unique_beers_count(user_profile_jirka)
 
-    time.sleep(random.randrange(5))
+    utils.random_sleep()
 
     user_profile_dan = download_user_profile('mencik2')
     unique_beers_count_dan = parse_unique_beers_count(user_profile_dan)
 
-    time.sleep(random.randrange(5))
+    utils.random_sleep()
 
     user_profile_matej = download_user_profile('Mates511')
     unique_beers_count_matej = parse_unique_beers_count(user_profile_matej)

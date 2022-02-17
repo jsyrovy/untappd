@@ -1,5 +1,6 @@
 import argparse
 import random
+import time
 from typing import Tuple
 
 import jinja2 as jinja2
@@ -42,3 +43,7 @@ def get_template(file: str, templates_paths: Tuple[str, ...] = ('templates',)) -
         autoescape=jinja2.select_autoescape(['html', 'xml']),
     )
     return env.get_template(file)
+
+
+def random_sleep() -> None:
+    time.sleep(random.randrange(5))

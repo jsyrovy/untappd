@@ -19,9 +19,11 @@ SERVING_CAN = 'Plechovkové'
 SERVING_UNKNOWN = 'Nezadáno'
 
 VENUE_PIPA = 'U Toulavé pípy'
+VENUE_AMBASADA = 'Pivní ambasáda'
 
 URLS = {
     VENUE_PIPA: f'{utils.BASE_URL}/v/u-toulave-pipy/3663231',
+    VENUE_AMBASADA: f'{utils.BASE_URL}/v/pivni-ambasada/3943799',
 }
 
 
@@ -76,6 +78,8 @@ class CheckIn:
 
 def run() -> None:
     new_check_ins = get_new_check_ins(utils.is_run_locally(), VENUE_PIPA)
+    utils.random_sleep()
+    new_check_ins.extend(get_new_check_ins(utils.is_run_locally(), VENUE_AMBASADA))
     check_ins = load_check_ins()
 
     for new_check_in in new_check_ins:
