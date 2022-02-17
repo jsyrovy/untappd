@@ -43,7 +43,7 @@ class CheckIn:
         return CheckIn(
             random.randrange(1000),
             datetime.now(tz=timezone(timedelta(seconds=7200))),
-            'Hospoda',
+            VENUE_AMBASADA,
             'Pivo',
             'Pivovar',
             SERVING_DRAFT,
