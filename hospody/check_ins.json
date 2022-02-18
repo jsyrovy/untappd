@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1130133752,
+      "dt": "2022-02-17T21:38:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chimay Cinq Cents (White) (2021)",
+      "brewery": "Bières de Chimay",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/bieres-de-chimay-chimay-cinq-cents-white-2021/4127253"
+    },
+    {
       "id": 1130113124,
       "dt": "2022-02-17T20:39:03+01:00",
       "venue_name": "Pivní ambasáda",
