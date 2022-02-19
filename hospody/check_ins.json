@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1130470149,
+      "dt": "2022-02-18T21:47:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1130292538,
+      "dt": "2022-02-18T12:54:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "White Coffee Chocolate",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-white-coffee-chocolate/4623708"
+    },
+    {
+      "id": 1130292501,
+      "dt": "2022-02-18T12:54:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blizard - Mango",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-blizard-mango/4561947"
+    },
+    {
+      "id": 1130291097,
+      "dt": "2022-02-18T12:27:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jamestown",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-jamestown/3417884"
+    },
+    {
+      "id": 1130291068,
+      "dt": "2022-02-18T12:26:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragon Love",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
+    },
+    {
+      "id": 1130291028,
+      "dt": "2022-02-18T12:25:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1130291009,
+      "dt": "2022-02-18T12:25:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chimay Cinq Cents (White) (2021)",
+      "brewery": "Bières de Chimay",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/bieres-de-chimay-chimay-cinq-cents-white-2021/4127253"
+    },
+    {
       "id": 1130133752,
       "dt": "2022-02-17T21:38:23+01:00",
       "venue_name": "Pivní ambasáda",
