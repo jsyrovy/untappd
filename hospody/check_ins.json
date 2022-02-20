@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1130896296,
+      "dt": "2022-02-19T19:18:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1130824738,
+      "dt": "2022-02-19T17:29:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1130816185,
+      "dt": "2022-02-19T17:09:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kunětický Kastelán 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kuneticky-kastelan-11/3865811"
+    },
+    {
+      "id": 1130803204,
+      "dt": "2022-02-19T16:34:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Johann NEIPA 13",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-johann-neipa-13/4042155"
+    },
+    {
+      "id": 1130802685,
+      "dt": "2022-02-19T16:33:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1130801370,
+      "dt": "2022-02-19T16:29:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Johann NEIPA 13",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-johann-neipa-13/4042155"
+    },
+    {
+      "id": 1130797193,
+      "dt": "2022-02-19T16:16:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Johann NEIPA 13",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-johann-neipa-13/4042155"
+    },
+    {
       "id": 1130470149,
       "dt": "2022-02-18T21:47:04+01:00",
       "venue_name": "Pivní ambasáda",
