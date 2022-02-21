@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1131513542,
+      "dt": "2022-02-20T20:21:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1131495014,
+      "dt": "2022-02-20T19:46:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Faro Boon",
+      "brewery": "Brouwerij Boon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brouwerij-boon-faro-boon/40386"
+    },
+    {
+      "id": 1131476471,
+      "dt": "2022-02-20T19:09:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Very Merry Tropically 12°",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-very-merry-tropically-120/4708593"
+    },
+    {
+      "id": 1131454813,
+      "dt": "2022-02-20T18:18:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Johann NEIPA 13",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-johann-neipa-13/4042155"
+    },
+    {
       "id": 1130896296,
       "dt": "2022-02-19T19:18:58+01:00",
       "venue_name": "Pivní ambasáda",
