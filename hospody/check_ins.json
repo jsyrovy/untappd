@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1131835624,
+      "dt": "2022-02-21T22:41:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Illusive",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-illusive/4498432"
+    },
+    {
+      "id": 1131832825,
+      "dt": "2022-02-21T22:31:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour Mango Ale",
+      "brewery": "Browar Zamkowy Cieszyn",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/browar-zamkowy-cieszyn-sour-mango-ale/3235126"
+    },
+    {
+      "id": 1131814632,
+      "dt": "2022-02-21T21:26:48+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sunshine",
+      "brewery": "Pivovar Matuška",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-sunshine/4685934"
+    },
+    {
+      "id": 1131808307,
+      "dt": "2022-02-21T21:03:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Camera Obscura",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-camera-obscura/4700902"
+    },
+    {
+      "id": 1131805882,
+      "dt": "2022-02-21T20:54:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Illusive",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-illusive/4498432"
+    },
+    {
+      "id": 1131805170,
+      "dt": "2022-02-21T20:52:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Chroust & Falkon Continental Modern IPA",
+      "brewery": "Falkon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/falkon-chroust-and-falkon-continental-modern-ipa/4692914"
+    },
+    {
+      "id": 1131804409,
+      "dt": "2022-02-21T20:49:16+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Illusive",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-illusive/4498432"
+    },
+    {
+      "id": 1131797692,
+      "dt": "2022-02-21T20:23:45+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Wine Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-wine-ale/4692439"
+    },
+    {
+      "id": 1131790761,
+      "dt": "2022-02-21T19:55:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Born",
+      "brewery": "Harry ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/harry-born/4621776"
+    },
+    {
       "id": 1131513542,
       "dt": "2022-02-20T20:21:33+01:00",
       "venue_name": "Pivní ambasáda",
@@ -109,6 +190,15 @@
       "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
     },
     {
+      "id": 1130470149,
+      "dt": "2022-02-18T21:47:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milkshake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
       "id": 1130292538,
       "dt": "2022-02-18T12:54:39+01:00",
       "venue_name": "Pivní ambasáda",
@@ -149,6 +239,15 @@
       "dt": "2022-02-18T12:25:54+01:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Rampušák Milk Shake IPA",
+      "brewery": "Pivovar Dobruška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
+    },
+    {
+      "id": 1130291028,
+      "dt": "2022-02-18T12:25:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Milkshake IPA",
       "brewery": "Pivovar Dobruška",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-dobruska-rampusak-milk-shake-ipa/4716880"
