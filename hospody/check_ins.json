@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1131991017,
+      "dt": "2022-02-22T21:16:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Very Merry Tropically 12°",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-very-merry-tropically-120/4708593"
+    },
+    {
+      "id": 1131984766,
+      "dt": "2022-02-22T20:52:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Skotačivá veverka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-skotaciva-veverka/2700020"
+    },
+    {
       "id": 1131835624,
       "dt": "2022-02-21T22:41:39+01:00",
       "venue_name": "U Toulavé pípy",
