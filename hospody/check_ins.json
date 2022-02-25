@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1132369494,
+      "dt": "2022-02-24T20:19:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Camera Obscura",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-camera-obscura/4700902"
+    },
+    {
+      "id": 1132367046,
+      "dt": "2022-02-24T20:11:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1132357339,
+      "dt": "2022-02-24T19:39:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Catcher",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-catcher/4681906"
+    },
+    {
+      "id": 1132356445,
+      "dt": "2022-02-24T19:35:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lifelink",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-lifelink/4681903"
+    },
+    {
+      "id": 1132351699,
+      "dt": "2022-02-24T19:18:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
+      "id": 1132345145,
+      "dt": "2022-02-24T18:51:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Very Merry Tropically 12°",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-very-merry-tropically-120/4708593"
+    },
+    {
       "id": 1131991017,
       "dt": "2022-02-22T21:16:33+01:00",
       "venue_name": "Pivní ambasáda",
