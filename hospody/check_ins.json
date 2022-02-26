@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1132598458,
+      "dt": "2022-02-25T17:56:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
+      "id": 1132595250,
+      "dt": "2022-02-25T17:46:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Irish Stout",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-irish-stout/4002004"
+    },
+    {
+      "id": 1132587116,
+      "dt": "2022-02-25T17:18:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
+      "id": 1132578947,
+      "dt": "2022-02-25T16:43:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot 11",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-11/2344577"
+    },
+    {
+      "id": 1132578517,
+      "dt": "2022-02-25T16:41:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Reserva",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-reserva/4648520"
+    },
+    {
+      "id": 1132574129,
+      "dt": "2022-02-25T16:16:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Irish Stout",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-irish-stout/4002004"
+    },
+    {
       "id": 1132369494,
       "dt": "2022-02-24T20:19:33+01:00",
       "venue_name": "Pivní ambasáda",
