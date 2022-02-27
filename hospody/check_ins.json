@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1133370989,
+      "dt": "2022-02-26T23:36:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
+      "id": 1133360785,
+      "dt": "2022-02-26T23:24:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Irish Stout",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-irish-stout/4002004"
+    },
+    {
+      "id": 1133356451,
+      "dt": "2022-02-26T23:18:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Reserva",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-reserva/4648520"
+    },
+    {
+      "id": 1133298216,
+      "dt": "2022-02-26T22:14:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1133297057,
+      "dt": "2022-02-26T22:13:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Reserva",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-reserva/4648520"
+    },
+    {
+      "id": 1133295723,
+      "dt": "2022-02-26T22:11:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
+      "id": 1133292514,
+      "dt": "2022-02-26T22:08:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango & Peach Sour Ale",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-mango-and-peach-sour-ale/4292985"
+    },
+    {
+      "id": 1133202728,
+      "dt": "2022-02-26T20:35:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1133179058,
+      "dt": "2022-02-26T20:09:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot Ale 11",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-ale-11/2808799"
+    },
+    {
+      "id": 1133178317,
+      "dt": "2022-02-26T20:08:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot NEIPA 16",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-neipa-16/3418145"
+    },
+    {
+      "id": 1133022642,
+      "dt": "2022-02-26T14:54:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot 11",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-11/2344577"
+    },
+    {
+      "id": 1132998705,
+      "dt": "2022-02-26T12:10:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot Pšenice",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-psenice/2713364"
+    },
+    {
       "id": 1132598458,
       "dt": "2022-02-25T17:56:54+01:00",
       "venue_name": "Pivní ambasáda",
