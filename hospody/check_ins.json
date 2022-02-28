@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1133836986,
+      "dt": "2022-02-28T00:41:17+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Very Merry Tropically 12°",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-very-merry-tropically-120/4708593"
+    },
+    {
+      "id": 1133813509,
+      "dt": "2022-02-27T23:42:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Malina Sour ALE /// 9.SOUR.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-malina-sour-ale-9-sour-i2/4674022"
+    },
+    {
+      "id": 1133727394,
+      "dt": "2022-02-27T20:44:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Rouge",
+      "brewery": "Harry ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/harry-rouge/4709393"
+    },
+    {
       "id": 1133370989,
       "dt": "2022-02-26T23:36:27+01:00",
       "venue_name": "Pivní ambasáda",
