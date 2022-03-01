@@ -153,7 +153,7 @@ def save_stats(users: tuple[User, ...]) -> None:
     lines = [f'{datetime.date.today()},{",".join([str(user.unique_beers_count) for user in users])}\n']
 
     if not path.exists():
-        lines.insert(0, f'{[",".join([str(user.unique_beers_count) for user in users])]}\n')
+        lines.insert(0, f'date,{",".join([str(user.profile) for user in users])}\n')
 
     with path.open('a', encoding=utils.ENCODING) as f:
         f.writelines(lines)
