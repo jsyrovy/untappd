@@ -32,6 +32,9 @@ init:
 run-pivni-valka:
 	${PYTHON} run_pivni_valka.py
 
+run-pivni-valka-tweetless:
+	${PYTHON} run_pivni_valka.py --tweetless
+
 run-pivni-valka-local:
 	${PYTHON} run_pivni_valka.py --local
 

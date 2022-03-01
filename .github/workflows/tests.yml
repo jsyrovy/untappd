@@ -43,7 +43,7 @@ jobs:
       - name: Test pivni-valka
         run: |
           rm -f pivni_valka/index.html pivni_valka/stats.csv
-          make run-pivni-valka
+          make run-pivni-valka-tweetless
           test -e pivni_valka/index.html
           test -e pivni_valka/stats.csv
           grep "Pivní válka" pivni_valka/index.html

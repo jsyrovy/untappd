@@ -42,7 +42,8 @@ def run() -> None:
         User('Matěj', 'Mates511', '#073b4c', []),
     )
 
-    set_unique_beers_count(users, utils.is_run_locally())
+    local, _ = utils.get_run_args()
+    set_unique_beers_count(users, local)
     set_crown(users)
     save_stats(users)
     chart_labels = get_stats(users, days=14)
@@ -70,7 +71,8 @@ def run() -> None:
     with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_all)
 
-    if not utils.is_run_locally() and sum([user.unique_beers_count for user in users]) > 0:
+    local, tweetless = utils.get_run_args()
+    if not local and not tweetless and sum([user.unique_beers_count for user in users]) > 0:
         twitter_client = utils.twitter.Client()
         status = get_tweet_status(users)
 

@@ -19,10 +19,12 @@ USER_AGENTS = (
 BASE_URL = 'https://untappd.com'
 
 
-def is_run_locally():
+def get_run_args() -> tuple[bool, bool]:
     parser = argparse.ArgumentParser()
     parser.add_argument('--local', action='store_true', help="don't download data from website")
-    return parser.parse_args().local
+    parser.add_argument('--tweetless', action='store_true', help="don't tweet")
+    args = parser.parse_args()
+    return args.local, args.tweetless
 
 
 def get_random_user_agent() -> str:
