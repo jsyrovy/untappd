@@ -3,7 +3,8 @@ import logging
 import pathlib
 import random
 from collections import OrderedDict
-from typing import List, Tuple, Optional
+from dataclasses import dataclass
+from typing import List, Optional
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -13,89 +14,84 @@ import utils
 STATS_PATH = 'pivni_valka/stats.csv'
 
 
+@dataclass
+class User:
+    name: str
+    profile: str
+    color: str
+    chart_data: list[int]
+    unique_beers_count: int = 0
+    has_crown: bool = False
+
+    @property
+    def diff(self):
+        try:
+            return self.chart_data[-1] - self.chart_data[-2]
+        except IndexError:
+            return 0
+
+    @property
+    def formatted_diff(self):
+        return f'+{self.diff}' if self.diff > 0 else str(self.diff)
+
+
 def run() -> None:
-    unique_beers_count_jirka, unique_beers_count_dan, unique_beers_count_matej = get_unique_beers_count(
-        utils.is_run_locally()
+    users = (
+        User('Jirka', 'sejrik', '#06d6a0', []),
+        User('Dan', 'mencik2', '#118ab2', []),
+        User('Matěj', 'Mates511', '#073b4c', []),
     )
 
-    save_stats(unique_beers_count_jirka, unique_beers_count_dan, unique_beers_count_matej)
-    chart_labels, chart_data_jirka, chart_data_dan, chart_data_matej = get_stats(days=14)
-    diff_jirka = get_diff(chart_data_jirka)
-    diff_dan = get_diff(chart_data_dan)
-    diff_matej = get_diff(chart_data_matej)
+    set_unique_beers_count(users, utils.is_run_locally())
+    set_crown(users)
+    save_stats(users)
+    chart_labels = get_stats(users, days=14)
     page = get_page(
         utils.get_template('pivni-valka.html'),
-        unique_beers_count_jirka=unique_beers_count_jirka,
-        unique_beers_count_dan=unique_beers_count_dan,
-        unique_beers_count_matej=unique_beers_count_matej,
+        users=users,
         chart_labels=chart_labels,
-        chart_data_jirka=chart_data_jirka,
-        chart_data_dan=chart_data_dan,
-        chart_data_matej=chart_data_matej,
-        diff_jirka=get_formatted_diff(diff_jirka),
-        diff_dan=get_formatted_diff(diff_dan),
-        diff_matej=get_formatted_diff(diff_matej),
+        grid_template_areas=get_grid_template_areas(users),
+        mobile_grid_template_areas=get_mobile_grid_template_areas(users),
+
     )
 
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
 
-    chart_labels, chart_data_jirka, chart_data_dan, chart_data_matej = get_stats(days=365)
-    page_year = get_page(
-        utils.get_template('pivni-valka-chart.html'),
-        chart_labels=chart_labels,
-        chart_data_jirka=chart_data_jirka,
-        chart_data_dan=chart_data_dan,
-        chart_data_matej=chart_data_matej,
-    )
+    chart_labels = get_stats(users, days=365)
+    page_year = get_page(utils.get_template('pivni-valka-chart.html'), users=users, chart_labels=chart_labels)
 
     with open('pivni_valka/chart_year.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_year)
 
-    chart_labels, chart_data_jirka, chart_data_dan, chart_data_matej = get_stats()
-    page_all = get_page(
-        utils.get_template('pivni-valka-chart.html'),
-        chart_labels=chart_labels,
-        chart_data_jirka=chart_data_jirka,
-        chart_data_dan=chart_data_dan,
-        chart_data_matej=chart_data_matej,
-    )
+    chart_labels = get_stats(users)
+    page_all = get_page(utils.get_template('pivni-valka-chart.html'), users=users, chart_labels=chart_labels)
 
     with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_all)
 
-    if not utils.is_run_locally() and diff_jirka + diff_dan + diff_matej > 0:
+    if not utils.is_run_locally() and sum([user.unique_beers_count for user in users]) > 0:
         twitter_client = utils.twitter.Client()
-        status = get_tweet_status(
-            unique_beers_count_jirka, unique_beers_count_dan, unique_beers_count_matej, diff_jirka, diff_dan, diff_matej
-        )
+        status = get_tweet_status(users)
 
         try:
             twitter_client.tweet(status)
         except utils.twitter.DuplicateTweetError:
             logging.warning(f'Tweet jiz existuje: {status}')
 
-    logging.info(f'{unique_beers_count_jirka=} {unique_beers_count_dan=} {unique_beers_count_matej=}')
+    logging.info(users)
 
 
-def get_unique_beers_count(local: bool) -> Tuple[int, int, int]:
+def set_unique_beers_count(users: tuple[User, ...], local: bool) -> None:
     if local:
-        return random.randrange(1000), random.randrange(1000), random.randrange(1000)
+        for user in users:
+            user.unique_beers_count = random.randrange(1000)
+        return
 
-    user_profile_jirka = download_user_profile('sejrik')
-    unique_beers_count_jirka = parse_unique_beers_count(user_profile_jirka)
-
-    utils.random_sleep()
-
-    user_profile_dan = download_user_profile('mencik2')
-    unique_beers_count_dan = parse_unique_beers_count(user_profile_dan)
-
-    utils.random_sleep()
-
-    user_profile_matej = download_user_profile('Mates511')
-    unique_beers_count_matej = parse_unique_beers_count(user_profile_matej)
-
-    return unique_beers_count_jirka, unique_beers_count_dan, unique_beers_count_matej
+    for user in users:
+        user_profile = download_user_profile(user.profile)
+        user.unique_beers_count = parse_unique_beers_count(user_profile)
+        utils.random_sleep()
 
 
 def download_user_profile(user_name: str) -> str:
@@ -113,89 +109,84 @@ def parse_unique_beers_count(user_profile: str) -> int:
     return int(unique_beers_count.replace(',', ''))
 
 
-def get_stats(days: Optional[int] = None) -> Tuple[List[str], List[int], List[int], List[int]]:
+def get_stats(users: tuple[User, ...], days: Optional[int] = None) -> List[str]:
     data = OrderedDict()
     chart_labels = []
-    chart_data_jirka = []
-    chart_data_dan = []
-    chart_data_matej = []
+
+    for user in users:
+        user.chart_data.clear()
 
     with open(STATS_PATH, 'r', encoding=utils.ENCODING) as f:
         for line in f.readlines()[1:]:
-            date, unique_beers_count_jirka, unique_beers_count_dan, unique_beers_count_matej = line.split(',')
-            data[date] = {
-                'unique_beers_count_jirka': int(unique_beers_count_jirka),
-                'unique_beers_count_dan': int(unique_beers_count_dan),
-                'unique_beers_count_matej': int(unique_beers_count_matej),
-            }
+            date = line.split(',')[0]
+            values = line.split(',')[1:]
+            date_values = {}
+
+            for i, user in enumerate(users):
+                date_values[user.name] = int(values[i])
+
+            data[date] = date_values
 
     for key in data:
         chart_labels.append(key)
-        chart_data_jirka.append(data[key]['unique_beers_count_jirka'])
-        chart_data_dan.append(data[key]['unique_beers_count_dan'])
-        chart_data_matej.append(data[key]['unique_beers_count_matej'])
+
+        for user in users:
+            user.chart_data.append(data[key][user.name])
 
     if not days:
-        return chart_labels, chart_data_jirka, chart_data_dan, chart_data_matej
+        return chart_labels
 
-    return chart_labels[-days:], chart_data_jirka[-days:], chart_data_dan[-days:], chart_data_matej[-days:]
+    for user in users:
+        user.chart_data = user.chart_data[-days:]
 
-
-def get_diff(chart_data: List[int]) -> int:
-    try:
-        return chart_data[-1] - chart_data[-2]
-    except IndexError:
-        return 0
-
-
-def get_formatted_diff(diff: int) -> str:
-    return f'+{diff}' if diff > 0 else str(diff)
+    return chart_labels[-days:]
 
 
 def get_page(template: jinja2.Template, **kwargs) -> str:
     return template.render(**kwargs)
 
 
-def save_stats(unique_beers_count_jirka: int, unique_beers_count_dan: int, unique_beers_count_matej: int) -> None:
+def save_stats(users: tuple[User, ...]) -> None:
     path = pathlib.Path(STATS_PATH)
-
-    lines = [
-        f'{datetime.date.today()},{unique_beers_count_jirka},{unique_beers_count_dan},{unique_beers_count_matej}\n'
-    ]
+    lines = [f'{datetime.date.today()},{",".join([str(user.unique_beers_count) for user in users])}\n']
 
     if not path.exists():
-        lines.insert(0, 'date,jirka,dan,matej\n')
+        lines.insert(0, f'{[",".join([str(user.unique_beers_count) for user in users])]}\n')
 
     with path.open('a', encoding=utils.ENCODING) as f:
         f.writelines(lines)
 
 
-def get_tweet_status(
-    unique_beers_count_jirka: int,
-    unique_beers_count_dan: int,
-    unique_beers_count_matej: int,
-    diff_jirka: int,
-    diff_dan: int,
-    diff_matej: int,
-) -> str:
-    status = ''
+def get_tweet_status(users: tuple[User, ...]) -> str:
+    if sum(user.diff for user in users) == 0:
+        return ''
 
-    if diff_jirka == diff_dan == diff_matej == 0:
-        return status
+    values = [f'{user.name} včera vypil {user.diff} 🍺.' for user in users if user.diff]
+    values.extend(f'{user.name} má celkem {user.unique_beers_count} 🍺.' for user in users)
 
-    if diff_jirka > 0:
-        status += f'Jirka včera vypil {diff_jirka} 🍺.'
+    return ' '.join(values)
 
-    if diff_dan > 0:
-        status += f'{" " if status else ""}Dan včera vypil {diff_dan} 🍺.'
 
-    if diff_matej > 0:
-        status += f'{" " if status else ""}Matěj včera vypil {diff_matej} 🍺.'
+def get_grid_template_areas(users: tuple[User, ...]) -> tuple[str, str, str]:
+    user_items = [f'item-{user.profile}' for user in users]
 
-    status += (
-        f' Jirka má celkem {unique_beers_count_jirka} 🍺, '
-        f'Dan {unique_beers_count_dan} 🍺 a '
-        f'Matěj {unique_beers_count_matej} 🍺.'
+    return (
+        f'"{" ".join([item for item in user_items])}"',
+        f'"{" ".join(["item-chart"] * len(user_items))}"',
+        f'"{" ".join(["item-twitter"] * len(user_items))}"',
     )
 
-    return status
+
+def get_mobile_grid_template_areas(users: tuple[User, ...]) -> list[str]:
+    user_items = [f'"item-{user.profile}"' for user in users]
+    user_items.extend(['"item-chart"', '"item-twitter"'])
+
+    return user_items
+
+
+def set_crown(users: tuple[User, ...]) -> None:
+    max_ = max(user.unique_beers_count for user in users)
+
+    for user in users:
+        if user.unique_beers_count == max_:
+            user.has_crown = True

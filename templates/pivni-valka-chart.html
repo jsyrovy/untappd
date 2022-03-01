@@ -22,24 +22,14 @@
         data: {
             labels: {{ chart_labels | safe }},
             datasets: [
+                {% for user in users %}
                 {
-                    label: 'Jirka',
-                    data: {{ chart_data_jirka | safe }},
-                    borderColor: '#06d6a0',
-                    backgroundColor: '#06d6a0'
+                    label: '{{ user.name }}',
+                    data: {{ user.chart_data | safe }},
+                    borderColor: '{{ user.color }}',
+                    backgroundColor: '{{ user.color }}'
                 },
-                {
-                    label: 'Dan',
-                    data: {{ chart_data_dan | safe }},
-                    borderColor: '#118ab2',
-                    backgroundColor: '#118ab2'
-                },
-                {
-                    label: 'Matěj',
-                    data: {{ chart_data_matej | safe }},
-                    borderColor: '#073b4c',
-                    backgroundColor: '#073b4c'
-                },
+                {% endfor %}
             ]
         },
         options: {
