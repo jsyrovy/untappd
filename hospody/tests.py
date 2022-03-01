@@ -2,9 +2,14 @@ import datetime
 
 import hospody
 
+VENUES = (
+    hospody.Venue('nejlepsi hospoda', 'https://nejlepsihospoda.cz'),
+    hospody.Venue('jeste lepsi hospoda', 'https://nejlepsihospodaneninejlepsihospoda.cz'),
+)
+
 
 def test_create_random_check_in():
-    check_in = hospody.CheckIn.get_random()
+    check_in = hospody.CheckIn.get_random(VENUES)
 
     assert check_in.id
     assert check_in.dt
@@ -21,12 +26,12 @@ def test_create_check_in_from_json():
         'id': 666,
         'dt': '2000-01-01 00:00:00',
         'beer_name': 'pivo',
-        'venue_name': 'U Toulavé pípy',
+        'venue_name': VENUES[0].name,
         'brewery': 'pivovar',
         'serving': 'cepovane',
-        'beer_link': 'https://pivo.org'
+        'beer_link': VENUES[0].url,
     }
-    check_in = hospody.CheckIn.from_json(json_)
+    check_in = hospody.CheckIn.from_json(json_, VENUES)
 
     assert check_in.id == json_['id']
     assert check_in.dt == datetime.datetime(2000, 1, 1, 0, 0, 0)
@@ -61,9 +66,9 @@ def test_check_in_to_json():
 
 
 def test_check_ins_order():
-    first_check_in = hospody.CheckIn.get_random()
-    middle_check_in = hospody.CheckIn.get_random()
-    last_check_in = hospody.CheckIn.get_random()
+    first_check_in = hospody.CheckIn.get_random(VENUES)
+    middle_check_in = hospody.CheckIn.get_random(VENUES)
+    last_check_in = hospody.CheckIn.get_random(VENUES)
 
     check_ins = hospody.get_unique_beers_check_ins([last_check_in, first_check_in, middle_check_in])
 
@@ -73,9 +78,9 @@ def test_check_ins_order():
 
 
 def test_check_ins_sort():
-    first_check_in = hospody.CheckIn.get_random()
-    middle_check_in = hospody.CheckIn.get_random()
-    last_check_in = hospody.CheckIn.get_random()
+    first_check_in = hospody.CheckIn.get_random(VENUES)
+    middle_check_in = hospody.CheckIn.get_random(VENUES)
+    last_check_in = hospody.CheckIn.get_random(VENUES)
 
     check_ins = [last_check_in, first_check_in, middle_check_in]
     hospody.sort_check_ins(check_ins)

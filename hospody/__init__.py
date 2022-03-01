@@ -18,13 +18,11 @@ SERVING_BOTTLE = 'Lahvové'
 SERVING_CAN = 'Plechovkové'
 SERVING_UNKNOWN = 'Nezadáno'
 
-VENUE_PIPA = 'U Toulavé pípy'
-VENUE_AMBASADA = 'Pivní ambasáda'
 
-URLS = {
-    VENUE_PIPA: f'{utils.BASE_URL}/v/u-toulave-pipy/3663231',
-    VENUE_AMBASADA: f'{utils.BASE_URL}/v/pivni-ambasada/3943799',
-}
+@dataclass
+class Venue:
+    name: str
+    url: str
 
 
 @dataclass
@@ -39,20 +37,20 @@ class CheckIn:
     venue_link: str
 
     @staticmethod
-    def get_random() -> 'CheckIn':
+    def get_random(venues: tuple[Venue, ...]) -> 'CheckIn':
         return CheckIn(
             random.randrange(1000),
             datetime.now(tz=timezone(timedelta(seconds=7200))),
-            VENUE_AMBASADA,
+            random.choice(venues).name,
             'Pivo',
             'Pivovar',
             SERVING_DRAFT,
             utils.BASE_URL,
-            utils.BASE_URL,
+            random.choice(venues).url,
         )
 
     @staticmethod
-    def from_json(json_: Dict[str, Any]) -> 'CheckIn':
+    def from_json(json_: Dict[str, Any], venues: tuple[Venue, ...]) -> 'CheckIn':
         return CheckIn(
             json_['id'],
             datetime.fromisoformat(json_['dt']),
@@ -61,7 +59,7 @@ class CheckIn:
             json_['brewery'],
             json_['serving'],
             json_['beer_link'],
-            URLS[json_['venue_name']],
+            [venue.name for venue in venues if venue.name == json_['venue_name']][0],
         )
 
     def to_json(self) -> Dict[str, Any]:
@@ -77,10 +75,18 @@ class CheckIn:
 
 
 def run() -> None:
-    new_check_ins = get_new_check_ins(utils.is_run_locally(), VENUE_PIPA)
-    utils.random_sleep()
-    new_check_ins.extend(get_new_check_ins(utils.is_run_locally(), VENUE_AMBASADA))
-    check_ins = load_check_ins()
+    venues = (
+        Venue('U Toulavé pípy', f'{utils.BASE_URL}/v/u-toulave-pipy/3663231'),
+        Venue('Pivní ambasáda', f'{utils.BASE_URL}/v/pivni-ambasada/3943799'),
+    )
+
+    new_check_ins = []
+
+    for venue in venues:
+        new_check_ins.extend(get_new_check_ins(utils.is_run_locally(), venue, venues))
+        utils.random_sleep()
+
+    check_ins = load_check_ins(venues)
 
     for new_check_in in new_check_ins:
         if new_check_in in check_ins:
@@ -99,15 +105,15 @@ def run() -> None:
         f.write(page)
 
 
-def get_new_check_ins(local: bool, venue_name: str) -> List[CheckIn]:
+def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> List[CheckIn]:
     if local:
-        return [CheckIn.get_random(), CheckIn.get_random(), CheckIn.get_random()]
+        return [CheckIn.get_random(venues), CheckIn.get_random(venues), CheckIn.get_random(venues)]
 
-    page = utils.download_page(URLS[venue_name])
-    return parse_check_ins(page, venue_name)
+    page = utils.download_page(venue.url)
+    return parse_check_ins(page, venue)
 
 
-def parse_check_ins(page: str, venue_name: str) -> List[CheckIn]:
+def parse_check_ins(page: str, venue: Venue) -> List[CheckIn]:
     def parse_dt(s: str) -> datetime:
         utc_dt = datetime.strptime(s, '%a, %d %b %Y %H:%M:%S %z')
         return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
@@ -142,18 +148,18 @@ def parse_check_ins(page: str, venue_name: str) -> List[CheckIn]:
         serving = get_czech_serving(serving_section.find('span').text if serving_section else None)
         beer_link = f'{utils.BASE_URL}{links[1]["href"]}'
 
-        beers.append(CheckIn(id_, dt, venue_name, beer_name, brewery, serving, beer_link, URLS[venue_name]))
+        beers.append(CheckIn(id_, dt, venue.name, beer_name, brewery, serving, beer_link, venue.url))
 
     return beers
 
 
-def load_check_ins() -> List[CheckIn]:
+def load_check_ins(venues: tuple[Venue, ...]) -> List[CheckIn]:
     path = pathlib.Path(CHECK_INS_PATH)
 
     if not path.exists():
         return []
 
-    return [CheckIn.from_json(check_in) for check_in in json.loads(path.read_text())['check_ins']]
+    return [CheckIn.from_json(check_in, venues) for check_in in json.loads(path.read_text())['check_ins']]
 
 
 def sort_check_ins(check_ins: List[CheckIn]) -> None:
