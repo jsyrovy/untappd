@@ -37,9 +37,10 @@ class User:
 
 def run() -> None:
     users = (
-        User('Jirka', 'sejrik', '#06d6a0', []),
-        User('Dan', 'mencik2', '#118ab2', []),
-        User('Matěj', 'Mates511', '#073b4c', []),
+        User('Jirka', 'sejrik', '#577590', []),
+        User('Dan', 'mencik2', '#43aa8b', []),
+        User('Matěj', 'Mates511', '#90be6d', []),
+        User('Ondra', 'ominar', '#f8961e', []),
     )
 
     local, _ = utils.get_run_args()
