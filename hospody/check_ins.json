@@ -1,8 +1,62 @@
 {
   "check_ins": [
     {
+      "id": 1134087077,
+      "dt": "2022-03-01T18:48:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Ale Cascade 13°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-cascade-13/2023605"
+    },
+    {
+      "id": 1134074157,
+      "dt": "2022-03-01T17:12:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Venuše",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-venuse/993897"
+    },
+    {
+      "id": 1134074046,
+      "dt": "2022-03-01T17:11:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Ale Cascade 13°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-cascade-13/2023605"
+    },
+    {
+      "id": 1134073632,
+      "dt": "2022-03-01T17:07:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot Pšenice",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-psenice/2713364"
+    },
+    {
       "id": 1133965406,
       "dt": "2022-02-28T21:18:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kiss Please (2022)",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-kiss-please-2022/4692924"
+    },
+    {
+      "id": 1133965406,
+      "dt": "2022-02-28T21:18:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kiss Please (2022)",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-kiss-please-2022/4692924"
+    },
+    {
+      "id": 1133965335,
+      "dt": "2022-02-28T21:18:33+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Kiss Please (2022)",
       "brewery": "Falkon",
@@ -28,6 +82,15 @@
       "beer_link": "https://untappd.com/b/pivovar-zahora-cookie-porter-19-cp-i2/4639604"
     },
     {
+      "id": 1133963997,
+      "dt": "2022-02-28T21:12:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cookie Porter /// 19.CP.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-cookie-porter-19-cp-i2/4639604"
+    },
+    {
       "id": 1133963580,
       "dt": "2022-02-28T21:10:21+01:00",
       "venue_name": "U Toulavé pípy",
@@ -35,6 +98,24 @@
       "brewery": "Pivovar Záhora",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/pivovar-zahora-cookie-porter-19-cp-i2/4639604"
+    },
+    {
+      "id": 1133963580,
+      "dt": "2022-02-28T21:10:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cookie Porter /// 19.CP.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-cookie-porter-19-cp-i2/4639604"
+    },
+    {
+      "id": 1133962065,
+      "dt": "2022-02-28T21:02:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Malina Sour ALE /// 9.SOUR.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-malina-sour-ale-9-sour-i2/4674022"
     },
     {
       "id": 1133962065,
@@ -55,8 +136,35 @@
       "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-weizen/472"
     },
     {
+      "id": 1133961001,
+      "dt": "2022-02-28T20:57:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Aecht Schlenkerla Rauchbier - Weizen",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-weizen/472"
+    },
+    {
       "id": 1133959979,
       "dt": "2022-02-28T20:51:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Green IPA /// 14.GIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-green-ipa-14-gipa-i2/4649164"
+    },
+    {
+      "id": 1133959979,
+      "dt": "2022-02-28T20:51:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Green IPA /// 14.GIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-green-ipa-14-gipa-i2/4649164"
+    },
+    {
+      "id": 1133958442,
+      "dt": "2022-02-28T20:44:00+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Green IPA /// 14.GIPA.I2",
       "brewery": "Pivovar Záhora",
@@ -82,6 +190,24 @@
       "beer_link": "https://untappd.com/b/pivovar-zahora-bloody-valentine-12-bloodipa-i2/4708415"
     },
     {
+      "id": 1133956718,
+      "dt": "2022-02-28T20:35:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bloody Valentine /// 12.BLOODIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-bloody-valentine-12-bloodipa-i2/4708415"
+    },
+    {
+      "id": 1133956209,
+      "dt": "2022-02-28T20:33:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bloody Valentine /// 12.BLOODIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-bloody-valentine-12-bloodipa-i2/4708415"
+    },
+    {
       "id": 1133956209,
       "dt": "2022-02-28T20:33:07+01:00",
       "venue_name": "U Toulavé pípy",
@@ -93,6 +219,24 @@
     {
       "id": 1133955615,
       "dt": "2022-02-28T20:30:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Dragon Love",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
+    },
+    {
+      "id": 1133955615,
+      "dt": "2022-02-28T20:30:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Dragon Love",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
+    },
+    {
+      "id": 1133953804,
+      "dt": "2022-02-28T20:20:44+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Dragon Love",
       "brewery": "Pivovar Antoš ",
@@ -118,8 +262,35 @@
       "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
     },
     {
+      "id": 1133953618,
+      "dt": "2022-02-28T20:19:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Dragon Love",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-dragon-love/4702356"
+    },
+    {
       "id": 1133952434,
       "dt": "2022-02-28T20:13:22+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ART50 New England DIPA",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-art50-new-england-dipa/4547939"
+    },
+    {
+      "id": 1133952434,
+      "dt": "2022-02-28T20:13:22+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ART50 New England DIPA",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-art50-new-england-dipa/4547939"
+    },
+    {
+      "id": 1133951876,
+      "dt": "2022-02-28T20:10:19+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "ART50 New England DIPA",
       "brewery": "Browar Stu Mostów",
@@ -145,6 +316,24 @@
       "beer_link": "https://untappd.com/b/browar-stu-mostow-art50-new-england-dipa/4547939"
     },
     {
+      "id": 1133951715,
+      "dt": "2022-02-28T20:09:25+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ART50 New England DIPA",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-art50-new-england-dipa/4547939"
+    },
+    {
+      "id": 1133951348,
+      "dt": "2022-02-28T20:07:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "No Coast, No Problem",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-no-coast-no-problem/4724073"
+    },
+    {
       "id": 1133951348,
       "dt": "2022-02-28T20:07:23+01:00",
       "venue_name": "U Toulavé pípy",
@@ -163,8 +352,35 @@
       "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-west-coast-ipa/4621427"
     },
     {
+      "id": 1133951323,
+      "dt": "2022-02-28T20:07:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fresh Hop West Coast IPA",
+      "brewery": "Sibeeria",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-west-coast-ipa/4621427"
+    },
+    {
       "id": 1133949554,
       "dt": "2022-02-28T19:57:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Buchťák na pomeranči",
+      "brewery": "Pivovar Buchťák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-buchtak-buchtak-na-pomeranci/3800275"
+    },
+    {
+      "id": 1133949554,
+      "dt": "2022-02-28T19:57:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Buchťák na pomeranči",
+      "brewery": "Pivovar Buchťák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-buchtak-buchtak-na-pomeranci/3800275"
+    },
+    {
+      "id": 1133949539,
+      "dt": "2022-02-28T19:57:10+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Buchťák na pomeranči",
       "brewery": "Pivovar Buchťák",
@@ -188,6 +404,24 @@
       "brewery": "Pivovar Mazák",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-cascade-13/2023605"
+    },
+    {
+      "id": 1133927379,
+      "dt": "2022-02-28T17:27:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Ale Cascade 13°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-cascade-13/2023605"
+    },
+    {
+      "id": 1133926449,
+      "dt": "2022-02-28T17:18:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
     },
     {
       "id": 1133926449,
@@ -235,6 +469,15 @@
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
     },
     {
+      "id": 1133370989,
+      "dt": "2022-02-26T23:36:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
       "id": 1133360785,
       "dt": "2022-02-26T23:24:10+01:00",
       "venue_name": "Pivní ambasáda",
@@ -242,6 +485,24 @@
       "brewery": "Královéhradecký měšťanský pivovar",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-irish-stout/4002004"
+    },
+    {
+      "id": 1133360785,
+      "dt": "2022-02-26T23:24:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Irish Stout",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-irish-stout/4002004"
+    },
+    {
+      "id": 1133356451,
+      "dt": "2022-02-26T23:18:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Reserva",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-reserva/4648520"
     },
     {
       "id": 1133356451,
@@ -262,6 +523,15 @@
       "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
     },
     {
+      "id": 1133298216,
+      "dt": "2022-02-26T22:14:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
       "id": 1133297057,
       "dt": "2022-02-26T22:13:22+01:00",
       "venue_name": "Pivní ambasáda",
@@ -269,6 +539,24 @@
       "brewery": "Královéhradecký měšťanský pivovar",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-reserva/4648520"
+    },
+    {
+      "id": 1133297057,
+      "dt": "2022-02-26T22:13:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Reserva",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-reserva/4648520"
+    },
+    {
+      "id": 1133295723,
+      "dt": "2022-02-26T22:11:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
     },
     {
       "id": 1133295723,
@@ -289,6 +577,15 @@
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-mango-and-peach-sour-ale/4292985"
     },
     {
+      "id": 1133292514,
+      "dt": "2022-02-26T22:08:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango & Peach Sour Ale",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-mango-and-peach-sour-ale/4292985"
+    },
+    {
       "id": 1133202728,
       "dt": "2022-02-26T20:35:37+01:00",
       "venue_name": "Pivní ambasáda",
@@ -296,6 +593,24 @@
       "brewery": "Pivovar Clock",
       "serving": "Nezadáno",
       "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1133202728,
+      "dt": "2022-02-26T20:35:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ellen",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ellen/1561235"
+    },
+    {
+      "id": 1133179058,
+      "dt": "2022-02-26T20:09:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot Ale 11",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-ale-11/2808799"
     },
     {
       "id": 1133179058,
@@ -316,6 +631,24 @@
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-neipa-16/3418145"
     },
     {
+      "id": 1133178317,
+      "dt": "2022-02-26T20:08:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot NEIPA 16",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-neipa-16/3418145"
+    },
+    {
+      "id": 1133022642,
+      "dt": "2022-02-26T14:54:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot 11",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-11/2344577"
+    },
+    {
       "id": 1133022642,
       "dt": "2022-02-26T14:54:32+01:00",
       "venue_name": "Pivní ambasáda",
@@ -334,6 +667,15 @@
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-psenice/2713364"
     },
     {
+      "id": 1132998705,
+      "dt": "2022-02-26T12:10:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hradecký Klenot Pšenice",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-psenice/2713364"
+    },
+    {
       "id": 1132598458,
       "dt": "2022-02-25T17:56:54+01:00",
       "venue_name": "Pivní ambasáda",
@@ -341,6 +683,24 @@
       "brewery": "Královéhradecký měšťanský pivovar",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
+      "id": 1132598458,
+      "dt": "2022-02-25T17:56:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-neipa/4707743"
+    },
+    {
+      "id": 1132595250,
+      "dt": "2022-02-25T17:46:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Irish Stout",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-irish-stout/4002004"
     },
     {
       "id": 1132595250,
