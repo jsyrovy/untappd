@@ -24,15 +24,19 @@ class User:
     has_crown: bool = False
 
     @property
-    def diff(self):
+    def diff(self) -> int:
         try:
             return self.chart_data[-1] - self.chart_data[-2]
         except IndexError:
             return 0
 
     @property
-    def formatted_diff(self):
+    def formatted_diff(self) -> str:
         return f'+{self.diff}' if self.diff > 0 else str(self.diff)
+
+    @property
+    def url(self) -> str:
+        return f'{utils.BASE_URL}/user/{self.profile}'
 
 
 def run() -> None:
@@ -92,13 +96,9 @@ def set_unique_beers_count(users: tuple[User, ...], local: bool) -> None:
         return
 
     for user in users:
-        user_profile = download_user_profile(user.profile)
+        user_profile = utils.download_page(user.url)
         user.unique_beers_count = parse_unique_beers_count(user_profile)
         utils.random_sleep()
-
-
-def download_user_profile(user_name: str) -> str:
-    return utils.download_page(f'{utils.BASE_URL}/user/{user_name}')
 
 
 def parse_unique_beers_count(user_profile: str) -> int:
