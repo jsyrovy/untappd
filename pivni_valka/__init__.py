@@ -77,7 +77,8 @@ def run() -> None:
         f.write(page_all)
 
     local, tweetless = utils.get_run_args()
-    if not local and not tweetless and sum([user.unique_beers_count for user in users]) > 0:
+
+    if not local and not tweetless and sum([user.diff for user in users]) > 0:
         twitter_client = utils.twitter.Client()
         status = get_tweet_status(users)
 
