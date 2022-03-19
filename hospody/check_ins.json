@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1139281913,
+      "dt": "2022-03-18T22:16:06+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Her0%",
+      "brewery": "Browar Birbant",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-birbant-her0/4037745"
+    },
+    {
+      "id": 1139255852,
+      "dt": "2022-03-18T21:43:09+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Free Tropical Smoothie: Pineapple, Mango & Peach",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-free-tropical-smoothie-pineapple-mango-and-peach/4232792"
+    },
+    {
+      "id": 1139183159,
+      "dt": "2022-03-18T20:06:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E4 - Choco Hoodoo Brown Ale 16°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Cask",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-e4-choco-hoodoo-brown-ale-160/4716427"
+    },
+    {
+      "id": 1139162599,
+      "dt": "2022-03-18T19:33:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E3 - Belgian Blond Ale 13° - Red Grape Must Blue Portuguese",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-e3-belgian-blond-ale-130-red-grape-must-blue-portuguese/4557438"
+    },
+    {
+      "id": 1139153837,
+      "dt": "2022-03-18T19:18:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tmavík 13°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-tmavik-130/4716424"
+    },
+    {
+      "id": 1139092879,
+      "dt": "2022-03-18T17:10:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "100UT 18%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-100ut-18/4721998"
+    },
+    {
+      "id": 1139089637,
+      "dt": "2022-03-18T17:00:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tmavík 13°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-tmavik-130/4716424"
+    },
+    {
+      "id": 1139088501,
+      "dt": "2022-03-18T16:56:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ipavík 15°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-ipavik-150/3946971"
+    },
+    {
+      "id": 1139080191,
+      "dt": "2022-03-18T16:24:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "C1 - Brut IPA 13°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-c1-brut-ipa-130/4716426"
+    },
+    {
+      "id": 1139076791,
+      "dt": "2022-03-18T16:08:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "British Golden Alevík 11°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-british-golden-alevik-110/3844590"
+    },
+    {
       "id": 1138924668,
       "dt": "2022-03-18T00:07:10+01:00",
       "venue_name": "U Toulavé pípy",
@@ -8,6 +98,24 @@
       "brewery": "Browar Sady",
       "serving": "Lahvové",
       "beer_link": "https://untappd.com/b/browar-sady-tango-milonga/4598796"
+    },
+    {
+      "id": 1138924668,
+      "dt": "2022-03-18T00:07:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tango Milonga",
+      "brewery": "Browar Sady",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/browar-sady-tango-milonga/4598796"
+    },
+    {
+      "id": 1138915630,
+      "dt": "2022-03-17T23:50:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kilimanjaro West Coast IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-kilimanjaro-west-coast-ipa/4755146"
     },
     {
       "id": 1138915630,
@@ -28,8 +136,35 @@
       "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-tmavik-130/4716424"
     },
     {
+      "id": 1138785494,
+      "dt": "2022-03-17T19:33:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tmavík 13°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-tmavik-130/4716424"
+    },
+    {
       "id": 1138779280,
       "dt": "2022-03-17T19:16:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "100UT 18%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-100ut-18/4721998"
+    },
+    {
+      "id": 1138779280,
+      "dt": "2022-03-17T19:16:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "100UT 18%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-100ut-18/4721998"
+    },
+    {
+      "id": 1138779211,
+      "dt": "2022-03-17T19:16:25+01:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "100UT 18%",
       "brewery": "Pivovar JungBerg",
@@ -53,6 +188,24 @@
       "brewery": "Brauerei Knoblach Schammelsdorf",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/brauerei-knoblach-schammelsdorf-schammelsdorfer-lagerbier/673228"
+    },
+    {
+      "id": 1138769938,
+      "dt": "2022-03-17T18:49:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Schammelsdorfer Lagerbier",
+      "brewery": "Brauerei Knoblach Schammelsdorf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-knoblach-schammelsdorf-schammelsdorfer-lagerbier/673228"
+    },
+    {
+      "id": 1138768381,
+      "dt": "2022-03-17T18:45:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
     },
     {
       "id": 1138768381,
@@ -82,6 +235,15 @@
       "beer_link": "https://untappd.com/b/pivovar-mordyr-venuse/993897"
     },
     {
+      "id": 1138553001,
+      "dt": "2022-03-16T19:42:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Venuše",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-venuse/993897"
+    },
+    {
       "id": 1138547917,
       "dt": "2022-03-16T19:21:22+01:00",
       "venue_name": "U Toulavé pípy",
@@ -93,6 +255,24 @@
     {
       "id": 1138547917,
       "dt": "2022-03-16T19:21:22+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Apricot Milk Power 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-apricot-milk-power-17/4058020"
+    },
+    {
+      "id": 1138547917,
+      "dt": "2022-03-16T19:21:22+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Apricot Milk Power 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-apricot-milk-power-17/4058020"
+    },
+    {
+      "id": 1138545291,
+      "dt": "2022-03-16T19:10:12+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Apricot Milk Power 17",
       "brewery": "Rodinný Pivovar Zichovec",
@@ -136,6 +316,15 @@
       "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
     },
     {
+      "id": 1138521678,
+      "dt": "2022-03-16T16:53:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
+    },
+    {
       "id": 1138519859,
       "dt": "2022-03-16T16:32:38+01:00",
       "venue_name": "Pivní ambasáda",
@@ -152,6 +341,24 @@
       "brewery": "Pivovar Albrecht",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-albrecht-jizersky-divocak/3500516"
+    },
+    {
+      "id": 1138519859,
+      "dt": "2022-03-16T16:32:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jizerský divočák",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-jizersky-divocak/3500516"
+    },
+    {
+      "id": 1138519022,
+      "dt": "2022-03-16T16:22:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Apricot Milk Power 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-apricot-milk-power-17/4058020"
     },
     {
       "id": 1138519022,
@@ -190,6 +397,24 @@
       "beer_link": "https://untappd.com/b/brasserie-dubuisson-cuvee-des-trolls/7318"
     },
     {
+      "id": 1138517697,
+      "dt": "2022-03-16T16:04:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cuvée des Trolls",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-cuvee-des-trolls/7318"
+    },
+    {
+      "id": 1138345107,
+      "dt": "2022-03-15T17:48:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
+    },
+    {
       "id": 1138345107,
       "dt": "2022-03-15T17:48:46+01:00",
       "venue_name": "Pivní ambasáda",
@@ -242,6 +467,24 @@
       "brewery": "Pivovar Albrecht",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-albrecht-jizersky-divocak/3500516"
+    },
+    {
+      "id": 1138344943,
+      "dt": "2022-03-15T17:47:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jizerský divočák",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-jizersky-divocak/3500516"
+    },
+    {
+      "id": 1138339424,
+      "dt": "2022-03-15T16:59:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Wild Acid",
+      "brewery": "Kounický pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/kounicky-pivovar-wild-acid/4644618"
     },
     {
       "id": 1138339424,
@@ -289,6 +532,15 @@
       "beer_link": "https://untappd.com/b/pivovar-ovipistan-vyslanec/3857740"
     },
     {
+      "id": 1138185334,
+      "dt": "2022-03-14T16:27:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vyslanec",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-vyslanec/3857740"
+    },
+    {
       "id": 1138184597,
       "dt": "2022-03-14T16:16:10+01:00",
       "venue_name": "U Toulavé pípy",
@@ -325,13 +577,13 @@
       "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-jahoda/4161242"
     },
     {
-      "id": 1138110297,
-      "dt": "2022-03-14T00:32:03+01:00",
+      "id": 1138184597,
+      "dt": "2022-03-14T16:16:10+01:00",
       "venue_name": "U Toulavé pípy",
-      "beer_name": "Flash ME!",
-      "brewery": "Bad Flash",
+      "beer_name": "Philadelphia Sour Jahoda",
+      "brewery": "Pivovar Obora",
       "serving": "Čepované",
-      "beer_link": "https://untappd.com/b/bad-flash-flash-me/4718685"
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-jahoda/4161242"
     },
     {
       "id": 1138110297,
@@ -363,6 +615,33 @@
     {
       "id": 1138110297,
       "dt": "2022-03-14T00:32:03+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Flash ME!",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-flash-me/4718685"
+    },
+    {
+      "id": 1138110297,
+      "dt": "2022-03-14T00:32:03+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Flash ME!",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-flash-me/4718685"
+    },
+    {
+      "id": 1138110297,
+      "dt": "2022-03-14T00:32:03+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Flash ME!",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-flash-me/4718685"
+    },
+    {
+      "id": 1138100429,
+      "dt": "2022-03-14T00:03:07+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Flash ME!",
       "brewery": "Bad Flash",
@@ -460,6 +739,24 @@
       "beer_link": "https://untappd.com/b/bad-flash-flash-me/4718685"
     },
     {
+      "id": 1138090033,
+      "dt": "2022-03-13T23:36:46+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Flash ME!",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-flash-me/4718685"
+    },
+    {
+      "id": 1137850490,
+      "dt": "2022-03-13T12:12:47+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hyped Art",
+      "brewery": "Browar Hopito",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-hopito-hyped-art/4277651"
+    },
+    {
       "id": 1137850490,
       "dt": "2022-03-13T12:12:47+01:00",
       "venue_name": "U Toulavé pípy",
@@ -548,6 +845,24 @@
       "brewery": "Chroust",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1137850327,
+      "dt": "2022-03-13T12:10:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Plum Chocolate Smoothie",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-plum-chocolate-smoothie/4690778"
+    },
+    {
+      "id": 1137849953,
+      "dt": "2022-03-13T12:05:45+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cloud 12 – Sorachi Ace Dry Hopped",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-cloud-12-sorachi-ace-dry-hopped/2438920"
     },
     {
       "id": 1137849953,
@@ -633,6 +948,24 @@
     {
       "id": 1137849793,
       "dt": "2022-03-13T12:03:19+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Borůvkový ležák",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-boruvkovy-lezak/497749"
+    },
+    {
+      "id": 1137849793,
+      "dt": "2022-03-13T12:03:19+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Borůvkový ležák",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-boruvkovy-lezak/497749"
+    },
+    {
+      "id": 1137849775,
+      "dt": "2022-03-13T12:03:02+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Borůvkový ležák",
       "brewery": "Beskydský pivovárek",
@@ -730,6 +1063,24 @@
       "beer_link": "https://untappd.com/b/pivovar-obora-ipa-hloh-perenoklany-infuse/4650346"
     },
     {
+      "id": 1137849527,
+      "dt": "2022-03-13T11:59:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "IPA Hloh Peřenoklaný Infuse",
+      "brewery": "Pivovar Obora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ipa-hloh-perenoklany-infuse/4650346"
+    },
+    {
+      "id": 1137849350,
+      "dt": "2022-03-13T11:56:58+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Erdbeer Porter",
+      "brewery": "Bergquell Brauerei Löbau",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/bergquell-brauerei-lobau-erdbeer-porter/46157"
+    },
+    {
       "id": 1137849350,
       "dt": "2022-03-13T11:56:58+01:00",
       "venue_name": "U Toulavé pípy",
@@ -818,6 +1169,15 @@
       "brewery": "Browar Birbant",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/browar-birbant-her0/4037745"
+    },
+    {
+      "id": 1137652378,
+      "dt": "2022-03-12T23:55:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jizerský Divočák Sour ALE Ostružina",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-jizersky-divocak-sour-ale-ostruzina/4738158"
     },
     {
       "id": 1137652378,
