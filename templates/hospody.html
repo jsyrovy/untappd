@@ -42,9 +42,12 @@
             flex-basis: 15%;
         }
         .responsive-table .col-3 {
-            flex-basis: 59%;
+            flex-basis: 29%;
         }
         .responsive-table .col-4 {
+            flex-basis: 30%;
+        }
+        .responsive-table .col-5 {
             flex-basis: 15%;
         }
         @media (max-width: 767px) {
@@ -77,15 +80,17 @@
             <li class="table-header">
                 <div class="col col-1">Datum</div>
                 <div class="col col-2">Hospoda</div>
-                <div class="col col-3">Pivo</div>
-                <div class="col col-4">Servírování</div>
+                <div class="col col-3">Pivovar</div>
+                <div class="col col-4">Pivo</div>
+                <div class="col col-5">Servírování</div>
             </li>
             {% for check_in in check_ins %}
                 <li class="table-row">
                     <div class="col col-1" data-label="Datum">{{ check_in.dt.strftime('%Y-%m-%d') }}</div>
                     <div class="col col-2" data-label="Hospoda"><a href="{{ check_in.venue_link }}">{{ check_in.venue_name }}</a></div>
-                    <div class="col col-3" data-label="Pivo"><a href="{{ check_in.beer_link }}">{{ check_in.beer_name }}</a></div>
-                    <div class="col col-4" data-label="Servírování">{{ check_in.serving }}</div>
+                    <div class="col col-3" data-label="Pivovar">{{ check_in.brewery }}</div>
+                    <div class="col col-4" data-label="Pivo"><a href="{{ check_in.beer_link }}">{{ check_in.beer_name }}</a></div>
+                    <div class="col col-5" data-label="Servírování">{{ check_in.serving }}</div>
                 </li>
             {% endfor %}
         </ul>
