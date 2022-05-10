@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1156766748,
+      "dt": "2022-05-09T23:00:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
+      "id": 1156759359,
+      "dt": "2022-05-09T22:24:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
+    },
+    {
+      "id": 1156754277,
+      "dt": "2022-05-09T22:00:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hopray",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hopray/4790827"
+    },
+    {
+      "id": 1156750252,
+      "dt": "2022-05-09T21:42:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tropic Edge",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-tropic-edge/3495180"
+    },
+    {
+      "id": 1156747118,
+      "dt": "2022-05-09T21:27:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Joe",
+      "brewery": "Kos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kos-juicy-joe/4085239"
+    },
+    {
+      "id": 1156704125,
+      "dt": "2022-05-09T17:40:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Joe",
+      "brewery": "Kos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kos-juicy-joe/4085239"
+    },
+    {
+      "id": 1156703047,
+      "dt": "2022-05-09T17:31:45+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
+    },
+    {
+      "id": 1156702764,
+      "dt": "2022-05-09T17:29:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liberation Ale",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-liberation-ale/1574185"
+    },
+    {
+      "id": 1156700837,
+      "dt": "2022-05-09T17:13:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
+    },
+    {
+      "id": 1156692423,
+      "dt": "2022-05-09T15:31:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Joe",
+      "brewery": "Kos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kos-juicy-joe/4085239"
+    },
+    {
       "id": 1156578867,
       "dt": "2022-05-08T23:17:58+02:00",
       "venue_name": "U Toulavé pípy",
@@ -8,6 +98,24 @@
       "brewery": "Browar Hopito",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
+    },
+    {
+      "id": 1156578867,
+      "dt": "2022-05-08T23:17:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
+    },
+    {
+      "id": 1156561107,
+      "dt": "2022-05-08T22:39:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Joe",
+      "brewery": "Kos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kos-juicy-joe/4085239"
     },
     {
       "id": 1156561107,
@@ -28,6 +136,15 @@
       "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
     },
     {
+      "id": 1156435215,
+      "dt": "2022-05-08T18:15:11+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
+    },
+    {
       "id": 1156431777,
       "dt": "2022-05-08T18:06:04+02:00",
       "venue_name": "Pivní ambasáda",
@@ -35,6 +152,24 @@
       "brewery": "Brauerei Kundmüller",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-hopfenweizen/3480392"
+    },
+    {
+      "id": 1156431777,
+      "dt": "2022-05-08T18:06:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Hopfenweizen",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-hopfenweizen/3480392"
+    },
+    {
+      "id": 1156430691,
+      "dt": "2022-05-08T18:02:56+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
     },
     {
       "id": 1156430691,
@@ -73,6 +208,24 @@
       "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
     },
     {
+      "id": 1156174730,
+      "dt": "2022-05-08T00:10:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
+    },
+    {
+      "id": 1156109228,
+      "dt": "2022-05-07T22:46:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Bitches Brew Company",
+      "serving": "Nitro",
+      "beer_link": "https://untappd.com/b/bitches-brew-company-apa/4054686"
+    },
+    {
       "id": 1156109228,
       "dt": "2022-05-07T22:46:44+02:00",
       "venue_name": "Pivní ambasáda",
@@ -109,6 +262,15 @@
       "beer_link": "https://untappd.com/b/pivovar-kocour-varnsdorf-visnovy-lezak/68695"
     },
     {
+      "id": 1156089990,
+      "dt": "2022-05-07T22:25:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Višňový ležák",
+      "brewery": "Pivovar Kocour Varnsdorf",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-kocour-varnsdorf-visnovy-lezak/68695"
+    },
+    {
       "id": 1156074778,
       "dt": "2022-05-07T22:08:43+02:00",
       "venue_name": "Pivní ambasáda",
@@ -125,6 +287,24 @@
       "brewery": "Pivovar JungBerg",
       "serving": "Nitro",
       "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1156074778,
+      "dt": "2022-05-07T22:08:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Nitro",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1156053200,
+      "dt": "2022-05-07T21:46:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry ",
+      "brewery": "Pivovar Obora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
     },
     {
       "id": 1156053200,
@@ -156,6 +336,24 @@
     {
       "id": 1156049401,
       "dt": "2022-05-07T21:42:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Bitches Brew Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bitches-brew-company-apa/4054686"
+    },
+    {
+      "id": 1156049401,
+      "dt": "2022-05-07T21:42:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Bitches Brew Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bitches-brew-company-apa/4054686"
+    },
+    {
+      "id": 1156027685,
+      "dt": "2022-05-07T21:18:50+02:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "APA",
       "brewery": "Bitches Brew Company",
@@ -199,6 +397,15 @@
       "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
     },
     {
+      "id": 1155994675,
+      "dt": "2022-05-07T20:43:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry ",
+      "brewery": "Pivovar Obora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
       "id": 1155969995,
       "dt": "2022-05-07T20:14:55+02:00",
       "venue_name": "U Toulavé pípy",
@@ -214,6 +421,24 @@
       "beer_name": "Anežka",
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
+      "id": 1155969995,
+      "dt": "2022-05-07T20:14:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
+      "id": 1155969968,
+      "dt": "2022-05-07T20:14:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Cask",
       "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
     },
     {
@@ -253,6 +478,24 @@
       "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
     },
     {
+      "id": 1155969568,
+      "dt": "2022-05-07T20:14:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
+      "id": 1155969175,
+      "dt": "2022-05-07T20:13:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
       "id": 1155969175,
       "dt": "2022-05-07T20:13:57+02:00",
       "venue_name": "U Toulavé pípy",
@@ -298,6 +541,24 @@
       "beer_link": "https://untappd.com/b/raduga-citrus-citrus/4418933"
     },
     {
+      "id": 1155581453,
+      "dt": "2022-05-07T00:17:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Citrus Citrus",
+      "brewery": "Raduga",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/raduga-citrus-citrus/4418933"
+    },
+    {
+      "id": 1155510445,
+      "dt": "2022-05-06T22:24:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Citrus Citrus",
+      "brewery": "Raduga",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/raduga-citrus-citrus/4418933"
+    },
+    {
       "id": 1155510445,
       "dt": "2022-05-06T22:24:16+02:00",
       "venue_name": "Pivní ambasáda",
@@ -323,6 +584,15 @@
       "brewery": "Raduga",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/raduga-citrus-citrus/4418933"
+    },
+    {
+      "id": 1155510338,
+      "dt": "2022-05-06T22:24:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Cream - Pineapple & Lime & Banana & Coconut",
+      "brewery": "Browar Hopito",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
     },
     {
       "id": 1155510338,
@@ -379,6 +649,24 @@
       "beer_link": "https://untappd.com/b/chroust-ninja-octopus/4786975"
     },
     {
+      "id": 1155480129,
+      "dt": "2022-05-06T21:40:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ninja Octopus",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-ninja-octopus/4786975"
+    },
+    {
+      "id": 1155418663,
+      "dt": "2022-05-06T20:08:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sametová desítka",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-sametova-desitka/1909913"
+    },
+    {
       "id": 1155418663,
       "dt": "2022-05-06T20:08:47+02:00",
       "venue_name": "Pivní ambasáda",
@@ -431,6 +719,24 @@
       "brewery": "Bitches Brew Company",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/bitches-brew-company-apa/4054686"
+    },
+    {
+      "id": 1155378991,
+      "dt": "2022-05-06T18:59:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Bitches Brew Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bitches-brew-company-apa/4054686"
+    },
+    {
+      "id": 1155377235,
+      "dt": "2022-05-06T18:55:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Citrus Citrus",
+      "brewery": "Raduga",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/raduga-citrus-citrus/4418933"
     },
     {
       "id": 1155377235,
@@ -480,6 +786,24 @@
     {
       "id": 1155364745,
       "dt": "2022-05-06T18:30:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filoména",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-filomena/4764629"
+    },
+    {
+      "id": 1155364745,
+      "dt": "2022-05-06T18:30:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filoména",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-filomena/4764629"
+    },
+    {
+      "id": 1155358150,
+      "dt": "2022-05-06T18:16:21+02:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Filoména",
       "brewery": "Pivovar Nomád",
@@ -604,6 +928,24 @@
       "beer_link": "https://untappd.com/b/pivovar-nomad-filomena/4764629"
     },
     {
+      "id": 1155142602,
+      "dt": "2022-05-05T22:25:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filoména",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-filomena/4764629"
+    },
+    {
+      "id": 1155141196,
+      "dt": "2022-05-05T22:22:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mandlový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-mandlovy-lezak-12/1197031"
+    },
+    {
       "id": 1155141196,
       "dt": "2022-05-05T22:22:07+02:00",
       "venue_name": "Pivní ambasáda",
@@ -674,6 +1016,24 @@
       "brewery": "Pivovar Nomád",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-nomad-filomena/4764629"
+    },
+    {
+      "id": 1155123561,
+      "dt": "2022-05-05T21:39:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filoména",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-filomena/4764629"
+    },
+    {
+      "id": 1155112219,
+      "dt": "2022-05-05T21:11:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clock APA",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/clock-clock-apa/730508"
     },
     {
       "id": 1155112219,
