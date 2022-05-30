@@ -64,8 +64,24 @@ def run() -> None:
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page)
 
+    chart_labels = get_stats(users, days=30)
+    page_month = get_page(
+        utils.get_template('pivni-valka-chart.html'),
+        users=users,
+        chart_labels=chart_labels,
+        link='chart_year.html',
+    )
+
+    with open('pivni_valka/chart_month.html', 'w', encoding=utils.ENCODING) as f:
+        f.write(page_month)
+
     chart_labels = get_stats(users, days=365)
-    page_year = get_page(utils.get_template('pivni-valka-chart.html'), users=users, chart_labels=chart_labels)
+    page_year = get_page(
+        utils.get_template('pivni-valka-chart.html'),
+        users=users,
+        chart_labels=chart_labels,
+        link='chart_all.html',
+    )
 
     with open('pivni_valka/chart_year.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_year)

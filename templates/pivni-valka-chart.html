@@ -11,9 +11,13 @@
 </head>
 <body>
 <div class="item-chart">
-    <a href="chart_all.html">
+    {% if link %}
+    <a href="{{ link }}">
         <canvas id="chart"></canvas>
     </a>
+    {% else %}
+    <canvas id="chart"></canvas>
+    {% endif %}
 </div>
 <script>
     const ctx = document.getElementById('chart').getContext('2d');
