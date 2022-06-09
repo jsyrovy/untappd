@@ -59,7 +59,7 @@ class CheckIn:
             json_['brewery'],
             json_['serving'],
             json_['beer_link'],
-            [venue.name for venue in venues if venue.name == json_['venue_name']][0],
+            [venue.url for venue in venues if venue.name == json_['venue_name']][0],
         )
 
     def to_json(self) -> Dict[str, Any]:
