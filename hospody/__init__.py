@@ -4,7 +4,7 @@ import pathlib
 import random
 from dataclasses import dataclass
 from datetime import datetime, timezone, timedelta
-from typing import List, Dict, Any
+from typing import Any
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -50,7 +50,7 @@ class CheckIn:
         )
 
     @staticmethod
-    def from_json(json_: Dict[str, Any], venues: tuple[Venue, ...]) -> 'CheckIn':
+    def from_json(json_: dict[str, Any], venues: tuple[Venue, ...]) -> 'CheckIn':
         return CheckIn(
             json_['id'],
             datetime.fromisoformat(json_['dt']),
@@ -62,7 +62,7 @@ class CheckIn:
             [venue.url for venue in venues if venue.name == json_['venue_name']][0],
         )
 
-    def to_json(self) -> Dict[str, Any]:
+    def to_json(self) -> dict[str, Any]:
         return {
             'id': self.id,
             'dt': self.dt.isoformat(),
@@ -106,7 +106,7 @@ def run() -> None:
         f.write(page)
 
 
-def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> List[CheckIn]:
+def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> list[CheckIn]:
     if local:
         return [CheckIn.get_random(venues), CheckIn.get_random(venues), CheckIn.get_random(venues)]
 
@@ -114,7 +114,7 @@ def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> L
     return parse_check_ins(page, venue)
 
 
-def parse_check_ins(page: str, venue: Venue) -> List[CheckIn]:
+def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:
     def parse_dt(s: str) -> datetime:
         utc_dt = datetime.strptime(s, '%a, %d %b %Y %H:%M:%S %z')
         return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
@@ -154,7 +154,7 @@ def parse_check_ins(page: str, venue: Venue) -> List[CheckIn]:
     return beers
 
 
-def load_check_ins(venues: tuple[Venue, ...]) -> List[CheckIn]:
+def load_check_ins(venues: tuple[Venue, ...]) -> list[CheckIn]:
     path = pathlib.Path(CHECK_INS_PATH)
 
     if not path.exists():
@@ -163,19 +163,19 @@ def load_check_ins(venues: tuple[Venue, ...]) -> List[CheckIn]:
     return [CheckIn.from_json(check_in, venues) for check_in in json.loads(path.read_text())['check_ins']]
 
 
-def sort_check_ins(check_ins: List[CheckIn]) -> None:
+def sort_check_ins(check_ins: list[CheckIn]) -> None:
     check_ins.sort(key=lambda check_in: check_in.dt, reverse=True)
 
 
-def save_check_ins(check_ins: List[CheckIn]) -> None:
+def save_check_ins(check_ins: list[CheckIn]) -> None:
     data = {'check_ins': [check_in.to_json() for check_in in check_ins]}
 
     with open(CHECK_INS_PATH, 'w', encoding=utils.ENCODING) as f:
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
 
-def get_unique_beers_check_ins(check_ins: List[CheckIn]) -> List[CheckIn]:
-    unique_beers_check_ins: List[CheckIn] = []
+def get_unique_beers_check_ins(check_ins: list[CheckIn]) -> list[CheckIn]:
+    unique_beers_check_ins: list[CheckIn] = []
 
     for check_in in [check_in for check_in in check_ins if check_in.serving in (SERVING_DRAFT, SERVING_UNKNOWN)]:
         if check_in.beer_name not in [unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_check_ins]:
@@ -184,5 +184,5 @@ def get_unique_beers_check_ins(check_ins: List[CheckIn]) -> List[CheckIn]:
     return unique_beers_check_ins
 
 
-def get_page(template: jinja2.Template, check_ins: List[CheckIn]) -> str:
+def get_page(template: jinja2.Template, check_ins: list[CheckIn]) -> str:
     return template.render(check_ins=check_ins)

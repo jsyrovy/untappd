@@ -4,7 +4,7 @@ import pathlib
 import random
 from collections import OrderedDict
 from dataclasses import dataclass
-from typing import List, Optional
+from typing import Optional
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -130,7 +130,7 @@ def parse_unique_beers_count(user_profile: str) -> int:
     return int(unique_beers_count.replace(',', ''))
 
 
-def get_stats(users: tuple[User, ...], days: Optional[int] = None) -> List[str]:
+def get_stats(users: tuple[User, ...], days: Optional[int] = None) -> list[str]:
     data = OrderedDict()
     chart_labels = []
 
