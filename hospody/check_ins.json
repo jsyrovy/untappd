@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1167175775,
+      "dt": "2022-06-09T21:46:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1167155338,
+      "dt": "2022-06-09T20:55:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1167146313,
+      "dt": "2022-06-09T20:31:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Hloh Peřenoklaný Infuse",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ipa-hloh-perenoklany-infuse/4650346"
+    },
+    {
+      "id": 1167132696,
+      "dt": "2022-06-09T19:51:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1167115007,
+      "dt": "2022-06-09T18:54:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýřka 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyrka-13/1395235"
+    },
+    {
+      "id": 1167108956,
+      "dt": "2022-06-09T18:32:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Hloh Peřenoklaný Infuse",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ipa-hloh-perenoklany-infuse/4650346"
+    },
+    {
+      "id": 1167105082,
+      "dt": "2022-06-09T18:15:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1167102487,
+      "dt": "2022-06-09T18:04:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vídeňský Ležák /// 12.VA.R2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-vidensky-lezak-12-va-r2/4296442"
+    },
+    {
+      "id": 1167098282,
+      "dt": "2022-06-09T17:43:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Whakaari",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-whakaari/4865395"
+    },
+    {
       "id": 1166888454,
       "dt": "2022-06-08T19:14:48+02:00",
       "venue_name": "U Toulavé pípy",
@@ -28,6 +109,15 @@
       "beer_link": "https://untappd.com/b/pivovar-loutkar-lodni-sroub-12-apa/3940224"
     },
     {
+      "id": 1166879528,
+      "dt": "2022-06-08T18:35:30+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Pardubickej Lajf",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf/3916737"
+    },
+    {
       "id": 1166858087,
       "dt": "2022-06-08T15:44:30+02:00",
       "venue_name": "U Toulavé pípy",
@@ -37,6 +127,15 @@
       "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
     },
     {
+      "id": 1166716601,
+      "dt": "2022-06-07T21:05:34+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Pardubickej Lajf",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf/3916737"
+    },
+    {
       "id": 1166667095,
       "dt": "2022-06-07T16:42:00+02:00",
       "venue_name": "Pivní ambasáda",
@@ -190,6 +289,24 @@
       "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
     },
     {
+      "id": 1165662160,
+      "dt": "2022-06-04T20:37:18+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Hazy Orange IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-hazy-orange-ipa/3842894"
+    },
+    {
+      "id": 1165656416,
+      "dt": "2022-06-04T20:31:10+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Bohemian Poetry 13",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
+    },
+    {
       "id": 1165584175,
       "dt": "2022-06-04T19:06:40+02:00",
       "venue_name": "U Toulavé pípy",
@@ -631,13 +748,40 @@
       "beer_link": "https://untappd.com/b/zdivar-le-zacek-12/4543163"
     },
     {
-      "id": 1165036864,
-      "dt": "2022-06-03T18:59:12+02:00",
-      "venue_name": "U Toulavé pípy",
-      "beer_name": "Three Suns",
-      "brewery": "Sibeeria",
+      "id": 1165063849,
+      "dt": "2022-06-03T19:46:40+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Eclipse SMASH Ale 13%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-eclipse-smash-ale-13/4855689"
+    },
+    {
+      "id": 1165055740,
+      "dt": "2022-06-03T19:32:57+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Bohemian Poetry 13",
+      "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Nezadáno",
-      "beer_link": "https://untappd.com/b/sibeeria-three-suns/4847721"
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
+    },
+    {
+      "id": 1165055583,
+      "dt": "2022-06-03T19:32:38+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Hazy Orange IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-hazy-orange-ipa/3842894"
+    },
+    {
+      "id": 1165053316,
+      "dt": "2022-06-03T19:28:41+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Bohemian Poetry 13",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
     },
     {
       "id": 1165036864,
@@ -683,6 +827,24 @@
       "brewery": "Sibeeria",
       "serving": "Nezadáno",
       "beer_link": "https://untappd.com/b/sibeeria-three-suns/4847721"
+    },
+    {
+      "id": 1165036864,
+      "dt": "2022-06-03T18:59:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Three Suns",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-three-suns/4847721"
+    },
+    {
+      "id": 1165018338,
+      "dt": "2022-06-03T18:23:05+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Eclipse SMASH Ale 13%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-eclipse-smash-ale-13/4855689"
     },
     {
       "id": 1164953324,
@@ -2177,6 +2339,15 @@
       "brewery": "Královéhradecký měšťanský pivovar",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-tropical-ale/3961299"
+    },
+    {
+      "id": 1162962815,
+      "dt": "2022-05-28T14:19:25+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Hektor",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-hektor/740151"
     },
     {
       "id": 1162620198,
@@ -8308,6 +8479,15 @@
       "beer_link": "https://untappd.com/b/browar-hopito-ice-cream-pineapple-and-lime-and-banana-and-coconut/4718718"
     },
     {
+      "id": 1157781543,
+      "dt": "2022-05-13T21:49:11+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Summer Simcoe",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-simcoe/4805197"
+    },
+    {
       "id": 1157752149,
       "dt": "2022-05-13T21:08:55+02:00",
       "venue_name": "U Toulavé pípy",
@@ -8459,6 +8639,15 @@
       "brewery": "Královéhradecký měšťanský pivovar",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-hradecky-klenot-ipa/2646690"
+    },
+    {
+      "id": 1157641256,
+      "dt": "2022-05-13T18:15:11+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-svetly-lezak/850661"
     },
     {
       "id": 1157627300,
@@ -10138,6 +10327,15 @@
       "id": 1156418010,
       "dt": "2022-05-08T17:27:16+02:00",
       "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Simcoe",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-simcoe/4805197"
+    },
+    {
+      "id": 1156418010,
+      "dt": "2022-05-08T17:27:16+02:00",
+      "venue_name": "Loď Otava",
       "beer_name": "Summer Simcoe",
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
@@ -12815,6 +13013,15 @@
       "brewery": "Sibeeria",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/sibeeria-solar-orbiter/4808045"
+    },
+    {
+      "id": 1154148473,
+      "dt": "2022-05-01T18:55:28+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Libertas & Raven NEIPA 16%",
+      "brewery": "Akciový pivovar LIBERTAS",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/akciovy-pivovar-libertas-libertas-and-raven-neipa-16/4764503"
     },
     {
       "id": 1153581583,
@@ -41246,6 +41453,60 @@
       "brewery": "Rodinný Pivovar Zichovec",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nelson-motueka-simcoe-double-ipa-17/4516805"
+    },
+    {
+      "id": 1080620932,
+      "dt": "2021-09-24T19:49:24+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kurtizana Maracuja",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-maracuja/4480229"
+    },
+    {
+      "id": 1080586877,
+      "dt": "2021-09-24T18:53:36+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Sun Blast IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-sun-blast-ipa/3619316"
+    },
+    {
+      "id": 1076033855,
+      "dt": "2021-09-11T08:32:51+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kurtizána IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
+    },
+    {
+      "id": 1076033760,
+      "dt": "2021-09-11T08:31:28+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Twist",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-twist/753375"
+    },
+    {
+      "id": 1075751234,
+      "dt": "2021-09-10T21:59:59+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "SUSAN",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-susan/4486750"
+    },
+    {
+      "id": 1075310142,
+      "dt": "2021-09-09T19:58:08+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "SUSAN",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-susan/4486750"
     }
   ]
 }
