@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1167609941,
+      "dt": "2022-06-10T23:13:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vídeňský Ležák /// 12.VA.R2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-vidensky-lezak-12-va-r2/4296442"
+    },
+    {
+      "id": 1167603008,
+      "dt": "2022-06-10T23:03:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Longboard 12°",
+      "brewery": "Board",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/board-longboard-120/4770655"
+    },
+    {
+      "id": 1167600680,
+      "dt": "2022-06-10T22:59:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Whakaari",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-whakaari/4865395"
+    },
+    {
+      "id": 1167599096,
+      "dt": "2022-06-10T22:57:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Longboard 12°",
+      "brewery": "Board",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/board-longboard-120/4770655"
+    },
+    {
+      "id": 1167533165,
+      "dt": "2022-06-10T21:24:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Hloh Peřenoklaný Infuse",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ipa-hloh-perenoklany-infuse/4650346"
+    },
+    {
+      "id": 1167528315,
+      "dt": "2022-06-10T21:17:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry ",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
+      "id": 1167426582,
+      "dt": "2022-06-10T18:30:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1167392310,
+      "dt": "2022-06-10T17:04:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Citra×2",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-citra-2/4853583"
+    },
+    {
       "id": 1167175775,
       "dt": "2022-06-09T21:46:13+02:00",
       "venue_name": "Pivní ambasáda",
