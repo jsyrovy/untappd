@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1168735074,
+      "dt": "2022-06-13T00:25:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sweet Dreams Series: Beyond",
+      "brewery": "Browar Nepomucen",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-beyond/4737418"
+    },
+    {
+      "id": 1168682425,
+      "dt": "2022-06-12T22:31:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Coconut Macaroons 22",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-macaroons-22/4805456"
+    },
+    {
+      "id": 1168630532,
+      "dt": "2022-06-12T20:56:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Mango Avenue",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mango-avenue/4347406"
+    },
+    {
+      "id": 1168627314,
+      "dt": "2022-06-12T20:50:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sauna Session®️",
+      "brewery": "Tanker Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/tanker-brewery-sauna-session/997182"
+    },
+    {
+      "id": 1168626456,
+      "dt": "2022-06-12T20:49:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Polar Eclipse",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-polar-eclipse/4827500"
+    },
+    {
+      "id": 1168585780,
+      "dt": "2022-06-12T19:29:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ale NE",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ale-ne/3852611"
+    },
+    {
+      "id": 1168552317,
+      "dt": "2022-06-12T18:16:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ale NE",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ale-ne/3852611"
+    },
+    {
+      "id": 1168537066,
+      "dt": "2022-06-12T17:35:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Raspberry Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-raspberry-sour/3946220"
+    },
+    {
       "id": 1168249611,
       "dt": "2022-06-11T23:38:17+02:00",
       "venue_name": "Pivní ambasáda",
@@ -269,6 +341,15 @@
       "brewery": "Sibeeria",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/sibeeria-three-suns/4847721"
+    },
+    {
+      "id": 1166886611,
+      "dt": "2022-06-08T19:07:08+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Pardubickej Lajf",
+      "brewery": "Beer Poets",
+      "serving": "Cask",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf/3916737"
     },
     {
       "id": 1166879996,
