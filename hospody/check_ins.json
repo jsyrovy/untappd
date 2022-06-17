@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1169612732,
+      "dt": "2022-06-16T22:38:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Femme Fanale",
+      "brewery": "Wild Creatures",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/wild-creatures-femme-fanale/4146011"
+    },
+    {
+      "id": 1169599399,
+      "dt": "2022-06-16T22:06:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Green Killer",
+      "brewery": "Brasserie de Silly",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-de-silly-ipa-green-killer/917613"
+    },
+    {
+      "id": 1169577223,
+      "dt": "2022-06-16T21:14:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hallerndorfer Hefeweizen",
+      "brewery": "Brauerei Rittmayer Hallerndorf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-rittmayer-hallerndorf-hallerndorfer-hefeweissbier/129947"
+    },
+    {
+      "id": 1169553763,
+      "dt": "2022-06-16T20:18:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Sour Banana & Coconut",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-sour-banana-and-coconut/4690856"
+    },
+    {
+      "id": 1169552736,
+      "dt": "2022-06-16T20:16:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hallerndorfer Hefeweizen",
+      "brewery": "Brauerei Rittmayer Hallerndorf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-rittmayer-hallerndorf-hallerndorfer-hefeweissbier/129947"
+    },
+    {
+      "id": 1169552173,
+      "dt": "2022-06-16T20:14:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Sour Banana & Coconut",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-sour-banana-and-coconut/4690856"
+    },
+    {
+      "id": 1169543918,
+      "dt": "2022-06-16T19:53:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hallerndorfer Hefeweizen",
+      "brewery": "Brauerei Rittmayer Hallerndorf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-rittmayer-hallerndorf-hallerndorfer-hefeweissbier/129947"
+    },
+    {
+      "id": 1169532298,
+      "dt": "2022-06-16T19:21:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "11 Ležák",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-11-lezak/4088691"
+    },
+    {
       "id": 1169235857,
       "dt": "2022-06-15T17:03:41+02:00",
       "venue_name": "Pivní ambasáda",
