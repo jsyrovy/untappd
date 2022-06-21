@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1171371908,
+      "dt": "2022-06-20T21:05:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Green Killer",
+      "brewery": "Brasserie de Silly",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-de-silly-ipa-green-killer/917613"
+    },
+    {
+      "id": 1171371730,
+      "dt": "2022-06-20T21:04:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hoppy Hippie",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-hippie/4829477"
+    },
+    {
+      "id": 1171364945,
+      "dt": "2022-06-20T20:42:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "ESCape",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-escape/1872850"
+    },
+    {
+      "id": 1171358907,
+      "dt": "2022-06-20T20:21:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jamestown",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-jamestown/3417884"
+    },
+    {
+      "id": 1171322924,
+      "dt": "2022-06-20T17:46:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aronia 11",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-aronia-11/4375936"
+    },
+    {
       "id": 1170977841,
       "dt": "2022-06-19T18:32:25+02:00",
       "venue_name": "Pivní ambasáda",
