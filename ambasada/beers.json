@@ -1,0 +1,36 @@
+{
+  "beers": [
+    {
+      "name": "10° 300 Kurven",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "10° Sunny Ale",
+      "description": "piv. Antoš, Slaný, Ale"
+    },
+    {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Kloster Weisse Hell",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+    },
+    {
+      "name": "12° Lets Cook - Mango Gose",
+      "description": "piv. Deer Bear, Toruń, województwo kujawsko-pomorskie, Polsko, Fruit Gose"
+    },
+    {
+      "name": "12° Višňový ležák",
+      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+    },
+    {
+      "name": "14° Green Killer IPA",
+      "description": "piv. Brasserie de Silly, Silly, Henegavsko, Belgian IPA, 0,25l"
+    },
+    {
+      "name": "14° LucIPA",
+      "description": "piv. JungBerg, Hořice, IPA"
+    }
+  ]
+}
