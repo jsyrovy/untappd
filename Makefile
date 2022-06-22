@@ -20,6 +20,8 @@ help:
 	@echo "  generate stats and publish page"
 	@echo "make test-hospody"
 	@echo "  run tests"
+	@echo "make run-ambasada"
+	@echo "  download current beer offer"
 	@echo "make mypy-install-types"
 	@echo "  install mypy types"
 	@echo "make mypy"
@@ -49,6 +51,9 @@ run-hospody-local:
 
 test-hospody:
 	${PYTHON} -m pytest hospody/tests.py
+
+run-ambasada:
+	${PYTHON} run_ambasada.py
 
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .
