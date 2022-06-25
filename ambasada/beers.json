@@ -5,16 +5,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "10° Sunny Ale",
-      "description": "piv. Antoš, Slaný, Ale"
+      "name": "10° Summer Ale",
+      "description": "piv. U Vojtěchů, Pardubice, Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° Kloster Weisse Hell",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
     {
       "name": "12° Lets Cook - Mango Gose",
@@ -25,12 +21,16 @@
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
+      "name": "14° Connection Riwaka",
+      "description": "piv. Four Elements, Praha, NEIPA"
+    },
+    {
       "name": "14° Green Killer IPA",
       "description": "piv. Brasserie de Silly, Silly, Henegavsko, Belgian IPA, 0,25l"
     },
     {
-      "name": "14° LucIPA",
-      "description": "piv. JungBerg, Hořice, IPA"
+      "name": "17° Weizenbock",
+      "description": "piv. Zichovec, Weizenbock"
     }
   ]
 }
