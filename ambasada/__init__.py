@@ -1,7 +1,6 @@
 import json
 import pathlib
 from dataclasses import dataclass
-from typing import Optional
 
 from bs4 import BeautifulSoup
 
@@ -14,6 +13,9 @@ BEERS_PATH = 'ambasada/beers.json'
 class Beer:
     name: str = ''
     description: str = ''
+
+    def __str__(self) -> str:
+        return f'{self.name}\n{self.description}'
 
     @staticmethod
     def from_json(json_: dict[str, str]) -> 'Beer':
@@ -34,9 +36,10 @@ def run() -> None:
 
     previous_beers = load_beers()
     current_beers = get_current_beers(page)
+    new_beers = [beer for beer in current_beers if beer not in previous_beers]
 
-    new_beers = [current_beer for current_beer in current_beers if current_beer not in previous_beers]
-    print(new_beers)
+    if new_beers:
+        send_twitter_message(new_beers)
 
     sort_beers(current_beers)
     save_beers(current_beers)
@@ -84,3 +87,11 @@ def save_beers(beers: list[Beer]) -> None:
 
     with open(BEERS_PATH, 'w', encoding=utils.ENCODING) as f:
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
+
+
+def send_twitter_message(new_beers: list[Beer]) -> None:
+    message = 'Nově na čepu v Ambasádě:\n\n'
+    message += '\n\n'.join(str(beer) for beer in new_beers)
+
+    twitter_client = utils.twitter.Client()
+    twitter_client.send_message(message)

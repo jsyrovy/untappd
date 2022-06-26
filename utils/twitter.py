@@ -33,3 +33,6 @@ class Client:
                 raise DuplicateTweetError from e
 
             raise
+
+    def send_message(self, text: str, recipient_id: Optional[int] = None) -> None:
+        self.api.send_direct_message(recipient_id or os.environ['TWITTER_USER_ID'], text)
