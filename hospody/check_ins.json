@@ -1,6 +1,141 @@
 {
   "check_ins": [
     {
+      "id": 1173273926,
+      "dt": "2022-06-26T01:05:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "NEIPA",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-neipa/4340973"
+    },
+    {
+      "id": 1173250948,
+      "dt": "2022-06-26T00:31:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Connection NEIPA 14° Riwaka",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-connection-neipa-140-riwaka/4869346"
+    },
+    {
+      "id": 1173249508,
+      "dt": "2022-06-26T00:29:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Gose – Let's Cook",
+      "brewery": "Deer Bear",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/deer-bear-mango-gose-let-s-cook/2731078"
+    },
+    {
+      "id": 1173239289,
+      "dt": "2022-06-26T00:15:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Co-Co Dancer",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-co-co-dancer/2743214"
+    },
+    {
+      "id": 1173201644,
+      "dt": "2022-06-25T23:26:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Clock APA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-clock-apa/730508"
+    },
+    {
+      "id": 1173197950,
+      "dt": "2022-06-25T23:22:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy Discovery Prague",
+      "brewery": "PINTA",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pinta-hazy-discovery-prague/4856604"
+    },
+    {
+      "id": 1173176714,
+      "dt": "2022-06-25T22:57:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Earth",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-earth/4810113"
+    },
+    {
+      "id": 1173159435,
+      "dt": "2022-06-25T22:37:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weizenbock 17 (2022)",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-weizenbock-17-2022/4837928"
+    },
+    {
+      "id": 1173137369,
+      "dt": "2022-06-25T22:13:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Gose – Let's Cook",
+      "brewery": "Deer Bear",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/deer-bear-mango-gose-let-s-cook/2731078"
+    },
+    {
+      "id": 1173037537,
+      "dt": "2022-06-25T20:29:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Child O'Wine",
+      "brewery": "Varvar Brew",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/varvar-brew-sweet-child-o-wine/4633763"
+    },
+    {
+      "id": 1173033274,
+      "dt": "2022-06-25T20:24:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Gose – Let's Cook",
+      "brewery": "Deer Bear",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/deer-bear-mango-gose-let-s-cook/2731078"
+    },
+    {
+      "id": 1173014241,
+      "dt": "2022-06-25T20:03:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Earth",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-earth/4810113"
+    },
+    {
+      "id": 1173011977,
+      "dt": "2022-06-25T20:00:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cyklopice 10%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-cyklopice-10/4859713"
+    },
+    {
+      "id": 1173010878,
+      "dt": "2022-06-25T19:59:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy Discovery Prague",
+      "brewery": "PINTA",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pinta-hazy-discovery-prague/4856604"
+    },
+    {
+      "id": 1172985556,
+      "dt": "2022-06-25T19:29:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Connection NEIPA 14° Riwaka",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-connection-neipa-140-riwaka/4869346"
+    },
+    {
       "id": 1172365721,
       "dt": "2022-06-24T17:41:04+02:00",
       "venue_name": "U Toulavé pípy",
