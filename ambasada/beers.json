@@ -5,20 +5,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "10° Summer Ale",
-      "description": "piv. U Vojtěchů, Pardubice, Ale"
+      "name": "11° Mangová",
+      "description": "piv. Rampušák, Dobruška, Mangový Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "12° Hallerndorfer 1422",
+      "description": "piv. Rittmayer, Hallerndorf, Horní Franky, Kellerbier"
     },
     {
-      "name": "12° Lets Cook - Mango Gose",
-      "description": "piv. Deer Bear, Toruń, województwo kujawsko-pomorskie, Polsko, Fruit Gose"
-    },
-    {
-      "name": "12° Višňový ležák",
-      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+      "name": "12° Mandlová",
+      "description": "piv. Valášek, Vsetín, ochucený ležák"
     },
     {
       "name": "14° Connection Riwaka",
@@ -27,6 +23,10 @@
     {
       "name": "14° Green Killer IPA",
       "description": "piv. Brasserie de Silly, Silly, Henegavsko, Belgian IPA, 0,25l"
+    },
+    {
+      "name": "16° Cześć Brat! Ja Stawiam!",
+      "description": "piv. Cześć Brat!, Jelcz-Laskowice, województwo dolnośląskie, Polsko, Tropical Sour IPA"
     },
     {
       "name": "17° Weizenbock",
