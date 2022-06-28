@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1173866941,
+      "dt": "2022-06-27T21:58:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Connection NEIPA 14° Riwaka",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-connection-neipa-140-riwaka/4869346"
+    },
+    {
+      "id": 1173857908,
+      "dt": "2022-06-27T21:25:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Gose – Let's Cook",
+      "brewery": "Deer Bear",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/deer-bear-mango-gose-let-s-cook/2731078"
+    },
+    {
+      "id": 1173852252,
+      "dt": "2022-06-27T21:05:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango APA",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-mango-apa/4882682"
+    },
+    {
+      "id": 1173819433,
+      "dt": "2022-06-27T18:54:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Earth",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-earth/4810113"
+    },
+    {
+      "id": 1173810362,
+      "dt": "2022-06-27T18:07:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Co-Co Dancer",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-co-co-dancer/2743214"
+    },
+    {
+      "id": 1173798313,
+      "dt": "2022-06-27T16:28:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Ale 10 – Tanec Slunce",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-summer-ale-10-tanec-slunce/3337676"
+    },
+    {
+      "id": 1173792635,
+      "dt": "2022-06-27T15:14:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Co-Co Dancer",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-co-co-dancer/2743214"
+    },
+    {
       "id": 1173273926,
       "dt": "2022-06-26T01:05:53+02:00",
       "venue_name": "U Toulavé pípy",
