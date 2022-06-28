@@ -16,6 +16,12 @@ jobs:
       - name: Create venv
         run: make init
       - name: Run
+        env:
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+          ACCESS_TOKEN_KEY: ${{ secrets.ACCESS_TOKEN_KEY }}
+          ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+          TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
         run: make run-ambasada
       - name: Save
         uses: stefanzweifel/git-auto-commit-action@v4
