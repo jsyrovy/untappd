@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 import utils
 
-BEERS_PATH = 'ambasada/beers.json'
+BEERS_PATH = 'notifier/beers.json'
 
 
 @dataclass

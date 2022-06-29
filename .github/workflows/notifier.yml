@@ -1,10 +1,10 @@
-name: ambasada
+name: notifier
 on:
   schedule:
     - cron: "0 14 * * *"
   workflow_dispatch:
 jobs:
-  ambasada:
+  notifier:
     runs-on: ubuntu-18.04
     steps:
       - name: Check out
@@ -22,11 +22,11 @@ jobs:
           ACCESS_TOKEN_KEY: ${{ secrets.ACCESS_TOKEN_KEY }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
           TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
-        run: make run-ambasada
+        run: make run-notifier
       - name: Save
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
           commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          commit_message: Update ambasada
+          commit_message: Update notifier
