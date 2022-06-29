@@ -2,7 +2,6 @@ import json
 import pathlib
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
-from typing import Optional
 
 import utils
 from hospody import CHECK_INS_PATH
@@ -11,7 +10,7 @@ from notifier.base import Offer, Beer
 
 @dataclass
 class PipaBeer(Beer):
-    dt: Optional[datetime] = None
+    dt: datetime = datetime.now()
 
     @staticmethod
     def from_json(json_: dict[str, str]) -> 'PipaBeer':
