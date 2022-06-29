@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1174050897,
+      "dt": "2022-06-28T20:45:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cześć Brat! Ja Stawiam!",
+      "brewery": "Cześć Brat!",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/czesc-brat-czesc-brat-ja-stawiam/4880405"
+    },
+    {
+      "id": 1174010253,
+      "dt": "2022-06-28T18:16:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Ale 10 – Tanec Slunce",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-summer-ale-10-tanec-slunce/3337676"
+    },
+    {
       "id": 1173866941,
       "dt": "2022-06-27T21:58:02+02:00",
       "venue_name": "Pivní ambasáda",
