@@ -9,7 +9,7 @@ from notifier.base import Beer, Offer
 
 class AmbasadaOffer(Offer):
     BEERS_PATH = 'notifier/ambasada.json'
-    PUB_IN_NOTIFICATION = 'Ambasádě'
+    PUB_IN_NOTIFICATION = 'v Ambasádě'
 
     def run(self) -> None:
         page = utils.download_page('https://pivniambasada.cz')

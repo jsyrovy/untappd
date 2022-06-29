@@ -17,6 +17,10 @@ USER_AGENTS = (
 )
 BASE_URL = 'https://untappd.com'
 
+PIPA_NAME = 'U Toulavé pípy'
+AMBASADA_NAME = 'Pivní ambasáda'
+LOD_NAME = 'Loď Otava'
+
 
 def get_run_args() -> tuple[bool, bool]:
     parser = argparse.ArgumentParser()

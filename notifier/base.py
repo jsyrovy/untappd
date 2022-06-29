@@ -37,7 +37,7 @@ class Offer:
         raise NotImplementedError
 
     def send_twitter_message(self) -> None:
-        message = f'Nově na čepu v {self.PUB_IN_NOTIFICATION}:\n\n'
+        message = f'Nově na čepu {self.PUB_IN_NOTIFICATION}:\n\n'
         message += '\n\n'.join(str(beer) for beer in self.new_beers)
 
         twitter_client = utils.twitter.Client()

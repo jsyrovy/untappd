@@ -76,9 +76,9 @@ class CheckIn:
 
 def run() -> None:
     venues = (
-        Venue('U Toulavé pípy', f'{utils.BASE_URL}/v/u-toulave-pipy/3663231'),
-        Venue('Pivní ambasáda', f'{utils.BASE_URL}/v/pivni-ambasada/3943799'),
-        Venue('Loď Otava', f'{utils.BASE_URL}/v/lod-otava/6353222'),
+        Venue(utils.PIPA_NAME, f'{utils.BASE_URL}/v/u-toulave-pipy/3663231'),
+        Venue(utils.AMBASADA_NAME, f'{utils.BASE_URL}/v/pivni-ambasada/3943799'),
+        Venue(utils.LOD_NAME, f'{utils.BASE_URL}/v/lod-otava/6353222'),
     )
 
     new_check_ins = []
