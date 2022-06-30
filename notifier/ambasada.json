@@ -5,8 +5,8 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "11° Mangová",
-      "description": "piv. Rampušák, Dobruška, Mangový Ale"
+      "name": "11° Švihák",
+      "description": "piv. Loutkář, Chrudim, Summer Ale"
     },
     {
       "name": "12° Mandlová",
@@ -15,10 +15,6 @@
     {
       "name": "13° Mocnář",
       "description": "piv. Mordýř, Dolní Ředice, vídeňský ležák"
-    },
-    {
-      "name": "14° Green Killer IPA",
-      "description": "piv. Brasserie de Silly, Silly, Henegavsko, Belgian IPA, 0,25l"
     },
     {
       "name": "15° Trio",
@@ -31,6 +27,10 @@
     {
       "name": "17° Weizenbock",
       "description": "piv. Zichovec, Weizenbock"
+    },
+    {
+      "name": "18° Delirium Red",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Fruit Strong Ale, 0,25l"
     }
   ]
 }
