@@ -5,12 +5,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "11° Švihák",
-      "description": "piv. Loutkář, Chrudim, Summer Ale"
+      "name": "12° Citra",
+      "description": "piv. Kamenice, Single Hop Ale"
     },
     {
       "name": "12° Mandlová",
       "description": "piv. Valášek, Vsetín, ochucený ležák"
+    },
+    {
+      "name": "12° Sour Passion Fruit",
+      "description": "piv. Zichovec, Fruit Sour Ale"
     },
     {
       "name": "13° Mocnář",
@@ -19,10 +23,6 @@
     {
       "name": "15° Trio",
       "description": "piv. Mazák, Dolní Bojanovice, New England IPA"
-    },
-    {
-      "name": "16° Cześć Brat! Ja Stawiam!",
-      "description": "piv. Cześć Brat!, Jelcz-Laskowice, województwo dolnośląskie, Polsko, Tropical Sour IPA"
     },
     {
       "name": "17° Weizenbock",
