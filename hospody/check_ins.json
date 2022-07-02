@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1174826605,
+      "dt": "2022-07-01T17:44:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pineapple Session IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-pineapple-session-ipa/2133656"
+    },
+    {
+      "id": 1174825732,
+      "dt": "2022-07-01T17:42:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Goséčko Černý Rybíz 11%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-gosecko-cerny-rybiz-11/4898772"
+    },
+    {
+      "id": 1174815861,
+      "dt": "2022-07-01T17:10:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trio NEIPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-trio-neipa/4726255"
+    },
+    {
+      "id": 1174808982,
+      "dt": "2022-07-01T16:44:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trio NEIPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-trio-neipa/4726255"
+    },
+    {
+      "id": 1174804400,
+      "dt": "2022-07-01T16:23:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Goséčko Černý Rybíz 11%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-gosecko-cerny-rybiz-11/4898772"
+    },
+    {
+      "id": 1174803597,
+      "dt": "2022-07-01T16:20:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Passion Fruit",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-passion-fruit/2499801"
+    },
+    {
       "id": 1174564209,
       "dt": "2022-06-30T21:02:20+02:00",
       "venue_name": "Pivní ambasáda",
