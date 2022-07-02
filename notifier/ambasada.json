@@ -5,8 +5,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Citra",
       "description": "piv. Kamenice, Single Hop Ale"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° Mandlová",
@@ -17,16 +25,8 @@
       "description": "piv. Zichovec, Fruit Sour Ale"
     },
     {
-      "name": "13° Mocnář",
-      "description": "piv. Mordýř, Dolní Ředice, vídeňský ležák"
-    },
-    {
       "name": "15° Trio",
       "description": "piv. Mazák, Dolní Bojanovice, New England IPA"
-    },
-    {
-      "name": "17° Weizenbock",
-      "description": "piv. Zichovec, Weizenbock"
     },
     {
       "name": "18° Delirium Red",
