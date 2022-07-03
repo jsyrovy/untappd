@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1175684247,
+      "dt": "2022-07-03T00:12:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Goséčko Černý Rybíz 11%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-gosecko-cerny-rybiz-11/4898772"
+    },
+    {
+      "id": 1175483397,
+      "dt": "2022-07-02T20:26:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Ležák",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-11-lezak/4088691"
+    },
+    {
+      "id": 1175480663,
+      "dt": "2022-07-02T20:23:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Léto 2022",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2022/4891053"
+    },
+    {
+      "id": 1175399265,
+      "dt": "2022-07-02T18:39:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Ale Citra",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-single-hop-ale-citra/2779772"
+    },
+    {
+      "id": 1175386164,
+      "dt": "2022-07-02T18:19:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Red",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-red/33040"
+    },
+    {
+      "id": 1175377411,
+      "dt": "2022-07-02T18:05:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Passion Fruit",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-passion-fruit/2499801"
+    },
+    {
+      "id": 1175362642,
+      "dt": "2022-07-02T17:38:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mandlový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-mandlovy-lezak-12/1197031"
+    },
+    {
+      "id": 1175361786,
+      "dt": "2022-07-02T17:36:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "300 Kurven 10%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-300-kurven-10/3144726"
+    },
+    {
+      "id": 1175285259,
+      "dt": "2022-07-02T14:01:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Léto 2022",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2022/4891053"
+    },
+    {
       "id": 1174826605,
       "dt": "2022-07-01T17:44:52+02:00",
       "venue_name": "U Toulavé pípy",
