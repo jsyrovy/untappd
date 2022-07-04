@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1175946695,
+      "dt": "2022-07-03T18:13:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "This Is Madcat IPA",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-this-is-madcat-ipa/4904045"
+    },
+    {
+      "id": 1175932512,
+      "dt": "2022-07-03T17:35:01+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Léto 2022",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2022/4891053"
+    },
+    {
       "id": 1175684247,
       "dt": "2022-07-03T00:12:44+02:00",
       "venue_name": "U Toulavé pípy",
