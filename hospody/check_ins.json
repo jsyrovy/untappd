@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1176348588,
+      "dt": "2022-07-04T19:24:32+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Goséčko Černý Rybíz 11%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-gosecko-cerny-rybiz-11/4898772"
+    },
+    {
+      "id": 1176344886,
+      "dt": "2022-07-04T19:14:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "This Is Madcat IPA",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-this-is-madcat-ipa/4904045"
+    },
+    {
       "id": 1175946695,
       "dt": "2022-07-03T18:13:07+02:00",
       "venue_name": "U Toulavé pípy",
