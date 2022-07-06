@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1176697620,
+      "dt": "2022-07-05T22:37:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1176648469,
+      "dt": "2022-07-05T20:12:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tropical Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-tropical-sour/4176308"
+    },
+    {
       "id": 1176348588,
       "dt": "2022-07-04T19:24:32+02:00",
       "venue_name": "U Toulavé pípy",
