@@ -5,6 +5,10 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "10° Kurant",
+      "description": "Browar Dukla, Dukla, Polsko, Session NE IPA s černým rybízem"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,20 +21,16 @@
       "description": "piv. Valášek, Vsetín, ochucený ležák"
     },
     {
-      "name": "12° Relaxed",
-      "description": "piv. Antoš, Slaný, APA"
-    },
-    {
-      "name": "12° Sour Passion Fruit",
-      "description": "piv. Zichovec, Fruit Sour Ale"
-    },
-    {
       "name": "15° Nest in West",
       "description": "Haksna Brewery, Ostrava, West Coast IPA"
     },
     {
       "name": "18° Delirium Red",
       "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Fruit Strong Ale, 0,25l"
+    },
+    {
+      "name": "8° Trudi",
+      "description": "piv. Clock, Potštejn, Pale Ale"
     }
   ]
 }
