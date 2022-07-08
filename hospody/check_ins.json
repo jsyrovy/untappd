@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1177226097,
+      "dt": "2022-07-07T23:48:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1177224964,
+      "dt": "2022-07-07T23:45:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurant",
+      "brewery": "Browar Dukla",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dukla-kurant/2680691"
+    },
+    {
+      "id": 1177140542,
+      "dt": "2022-07-07T20:27:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Borůvkový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-boruvkovy-lezak-12/470004"
+    },
+    {
+      "id": 1177115767,
+      "dt": "2022-07-07T19:24:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurant",
+      "brewery": "Browar Dukla",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dukla-kurant/2680691"
+    },
+    {
+      "id": 1177110967,
+      "dt": "2022-07-07T19:10:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/1120043"
+    },
+    {
+      "id": 1177105413,
+      "dt": "2022-07-07T18:54:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurant",
+      "brewery": "Browar Dukla",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dukla-kurant/2680691"
+    },
+    {
+      "id": 1177095041,
+      "dt": "2022-07-07T18:20:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1177085064,
+      "dt": "2022-07-07T17:39:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Red",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-red/33040"
+    },
+    {
+      "id": 1176938784,
+      "dt": "2022-07-06T23:11:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lookin' Pine",
+      "brewery": "Haksna Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/haksna-brewery-lookin-pine/4908038"
+    },
+    {
       "id": 1176931627,
       "dt": "2022-07-06T22:49:36+02:00",
       "venue_name": "Pivní ambasáda",
@@ -8,6 +89,15 @@
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-clock-trudi/1120043"
+    },
+    {
+      "id": 1176895335,
+      "dt": "2022-07-06T21:11:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fog Or Smog 16° NEIPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/haksna-brewery-fog-or-smog-160-neipa/4895646"
     },
     {
       "id": 1176889984,
