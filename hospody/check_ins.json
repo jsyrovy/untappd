@@ -1,6 +1,168 @@
 {
   "check_ins": [
     {
+      "id": 1177647574,
+      "dt": "2022-07-09T00:03:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Go Sour Nelson!",
+      "brewery": "Raduga",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/raduga-go-sour-nelson/4474222"
+    },
+    {
+      "id": 1177645539,
+      "dt": "2022-07-09T00:00:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Very Berry Choco Cake",
+      "brewery": "Raduga",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/raduga-very-berry-choco-cake/4474223"
+    },
+    {
+      "id": 1177548080,
+      "dt": "2022-07-08T21:40:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bohemia Hop",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-bohemia-hop/4891545"
+    },
+    {
+      "id": 1177542393,
+      "dt": "2022-07-08T21:33:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurant",
+      "brewery": "Browar Dukla",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dukla-kurant/2680691"
+    },
+    {
+      "id": 1177542273,
+      "dt": "2022-07-08T21:33:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurant",
+      "brewery": "Browar Dukla",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dukla-kurant/2680691"
+    },
+    {
+      "id": 1177541762,
+      "dt": "2022-07-08T21:32:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1177541082,
+      "dt": "2022-07-08T21:31:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1177487476,
+      "dt": "2022-07-08T20:15:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Go Sour Nelson!",
+      "brewery": "Raduga",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/raduga-go-sour-nelson/4474222"
+    },
+    {
+      "id": 1177470426,
+      "dt": "2022-07-08T19:48:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Very Berry Choco Cake",
+      "brewery": "Raduga",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/raduga-very-berry-choco-cake/4474223"
+    },
+    {
+      "id": 1177452421,
+      "dt": "2022-07-08T19:17:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Go Sour Nelson!",
+      "brewery": "Raduga",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/raduga-go-sour-nelson/4474222"
+    },
+    {
+      "id": 1177450374,
+      "dt": "2022-07-08T19:13:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurant",
+      "brewery": "Browar Dukla",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-dukla-kurant/2680691"
+    },
+    {
+      "id": 1177437822,
+      "dt": "2022-07-08T18:49:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Very Berry Choco Cake",
+      "brewery": "Raduga",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/raduga-very-berry-choco-cake/4474223"
+    },
+    {
+      "id": 1177417353,
+      "dt": "2022-07-08T18:05:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Slash",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-slash/4323502"
+    },
+    {
+      "id": 1177403684,
+      "dt": "2022-07-08T17:28:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1177400783,
+      "dt": "2022-07-08T17:19:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Borůvkový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-boruvkovy-lezak-12/470004"
+    },
+    {
+      "id": 1177393296,
+      "dt": "2022-07-08T16:54:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/1120043"
+    },
+    {
+      "id": 1177384886,
+      "dt": "2022-07-08T16:18:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nest In West 15° West Coast IPA",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-nest-in-west-150-west-coast-ipa/4886873"
+    },
+    {
+      "id": 1177380646,
+      "dt": "2022-07-08T15:56:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř světlý ležák 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-svetly-lezak-11/609306"
+    },
+    {
       "id": 1177226097,
       "dt": "2022-07-07T23:48:06+02:00",
       "venue_name": "Pivní ambasáda",
