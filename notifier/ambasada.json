@@ -5,12 +5,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "10° Kurant",
-      "description": "Browar Dukla, Dukla, Polsko, Session NE IPA s černým rybízem"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Acidum Fructus",
+      "description": "Browar Lancut, Lancut, Polsko, Cherry-pineapple Sour Ale"
     },
     {
       "name": "12° Borůvková",
@@ -21,16 +21,16 @@
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
+      "name": "13° ART#12",
+      "description": "piv. Clock, Potštejn, Session DDH IPA"
+    },
+    {
       "name": "14° Bohemia Hop",
       "description": "piv. Nomád, Děčín, Czech IPA"
     },
     {
-      "name": "18° Delirium Red",
-      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Fruit Strong Ale, 0,25l"
-    },
-    {
-      "name": "8° Trudi",
-      "description": "piv. Clock, Potštejn, Pale Ale"
+      "name": "19° PUSH IT!",
+      "description": "piv. Nepomucen, Szkaradowo, Polsko, DDH HAZY DIPA"
     }
   ]
 }
