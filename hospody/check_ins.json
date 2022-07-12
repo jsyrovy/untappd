@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1178908580,
+      "dt": "2022-07-11T21:02:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Magnificent Three: Push It!",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-magnificent-three-push-it/4468139"
+    },
+    {
+      "id": 1178898112,
+      "dt": "2022-07-11T20:28:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bohemia Hop",
+      "brewery": "Pivovar Nomád",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-bohemia-hop/4891545"
+    },
+    {
+      "id": 1178891416,
+      "dt": "2022-07-11T20:06:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Acidum Fructus",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-acidum-fructus/4733554"
+    },
+    {
+      "id": 1178889054,
+      "dt": "2022-07-11T19:58:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ART # 12 13° Session DDH IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-art-12-130-session-ddh-ipa/4914511"
+    },
+    {
+      "id": 1178874464,
+      "dt": "2022-07-11T19:05:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/1120043"
+    },
+    {
       "id": 1178559570,
       "dt": "2022-07-10T19:01:00+02:00",
       "venue_name": "Pivní ambasáda",
