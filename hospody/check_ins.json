@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1179134495,
+      "dt": "2022-07-12T21:04:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Magnificent Three: Push It!",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-magnificent-three-push-it/4468139"
+    },
+    {
+      "id": 1179129347,
+      "dt": "2022-07-12T20:50:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bzučoun Summer Ale SABRO 10%",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-bzucoun-summer-ale-sabro-10/3914139"
+    },
+    {
+      "id": 1179128160,
+      "dt": "2022-07-12T20:46:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Magnificent Three: Push It!",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-magnificent-three-push-it/4468139"
+    },
+    {
+      "id": 1179109962,
+      "dt": "2022-07-12T19:54:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gang IPA 14",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-gang-ipa-14/3681525"
+    },
+    {
+      "id": 1179109049,
+      "dt": "2022-07-12T19:52:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Acidum Fructus",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-acidum-fructus/4733554"
+    },
+    {
       "id": 1178908580,
       "dt": "2022-07-11T21:02:08+02:00",
       "venue_name": "Pivní ambasáda",
@@ -16,6 +61,15 @@
       "beer_name": "Bohemia Hop",
       "brewery": "Pivovar Nomád",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-bohemia-hop/4891545"
+    },
+    {
+      "id": 1178898112,
+      "dt": "2022-07-11T20:28:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bohemia Hop",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-nomad-bohemia-hop/4891545"
     },
     {
