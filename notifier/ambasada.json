@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Bzučoun",
+      "description": "piv. Mordýř, Dolní Ředice, Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,12 +21,12 @@
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "13° ART#12",
-      "description": "piv. Clock, Potštejn, Session DDH IPA"
+      "name": "14° Gang",
+      "description": "piv. Agent, Olešnice, IPA"
     },
     {
-      "name": "14° Bohemia Hop",
-      "description": "piv. Nomád, Děčín, Czech IPA"
+      "name": "14° Lazy Cat",
+      "description": "piv. Mordýř, Dolní Ředice, Žitná IPA"
     },
     {
       "name": "19° PUSH IT!",
