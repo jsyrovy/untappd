@@ -1,6 +1,141 @@
 {
   "check_ins": [
     {
+      "id": 1180792236,
+      "dt": "2022-07-17T00:33:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mole Stole My Bananas",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-mole-stole-my-bananas/4921119"
+    },
+    {
+      "id": 1180758454,
+      "dt": "2022-07-16T23:47:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Gotta Be Something",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-it-s-gotta-be-something/4901788"
+    },
+    {
+      "id": 1180755070,
+      "dt": "2022-07-16T23:43:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babiččina Zahrádka",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-babiccina-zahradka/4929602"
+    },
+    {
+      "id": 1180750075,
+      "dt": "2022-07-16T23:37:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Magnificent Three: Push It!",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-magnificent-three-push-it/4468139"
+    },
+    {
+      "id": 1180664437,
+      "dt": "2022-07-16T22:01:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babiččina Zahrádka",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-babiccina-zahradka/4929602"
+    },
+    {
+      "id": 1180658786,
+      "dt": "2022-07-16T21:55:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1180655772,
+      "dt": "2022-07-16T21:52:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "1162 Rauchfestbier",
+      "brewery": "Brauerei Hummel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-hummel-1162-rauchfestbier/205476"
+    },
+    {
+      "id": 1180644972,
+      "dt": "2022-07-16T21:41:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "11 Ležák",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-11-lezak/4088691"
+    },
+    {
+      "id": 1180641366,
+      "dt": "2022-07-16T21:37:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pískař",
+      "brewery": "Pivovar Nomád",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-piskar/4448914"
+    },
+    {
+      "id": 1180463861,
+      "dt": "2022-07-16T17:58:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mocnář 13°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar-130/4303745"
+    },
+    {
+      "id": 1180446274,
+      "dt": "2022-07-16T17:24:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Acidum Fructus",
+      "brewery": "Browar Łańcut",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/browar-lancut-acidum-fructus/4733554"
+    },
+    {
+      "id": 1180428601,
+      "dt": "2022-07-16T16:43:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Africa Ale 9",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-africa-ale-9/2704505"
+    },
+    {
+      "id": 1180396885,
+      "dt": "2022-07-16T15:09:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Goséčko Černý Rybíz 11%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-gosecko-cerny-rybiz-11/4898772"
+    },
+    {
+      "id": 1180396357,
+      "dt": "2022-07-16T15:07:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Blackcurrant & Vanilla Smoothie 15°",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-blackcurrant-and-vanilla-smoothie-150/4914526"
+    },
+    {
+      "id": 1180396254,
+      "dt": "2022-07-16T15:07:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Black Currant",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-black-currant/4726835"
+    },
+    {
       "id": 1180086056,
       "dt": "2022-07-15T22:01:17+02:00",
       "venue_name": "U Toulavé pípy",
