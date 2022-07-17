@@ -1,12 +1,20 @@
 {
   "beers": [
     {
+      "name": "10° 300 Kurven",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "10° Babičina Zahrádka",
+      "description": "Crazy Clown + Luhačovice, Session Pastry Sour s jahodama, malinama, borůvkama a černým rybízem"
+    },
+    {
       "name": "11° Ležák",
       "description": "piv. Tvarg, Velká Bystřice, světlý ležák"
     },
     {
-      "name": "12° Acidum Fructus",
-      "description": "Browar Lancut, Lancut, Polsko, Cherry-pineapple Sour Ale"
+      "name": "11° The Weirdo",
+      "description": "piv. Crazy Clown, DDH Hazy Session IPA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -17,20 +25,12 @@
       "description": "piv. Hummel, Merkendorf, Bavorsko, Rauchbier"
     },
     {
-      "name": "14° Gang",
-      "description": "piv. Agent, Olešnice, IPA"
+      "name": "17° I Vista My NEIPA",
+      "description": "piv. Sibeeria, Praha, NEIPA"
     },
     {
       "name": "19° PUSH IT!",
       "description": "piv. Nepomucen, Szkaradowo, Polsko, DDH HAZY DIPA"
-    },
-    {
-      "name": "9° Africa Ale",
-      "description": "piv. Bad Flash, Praha, Ale"
-    },
-    {
-      "name": "9° Pískař",
-      "description": "piv. Nomád, Děčín, světlý ležák"
     }
   ]
 }
