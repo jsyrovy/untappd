@@ -1,6 +1,105 @@
 {
   "check_ins": [
     {
+      "id": 1182007159,
+      "dt": "2022-07-20T23:37:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pinzga' Weizen",
+      "brewery": "Pinzgau Bräu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pinzgau-brau-pinzga-weizen/1169788"
+    },
+    {
+      "id": 1182004227,
+      "dt": "2022-07-20T23:29:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Vista My NEIPA",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-vista-my-neipa/4902171"
+    },
+    {
+      "id": 1182001633,
+      "dt": "2022-07-20T23:21:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babiččina Zahrádka",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-babiccina-zahradka/4929602"
+    },
+    {
+      "id": 1181921908,
+      "dt": "2022-07-20T20:10:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunshine",
+      "brewery": "Pivovar Matuška",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-sunshine/4685934"
+    },
+    {
+      "id": 1181917825,
+      "dt": "2022-07-20T20:00:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Vista My NEIPA",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-vista-my-neipa/4902171"
+    },
+    {
+      "id": 1181903979,
+      "dt": "2022-07-20T19:23:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pinzga' Weizen",
+      "brewery": "Pinzgau Bräu",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pinzgau-brau-pinzga-weizen/1169788"
+    },
+    {
+      "id": 1181890780,
+      "dt": "2022-07-20T18:46:37+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Lemon Iced Tea",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-lemon-iced-tea/3346262"
+    },
+    {
+      "id": 1181871416,
+      "dt": "2022-07-20T17:39:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babiččina Zahrádka",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-babiccina-zahradka/4929602"
+    },
+    {
+      "id": 1181871307,
+      "dt": "2022-07-20T17:39:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pinzga' Weizen",
+      "brewery": "Pinzgau Bräu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pinzgau-brau-pinzga-weizen/1169788"
+    },
+    {
+      "id": 1181868104,
+      "dt": "2022-07-20T17:25:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Black Currant",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-black-currant/4726835"
+    },
+    {
+      "id": 1181828683,
+      "dt": "2022-07-20T11:22:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babiččina Zahrádka",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-babiccina-zahradka/4929602"
+    },
+    {
       "id": 1181725727,
       "dt": "2022-07-19T23:29:22+02:00",
       "venue_name": "Pivní ambasáda",
