@@ -5,32 +5,32 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "10° Babiččina Zahrádka",
-      "description": "Crazy Clown + Luhačovice, Session Pastry Sour s jahodama, malinama, borůvkama a černým rybízem"
-    },
-    {
-      "name": "11° Jonas",
-      "description": "piv. Nomád, Děčín, Kveik Ale"
+      "name": "11° Bez Abbey",
+      "description": "piv. Nomád, Děčín, Bezový Abbey Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "11° Summer Ale",
+      "description": "piv. Obora, Malšice, American Blond Ale"
+    },
+    {
       "name": "12° Medový ležák",
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+    },
+    {
+      "name": "12° Mongozo Mango",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Mango Ale, 0,2l"
     },
     {
       "name": "12° Weizen",
       "description": "Pinzgau Brau, Salzburg, Rakousko, Weizen"
     },
     {
-      "name": "17° I Vista My NEIPA",
-      "description": "piv. Sibeeria, Praha, NEIPA"
-    },
-    {
-      "name": "19° PUSH IT!",
-      "description": "piv. Nepomucen, Szkaradowo, Polsko, DDH HAZY DIPA"
+      "name": "15° Neon",
+      "description": "piv. Volt, Jablonec nad Nisou, NEIPA"
     }
   ]
 }
