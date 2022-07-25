@@ -9,14 +9,6 @@
       "description": "piv. Nomád, Děčín, Bezový Abbey Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° Summer Ale",
-      "description": "piv. Obora, Malšice, American Blond Ale"
-    },
-    {
       "name": "12° Borůvkový ležák",
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
@@ -31,6 +23,10 @@
     {
       "name": "15° Neon",
       "description": "piv. Volt, Jablonec nad Nisou, NEIPA"
+    },
+    {
+      "name": "9° Take it Easy",
+      "description": "Haksna Brewery, Ostrava, Session Brut IPA"
     }
   ]
 }
