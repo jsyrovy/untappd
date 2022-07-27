@@ -45,7 +45,6 @@ def run() -> None:
         User('Dan', 'mencik2', '#43aa8b', []),
         User('Matěj', 'Mates511', '#90be6d', []),
         User('Ondra', 'ominar', '#f9c74f', []),
-        User('Dominik', 'dominik_beran_23', '#f8961e', []),
     )
 
     local, _ = utils.get_run_args()
