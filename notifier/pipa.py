@@ -12,6 +12,12 @@ from notifier.base import Offer, Beer
 class PipaBeer(Beer):
     dt: datetime = datetime.now()
 
+    def __hash__(self) -> int:
+        return hash(str(self))
+
+    def __eq__(self, other) -> bool:
+        return self.name == other.name and self.description == other.description
+
     @staticmethod
     def from_json(json_: dict[str, str]) -> 'PipaBeer':
         return PipaBeer(
