@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1184301707,
+      "dt": "2022-07-26T22:01:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bird of Prey",
+      "brewery": "Sudden Death Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sudden-death-brewing-co-bird-of-prey/4918532"
+    },
+    {
+      "id": 1184301404,
+      "dt": "2022-07-26T22:00:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Saison s bezem",
+      "brewery": "Chomout",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/chomout-saison-s-bezem/3312660"
+    },
+    {
+      "id": 1184271380,
+      "dt": "2022-07-26T20:47:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Amigo",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-amigo/4927619"
+    },
+    {
+      "id": 1184257703,
+      "dt": "2022-07-26T20:10:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PEACH SOUR NEIPA 5.1%",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-peach-sour-neipa-5-1/4941921"
+    },
+    {
+      "id": 1184216366,
+      "dt": "2022-07-26T17:59:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Crossing Borders",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-crossing-borders/3966366"
+    },
+    {
+      "id": 1184209213,
+      "dt": "2022-07-26T17:27:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Take It Easy",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-take-it-easy/4922798"
+    },
+    {
+      "id": 1184204079,
+      "dt": "2022-07-26T16:59:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lazy Cat",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-lazy-cat/689687"
+    },
+    {
+      "id": 1184197054,
+      "dt": "2022-07-26T16:13:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Crossing Borders",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-crossing-borders/3966366"
+    },
+    {
       "id": 1184044777,
       "dt": "2022-07-25T21:25:16+02:00",
       "venue_name": "Pivní ambasáda",
