@@ -14,6 +14,12 @@ import utils
 STATS_PATH = 'pivni_valka/stats.csv'
 
 
+class Period:
+    DAY: int = 1
+    WEEK: int = 7
+    MONTH: int = 30
+
+
 @dataclass
 class User:
     name: str
@@ -22,21 +28,35 @@ class User:
     chart_data: list[int]
     unique_beers_count: int = 0
     has_crown: bool = False
+    days_in_chart: int = 0
 
     @property
-    def diff(self) -> int:
-        try:
-            return self.chart_data[-1] - self.chart_data[-2]
-        except IndexError:
-            return 0
+    def formatted_diff_day(self) -> str:
+        return self._get_formatted_diff(Period.DAY)
 
     @property
-    def formatted_diff(self) -> str:
-        return f'+{self.diff}' if self.diff > 0 else str(self.diff)
+    def formatted_diff_week(self) -> str:
+        return self._get_formatted_diff(Period.WEEK)
+
+    @property
+    def formatted_diff_month(self) -> str:
+        return self._get_formatted_diff(Period.MONTH)
 
     @property
     def url(self) -> str:
         return f'{utils.BASE_URL}/user/{self.profile}'
+
+    def get_chart_data(self) -> list[int]:
+        return self.chart_data[-self.days_in_chart:] if self.days_in_chart else self.chart_data
+
+    def get_diff(self, period: int) -> int:
+        try:
+            return self.chart_data[-1] - self.chart_data[-1 - period]
+        except IndexError:
+            return 0
+
+    def _get_formatted_diff(self, period: int) -> str:
+        return f'+{self.get_diff(period)}' if self.get_diff(period) > 0 else str(self.get_diff(period))
 
 
 def run() -> None:
@@ -94,7 +114,7 @@ def run() -> None:
 
     local, tweetless = utils.get_run_args()
 
-    if not local and not tweetless and sum([user.diff for user in users]) > 0:
+    if not local and not tweetless and sum([user.get_diff(Period.DAY) for user in users]) > 0:
         twitter_client = utils.twitter.Client()
         status = get_tweet_status(users)
 
@@ -129,12 +149,13 @@ def parse_unique_beers_count(user_profile: str) -> int:
     return int(unique_beers_count.replace(',', ''))
 
 
-def get_stats(users: tuple[User, ...], days: Optional[int] = None) -> list[str]:
+def get_stats(users: tuple[User, ...], days: int = 0) -> list[str]:
     data = OrderedDict()
     chart_labels = []
 
     for user in users:
         user.chart_data.clear()
+        user.days_in_chart = days
 
     with open(STATS_PATH, 'r', encoding=utils.ENCODING) as f:
         for line in f.readlines()[1:]:
@@ -156,9 +177,6 @@ def get_stats(users: tuple[User, ...], days: Optional[int] = None) -> list[str]:
     if not days:
         return chart_labels
 
-    for user in users:
-        user.chart_data = user.chart_data[-days:]
-
     return chart_labels[-days:]
 
 
@@ -178,10 +196,10 @@ def save_stats(users: tuple[User, ...]) -> None:
 
 
 def get_tweet_status(users: tuple[User, ...]) -> str:
-    if sum(user.diff for user in users) == 0:
+    if sum(user.get_diff(Period.DAY) for user in users) == 0:
         return ''
 
-    values = [f'{user.name} včera vypil {user.diff} 🍺.' for user in users if user.diff]
+    values = [f'{user.name} včera vypil {user.get_diff(Period.DAY)} 🍺.' for user in users if user.get_diff(Period.DAY)]
     values.extend(f'{user.name} má celkem {user.unique_beers_count} 🍺.' for user in users)
 
     return ' '.join(values)

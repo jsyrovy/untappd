@@ -103,7 +103,11 @@
         <a href="{{ user.url }}">
             <div class="item-count" style="grid-area: item-{{ user.profile }}; background: {{ user.color }};">
                 <span class="count">{{ user.unique_beers_count }}</span>
-                <span class="diff">{{ user.formatted_diff }}</span>
+                <div>
+                    <span class="diff" title="Včera">{{ user.formatted_diff_day }}</span>
+                    <span class="diff" title="Poslední týden">{{ user.formatted_diff_week }}</span>
+                    <span class="diff" title="Poslední měsíc">{{ user.formatted_diff_month }}</span>
+                </div>
                 <div class="name">{{ user.name }} {% if user.has_crown %}👑{% endif %}</div>
             </div>
         </a>
@@ -133,7 +137,7 @@
                 {% for user in users %}
                 {
                     label: '{{ user.name }}',
-                    data: {{ user.chart_data | safe }},
+                    data: {{ user.get_chart_data() | safe }},
                     borderColor: '{{ user.color }}',
                     backgroundColor: '{{ user.color }}'
                 },
