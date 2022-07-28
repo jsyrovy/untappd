@@ -30,15 +30,15 @@
 
         .container {
             display: grid;
-            grid-template-columns: 250px 250px 250px 250px 250px ;
+            grid-template-columns: 250px 250px 250px 250px ;
             grid-template-rows: auto;
             grid-template-areas:
                 
-                "item-sejrik item-mencik2 item-Mates511 item-ominar item-dominik_beran_23"
+                "item-sejrik item-mencik2 item-Mates511 item-ominar"
                 
-                "item-chart item-chart item-chart item-chart item-chart"
+                "item-chart item-chart item-chart item-chart"
                 
-                "item-twitter item-twitter item-twitter item-twitter item-twitter"
+                "item-twitter item-twitter item-twitter item-twitter"
                 
         }
 
@@ -87,8 +87,6 @@
                     
                     "item-ominar"
                     
-                    "item-dominik_beran_23"
-                    
                     "item-chart"
                     
                     "item-twitter"
@@ -118,8 +116,12 @@
         
         <a href="https://untappd.com/user/sejrik">
             <div class="item-count" style="grid-area: item-sejrik; background: #577590;">
-                <span class="count">476</span>
-                <span class="diff">0</span>
+                <span class="count">477</span>
+                <div>
+                    <span class="diff" title="Včera">+1</span>
+                    <span class="diff" title="Poslední týden">+11</span>
+                    <span class="diff" title="Poslední měsíc">+27</span>
+                </div>
                 <div class="name">Jirka 👑</div>
             </div>
         </a>
@@ -127,15 +129,23 @@
         <a href="https://untappd.com/user/mencik2">
             <div class="item-count" style="grid-area: item-mencik2; background: #43aa8b;">
                 <span class="count">401</span>
-                <span class="diff">0</span>
+                <div>
+                    <span class="diff" title="Včera">0</span>
+                    <span class="diff" title="Poslední týden">+10</span>
+                    <span class="diff" title="Poslední měsíc">+21</span>
+                </div>
                 <div class="name">Dan </div>
             </div>
         </a>
         
         <a href="https://untappd.com/user/Mates511">
             <div class="item-count" style="grid-area: item-Mates511; background: #90be6d;">
-                <span class="count">164</span>
-                <span class="diff">+1</span>
+                <span class="count">172</span>
+                <div>
+                    <span class="diff" title="Včera">+8</span>
+                    <span class="diff" title="Poslední týden">+19</span>
+                    <span class="diff" title="Poslední měsíc">+50</span>
+                </div>
                 <div class="name">Matěj </div>
             </div>
         </a>
@@ -143,16 +153,12 @@
         <a href="https://untappd.com/user/ominar">
             <div class="item-count" style="grid-area: item-ominar; background: #f9c74f;">
                 <span class="count">58</span>
-                <span class="diff">0</span>
+                <div>
+                    <span class="diff" title="Včera">0</span>
+                    <span class="diff" title="Poslední týden">+2</span>
+                    <span class="diff" title="Poslední měsíc">+2</span>
+                </div>
                 <div class="name">Ondra </div>
-            </div>
-        </a>
-        
-        <a href="https://untappd.com/user/dominik_beran_23">
-            <div class="item-count" style="grid-area: item-dominik_beran_23; background: #f8961e;">
-                <span class="count">3</span>
-                <span class="diff">0</span>
-                <div class="name">Dominik </div>
             </div>
         </a>
         
@@ -176,42 +182,35 @@
     const chart = new Chart(ctx, {
         type: 'line',
         data: {
-            labels: ['2022-07-14', '2022-07-15', '2022-07-16', '2022-07-17', '2022-07-18', '2022-07-19', '2022-07-20', '2022-07-21', '2022-07-22', '2022-07-23', '2022-07-24', '2022-07-25', '2022-07-26', '2022-07-27'],
+            labels: ['2022-07-15', '2022-07-16', '2022-07-17', '2022-07-18', '2022-07-19', '2022-07-20', '2022-07-21', '2022-07-22', '2022-07-23', '2022-07-24', '2022-07-25', '2022-07-26', '2022-07-27', '2022-07-28'],
             datasets: [
                 
                 {
                     label: 'Jirka',
-                    data: [461, 462, 462, 462, 465, 465, 465, 466, 466, 466, 475, 475, 476, 476],
+                    data: [462, 462, 462, 465, 465, 465, 466, 466, 466, 475, 475, 476, 476, 477],
                     borderColor: '#577590',
                     backgroundColor: '#577590'
                 },
                 
                 {
                     label: 'Dan',
-                    data: [387, 387, 387, 388, 389, 389, 389, 391, 391, 391, 398, 399, 401, 401],
+                    data: [387, 387, 388, 389, 389, 389, 391, 391, 391, 398, 399, 401, 401, 401],
                     borderColor: '#43aa8b',
                     backgroundColor: '#43aa8b'
                 },
                 
                 {
                     label: 'Matěj',
-                    data: [147, 147, 147, 148, 153, 153, 153, 153, 154, 154, 158, 162, 163, 164],
+                    data: [147, 147, 148, 153, 153, 153, 153, 154, 154, 158, 162, 163, 164, 172],
                     borderColor: '#90be6d',
                     backgroundColor: '#90be6d'
                 },
                 
                 {
                     label: 'Ondra',
-                    data: [56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 58, 58],
+                    data: [56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56, 58, 58, 58],
                     borderColor: '#f9c74f',
                     backgroundColor: '#f9c74f'
-                },
-                
-                {
-                    label: 'Dominik',
-                    data: [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
-                    borderColor: '#f8961e',
-                    backgroundColor: '#f8961e'
                 },
                 
             ]
