@@ -1,6 +1,177 @@
 {
   "check_ins": [
     {
+      "id": 1184579299,
+      "dt": "2022-07-27T22:07:50+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "PEACH SOUR NEIPA 5.1%",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-peach-sour-neipa-5-1/4941921"
+    },
+    {
+      "id": 1184576642,
+      "dt": "2022-07-27T22:01:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Poděbradský zdroj 14° LGB IPA",
+      "brewery": "Poděbradský pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/podebradsky-pivovar-podebradsky-zdroj-14-lgb-ipa/2870993"
+    },
+    {
+      "id": 1184572333,
+      "dt": "2022-07-27T21:51:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Take It Easy",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-take-it-easy/4922798"
+    },
+    {
+      "id": 1184571913,
+      "dt": "2022-07-27T21:50:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lola",
+      "brewery": "Brauhaus Bevog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauhaus-bevog-lola/4318482"
+    },
+    {
+      "id": 1184571027,
+      "dt": "2022-07-27T21:48:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1184568548,
+      "dt": "2022-07-27T21:43:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lola",
+      "brewery": "Brauhaus Bevog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauhaus-bevog-lola/4318482"
+    },
+    {
+      "id": 1184567666,
+      "dt": "2022-07-27T21:41:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Take It Easy",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-take-it-easy/4922798"
+    },
+    {
+      "id": 1184566942,
+      "dt": "2022-07-27T21:39:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lola",
+      "brewery": "Brauhaus Bevog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauhaus-bevog-lola/4318482"
+    },
+    {
+      "id": 1184552280,
+      "dt": "2022-07-27T21:06:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Mango",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-mango/52228"
+    },
+    {
+      "id": 1184550743,
+      "dt": "2022-07-27T21:02:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lola",
+      "brewery": "Brauhaus Bevog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauhaus-bevog-lola/4318482"
+    },
+    {
+      "id": 1184539007,
+      "dt": "2022-07-27T20:35:45+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Amigo",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-amigo/4927619"
+    },
+    {
+      "id": 1184538900,
+      "dt": "2022-07-27T20:35:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "PEACH SOUR NEIPA 5.1%",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-peach-sour-neipa-5-1/4941921"
+    },
+    {
+      "id": 1184538626,
+      "dt": "2022-07-27T20:34:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Mango",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-mango/52228"
+    },
+    {
+      "id": 1184517972,
+      "dt": "2022-07-27T19:43:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lola",
+      "brewery": "Brauhaus Bevog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauhaus-bevog-lola/4318482"
+    },
+    {
+      "id": 1184481274,
+      "dt": "2022-07-27T17:53:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1184480616,
+      "dt": "2022-07-27T17:51:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Take It Easy",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-take-it-easy/4922798"
+    },
+    {
+      "id": 1184471071,
+      "dt": "2022-07-27T17:09:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Mango",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-mango/52228"
+    },
+    {
+      "id": 1184470824,
+      "dt": "2022-07-27T17:07:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Take It Easy",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-take-it-easy/4922798"
+    },
+    {
+      "id": 1184465278,
+      "dt": "2022-07-27T16:36:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bez Abbey",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-bez-abbey/4936674"
+    },
+    {
       "id": 1184301707,
       "dt": "2022-07-26T22:01:09+02:00",
       "venue_name": "U Toulavé pípy",
@@ -53,6 +224,15 @@
       "brewery": "Haksna Brewery",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/haksna-brewery-take-it-easy/4922798"
+    },
+    {
+      "id": 1184204982,
+      "dt": "2022-07-26T17:05:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bez Abbey",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-bez-abbey/4936674"
     },
     {
       "id": 1184204079,
