@@ -9,28 +9,32 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "11° POLIŠ",
+      "description": "piv. Mazák, Dolní Bojanovice, Pale Ale"
+    },
+    {
       "name": "12° Borůvkový ležák",
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
-      "name": "12° Mongozo Mango",
-      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Mango Ale, 0,2l"
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° Weissbier",
-      "description": "piv. Aldersbacher, Aldersbach, Dolní Bavorsko, German Hefeweizen"
+      "name": "14° Jaipur",
+      "description": "piv. Thornbridge, Bakewell, IPA"
     },
     {
-      "name": "14° Lazy Cat",
-      "description": "piv. Mordýř, Dolní Ředice, Žitná IPA"
-    },
-    {
-      "name": "9° Take it Easy",
-      "description": "Haksna Brewery, Ostrava, Session Brut IPA"
+      "name": "14° LucIPA",
+      "description": "piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "LOLA  (3,5% alc.)",
       "description": "piv. Bevog, Bad Radkersburg, Rakousko, Double Fruited Raspberries and Blackcurrant Ale, 0,3l"
+    },
+    {
+      "name": "Pátek 29.7. od 20:30",
+      "description": "..."
     }
   ]
 }
