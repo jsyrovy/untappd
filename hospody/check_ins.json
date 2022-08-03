@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1186914515,
+      "dt": "2022-08-02T18:55:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Raspberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-raspberry-berliner-weisse/1696685"
+    },
+    {
+      "id": 1186909483,
+      "dt": "2022-08-02T18:38:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Raspberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-raspberry-berliner-weisse/1696685"
+    },
+    {
+      "id": 1186904461,
+      "dt": "2022-08-02T18:21:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Basecamp APA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-basecamp-apa/4917602"
+    },
+    {
+      "id": 1186904340,
+      "dt": "2022-08-02T18:20:56+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Basecamp APA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-basecamp-apa/4917602"
+    },
+    {
+      "id": 1186886972,
+      "dt": "2022-08-02T17:03:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jaipur",
+      "brewery": "Thornbridge Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/thornbridge-brewery-jaipur/7705"
+    },
+    {
+      "id": 1186880390,
+      "dt": "2022-08-02T16:21:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Basecamp APA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-basecamp-apa/4917602"
+    },
+    {
       "id": 1186743600,
       "dt": "2022-08-01T22:11:27+02:00",
       "venue_name": "U Toulavé pípy",
@@ -8,6 +62,15 @@
       "brewery": "Pivovar Mazák",
       "serving": "Lahvové",
       "beer_link": "https://untappd.com/b/pivovar-mazak-15-sabro-neipa/4951776"
+    },
+    {
+      "id": 1186721793,
+      "dt": "2022-08-01T21:10:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fiškus",
+      "brewery": "Pivovar Beerserker",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-beerserker-fiskus/4367516"
     },
     {
       "id": 1186702715,
