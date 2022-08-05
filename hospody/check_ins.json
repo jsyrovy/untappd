@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1187664679,
+      "dt": "2022-08-05T01:20:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour Ale (Višňový Kyseláč)",
+      "brewery": "Tvarg ",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/tvarg-sour-ale-visnovy-kyselac/4919699"
+    },
+    {
+      "id": 1187480518,
+      "dt": "2022-08-04T18:43:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ich bin ein Berliner",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-ich-bin-ein-berliner/2982457"
+    },
+    {
       "id": 1187296366,
       "dt": "2022-08-03T23:34:05+02:00",
       "venue_name": "U Toulavé pípy",
