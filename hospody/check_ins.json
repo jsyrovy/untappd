@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1187908979,
+      "dt": "2022-08-05T19:56:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Ale 11°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-summer-ale-11/2146925"
+    },
+    {
+      "id": 1187908131,
+      "dt": "2022-08-05T19:54:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lollihop/1911036"
+    },
+    {
+      "id": 1187825640,
+      "dt": "2022-08-05T17:20:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stella",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-stella/3916311"
+    },
+    {
+      "id": 1187806530,
+      "dt": "2022-08-05T16:16:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rising Sun",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-rising-sun/4835758"
+    },
+    {
       "id": 1187664679,
       "dt": "2022-08-05T01:20:08+02:00",
       "venue_name": "U Toulavé pípy",
