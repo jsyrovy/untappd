@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1188392621,
+      "dt": "2022-08-06T17:40:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Žitohola 11",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-zitohola-11/1884404"
+    },
+    {
+      "id": 1188388268,
+      "dt": "2022-08-06T17:33:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Citra",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-citra/2191517"
+    },
+    {
       "id": 1187908979,
       "dt": "2022-08-05T19:56:18+02:00",
       "venue_name": "U Toulavé pípy",
