@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1189027732,
+      "dt": "2022-08-07T19:22:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lollihop/1911036"
+    },
+    {
+      "id": 1188958577,
+      "dt": "2022-08-07T16:37:56+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summit IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summit-ipa/4947958"
+    },
+    {
       "id": 1188392621,
       "dt": "2022-08-06T17:40:52+02:00",
       "venue_name": "U Toulavé pípy",
