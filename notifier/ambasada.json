@@ -9,16 +9,8 @@
       "description": "piv. Clock, Potštejn, Raspberry Berliner Weisse"
     },
     {
-      "name": "11° Herbal Ale",
-      "description": "piv. Four Elements, Praha, Herbal Ale"
-    },
-    {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° Borůvková",
-      "description": "piv. Valášek, Vsetín, ochucený ležák"
+      "name": "11° Ginger",
+      "description": "piv. Malešov, zázvorový ležák"
     },
     {
       "name": "12° Líný Čert",
@@ -29,8 +21,16 @@
       "description": "Crazy Clown, Session NEIPA"
     },
     {
+      "name": "13° Brundibár",
+      "description": "piv. Mordýř, Dolní Ředice, IPL"
+    },
+    {
       "name": "18° Kasteel Rouge",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "9° Diplomat",
+      "description": "piv. Ovipistán, Ledce, Summer Ale"
     }
   ]
 }
