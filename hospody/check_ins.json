@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1190581159,
+      "dt": "2022-08-12T21:08:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydské hořké",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydske-horke/361652"
+    },
+    {
+      "id": 1190521625,
+      "dt": "2022-08-12T19:45:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ležák zázvor 11",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-lezak-zazvor-11/3281843"
+    },
+    {
+      "id": 1190165494,
+      "dt": "2022-08-11T21:02:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Whore of Babylon Summer",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-whore-of-babylon-summer/3867708"
+    },
+    {
+      "id": 1190126165,
+      "dt": "2022-08-11T19:36:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Whore of Babylon Summer",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-whore-of-babylon-summer/3867708"
+    },
+    {
+      "id": 1190115282,
+      "dt": "2022-08-11T19:09:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ležák zázvor 11",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-lezak-zazvor-11/3281843"
+    },
+    {
+      "id": 1190104978,
+      "dt": "2022-08-11T18:42:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nina – Raspberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-raspberry-berliner-weisse/1696685"
+    },
+    {
+      "id": 1190092609,
+      "dt": "2022-08-11T18:05:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ležák zázvor 11",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-lezak-zazvor-11/3281843"
+    },
+    {
       "id": 1189870060,
       "dt": "2022-08-10T21:03:21+02:00",
       "venue_name": "Pivní ambasáda",
