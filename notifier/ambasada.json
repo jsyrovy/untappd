@@ -9,12 +9,16 @@
       "description": "piv. Clock, Potštejn, Raspberry Berliner Weisse"
     },
     {
-      "name": "11° Ginger",
-      "description": "piv. Malešov, zázvorový ležák"
+      "name": "12° Borůvkový ležák",
+      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° Tvarg APA",
+      "description": "piv. Tvarg, Velká Bystřice, APA"
     },
     {
       "name": "13° Brundibár",
@@ -27,10 +31,6 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "9° Diplomat",
-      "description": "piv. Ovipistán, Ledce, Summer Ale"
     }
   ]
 }
