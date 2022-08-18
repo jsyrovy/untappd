@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1192504899,
+      "dt": "2022-08-18T01:01:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summery Watermelon",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-antos-summery-watermelon/4958056"
+    },
+    {
+      "id": 1192381446,
+      "dt": "2022-08-17T19:04:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-apa/4769280"
+    },
+    {
+      "id": 1192380137,
+      "dt": "2022-08-17T18:59:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nachmelený Grep",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-nachmeleny-grep/4965873"
+    },
+    {
+      "id": 1192364326,
+      "dt": "2022-08-17T17:59:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
+      "id": 1192346489,
+      "dt": "2022-08-17T16:01:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour - Maracuja And Mango",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-maracuja-and-mango/4939956"
+    },
+    {
       "id": 1192147866,
       "dt": "2022-08-16T18:51:37+02:00",
       "venue_name": "U Toulavé pípy",
