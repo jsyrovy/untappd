@@ -4,7 +4,6 @@ import pathlib
 import random
 from collections import OrderedDict
 from dataclasses import dataclass
-from typing import Optional
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -12,6 +11,7 @@ from bs4 import BeautifulSoup
 import utils
 
 STATS_PATH = 'pivni_valka/stats.csv'
+DAILY_STATS_PATH = 'pivni_valka/daily_stats.csv'
 
 
 class Period:
@@ -72,13 +72,13 @@ def run() -> None:
     set_crown(users)
     save_stats(users)
     chart_labels = get_stats(users, days=14)
+    save_daily_stats(users)
     page = get_page(
         utils.get_template('pivni-valka.html'),
         users=users,
         chart_labels=chart_labels,
         grid_template_areas=get_grid_template_areas(users),
         mobile_grid_template_areas=get_mobile_grid_template_areas(users),
-
     )
 
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
@@ -187,6 +187,17 @@ def get_page(template: jinja2.Template, **kwargs) -> str:
 def save_stats(users: tuple[User, ...]) -> None:
     path = pathlib.Path(STATS_PATH)
     lines = [f'{datetime.date.today()},{",".join([str(user.unique_beers_count) for user in users])}\n']
+
+    if not path.exists():
+        lines.insert(0, f'date,{",".join([str(user.profile) for user in users])}\n')
+
+    with path.open('a', encoding=utils.ENCODING) as f:
+        f.writelines(lines)
+
+
+def save_daily_stats(users: tuple[User, ...]) -> None:
+    path = pathlib.Path(DAILY_STATS_PATH)
+    lines = [f'{datetime.date.today()},{",".join([str(user.get_diff(Period.DAY)) for user in users])}\n']
 
     if not path.exists():
         lines.insert(0, f'date,{",".join([str(user.profile) for user in users])}\n')
