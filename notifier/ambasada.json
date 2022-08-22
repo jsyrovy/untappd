@@ -9,16 +9,16 @@
       "description": "piv. Nomád, Děčín, Limetkový Sour Mexican Lager"
     },
     {
+      "name": "11° Final Cuntdown Rakau",
+      "description": "piv. Crazy Clown, Single Hop Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
-      "name": "12° Nachmelený Grep",
-      "description": "piv. Nomád, Děčín, Grepová Session IPA"
     },
     {
       "name": "13° Anna Fest Bier",
@@ -31,10 +31,6 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "20.8. Otevřeno 16:00-19:30",
-      "description": "omluva a díky za letní pochopení :)"
     }
   ]
 }
