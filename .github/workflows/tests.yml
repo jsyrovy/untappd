@@ -2,7 +2,7 @@ name: Tests
 on: push
 jobs:
   pytest:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out
         uses: actions/checkout@v2
@@ -17,7 +17,7 @@ jobs:
       - name: Test hospody
         run: make test-hospody
   mypy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out
         uses: actions/checkout@v2
@@ -30,7 +30,7 @@ jobs:
       - name: Test
         run: make mypy
   smoke:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out
         uses: actions/checkout@v2
