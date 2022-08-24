@@ -5,6 +5,10 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "10° Sametová",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Dos Bandidos",
       "description": "piv. Nomád, Děčín, Limetkový Sour Mexican Lager"
     },
@@ -13,20 +17,16 @@
       "description": "piv. Crazy Clown, Single Hop Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "13° Raucherla Marzen",
-      "description": "piv. Hummel, Merkendorf, Bavorsko, Marzen Rauchbier"
+      "name": "13° No Idols! IPL",
+      "description": "piv. Clock, Potštejn, India Pale Lager"
     },
     {
-      "name": "15° IPA",
-      "description": "piv. Obora, Malšice, IPA"
+      "name": "14° Hops in Mind",
+      "description": "Haksna Brewery, Ostrava, DDH IPA"
     },
     {
       "name": "18° Kasteel Rouge",
