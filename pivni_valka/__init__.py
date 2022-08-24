@@ -9,9 +9,7 @@ import jinja2
 from bs4 import BeautifulSoup
 
 import utils
-
-STATS_PATH = 'pivni_valka/stats.csv'
-DAILY_STATS_PATH = 'pivni_valka/daily_stats.csv'
+from pivni_valka import stats
 
 
 class Period:
@@ -73,6 +71,7 @@ def run() -> None:
     save_stats(users)
     chart_labels = get_stats(users, days=14)
     save_daily_stats(users)
+    stats.create_db_from_csv()
     page = get_page(
         utils.get_template('pivni-valka.html'),
         users=users,
@@ -157,7 +156,7 @@ def get_stats(users: tuple[User, ...], days: int = 0) -> list[str]:
         user.chart_data.clear()
         user.days_in_chart = days
 
-    with open(STATS_PATH, 'r', encoding=utils.ENCODING) as f:
+    with open(stats.CSV_PATH, 'r', encoding=utils.ENCODING) as f:
         for line in f.readlines()[1:]:
             date = line.split(',')[0]
             values = line.split(',')[1:]
@@ -185,7 +184,7 @@ def get_page(template: jinja2.Template, **kwargs) -> str:
 
 
 def save_stats(users: tuple[User, ...]) -> None:
-    path = pathlib.Path(STATS_PATH)
+    path = pathlib.Path(stats.CSV_PATH)
     lines = [f'{datetime.date.today()},{",".join([str(user.unique_beers_count) for user in users])}\n']
 
     if not path.exists():
@@ -196,7 +195,7 @@ def save_stats(users: tuple[User, ...]) -> None:
 
 
 def save_daily_stats(users: tuple[User, ...]) -> None:
-    path = pathlib.Path(DAILY_STATS_PATH)
+    path = pathlib.Path(stats.DAILY_STATS_PATH)
     yesterday = datetime.date.today() - datetime.timedelta(days=1)
     lines = [f'{yesterday},{",".join([str(user.get_diff(Period.DAY)) for user in users])}\n']
 
