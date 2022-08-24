@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1194650265,
+      "dt": "2022-08-24T01:39:34+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pursuit of Pearfection",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-pursuit-of-pearfection/4935234"
+    },
+    {
+      "id": 1194507346,
+      "dt": "2022-08-23T15:56:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Shark Attack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-shark-attack/4963617"
+    },
+    {
+      "id": 1194505190,
+      "dt": "2022-08-23T15:32:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ale NE",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ale-ne/3852611"
+    },
+    {
       "id": 1194341815,
       "dt": "2022-08-22T19:00:16+02:00",
       "venue_name": "Pivní ambasáda",
@@ -17,6 +44,24 @@
       "brewery": "Brauerei Hummel",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/brauerei-hummel-raucherla/20169"
+    },
+    {
+      "id": 1194337354,
+      "dt": "2022-08-22T18:40:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "3 Horses",
+      "brewery": "United Dutch Breweries",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/united-dutch-breweries-3-horses/12871"
+    },
+    {
+      "id": 1194324069,
+      "dt": "2022-08-22T17:19:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown: Rakau",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-rakau/4974704"
     },
     {
       "id": 1194320529,
