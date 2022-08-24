@@ -197,7 +197,8 @@ def save_stats(users: tuple[User, ...]) -> None:
 
 def save_daily_stats(users: tuple[User, ...]) -> None:
     path = pathlib.Path(DAILY_STATS_PATH)
-    lines = [f'{datetime.date.today()},{",".join([str(user.get_diff(Period.DAY)) for user in users])}\n']
+    yesterday = datetime.date.today() - datetime.timedelta(days=1)
+    lines = [f'{yesterday},{",".join([str(user.get_diff(Period.DAY)) for user in users])}\n']
 
     if not path.exists():
         lines.insert(0, f'date,{",".join([str(user.profile) for user in users])}\n')
