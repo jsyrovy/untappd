@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1195021611,
+      "dt": "2022-08-25T19:34:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Leon",
+      "brewery": "Raduga",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/raduga-leon/3393749"
+    },
+    {
+      "id": 1195018039,
+      "dt": "2022-08-25T19:24:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves (cherry & Banana)",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
+    },
+    {
+      "id": 1195011814,
+      "dt": "2022-08-25T19:07:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jordi's 12th Anniversary",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-jordi-s-12th-anniversary/4981407"
+    },
+    {
+      "id": 1195009733,
+      "dt": "2022-08-25T19:01:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Veni Vedi Topaz",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vedi-topaz/4971748"
+    },
+    {
+      "id": 1195002584,
+      "dt": "2022-08-25T18:38:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Veni Vedi Topaz",
+      "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vedi-topaz/4971748"
+    },
+    {
+      "id": 1194989241,
+      "dt": "2022-08-25T17:49:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jordi's 12th Anniversary",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-jordi-s-12th-anniversary/4981407"
+    },
+    {
       "id": 1194777906,
       "dt": "2022-08-24T20:09:33+02:00",
       "venue_name": "U Toulavé pípy",
