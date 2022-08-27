@@ -5,12 +5,20 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "11° Final Cuntdown Rakau",
-      "description": "piv. Crazy Clown, Single Hop Ale"
+      "name": "10° Mongozo Cocount",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Cocount Ale, 0,2l"
     },
     {
       "name": "11° Moves",
       "description": "piv. Agent, Olešnice, Pastry Sour Ale (višně a banány)"
+    },
+    {
+      "name": "11° Počerňák",
+      "description": "piv. Počerňák, Horní Počernice, Praha, světlý ležák"
+    },
+    {
+      "name": "11° Summer",
+      "description": "Nevinný fest summer ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -21,16 +29,8 @@
       "description": "piv. Mordýř, Dolní Ředice, IPL"
     },
     {
-      "name": "13° No Idols! IPL",
-      "description": "piv. Clock, Potštejn, India Pale Lager"
-    },
-    {
       "name": "14° Hops in Mind",
       "description": "Haksna Brewery, Ostrava, DDH IPA"
-    },
-    {
-      "name": "14° Leon",
-      "description": "piv. Raduga, Varšava, Hazy IPA"
     }
   ]
 }
