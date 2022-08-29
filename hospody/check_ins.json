@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1196437585,
+      "dt": "2022-08-28T19:06:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hops in mind?",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-hops-in-mind/4957256"
+    },
+    {
+      "id": 1196434426,
+      "dt": "2022-08-28T18:59:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEvinné PIVO",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-nevinne-pivo/4990967"
+    },
+    {
+      "id": 1196173294,
+      "dt": "2022-08-28T00:51:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blessed Beaver",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-blessed-beaver/4983941"
+    },
+    {
       "id": 1195994102,
       "dt": "2022-08-27T21:13:41+02:00",
       "venue_name": "Pivní ambasáda",
@@ -73,6 +100,15 @@
       "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
     },
     {
+      "id": 1195018039,
+      "dt": "2022-08-25T19:24:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves (Cherry & Banana)",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
+    },
+    {
       "id": 1195011814,
       "dt": "2022-08-25T19:07:16+02:00",
       "venue_name": "U Toulavé pípy",
@@ -136,10 +172,28 @@
       "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
     },
     {
+      "id": 1194758149,
+      "dt": "2022-08-24T19:06:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves (Cherry & Banana)",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
+    },
+    {
       "id": 1194756348,
       "dt": "2022-08-24T19:00:07+02:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Moves (cherry & Banana)",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
+    },
+    {
+      "id": 1194756348,
+      "dt": "2022-08-24T19:00:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves (Cherry & Banana)",
       "brewery": "Pivovar Agent",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
