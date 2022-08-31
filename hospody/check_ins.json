@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1196889212,
+      "dt": "2022-08-30T18:02:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Atlantis",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-atlantis/4983956"
+    },
+    {
+      "id": 1196876371,
+      "dt": "2022-08-30T16:16:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Coconut",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-coconut/30042"
+    },
+    {
+      "id": 1196874669,
+      "dt": "2022-08-30T15:55:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEvinné PIVO",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-nevinne-pivo/4990967"
+    },
+    {
       "id": 1196735612,
       "dt": "2022-08-29T20:01:22+02:00",
       "venue_name": "U Toulavé pípy",
