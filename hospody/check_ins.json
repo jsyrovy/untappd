@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1197180810,
+      "dt": "2022-08-31T23:40:00+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Samurai Chicken",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-samurai-chicken/4970421"
+    },
+    {
+      "id": 1197178253,
+      "dt": "2022-08-31T23:30:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pursuit of Pearfection",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-pursuit-of-pearfection/4935234"
+    },
+    {
+      "id": 1197089905,
+      "dt": "2022-08-31T18:26:00+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Samurai Chicken",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-samurai-chicken/4970421"
+    },
+    {
+      "id": 1197089666,
+      "dt": "2022-08-31T18:24:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pursuit of Pearfection",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-pursuit-of-pearfection/4935234"
+    },
+    {
+      "id": 1197075027,
+      "dt": "2022-08-31T16:54:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Atlantis",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-atlantis/4983956"
+    },
+    {
       "id": 1196889212,
       "dt": "2022-08-30T18:02:17+02:00",
       "venue_name": "Pivní ambasáda",
