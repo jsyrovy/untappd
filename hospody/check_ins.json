@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1197367304,
+      "dt": "2022-09-01T20:59:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves (Cherry & Banana)",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
+    },
+    {
+      "id": 1197355101,
+      "dt": "2022-09-01T20:26:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Atlantis",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-atlantis/4983956"
+    },
+    {
+      "id": 1197346042,
+      "dt": "2022-09-01T20:00:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
+      "id": 1197342926,
+      "dt": "2022-09-01T19:51:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Atlantis",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-atlantis/4983956"
+    },
+    {
+      "id": 1197341643,
+      "dt": "2022-09-01T19:47:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BLOND ALE",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-blond-ale/4983833"
+    },
+    {
+      "id": 1197329359,
+      "dt": "2022-09-01T19:08:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "KLAN HOSAKAWA 13°IPL",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-klan-hosakawa-130ipl/4775573"
+    },
+    {
       "id": 1197180810,
       "dt": "2022-08-31T23:40:00+02:00",
       "venue_name": "U Toulavé pípy",
