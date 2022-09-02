@@ -71,7 +71,8 @@ def run() -> None:
     save_stats(users)
     chart_labels = get_stats(users, days=14)
     save_daily_stats(users)
-    stats.create_db_from_csv()
+    save_daily_stats_db(users)
+    utils.db.dump()
     page = get_page(
         utils.get_template('pivni-valka.html'),
         users=users,
@@ -204,6 +205,13 @@ def save_daily_stats(users: tuple[User, ...]) -> None:
 
     with path.open('a', encoding=utils.ENCODING) as f:
         f.writelines(lines)
+
+
+def save_daily_stats_db(users: tuple[User, ...]) -> None:
+    yesterday = datetime.date.today() - datetime.timedelta(days=1)
+
+    for user in users:
+        stats.save_daily_stats(yesterday, user.profile, user.get_diff(Period.DAY))
 
 
 def get_tweet_status(users: tuple[User, ...]) -> str:
