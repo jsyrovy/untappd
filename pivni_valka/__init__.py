@@ -72,6 +72,7 @@ def run() -> None:
     chart_labels = get_stats(users, days=14)
     save_daily_stats(users)
     stats.create_db_from_csv()
+    stats.dump()
     page = get_page(
         utils.get_template('pivni-valka.html'),
         users=users,

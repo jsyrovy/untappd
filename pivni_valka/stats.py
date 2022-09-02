@@ -9,6 +9,7 @@ import utils
 CSV_PATH = 'pivni_valka/stats.csv'
 DAILY_STATS_PATH = 'pivni_valka/daily_stats.csv'
 DB_PATH = 'pivni_valka/stats.sqlite'
+DUMP_PATH = 'pivni_valka/stats.sql'
 
 TABLE = 'daily_stats'
 
@@ -70,3 +71,11 @@ def get_maxima(cur: sqlite3.Cursor, users: list[str]) -> dict[str, dict[str, tup
         stats[user] = user_stats
 
     return stats
+
+
+def dump() -> None:
+    con = sqlite3.connect(DB_PATH)
+
+    with open(DUMP_PATH, 'w', encoding=utils.ENCODING) as f:
+        for line in con.iterdump():
+            f.write(f'{line}\n')
