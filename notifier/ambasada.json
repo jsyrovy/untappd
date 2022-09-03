@@ -9,10 +9,6 @@
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Cocount Ale, 0,25l"
     },
     {
-      "name": "11° Blond Ale",
-      "description": "piv. Rampušák, Dobruška, Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -29,8 +25,12 @@
       "description": "piv. Crazy Clown, Ibiškový Saison"
     },
     {
-      "name": "17° Atlantis",
-      "description": "piv. Sibeeria, Praha, New England IPA"
+      "name": "17° Date with the Godess",
+      "description": "piv. Antoš, Slaný, Single Hop NEIPA \"Strata\""
+    },
+    {
+      "name": "9° Pale Ale",
+      "description": "piv. Malešov, Pale Ale"
     }
   ]
 }
