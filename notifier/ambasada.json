@@ -1,20 +1,20 @@
 {
   "beers": [
     {
-      "name": "10° 300 Kurven",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
       "name": "10° Mongozo Cocount",
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Cocount Ale, 0,25l"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Akumulátor",
       "description": "piv. Volt, Jablonec nad Nisou, Weizen"
+    },
+    {
+      "name": "12° Líný Čert",
+      "description": "piv. Mordýř, Dolní Ředice, tmavý ležák"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° Klan Hosokawa",
