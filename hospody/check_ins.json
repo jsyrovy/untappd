@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1198753281,
+      "dt": "2022-09-04T20:39:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pink Nibbana",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pink-nibbana/1539094"
+    },
+    {
+      "id": 1198680429,
+      "dt": "2022-09-04T18:23:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
       "id": 1198262428,
       "dt": "2022-09-03T21:21:02+02:00",
       "venue_name": "U Toulavé pípy",
