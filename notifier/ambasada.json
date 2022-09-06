@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Mongozo Cocount",
-      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Cocount Ale, 0,25l"
+      "name": "10° Bzučoun",
+      "description": "piv. Mordýř, Dolní Ředice, Ale"
     },
     {
-      "name": "12° Akumulátor",
-      "description": "piv. Volt, Jablonec nad Nisou, Weizen"
+      "name": "12° Hefeweissbier",
+      "description": "piv. Rittmayer, Hallerndorf, Horní Franky, German Hefeweizen"
     },
     {
       "name": "12° Líný Čert",
@@ -29,8 +29,8 @@
       "description": "piv. Antoš, Slaný, Single Hop NEIPA \"Strata\""
     },
     {
-      "name": "9° Pale Ale",
-      "description": "piv. Malešov, Pale Ale"
+      "name": "22° Gulden Draak 9000",
+      "description": "piv. Van Steenberge, Ertvelde, Východní Flandry, Quadrupel, 0,25l"
     }
   ]
 }
