@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1199070660,
+      "dt": "2022-09-05T19:47:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pink Nibbana",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pink-nibbana/1539094"
+    },
+    {
+      "id": 1199063746,
+      "dt": "2022-09-05T19:27:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "KLAN HOSAKAWA 13°IPL",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-klan-hosakawa-130ipl/4775573"
+    },
+    {
       "id": 1198753281,
       "dt": "2022-09-04T20:39:20+02:00",
       "venue_name": "Pivní ambasáda",
