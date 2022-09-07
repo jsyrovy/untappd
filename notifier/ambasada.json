@@ -5,6 +5,10 @@
       "description": "piv. Mordýř, Dolní Ředice, Ale"
     },
     {
+      "name": "11° Sunburn",
+      "description": "piv. Albrecht, Frýdlant, Polotmavý IPL"
+    },
+    {
       "name": "12° Hefeweissbier",
       "description": "piv. Rittmayer, Hallerndorf, Horní Franky, German Hefeweizen"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Klan Hosokawa",
-      "description": "piv. Agent, Olešnice, IPL"
     },
     {
       "name": "13° Nibbana",
