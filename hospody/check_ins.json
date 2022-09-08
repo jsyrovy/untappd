@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1199556618,
+      "dt": "2022-09-07T23:36:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Divoký balón Sweet Cherry",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-divoky-balon-sweet-cherry/4417646"
+    },
+    {
+      "id": 1199540659,
+      "dt": "2022-09-07T22:35:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Agent I Am Stylish Girl",
+      "brewery": "Pivovar Agent",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-agent-agent-i-am-stylish-girl/5010839"
+    },
+    {
+      "id": 1199535808,
+      "dt": "2022-09-07T22:18:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hazy Little Thing Session Edition/Little Thing IPA",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sierra-nevada-brewing-co-hazy-little-thing-session-edition-little-thing-ipa/3695663"
+    },
+    {
+      "id": 1199498775,
+      "dt": "2022-09-07T20:20:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Albrecht IPL 11 Sunburn",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-albrecht-ipl-11-sunburn/4904128"
+    },
+    {
+      "id": 1199498178,
+      "dt": "2022-09-07T20:18:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Divoký balón Sweet Cherry",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-divoky-balon-sweet-cherry/4417646"
+    },
+    {
+      "id": 1199470555,
+      "dt": "2022-09-07T18:37:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Albrecht IPL 11 Sunburn",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-albrecht-ipl-11-sunburn/4904128"
+    },
+    {
       "id": 1199070660,
       "dt": "2022-09-05T19:47:45+02:00",
       "venue_name": "Pivní ambasáda",
@@ -17,6 +71,15 @@
       "brewery": "Pivovar Agent",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-agent-klan-hosakawa-130ipl/4775573"
+    },
+    {
+      "id": 1199036930,
+      "dt": "2022-09-05T17:43:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Antoš Date With the Goddess",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-antos-date-with-the-goddess/4889368"
     },
     {
       "id": 1198753281,
