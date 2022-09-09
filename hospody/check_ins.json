@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1199678682,
+      "dt": "2022-09-08T17:46:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gulden Draak 9000 Quadruple",
+      "brewery": "Brouwerij Van Steenberge",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-van-steenberge-gulden-draak-9000-quadruple/96597"
+    },
+    {
+      "id": 1199673699,
+      "dt": "2022-09-08T17:17:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Divoký balón Sweet Cherry",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-divoky-balon-sweet-cherry/4417646"
+    },
+    {
       "id": 1199556618,
       "dt": "2022-09-07T23:36:25+02:00",
       "venue_name": "Pivní ambasáda",
