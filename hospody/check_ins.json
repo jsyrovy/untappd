@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1201131489,
+      "dt": "2022-09-11T20:50:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gulden Draak Classic",
+      "brewery": "Brouwerij Van Steenberge",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-van-steenberge-gulden-draak-classic/6758"
+    },
+    {
+      "id": 1201120106,
+      "dt": "2022-09-11T20:29:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.iV. APA.",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-aliance-p-iv-apa/5013332"
+    },
+    {
+      "id": 1201108312,
+      "dt": "2022-09-11T20:07:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny Ale",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-sunny-ale/4371763"
+    },
+    {
+      "id": 1201093159,
+      "dt": "2022-09-11T19:38:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Albrecht 12 Kateřina",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-albrecht-12-katerina/982645"
+    },
+    {
+      "id": 1201074570,
+      "dt": "2022-09-11T19:02:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
       "id": 1200823812,
       "dt": "2022-09-11T00:46:43+02:00",
       "venue_name": "U Toulavé pípy",
