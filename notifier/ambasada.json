@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Petr ALE",
-      "description": "piv. JungBerg, Hořice, ALE"
-    },
-    {
       "name": "10° Sour Ale",
       "description": "piv. Klenot, HK, Papaya Ananas Sour Ale"
     },
     {
-      "name": "11° Dobrušská",
-      "description": "piv. Rampušák, Dobruška, světlý ležák"
+      "name": "10° Sunny Ale",
+      "description": "piv. Antoš, Slaný, APA"
+    },
+    {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Kateřina",
