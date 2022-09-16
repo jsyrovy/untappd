@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "11° Premiér",
       "description": "piv. Ovipistán, Ledce, světlý ležák"
     },
     {
-      "name": "12° Kateřina",
-      "description": "piv. Albrecht, Frýdlant, tmavý ležák"
+      "name": "12° Atašé",
+      "description": "piv. Ovipistán, Ledce, IPL"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° President",
+      "description": "piv. Ovipistán, Ledce, světlý ležák"
     },
     {
-      "name": "12° SHA Eclipse",
-      "description": "piv. MadCat, Kamenice, Single Hop Ale"
+      "name": "12° Senátor",
+      "description": "piv. Ovipistán, Ledce, nakuřovaný žitný ležák"
     },
     {
-      "name": "13° Alianční",
-      "description": "piv. Clock/Aliance P.I.V., American Pale Ale"
+      "name": "12° Vyslanec",
+      "description": "piv. Ovipistán, Ledce, American Pale Ale"
     },
     {
-      "name": "13° Orange IPA",
-      "description": "piv. Mordýř, Dolní Ředice, Pomerančová IPA"
+      "name": "14° První Dáma",
+      "description": "piv. Ovipistán, Ledce, tmavý ležák"
+    },
+    {
+      "name": "15° Tajemník",
+      "description": "piv. Ovipistán, Ledce, polotmavý Marzen"
     },
     {
       "name": "22° Gulden Draak 9000",
