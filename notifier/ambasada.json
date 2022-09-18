@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Premiér",
-      "description": "piv. Ovipistán, Ledce, světlý ležák"
-    },
-    {
       "name": "12° Atašé",
       "description": "piv. Ovipistán, Ledce, IPL"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° President",
