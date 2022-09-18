@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1202763678,
+      "dt": "2022-09-17T19:44:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Imperátor Imperial Pilsner",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-imperator-imperial-pilsner/4234598"
+    },
+    {
+      "id": 1202737150,
+      "dt": "2022-09-17T19:11:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tajemník",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-tajemnik/3959160"
+    },
+    {
+      "id": 1202717680,
+      "dt": "2022-09-17T18:45:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Atašé",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-atase/3843317"
+    },
+    {
       "id": 1202295467,
       "dt": "2022-09-16T21:14:51+02:00",
       "venue_name": "Pivní ambasáda",
@@ -6445,6 +6472,15 @@
       "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
     },
     {
+      "id": 1165656416,
+      "dt": "2022-06-04T20:31:10+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Bohemian Poetry 13",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
+    },
+    {
       "id": 1165584175,
       "dt": "2022-06-04T19:06:40+02:00",
       "venue_name": "U Toulavé pípy",
@@ -6904,6 +6940,15 @@
       "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
     },
     {
+      "id": 1165055740,
+      "dt": "2022-06-03T19:32:57+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Bohemian Poetry 13",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
+    },
+    {
       "id": 1165055583,
       "dt": "2022-06-03T19:32:38+02:00",
       "venue_name": "Loď Otava",
@@ -6918,6 +6963,15 @@
       "venue_name": "Loď Otava",
       "beer_name": "Bohemian Poetry 13",
       "brewery": "Rodinný Pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
+    },
+    {
+      "id": 1165053316,
+      "dt": "2022-06-03T19:28:41+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Bohemian Poetry 13",
+      "brewery": "Rodinný pivovar Zichovec",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bohemian-poetry-13/4859909"
     },
