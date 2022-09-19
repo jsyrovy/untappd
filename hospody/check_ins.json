@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1203311119,
+      "dt": "2022-09-18T20:22:32+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Golden Touch",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-golden-touch/4983950"
+    },
+    {
+      "id": 1203310760,
+      "dt": "2022-09-18T20:21:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fruit Sour Ale",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-fruit-sour-ale/4972434"
+    },
+    {
       "id": 1202763678,
       "dt": "2022-09-17T19:44:09+02:00",
       "venue_name": "Pivní ambasáda",
