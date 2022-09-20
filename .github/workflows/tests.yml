@@ -42,14 +42,14 @@ jobs:
         run: make init
       - name: Test pivni-valka
         run: |
-          rm -f pivni_valka/index.html pivni_valka/chart_year.html pivni_valka/chart_all.html pivni_valka/stats.csv
+          rm -f pivni_valka/index.html pivni_valka/chart_year.html pivni_valka/chart_all.html data_dump.sql
           make run-pivni-valka-tweetless
           test -e pivni_valka/index.html
           test -e pivni_valka/chart_year.html
           test -e pivni_valka/chart_all.html
-          test -e pivni_valka/stats.csv
+          test -e data_dump.sql
           grep "Pivní válka" pivni_valka/index.html
-          grep "date,sejrik,mencik2,Mates511" pivni_valka/stats.csv
+          grep 'INSERT INTO "pivni_valka"' data_dump.sql
       - name: Test hospody
         run: |
           rm -f hospody/index.html hospody/check_ins.json

@@ -24,24 +24,24 @@
     const chart = new Chart(ctx, {
         type: 'line',
         data: {
-            labels: {{ chart_labels | safe }},
+            labels: {{ chart_data.labels | safe }},
             datasets: [
-                {% for user in users %}
+                {% for dataset in chart_data.datasets %}
                 {
-                    label: '{{ user.name }}',
-                    data: {{ user.get_chart_data() | safe }},
-                    borderColor: '{{ user.color }}',
-                    backgroundColor: '{{ user.color }}'
+                    label: '{{ dataset.label }}',
+                    data: {{ dataset.data | safe }},
+                    borderColor: '{{ dataset.color }}',
+                    backgroundColor: '{{ dataset.color }}',
                 },
                 {% endfor %}
-            ]
+            ],
         },
         options: {
             plugins: {
                 legend: {
                     display: false,
                 },
-            }
+            },
         },
     });
 </script>
