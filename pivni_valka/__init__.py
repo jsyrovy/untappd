@@ -1,7 +1,6 @@
 import datetime
 import logging
 import random
-from dataclasses import dataclass
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -10,36 +9,17 @@ import utils
 from pivni_valka import stats
 
 
-@dataclass
-class User:
-    name: str
-    profile: str
-    unique_beers_count: int = 0
-    drank: bool = False
-
-    @property
-    def url(self) -> str:
-        return f'{utils.BASE_URL}/user/{self.profile}'
-
-
 def run() -> None:
-    users = (
-        User('Jirka', 'sejrik'),
-        User('Dan', 'mencik2'),
-        User('Matěj', 'Mates511'),
-        User('Ondra', 'ominar'),
-    )
-
     local, tweetless = utils.get_run_args()
-    set_unique_beers_count(users, local)
-    save_daily_stats_db(users)
+    unique_beers_count = get_unique_beers_count(local)
+    users_with_new_beers = save_daily_stats_db(unique_beers_count)
     utils.db.dump()
     page = get_page(
         utils.get_template('pivni-valka.html'),
         tiles_data=stats.get_tiles_data(),
         chart_data=stats.get_chart_data(days=14),
-        grid_template_areas=get_grid_template_areas(users),
-        mobile_grid_template_areas=get_mobile_grid_template_areas(users),
+        grid_template_areas=get_grid_template_areas(),
+        mobile_grid_template_areas=get_mobile_grid_template_areas(),
     )
 
     with open('pivni_valka/index.html', 'w', encoding=utils.ENCODING) as f:
@@ -68,29 +48,31 @@ def run() -> None:
     with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_all)
 
-    if not local and not tweetless and any([user.drank for user in users]):
+    if not local and not tweetless and users_with_new_beers:
         twitter_client = utils.twitter.Client()
-        status = get_tweet_status(users)
+        status = get_tweet_status(users_with_new_beers)
 
         try:
             twitter_client.tweet(status)
         except utils.twitter.DuplicateTweetError:
             logging.warning(f'Tweet jiz existuje: {status}')
 
-    logging.info(users)
 
+def get_unique_beers_count(local: bool) -> dict[str, int]:
+    data = {}
 
-def set_unique_beers_count(users: tuple[User, ...], local: bool) -> None:
     if local:
         total_unique_beers = stats.get_total_unique_beers()
-        for user in users:
-            user.unique_beers_count = total_unique_beers[user.profile] + random.randint(0, 10)
-        return
+        for user_name in utils.user.USER_NAMES:
+            data[user_name] = total_unique_beers[user_name] + random.randint(0, 10)
+        return data
 
-    for user in users:
-        user_profile = utils.download_page(user.url)
-        user.unique_beers_count = parse_unique_beers_count(user_profile)
+    for user_name in utils.user.USER_NAMES:
+        user_profile = utils.download_page(utils.get_profile_url(user_name))
+        data[user_name] = parse_unique_beers_count(user_profile)
         utils.random_sleep()
+
+    return data
 
 
 def parse_unique_beers_count(user_profile: str) -> int:
@@ -108,30 +90,35 @@ def get_page(template: jinja2.Template, **kwargs) -> str:
     return template.render(**kwargs)
 
 
-def save_daily_stats_db(users: tuple[User, ...]) -> None:
+def save_daily_stats_db(unique_beers_count: dict[str, int]) -> list[str]:
+    users_with_new_beers = []
     yesterday = datetime.date.today() - datetime.timedelta(days=1)
 
-    for user in users:
-        new_beers = user.unique_beers_count - stats.get_unique_beers_before(user.profile, before=yesterday)
-        stats.save_daily_stats(yesterday, user.profile, new_beers)
-        user.drank = new_beers > 0
+    for user_name in utils.user.USER_NAMES:
+        new_beers = unique_beers_count[user_name] - stats.get_unique_beers_before(user_name, before=yesterday)
+        stats.save_daily_stats(yesterday, user_name, new_beers)
+        users_with_new_beers.append(user_name)
+
+    return users_with_new_beers
 
 
-def get_tweet_status(users: tuple[User, ...]) -> str:
-    if not any([user.drank for user in users]):
+def get_tweet_status(users_with_new_beers: list[str]) -> str:
+    if not users_with_new_beers:
         return ''
 
+    total_unique_beers = stats.get_total_unique_beers()
+
     values = [
-        f'{user.name} včera vypil {stats.get_unique_beers(user.profile, days=1)} 🍺.'
-        for user in users if stats.get_unique_beers(user.profile, days=1)
+        f'{user.name} včera vypil {stats.get_unique_beers(user.user_name, days=1)} 🍺.'
+        for user in utils.user.USERS if user.user_name in users_with_new_beers
     ]
-    values.extend(f'{user.name} má celkem {user.unique_beers_count} 🍺.' for user in users)
+    values.extend(f'{user_name} má celkem {total_unique_beers[user_name]} 🍺.' for user_name in utils.user.USER_NAMES)
 
     return ' '.join(values)
 
 
-def get_grid_template_areas(users: tuple[User, ...]) -> tuple[str, str, str]:
-    user_items = [f'item-{user.profile}' for user in users]
+def get_grid_template_areas() -> tuple[str, str, str]:
+    user_items = [f'item-{user_name}' for user_name in utils.user.USER_NAMES]
 
     return (
         f'"{" ".join([item for item in user_items])}"',
@@ -140,8 +127,8 @@ def get_grid_template_areas(users: tuple[User, ...]) -> tuple[str, str, str]:
     )
 
 
-def get_mobile_grid_template_areas(users: tuple[User, ...]) -> list[str]:
-    user_items = [f'"item-{user.profile}"' for user in users]
+def get_mobile_grid_template_areas() -> list[str]:
+    user_items = [f'"item-{user_name}"' for user_name in utils.user.USER_NAMES]
     user_items.extend(['"item-chart"', '"item-twitter"'])
 
     return user_items

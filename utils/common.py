@@ -50,3 +50,7 @@ def get_template(file: str, templates_paths: tuple[str, ...] = ('templates',)) -
 
 def random_sleep() -> None:
     time.sleep(random.randrange(5))
+
+
+def get_profile_url(user_name: str) -> str:
+    return f'{BASE_URL}/user/{user_name}'
