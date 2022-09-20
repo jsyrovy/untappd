@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1203538846,
+      "dt": "2022-09-19T18:17:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V.",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-aliance-p-i-v/5013332"
+    },
+    {
       "id": 1203311119,
       "dt": "2022-09-18T20:22:32+02:00",
       "venue_name": "U Toulavé pípy",
