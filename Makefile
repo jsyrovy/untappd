@@ -22,6 +22,8 @@ help:
 	@echo "  run tests"
 	@echo "make run-notifier"
 	@echo "  download current beer offer and send notification"
+	@echo "make run-notifier-tweetless"
+	@echo "  download current beer offer without notification"
 	@echo "make mypy-install-types"
 	@echo "  install mypy types"
 	@echo "make mypy"
@@ -54,6 +56,9 @@ test-hospody:
 
 run-notifier:
 	${PYTHON} run_notifier.py
+
+run-notifier-tweetless:
+	${PYTHON} run_notifier.py --tweetless
 
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .

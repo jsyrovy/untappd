@@ -23,7 +23,7 @@ LOD_NAME = 'Loď Otava'
 def get_run_args() -> tuple[bool, bool]:
     parser = argparse.ArgumentParser()
     parser.add_argument('--local', action='store_true', help="don't download data from website")
-    parser.add_argument('--tweetless', action='store_true', help="don't tweet")
+    parser.add_argument('--tweetless', action='store_true', help="don't tweet or send message")
     args = parser.parse_args()
     return args.local, args.tweetless
 

@@ -30,7 +30,7 @@ def run() -> None:
         User('Ondra', 'ominar'),
     )
 
-    local, _ = utils.get_run_args()
+    local, tweetless = utils.get_run_args()
     set_unique_beers_count(users, local)
     save_daily_stats_db(users)
     utils.db.dump()
@@ -67,8 +67,6 @@ def run() -> None:
 
     with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
         f.write(page_all)
-
-    local, tweetless = utils.get_run_args()
 
     if not local and not tweetless and any([user.drank for user in users]):
         twitter_client = utils.twitter.Client()

@@ -58,3 +58,9 @@ jobs:
           test -e hospody/check_ins.json
           grep "Hospody" hospody/index.html
           grep "id" hospody/check_ins.json
+      - name: Test notifier
+        run: |
+          rm -f notifier/ambasada.json
+          make run-notifier-tweetless
+          test -e notifier/ambasada.json
+          grep "name" notifier/ambasada.json
