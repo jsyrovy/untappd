@@ -97,7 +97,9 @@ def save_daily_stats_db(unique_beers_count: dict[str, int]) -> list[str]:
     for user_name in utils.user.USER_NAMES:
         new_beers = unique_beers_count[user_name] - stats.get_unique_beers_before(user_name, before=yesterday)
         stats.save_daily_stats(yesterday, user_name, new_beers)
-        users_with_new_beers.append(user_name)
+
+        if new_beers:
+            users_with_new_beers.append(user_name)
 
     return users_with_new_beers
 
@@ -112,7 +114,7 @@ def get_tweet_status(users_with_new_beers: list[str]) -> str:
         f'{user.name} včera vypil {stats.get_unique_beers(user.user_name, days=1)} 🍺.'
         for user in utils.user.USERS if user.user_name in users_with_new_beers
     ]
-    values.extend(f'{user_name} má celkem {total_unique_beers[user_name]} 🍺.' for user_name in utils.user.USER_NAMES)
+    values.extend(f'{user.name} má celkem {total_unique_beers[user.user_name]} 🍺.' for user in utils.user.USERS)
 
     return ' '.join(values)
 
