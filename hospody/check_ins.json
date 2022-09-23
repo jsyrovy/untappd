@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1204089231,
+      "dt": "2022-09-22T16:00:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "10 Years of Happiness",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-10-years-of-happiness/5011336"
+    },
+    {
+      "id": 1204088529,
+      "dt": "2022-09-22T15:53:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "IPA 14%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-ipa-14/1412620"
+    },
+    {
       "id": 1203897168,
       "dt": "2022-09-21T18:35:18+02:00",
       "venue_name": "U Toulavé pípy",
