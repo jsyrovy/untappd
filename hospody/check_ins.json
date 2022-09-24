@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1204616249,
+      "dt": "2022-09-23T23:54:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PROgnoza",
+      "brewery": "Antybrowar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/antybrowar-prognoza/1929086"
+    },
+    {
+      "id": 1204606847,
+      "dt": "2022-09-23T23:38:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V.",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-aliance-p-i-v/5013332"
+    },
+    {
+      "id": 1204378626,
+      "dt": "2022-09-23T16:51:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Farmer´s Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-obora-farmer-s-ale/5017883"
+    },
+    {
+      "id": 1204378136,
+      "dt": "2022-09-23T16:49:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tajemník",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-tajemnik/3959160"
+    },
+    {
+      "id": 1204377917,
+      "dt": "2022-09-23T16:48:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PROgnoza",
+      "brewery": "Antybrowar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/antybrowar-prognoza/1929086"
+    },
+    {
+      "id": 1204373093,
+      "dt": "2022-09-23T16:29:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Owl One",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-owl-one/4918089"
+    },
+    {
       "id": 1204089231,
       "dt": "2022-09-22T16:00:26+02:00",
       "venue_name": "U Toulavé pípy",
@@ -35,6 +89,15 @@
       "brewery": "Rodinný pivovar Zichovec",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-10-years-of-innovation/5011337"
+    },
+    {
+      "id": 1203888806,
+      "dt": "2022-09-21T17:50:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Farmer´s Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-farmer-s-ale/5017883"
     },
     {
       "id": 1203702229,
