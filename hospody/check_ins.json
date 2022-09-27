@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1205784791,
+      "dt": "2022-09-26T19:11:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical City",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-tropical-city/5013021"
+    },
+    {
+      "id": 1205784588,
+      "dt": "2022-09-26T19:10:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stark Bier 13",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-stark-bier-13/5021355"
+    },
+    {
+      "id": 1205784352,
+      "dt": "2022-09-26T19:09:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pumpkin Ale",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-pumpkin-ale/4567908"
+    },
+    {
+      "id": 1205780923,
+      "dt": "2022-09-26T18:49:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stark Bier 13",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-stark-bier-13/5021355"
+    },
+    {
+      "id": 1205780732,
+      "dt": "2022-09-26T18:48:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Erste Runde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-erste-runde/4998916"
+    },
+    {
       "id": 1205611528,
       "dt": "2022-09-25T21:58:27+02:00",
       "venue_name": "Pivní ambasáda",
