@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "12° Franziskaner",
+      "description": "piv. Spaten-Franziskaner-Brau, Mnichov, German Hefeweizen"
     },
     {
-      "name": "12° Erste Runde",
-      "description": "piv. Sibeeria, Praha, German Weissbier"
-    },
-    {
-      "name": "12° Mandlová",
-      "description": "piv. Valášek, Vsetín, ochucený ležák"
+      "name": "13,7° Augustiner Oktoberfestbier",
+      "description": "piv. Augustiner-Brau, Mnichov, Festbier Hell"
     },
     {
       "name": "13,7° Hacker-Pschorr",
       "description": "piv. Hacker-Pschorr, Mnichov, Marzen"
     },
     {
-      "name": "13° Alianční",
-      "description": "piv. Clock/Aliance P.I.V., American Pale Ale"
+      "name": "13,7° Hofbrau Festbier",
+      "description": "piv. Hofbrau, Mnichov, Festbier Hell"
+    },
+    {
+      "name": "13,7° Lowenbrau Oktoberfestbier",
+      "description": "piv. Lowenbrau, Mnichov, Festbier Hell"
+    },
+    {
+      "name": "13,7° Spaten Oktoberfestbier",
+      "description": "piv. Spaten-Franziskaner-Brau, Mnichov, Festbier Hell"
     },
     {
       "name": "13° Stark Bier",
       "description": "piv. JungBerg, Hořice, German Lager"
-    },
-    {
-      "name": "17° Tropical City",
-      "description": "piv. Haksna, Ostrava, Pastry Sour Ale"
     },
     {
       "name": "18° Bacchus Kriek",
