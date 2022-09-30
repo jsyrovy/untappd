@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1206423212,
+      "dt": "2022-09-29T23:07:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spaten Oktoberfestbier",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-oktoberfestbier/1722617"
+    },
+    {
+      "id": 1206313988,
+      "dt": "2022-09-29T16:43:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Paranal Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-paranal-sunset/5029662"
+    },
+    {
+      "id": 1206310894,
+      "dt": "2022-09-29T16:14:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
+    },
+    {
       "id": 1206284488,
       "dt": "2022-09-29T06:54:28+02:00",
       "venue_name": "Pivní ambasáda",
