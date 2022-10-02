@@ -1,6 +1,195 @@
 {
   "check_ins": [
     {
+      "id": 1207430406,
+      "dt": "2022-10-02T00:41:52+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Paranal Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-paranal-sunset/5029662"
+    },
+    {
+      "id": 1207359212,
+      "dt": "2022-10-01T23:07:12+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Paranal Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-paranal-sunset/5029662"
+    },
+    {
+      "id": 1207297134,
+      "dt": "2022-10-01T21:58:13+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Paranal Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-paranal-sunset/5029662"
+    },
+    {
+      "id": 1207198129,
+      "dt": "2022-10-01T20:14:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Märzen",
+      "brewery": "Hacker-Pschorr",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hacker-pschorr-oktoberfest-marzen/1827"
+    },
+    {
+      "id": 1207180745,
+      "dt": "2022-10-01T19:54:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hofbräu Oktoberfestbier (2022)",
+      "brewery": "Staatliches Hofbräuhaus München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-oktoberfestbier-2022/4946123"
+    },
+    {
+      "id": 1207179057,
+      "dt": "2022-10-01T19:52:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hofbräu Oktoberfestbier (2022)",
+      "brewery": "Staatliches Hofbräuhaus München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-oktoberfestbier-2022/4946123"
+    },
+    {
+      "id": 1207159790,
+      "dt": "2022-10-01T19:28:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Märzen",
+      "brewery": "Hacker-Pschorr",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hacker-pschorr-oktoberfest-marzen/1827"
+    },
+    {
+      "id": 1207157210,
+      "dt": "2022-10-01T19:24:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Franziskaner Premium Weissbier Naturtrüb (2022)",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-franziskaner-premium-weissbier-naturtrub-2022/4886075"
+    },
+    {
+      "id": 1207155959,
+      "dt": "2022-10-01T19:23:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spaten Oktoberfestbier (2022)",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-oktoberfestbier-2022/4892483"
+    },
+    {
+      "id": 1207153844,
+      "dt": "2022-10-01T19:20:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Apricot",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-apricot/4726839"
+    },
+    {
+      "id": 1207150433,
+      "dt": "2022-10-01T19:16:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spaten Oktoberfestbier (2022)",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-oktoberfestbier-2022/4892483"
+    },
+    {
+      "id": 1207138288,
+      "dt": "2022-10-01T18:59:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spaten Oktoberfest Ur-Märzen / Winter",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-oktoberfest-ur-marzen-winter/1547"
+    },
+    {
+      "id": 1207134612,
+      "dt": "2022-10-01T18:54:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Franziskaner Premium Weissbier Naturtrüb (2022)",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-franziskaner-premium-weissbier-naturtrub-2022/4886075"
+    },
+    {
+      "id": 1207130729,
+      "dt": "2022-10-01T18:49:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paulaner Oktoberfest Bier (2022)",
+      "brewery": "Paulaner Brauerei",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/paulaner-brauerei-paulaner-oktoberfest-bier-2022/4950347"
+    },
+    {
+      "id": 1207109524,
+      "dt": "2022-10-01T18:17:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bacchus Kriekenbier",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-bacchus-kriekenbier/29559"
+    },
+    {
+      "id": 1207100677,
+      "dt": "2022-10-01T18:02:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Disposable Art",
+      "brewery": "Pühaste Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/puhaste-brewery-disposable-art/4989711"
+    },
+    {
+      "id": 1207094368,
+      "dt": "2022-10-01T17:50:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Märzen",
+      "brewery": "Hacker-Pschorr",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/hacker-pschorr-oktoberfest-marzen/1827"
+    },
+    {
+      "id": 1207093711,
+      "dt": "2022-10-01T17:48:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Atlantis",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-atlantis/4983956"
+    },
+    {
+      "id": 1207083191,
+      "dt": "2022-10-01T17:26:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paulaner Oktoberfest Bier (2022)",
+      "brewery": "Paulaner Brauerei",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/paulaner-brauerei-paulaner-oktoberfest-bier-2022/4950347"
+    },
+    {
+      "id": 1207070647,
+      "dt": "2022-10-01T16:58:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Bier (2022)",
+      "brewery": "Augustiner-Bräu München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/augustiner-brau-munchen-oktoberfest-bier-2022/5009609"
+    },
+    {
+      "id": 1207064255,
+      "dt": "2022-10-01T16:41:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Bier (2022)",
+      "brewery": "Augustiner-Bräu München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/augustiner-brau-munchen-oktoberfest-bier-2022/5009609"
+    },
+    {
       "id": 1206857810,
       "dt": "2022-10-01T01:02:46+02:00",
       "venue_name": "Pivní ambasáda",
