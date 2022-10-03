@@ -1,12 +1,8 @@
 {
   "beers": [
     {
-      "name": "12° Franziskaner",
-      "description": "piv. Spaten-Franziskaner-Brau, Mnichov, German Hefeweizen"
-    },
-    {
-      "name": "12° SHA Amarillo",
-      "description": "piv. MadCat, Kamenice, Single Hop Ale"
+      "name": "12° Blizard",
+      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
     },
     {
       "name": "13,7° Augustiner Oktoberfestbier",
@@ -29,8 +25,12 @@
       "description": "piv. Spaten-Franziskaner-Brau, Mnichov, Festbier Hell"
     },
     {
-      "name": "18° Bacchus Kriek",
-      "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Fruit Strong ALE, 0,25l"
+      "name": "15° Douchesse de Bourgogne",
+      "description": "piv. Verhaeghe, Vichte, Západní Flandry, Flanders Red Ale, 0,25l"
+    },
+    {
+      "name": "7,7° A La Grodzisz",
+      "description": "piv. Nepomucen, Szkaradowo, Polsko,  Grodziske Weiss"
     }
   ]
 }
