@@ -6,20 +6,24 @@ import jinja2
 from bs4 import BeautifulSoup
 
 import utils
-from pivni_valka import stats
+from pivni_valka.stats import Stats
 from robot import DbRobot
 
 
 class PivniValka(DbRobot):
+    def __init__(self) -> None:
+        super().__init__()
+        self._stats = Stats(self._db)
+
     def _main(self) -> None:
         local, tweetless = utils.get_run_args()
         unique_beers_count = self.get_unique_beers_count(local)
         users_with_new_beers = self.save_daily_stats_db(unique_beers_count)
-        self.db.dump()
+        self._db.dump()
         page = self.get_page(
             utils.get_template('pivni-valka.html'),
-            tiles_data=stats.get_tiles_data(self.db),
-            chart_data=stats.get_chart_data(self.db, days=14),
+            tiles_data=self._stats.get_tiles_data(),
+            chart_data=self._stats.get_chart_data(days=14),
             grid_template_areas=self.get_grid_template_areas(),
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
@@ -29,7 +33,7 @@ class PivniValka(DbRobot):
 
         page_month = self.get_page(
             utils.get_template('pivni-valka-chart.html'),
-            chart_data=stats.get_chart_data(self.db, days=30),
+            chart_data=self._stats.get_chart_data(days=30),
             link='chart_year.html',
         )
 
@@ -38,14 +42,14 @@ class PivniValka(DbRobot):
 
         page_year = self.get_page(
             utils.get_template('pivni-valka-chart.html'),
-            chart_data=stats.get_chart_data(self.db, days=365),
+            chart_data=self._stats.get_chart_data(days=365),
             link='chart_all.html',
         )
 
         with open('pivni_valka/chart_year.html', 'w', encoding=utils.ENCODING) as f:
             f.write(page_year)
 
-        page_all = self.get_page(utils.get_template('pivni-valka-chart.html'), chart_data=stats.get_chart_data(self.db))
+        page_all = self.get_page(utils.get_template('pivni-valka-chart.html'), chart_data=self._stats.get_chart_data())
 
         with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
             f.write(page_all)
@@ -63,7 +67,7 @@ class PivniValka(DbRobot):
         data = {}
 
         if local:
-            total_unique_beers = stats.get_total_unique_beers(self.db)
+            total_unique_beers = self._stats.get_total_unique_beers()
             for user_name in utils.user.USER_NAMES:
                 data[user_name] = total_unique_beers[user_name] + random.randint(0, 10)
             return data
@@ -93,12 +97,8 @@ class PivniValka(DbRobot):
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
 
         for user_name in utils.user.USER_NAMES:
-            new_beers = unique_beers_count[user_name] - stats.get_unique_beers_before(
-                user_name,
-                self.db,
-                before=yesterday,
-            )
-            stats.save_daily_stats(yesterday, user_name, new_beers, self.db)
+            new_beers = unique_beers_count[user_name] - self._stats.get_unique_beers_before(user_name, before=yesterday)
+            self._stats.save_daily_stats(yesterday, user_name, new_beers)
 
             if new_beers:
                 users_with_new_beers.append(user_name)
@@ -109,10 +109,10 @@ class PivniValka(DbRobot):
         if not users_with_new_beers:
             return ''
 
-        total_unique_beers = stats.get_total_unique_beers(self.db)
+        total_unique_beers = self._stats.get_total_unique_beers()
 
         values = [
-            f'{user.name} včera vypil {stats.get_unique_beers(user.user_name, self.db, days=1)} 🍺.'
+            f'{user.name} včera vypil {self._stats.get_unique_beers(user.user_name, days=1)} 🍺.'
             for user in utils.user.USERS if user.user_name in users_with_new_beers
         ]
         values.extend(f'{user.name} má celkem {total_unique_beers[user.user_name]} 🍺.' for user in utils.user.USERS)

@@ -11,11 +11,11 @@ class BaseRobot:
 
 class DbRobot(BaseRobot):
     def __init__(self) -> None:
-        self.db = utils.db.Db()
+        self._db = utils.db.Db()
 
     def run(self) -> None:
         super().run()
-        self.db.close()
+        self._db.close()
 
     def _main(self) -> None:
         raise NotImplementedError
