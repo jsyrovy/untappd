@@ -1,4 +1,4 @@
-from hospody import run
+from hospody import Hospody
 
 if __name__ == '__main__':
-    run()
+    Hospody().run()

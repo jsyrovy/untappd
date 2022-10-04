@@ -1,4 +1,4 @@
-from notifier import run
+from notifier import Notifier
 
 if __name__ == '__main__':
-    run()
+    Notifier().run()

@@ -1,4 +1,4 @@
-from pivni_valka import run
+from pivni_valka import PivniValka
 
 if __name__ == '__main__':
-    run()
+    PivniValka().run()

@@ -5,11 +5,16 @@ from .common import ENCODING
 PATH = 'data.sqlite'
 DUMP_PATH = 'data_dump.sql'
 
-con = sqlite3.connect(PATH)
-cur = con.cursor()
 
+class Db:
+    def __init__(self) -> None:
+        self.con = sqlite3.connect(PATH)
+        self.cur = self.con.cursor()
 
-def dump() -> None:
-    with open(DUMP_PATH, 'w', encoding=ENCODING) as f:
-        for line in con.iterdump():
-            f.write(f'{line}\n')
+    def dump(self) -> None:
+        with open(DUMP_PATH, 'w', encoding=ENCODING) as f:
+            for line in self.con.iterdump():
+                f.write(f'{line}\n')
+
+    def close(self) -> None:
+        self.con.close()

@@ -10,6 +10,7 @@ import jinja2
 from bs4 import BeautifulSoup
 
 import utils
+from robot import BaseRobot
 
 CHECK_INS_PATH = 'hospody/check_ins.json'
 
@@ -74,37 +75,38 @@ class CheckIn:
         }
 
 
-def run() -> None:
-    venues = (
-        Venue(utils.PIPA_NAME, f'{utils.BASE_URL}/v/u-toulave-pipy/3663231'),
-        Venue(utils.AMBASADA_NAME, f'{utils.BASE_URL}/v/pivni-ambasada/3943799'),
-        Venue(utils.LOD_NAME, f'{utils.BASE_URL}/v/lod-otava/6353222'),
-    )
+class Hospody(BaseRobot):
+    def _main(self) -> None:
+        venues = (
+            Venue(utils.PIPA_NAME, f'{utils.BASE_URL}/v/u-toulave-pipy/3663231'),
+            Venue(utils.AMBASADA_NAME, f'{utils.BASE_URL}/v/pivni-ambasada/3943799'),
+            Venue(utils.LOD_NAME, f'{utils.BASE_URL}/v/lod-otava/6353222'),
+        )
 
-    new_check_ins = []
+        new_check_ins = []
 
-    for venue in venues:
-        local, _ = utils.get_run_args()
-        new_check_ins.extend(get_new_check_ins(local, venue, venues))
-        utils.random_sleep()
+        for venue in venues:
+            local, _ = utils.get_run_args()
+            new_check_ins.extend(get_new_check_ins(local, venue, venues))
+            utils.random_sleep()
 
-    check_ins = load_check_ins(venues)
+        check_ins = load_check_ins(venues)
 
-    for new_check_in in new_check_ins:
-        if new_check_in in check_ins:
-            logging.info(f'Check in {new_check_in.id} jiz existuje.')
-            continue
+        for new_check_in in new_check_ins:
+            if new_check_in in check_ins:
+                logging.info(f'Check in {new_check_in.id} jiz existuje.')
+                continue
 
-        check_ins.append(new_check_in)
-        logging.info(f'Novy check in {new_check_in.id} - {new_check_in.beer_name}.')
+            check_ins.append(new_check_in)
+            logging.info(f'Novy check in {new_check_in.id} - {new_check_in.beer_name}.')
 
-    sort_check_ins(check_ins)
-    save_check_ins(check_ins)
-    unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
-    page = get_page(utils.get_template('hospody.html'), unique_beers_check_ins)
+        sort_check_ins(check_ins)
+        save_check_ins(check_ins)
+        unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
+        page = get_page(utils.get_template('hospody.html'), unique_beers_check_ins)
 
-    with open('hospody/index.html', 'w', encoding=utils.ENCODING) as f:
-        f.write(page)
+        with open('hospody/index.html', 'w', encoding=utils.ENCODING) as f:
+            f.write(page)
 
 
 def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> list[CheckIn]:
