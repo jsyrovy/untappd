@@ -1,6 +1,6 @@
 import pytest
 
-import pivni_valka
+from pivni_valka import PivniValka
 
 USER_PROFILE = ''' \
 <html>
@@ -48,13 +48,13 @@ USER_PROFILE = ''' \
 def test_parse_unique_beers_count():
     user_profile = USER_PROFILE.format(unique_beers_count='1,234')
 
-    assert pivni_valka.parse_unique_beers_count(user_profile) == 1234
+    assert PivniValka().parse_unique_beers_count(user_profile) == 1234
 
 
 def test_parse_unique_beers_count_with_invalid_user_profile():
     user_profile = '<html></html>'
 
     with pytest.raises(ValueError) as excinfo:
-        pivni_valka.parse_unique_beers_count(user_profile)
+        PivniValka().parse_unique_beers_count(user_profile)
 
     assert str(excinfo.value) == 'Cannot parse user profile.'
