@@ -2,23 +2,19 @@
   "beers": [
     {
       "name": "11° Oh My Fuckin Ctulhu",
-      "description": "piv. Crazy Clown, Gin&Ink! Gose (ginové bilinky od Žufánka a sépiový inkoust)"
+      "description": "piv. Crazy Clown, Gin&Ink! Gose (ginové bylinky od Žufánka a sépiový inkoust)"
     },
     {
-      "name": "12° Blizard",
-      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
+      "name": "12° Galaxy",
+      "description": "piv. Rampušák, Dobruška, IPA"
     },
     {
-      "name": "13,7° Hofbrau Festbier",
-      "description": "piv. Hofbrau, Mnichov, Festbier Hell"
+      "name": "12° P.A.P.A.",
+      "description": "piv. Permon, Sokolov, American Pale Ale"
     },
     {
-      "name": "13,7° Lowenbrau Oktoberfestbier",
-      "description": "piv. Lowenbrau, Mnichov, Festbier Hell"
-    },
-    {
-      "name": "13,7° Paulaner Oktoberfest Bier",
-      "description": "piv. Paulaner, Mnichov, Festbier Hell"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13,7° Spaten Oktoberfestbier",
@@ -27,6 +23,10 @@
     {
       "name": "15° Douchesse de Bourgogne",
       "description": "piv. Verhaeghe, Vichte, Západní Flandry, Flanders Red Ale, 0,25l"
+    },
+    {
+      "name": "18° Zaříkavač Chmele",
+      "description": "piv. Nomád, Děčín, Double IPA"
     },
     {
       "name": "7,7° A La Grodzisz",
