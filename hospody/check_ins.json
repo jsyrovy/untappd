@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1208136946,
+      "dt": "2022-10-04T20:33:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical City",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-tropical-city/5013021"
+    },
+    {
+      "id": 1208136809,
+      "dt": "2022-10-04T20:32:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Duchesse de Bourgogne",
+      "brewery": "Brouwerij Verhaeghe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-verhaeghe-duchesse-de-bourgogne/3954"
+    },
+    {
+      "id": 1208121346,
+      "dt": "2022-10-04T19:24:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Duchesse de Bourgogne",
+      "brewery": "Brouwerij Verhaeghe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-verhaeghe-duchesse-de-bourgogne/3954"
+    },
+    {
       "id": 1207430406,
       "dt": "2022-10-02T00:41:52+02:00",
       "venue_name": "Loď Otava",
