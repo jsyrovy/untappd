@@ -36,21 +36,20 @@ class Stats:
         self._db = db
 
     def save_daily_stats(self, date: datetime.date, user_name: str, count: int):
-        self._db.cur.execute('SELECT 1 FROM pivni_valka WHERE `date` = ? and user = ?;', (date, user_name))
-        exists = self._db.cur.fetchone()
+        exists = self._db.query_one('SELECT 1 FROM pivni_valka WHERE `date` = ? and user = ?;', (date, user_name))
 
         if exists:
-            self._db.cur.execute(
+            self._db.execute(
                 'UPDATE pivni_valka SET unique_beers = ? WHERE `date` = ? and user = ?;',
                 (count, date, user_name),
             )
         else:
-            self._db.cur.execute(
+            self._db.execute(
                 'INSERT INTO pivni_valka (`date`, user, unique_beers) VALUES (?, ?, ?);',
                 (date, user_name, count)
             )
 
-        self._db.con.commit()
+        self._db.commit()
 
     def get_chart_data(self, days: Optional[int] = None) -> ChartData:
         datasets = []
@@ -62,8 +61,7 @@ class Stats:
 
     def _get_chart_labels(self, days: Optional[int] = None) -> list[str]:
         sql = 'SELECT DISTINCT `date` FROM pivni_valka ORDER BY `date` DESC'
-        self._db.cur.execute(f'{sql} LIMIT {days};' if days else sql)
-        labels = self._db.cur.fetchall()
+        labels = self._db.query_all(f'{sql} LIMIT {days};' if days else sql)
         return [label[0] for label in reversed(labels)]
 
     def _get_user_data(self, user_name: str, days: Optional[int] = None) -> list[int]:
@@ -93,8 +91,7 @@ class Stats:
 
     def get_unique_beers(self, user_name: str, days: Optional[int] = None, formatted: bool = False) -> str:
         sql = 'SELECT unique_beers FROM pivni_valka WHERE user = ? ORDER BY `date` DESC'
-        self._db.cur.execute(f'{sql} LIMIT {days};' if days else sql, (user_name,))
-        values = self._db.cur.fetchall()
+        values = self._db.query_all(f'{sql} LIMIT {days};' if days else sql, (user_name,))
         beers = sum(value[0] for value in values)
 
         if formatted:
@@ -103,16 +100,15 @@ class Stats:
         return str(beers)
 
     def get_unique_beers_before(self, user_name: str, before: datetime.date) -> int:
-        self._db.cur.execute(
+        return self._db.query_one(
             'SELECT SUM(unique_beers) FROM pivni_valka WHERE user = ? AND `date` < ?',
             (user_name, before.isoformat()),
-        )
-        return self._db.cur.fetchone()[0]
+        )[0]
 
     def _get_days(self) -> int:
-        self._db.cur.execute('SELECT COUNT(`date`) FROM (SELECT DISTINCT `date` FROM pivni_valka)')
-        return self._db.cur.fetchone()[0]
+        return self._db.query_one('SELECT COUNT(`date`) FROM (SELECT DISTINCT `date` FROM pivni_valka)')[0]
 
     def get_total_unique_beers(self) -> dict[str, int]:
-        self._db.cur.execute('SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;')
-        return {value[0]: value[1] for value in self._db.cur.fetchall()}
+        return {value[0]: value[1] for value in self._db.query_all(
+            'SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;'
+        )}

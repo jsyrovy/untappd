@@ -15,6 +15,7 @@ class DbRobot(BaseRobot):
 
     def run(self) -> None:
         super().run()
+        self._db.dump()
         self._db.close()
 
     def _main(self) -> None:

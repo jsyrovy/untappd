@@ -1,4 +1,6 @@
 import sqlite3
+from collections.abc import Iterable
+from typing import Optional
 
 from .common import ENCODING
 
@@ -18,3 +20,23 @@ class Db:
 
     def close(self) -> None:
         self.con.close()
+
+    def _execute(self, sql: str, parameters) -> None:
+        if parameters:
+            self.cur.execute(sql, parameters)
+        else:
+            self.cur.execute(sql)
+
+    def execute(self, sql: str, parameters: Optional[Iterable] = None) -> None:
+        self._execute(sql, parameters)
+
+    def query_one(self, sql: str, parameters: Optional[Iterable] = None) -> tuple:
+        self.execute(sql, parameters)
+        return self.cur.fetchone()
+
+    def query_all(self, sql: str, parameters: Optional[Iterable] = None) -> list:
+        self.execute(sql, parameters)
+        return self.cur.fetchall()
+
+    def commit(self) -> None:
+        self.con.commit()

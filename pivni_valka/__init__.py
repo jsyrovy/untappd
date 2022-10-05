@@ -19,7 +19,6 @@ class PivniValka(DbRobot):
         local, tweetless = utils.get_run_args()
         unique_beers_count = self.get_unique_beers_count(local)
         users_with_new_beers = self.save_daily_stats_db(unique_beers_count)
-        self._db.dump()
         page = self.get_page(
             utils.get_template('pivni-valka.html'),
             tiles_data=self._stats.get_tiles_data(),
