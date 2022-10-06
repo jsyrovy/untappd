@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1208304832,
+      "dt": "2022-10-05T19:29:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "À La Grodzisz",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-a-la-grodzisz/4888376"
+    },
+    {
+      "id": 1208276296,
+      "dt": "2022-10-05T16:41:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Galaxy Lager",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-galaxy-lager/5020229"
+    },
+    {
+      "id": 1208274834,
+      "dt": "2022-10-05T16:24:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "À La Grodzisz",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-a-la-grodzisz/4888376"
+    },
+    {
+      "id": 1208273747,
+      "dt": "2022-10-05T16:09:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oh My Fuckin' Cthulhu",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-oh-my-fuckin-cthulhu/5016779"
+    },
+    {
       "id": 1208136946,
       "dt": "2022-10-04T20:33:15+02:00",
       "venue_name": "Pivní ambasáda",
