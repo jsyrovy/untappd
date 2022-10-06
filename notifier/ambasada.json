@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "11° Oh My Fuckin Ctulhu",
-      "description": "piv. Crazy Clown, Gin&Ink! Gose (ginové bylinky od Žufánka a sépiový inkoust)"
-    },
-    {
-      "name": "12° Galaxy",
-      "description": "piv. Rampušák, Dobruška, IPA"
-    },
-    {
-      "name": "12° P.A.P.A.",
-      "description": "piv. Permon, Sokolov, American Pale Ale"
+      "name": "10° Sour Milkshake blueberry",
+      "description": "piv. Klenot, HK, Borůvkový Sour Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13,7° Spaten Oktoberfestbier",
-      "description": "piv. Spaten-Franziskaner-Brau, Mnichov, Festbier Hell"
+      "name": "12° Svatováclavská",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Za Svobodu",
+      "description": "piv. Malešov, světlý ležák"
+    },
+    {
+      "name": "13° Počernický Ale",
+      "description": "piv. Počerňák, Horní Počernice, Praha, Ale"
     },
     {
       "name": "15° Douchesse de Bourgogne",
       "description": "piv. Verhaeghe, Vichte, Západní Flandry, Flanders Red Ale, 0,25l"
     },
     {
-      "name": "18° Zaříkavač Chmele",
-      "description": "piv. Nomád, Děčín, Double IPA"
+      "name": "15° Paranal Sunset",
+      "description": "piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "7,7° A La Grodzisz",
