@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1208881683,
+      "dt": "2022-10-07T20:34:23+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kurtizána IPA",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-ipa/704889"
+    },
+    {
+      "id": 1208847694,
+      "dt": "2022-10-07T19:43:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Belma 11°",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-belma-110/5035498"
+    },
+    {
+      "id": 1208831186,
+      "dt": "2022-10-07T19:14:55+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "NEIPA Adventures #8 Citra Cryo",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-neipa-adventures-8-citra-cryo/4886524"
+    },
+    {
+      "id": 1208803807,
+      "dt": "2022-10-07T18:20:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paranal Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-paranal-sunset/5029662"
+    },
+    {
+      "id": 1208803520,
+      "dt": "2022-10-07T18:20:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Belma 11°",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-belma-110/5035498"
+    },
+    {
+      "id": 1208792837,
+      "dt": "2022-10-07T17:55:05+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "NEIPA Adventures #8 Citra Cryo",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-neipa-adventures-8-citra-cryo/4886524"
+    },
+    {
       "id": 1208567789,
       "dt": "2022-10-06T21:33:47+02:00",
       "venue_name": "Pivní ambasáda",
@@ -107,6 +161,24 @@
       "brewery": "Přátelský pivovar Malešov",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-dekujeme-za-svobodu-12/3767087"
+    },
+    {
+      "id": 1208326965,
+      "dt": "2022-10-05T20:49:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč Borůvka Milkshake",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-kyselac-boruvka-milkshake/5024970"
+    },
+    {
+      "id": 1208318448,
+      "dt": "2022-10-05T20:20:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "À La Grodzisz",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-a-la-grodzisz/4888376"
     },
     {
       "id": 1208304832,
