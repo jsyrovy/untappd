@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "10° Sour Milkshake blueberry",
-      "description": "piv. Klenot, HK, Borůvkový Sour Ale"
+      "name": "11° AK 47",
+      "description": "piv. Nomád, Děčín, Ale"
     },
     {
-      "name": "11° Final Cuntdown Belma",
-      "description": "piv. Crazy Clown, Single Hop Ale"
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Borůvkový ležák",
-      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+      "name": "12° Aviatik",
+      "description": "piv. U Vojtěchů, Pardubice, Vídeňský ležák"
+    },
+    {
+      "name": "12° Black Currant",
+      "description": "piv. Clock, Potštejn, Black Currant Sour Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Za Svobodu",
-      "description": "piv. Malešov, světlý ležák"
+      "name": "14° Zesilovač",
+      "description": "piv. Volt, Jablonec nad Nisou, IPA"
     },
     {
       "name": "15° Douchesse de Bourgogne",
       "description": "piv. Verhaeghe, Vichte, Západní Flandry, Flanders Red Ale, 0,25l"
-    },
-    {
-      "name": "15° Paranal Sunset",
-      "description": "piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "7,7° A La Grodzisz",
