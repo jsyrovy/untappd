@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1209590805,
+      "dt": "2022-10-08T22:49:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackcurrant Sour Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-blackcurrant-sour-ale/3397925"
+    },
+    {
+      "id": 1209348044,
+      "dt": "2022-10-08T18:42:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Borůvkový ležák",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-boruvkovy-lezak/497749"
+    },
+    {
+      "id": 1209346801,
+      "dt": "2022-10-08T18:41:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Milkshake Blueberry Sour Ale",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-milkshake-blueberry-sour-ale/5037566"
+    },
+    {
+      "id": 1209345362,
+      "dt": "2022-10-08T18:39:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "À La Grodzisz",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-a-la-grodzisz/4888376"
+    },
+    {
+      "id": 1209344543,
+      "dt": "2022-10-08T18:38:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Děkujeme Za Svobodu 12%",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-dekujeme-za-svobodu-12/3767087"
+    },
+    {
+      "id": 1209318414,
+      "dt": "2022-10-08T18:01:55+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Philadelphia Sour Apricot",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-apricot/4726839"
+    },
+    {
+      "id": 1209313314,
+      "dt": "2022-10-08T17:53:08+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Philadelphia Sour Apricot",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-apricot/4726839"
+    },
+    {
+      "id": 1209247166,
+      "dt": "2022-10-08T15:06:18+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Paulaner Oktoberfest Wiesn",
+      "brewery": "Paulaner Brauerei",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/paulaner-brauerei-paulaner-oktoberfest-wiesn/763577"
+    },
+    {
       "id": 1208881683,
       "dt": "2022-10-07T20:34:23+02:00",
       "venue_name": "Loď Otava",
