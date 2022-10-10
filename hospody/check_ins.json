@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1209904145,
+      "dt": "2022-10-09T17:02:58+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Venuše",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-venuse/993897"
+    },
+    {
       "id": 1209590805,
       "dt": "2022-10-08T22:49:07+02:00",
       "venue_name": "Pivní ambasáda",
