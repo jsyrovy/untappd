@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° AK 47",
-      "description": "piv. Nomád, Děčín, Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Weiherer Summer Ale",
+      "description": "piv. Kundmuller, Viereth-Weiher, Bavorsko, Ale"
     },
     {
       "name": "14° Zesilovač",
