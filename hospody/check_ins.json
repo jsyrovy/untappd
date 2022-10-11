@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1210250715,
+      "dt": "2022-10-10T19:58:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aviatik 12",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-aviatik-12/4959508"
+    },
+    {
+      "id": 1210231744,
+      "dt": "2022-10-10T18:27:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paranal Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-paranal-sunset/5029662"
+    },
+    {
+      "id": 1210225238,
+      "dt": "2022-10-10T17:46:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zesilovač",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-zesilovac/2258516"
+    },
+    {
+      "id": 1210221276,
+      "dt": "2022-10-10T17:13:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackcurrant Sour Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-blackcurrant-sour-ale/3397925"
+    },
+    {
+      "id": 1210220416,
+      "dt": "2022-10-10T17:04:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aviatik 12",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-aviatik-12/4959508"
+    },
+    {
       "id": 1209904145,
       "dt": "2022-10-09T17:02:58+02:00",
       "venue_name": "Loď Otava",
@@ -17,6 +62,15 @@
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-clock-blackcurrant-sour-ale/3397925"
+    },
+    {
+      "id": 1209572852,
+      "dt": "2022-10-08T22:31:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aviatik 12",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-aviatik-12/4959508"
     },
     {
       "id": 1209348044,
