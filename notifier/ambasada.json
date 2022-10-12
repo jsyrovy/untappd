@@ -5,6 +5,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Aldersbacher",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+    },
+    {
       "name": "12° Aviatik",
       "description": "piv. U Vojtěchů, Pardubice, Vídeňský ležák"
     },
@@ -21,16 +25,12 @@
       "description": "piv. Kundmuller, Viereth-Weiher, Bavorsko, Ale"
     },
     {
-      "name": "14° Zesilovač",
-      "description": "piv. Volt, Jablonec nad Nisou, IPA"
-    },
-    {
       "name": "15° Douchesse de Bourgogne",
       "description": "piv. Verhaeghe, Vichte, Západní Flandry, Flanders Red Ale, 0,25l"
     },
     {
-      "name": "7,7° A La Grodzisz",
-      "description": "piv. Nepomucen, Szkaradowo, Polsko,  Grodziske Weiss"
+      "name": "16° Zámecká",
+      "description": "piv. Reichenberg, Liberec, IPA"
     }
   ]
 }
