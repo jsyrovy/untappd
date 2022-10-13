@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Jazz Beer",
+      "description": "piv. Albrecht, Frýdlant, Světlý ležák"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -13,16 +17,12 @@
       "description": "piv. U Vojtěchů, Pardubice, Vídeňský ležák"
     },
     {
-      "name": "12° Black Currant",
-      "description": "piv. Clock, Potštejn, Black Currant Sour Ale"
+      "name": "12° Fresh Hop Ale Most 2022",
+      "description": "piv. Clock, Potštejn, Ale"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Weiherer Summer Ale",
-      "description": "piv. Kundmuller, Viereth-Weiher, Bavorsko, Ale"
+      "name": "12° Mango Sour",
+      "description": "piv. Zichovec, Mango Sour Ale"
     },
     {
       "name": "15° Douchesse de Bourgogne",
