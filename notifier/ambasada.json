@@ -5,6 +5,10 @@
       "description": "piv. Albrecht, Frýdlant, Světlý ležák"
     },
     {
+      "name": "11° Mango",
+      "description": "Hák/Vagabund, Mango Sour Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,20 +21,16 @@
       "description": "piv. Valášek, Vsetín, Blond Ale"
     },
     {
-      "name": "12° Mango Sour",
-      "description": "piv. Zichovec, Mango Sour Ale"
+      "name": "14° IPA",
+      "description": "piv. Tvarg, Velká Bystřice, IPA"
     },
     {
-      "name": "12° Višňový ležák",
-      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+      "name": "14° Jahodový Porter",
+      "description": "Bergquell Brauerei Löbau, Sasko, Ochucený Porter"
     },
     {
-      "name": "15° Douchesse de Bourgogne",
-      "description": "piv. Verhaeghe, Vichte, Západní Flandry, Flanders Red Ale, 0,25l"
-    },
-    {
-      "name": "16° Zámecká",
-      "description": "piv. Reichenberg, Liberec, IPA"
+      "name": "25° Sweet Dreams",
+      "description": "piv. Nepomucen, Szkaradowo, Polsko, Imperial Pastry Sour Ale Raspberry/Lime/Calamansi/Lemon, 0,25l"
     }
   ]
 }
