@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1211928464,
+      "dt": "2022-10-16T00:32:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
+      "id": 1211922513,
+      "dt": "2022-10-16T00:24:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Perg Ale 11",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-perg-ale-11/5070043"
+    },
+    {
+      "id": 1211605361,
+      "dt": "2022-10-15T18:26:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
+      "id": 1211604968,
+      "dt": "2022-10-15T18:26:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
+      "id": 1211602659,
+      "dt": "2022-10-15T18:22:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jazz Beer 10",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-jazz-beer-10/5026797"
+    },
+    {
+      "id": 1211600056,
+      "dt": "2022-10-15T18:19:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1211585714,
+      "dt": "2022-10-15T17:55:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango 11° Sour Ale",
+      "brewery": "Pivovar Vagabund",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vagabund-mango-110-sour-ale/4953774"
+    },
+    {
+      "id": 1211582922,
+      "dt": "2022-10-15T17:50:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1211581528,
+      "dt": "2022-10-15T17:47:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
       "id": 1211050739,
       "dt": "2022-10-14T15:55:03+02:00",
       "venue_name": "Pivní ambasáda",
