@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1212241496,
+      "dt": "2022-10-16T20:43:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango 11° Sour Ale",
+      "brewery": "Pivovar Vagabund",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vagabund-mango-110-sour-ale/4953774"
+    },
+    {
+      "id": 1212240291,
+      "dt": "2022-10-16T20:41:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Perg Ale 11",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-perg-ale-11/5070043"
+    },
+    {
+      "id": 1212177170,
+      "dt": "2022-10-16T18:30:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Perg Ale 11",
+      "brewery": "Žacký pivovar Auersperg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zacky-pivovar-auersperg-perg-ale-11/5070043"
+    },
+    {
+      "id": 1212170125,
+      "dt": "2022-10-16T18:12:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango 11° Sour Ale",
+      "brewery": "Pivovar Vagabund",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vagabund-mango-110-sour-ale/4953774"
+    },
+    {
+      "id": 1212161734,
+      "dt": "2022-10-16T17:50:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
+      "id": 1212159742,
+      "dt": "2022-10-16T17:44:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jazz Beer 10",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-jazz-beer-10/5026797"
+    },
+    {
+      "id": 1212159008,
+      "dt": "2022-10-16T17:42:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
+      "id": 1212148466,
+      "dt": "2022-10-16T17:11:30+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "14° Panská IPA",
+      "brewery": "Holíčsky pivovar Wywar ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/holicsky-pivovar-wywar-14-panska-ipa/1521907"
+    },
+    {
       "id": 1211928464,
       "dt": "2022-10-16T00:32:29+02:00",
       "venue_name": "Pivní ambasáda",
