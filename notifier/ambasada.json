@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Jazz Beer",
-      "description": "piv. Albrecht, Frýdlant, Světlý ležák"
-    },
-    {
       "name": "11° Mango",
       "description": "Hák/Vagabund, Mango Sour Ale"
     },
@@ -15,6 +11,14 @@
     {
       "name": "11° Perg Ale",
       "description": "piv. Auersperg, Žáky, Ale"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° Kurtizána",
