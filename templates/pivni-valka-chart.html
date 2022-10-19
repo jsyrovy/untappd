@@ -24,9 +24,9 @@
     const chart = new Chart(ctx, {
         type: 'line',
         data: {
-            labels: {{ chart_data.labels | safe }},
+            labels: {{ total_chart_data.labels | safe }},
             datasets: [
-                {% for dataset in chart_data.datasets %}
+                {% for dataset in total_chart_data.datasets %}
                 {
                     label: '{{ dataset.label }}',
                     data: {{ dataset.data | safe }},

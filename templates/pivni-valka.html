@@ -30,7 +30,7 @@
 
         .container {
             display: grid;
-            grid-template-columns: {% for dataset in chart_data.datasets %}250px {% endfor %};
+            grid-template-columns: {% for dataset in total_chart_data.datasets %}250px {% endfor %};
             grid-template-rows: auto;
             grid-template-areas:
                 {% for area in grid_template_areas %}
@@ -59,8 +59,8 @@
             line-height: 1.5em;
         }
 
-        .item-chart {
-            grid-area: item-chart;
+        .item-total-chart {
+            grid-area: item-total-chart;
             margin: 5px;
         }
 
@@ -118,9 +118,9 @@
         </a>
         {% endfor %}
 
-        <div class="item-chart" title="Celkem">
+        <div class="item-total-chart" title="Celkem">
             <a href="chart_month.html">
-                <canvas id="chart"></canvas>
+                <canvas id="total-chart"></canvas>
             </a>
         </div>
 
@@ -137,13 +137,13 @@
     </div>
 </div>
 <script>
-    const ctx = document.getElementById('chart').getContext('2d');
-    const chart = new Chart(ctx, {
+    const totalCtx = document.getElementById('total-chart').getContext('2d');
+    const totalChart = new Chart(totalCtx, {
         type: 'line',
         data: {
-            labels: {{ chart_data.labels | safe }},
+            labels: {{ total_chart_data.labels | safe }},
             datasets: [
-                {% for dataset in chart_data.datasets %}
+                {% for dataset in total_chart_data.datasets %}
                 {
                     label: '{{ dataset.label }}',
                     data: {{ dataset.data | safe }},

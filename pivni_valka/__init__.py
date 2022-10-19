@@ -18,7 +18,7 @@ class PivniValka(DbRobot):
         page = self.get_page(
             utils.get_template('pivni-valka.html'),
             tiles_data=tiles.get_tiles_data(),
-            chart_data=total_chart.get_chart_data(days=14),
+            total_chart_data=total_chart.get_chart_data(days=14),
             weekly_chart_data=weekly_chart.get_chart_data(),
             grid_template_areas=self.get_grid_template_areas(),
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
@@ -29,7 +29,7 @@ class PivniValka(DbRobot):
 
         page_month = self.get_page(
             utils.get_template('pivni-valka-chart.html'),
-            chart_data=total_chart.get_chart_data(days=30),
+            total_chart_data=total_chart.get_chart_data(days=30),
             link='chart_year.html',
         )
 
@@ -38,14 +38,17 @@ class PivniValka(DbRobot):
 
         page_year = self.get_page(
             utils.get_template('pivni-valka-chart.html'),
-            chart_data=total_chart.get_chart_data(days=365),
+            total_chart_data=total_chart.get_chart_data(days=365),
             link='chart_all.html',
         )
 
         with open('pivni_valka/chart_year.html', 'w', encoding=utils.ENCODING) as f:
             f.write(page_year)
 
-        page_all = self.get_page(utils.get_template('pivni-valka-chart.html'), chart_data=total_chart.get_chart_data())
+        page_all = self.get_page(
+            utils.get_template('pivni-valka-chart.html'),
+            total_chart_data=total_chart.get_chart_data(),
+        )
 
         with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
             f.write(page_all)
@@ -120,13 +123,13 @@ class PivniValka(DbRobot):
 
         return (
             f'"{" ".join([item for item in user_items])}"',
-            f'"{" ".join(["item-chart"] * len(user_items))}"',
+            f'"{" ".join(["item-total-chart"] * len(user_items))}"',
             f'"{" ".join(["item-weekly-chart"] * len(user_items))}"',
             f'"{" ".join(["item-twitter"] * len(user_items))}"',
         )
 
     def get_mobile_grid_template_areas(self) -> list[str]:
         user_items = [f'"item-{user_name}"' for user_name in utils.user.USER_NAMES]
-        user_items.extend(['"item-chart"', '"item-weekly-chart"', '"item-twitter"'])
+        user_items.extend(['"item-total-chart"', '"item-weekly-chart"', '"item-twitter"'])
 
         return user_items
