@@ -6,7 +6,7 @@ import jinja2
 from bs4 import BeautifulSoup
 
 import utils
-from pivni_valka.stats import stats
+from pivni_valka.stats import stats, weekly_chart
 from robot.db import DbRobot
 
 
@@ -19,6 +19,7 @@ class PivniValka(DbRobot):
             utils.get_template('pivni-valka.html'),
             tiles_data=stats.get_tiles_data(),
             chart_data=stats.get_chart_data(days=14),
+            weekly_chart_data=weekly_chart.get_chart_data(),
             grid_template_areas=self.get_grid_template_areas(),
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
@@ -114,17 +115,18 @@ class PivniValka(DbRobot):
 
         return ' '.join(values)
 
-    def get_grid_template_areas(self) -> tuple[str, str, str]:
+    def get_grid_template_areas(self) -> tuple[str, str, str, str]:
         user_items = [f'item-{user_name}' for user_name in utils.user.USER_NAMES]
 
         return (
             f'"{" ".join([item for item in user_items])}"',
             f'"{" ".join(["item-chart"] * len(user_items))}"',
+            f'"{" ".join(["item-weekly-chart"] * len(user_items))}"',
             f'"{" ".join(["item-twitter"] * len(user_items))}"',
         )
 
     def get_mobile_grid_template_areas(self) -> list[str]:
         user_items = [f'"item-{user_name}"' for user_name in utils.user.USER_NAMES]
-        user_items.extend(['"item-chart"', '"item-twitter"'])
+        user_items.extend(['"item-chart"', '"item-weekly-chart"', '"item-twitter"'])
 
         return user_items

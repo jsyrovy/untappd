@@ -64,6 +64,11 @@
             margin: 5px;
         }
 
+        .item-weekly-chart {
+            grid-area: item-weekly-chart;
+            margin: 5px;
+        }
+
         .item-twitter {
             grid-area: item-twitter;
             margin: 5px;
@@ -119,6 +124,10 @@
             </a>
         </div>
 
+        <div class="item-weekly-chart">
+            <canvas id="weekly-chart"></canvas>
+        </div>
+
         <div class="item-twitter">
             <a class="twitter-timeline" href="https://twitter.com/pivni_valka?ref_src=twsrc%5Etfw">
                 Tweets by pivni_valka
@@ -135,6 +144,31 @@
             labels: {{ chart_data.labels | safe }},
             datasets: [
                 {% for dataset in chart_data.datasets %}
+                {
+                    label: '{{ dataset.label }}',
+                    data: {{ dataset.data | safe }},
+                    borderColor: '{{ dataset.color }}',
+                    backgroundColor: '{{ dataset.color }}',
+                },
+                {% endfor %}
+            ],
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            },
+        },
+    });
+
+    const weeklyCtx = document.getElementById('weekly-chart').getContext('2d');
+    const weeklyChart = new Chart(weeklyCtx, {
+        type: 'line',
+        data: {
+            labels: {{ weekly_chart_data.labels | safe }},
+            datasets: [
+                {% for dataset in weekly_chart_data.datasets %}
                 {
                     label: '{{ dataset.label }}',
                     data: {{ dataset.data | safe }},
