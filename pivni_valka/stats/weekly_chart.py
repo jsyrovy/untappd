@@ -3,7 +3,7 @@ from collections import OrderedDict
 
 import utils
 from db import db
-from .stats import ChartDataset, ChartData
+from pivni_valka.stats.common import ChartData, ChartDataset
 
 
 def _get_week_stats() -> dict[str, dict[str, int]]:
