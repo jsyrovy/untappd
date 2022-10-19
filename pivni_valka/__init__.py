@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 import utils
 from pivni_valka.stats import Stats
-from robot import DbRobot
+from robot.db import DbRobot
 
 
 class PivniValka(DbRobot):

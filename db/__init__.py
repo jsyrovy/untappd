@@ -2,7 +2,7 @@ import sqlite3
 from collections.abc import Iterable
 from typing import Optional
 
-from .common import ENCODING
+from utils.common import ENCODING
 
 PATH = 'data.sqlite'
 DUMP_PATH = 'data_dump.sql'
@@ -40,3 +40,6 @@ class Db:
 
     def commit(self) -> None:
         self.con.commit()
+
+
+db = Db()

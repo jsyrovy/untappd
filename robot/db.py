@@ -1,17 +1,10 @@
-import utils
-
-
-class BaseRobot:
-    def run(self) -> None:
-        self._main()
-
-    def _main(self) -> None:
-        raise NotImplementedError
+from db import db
+from robot.base import BaseRobot
 
 
 class DbRobot(BaseRobot):
     def __init__(self) -> None:
-        self._db = utils.db.Db()
+        self._db = db
 
     def run(self) -> None:
         super().run()

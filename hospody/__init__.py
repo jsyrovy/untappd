@@ -10,7 +10,7 @@ import jinja2
 from bs4 import BeautifulSoup
 
 import utils
-from robot import BaseRobot
+from robot.base import BaseRobot
 
 CHECK_INS_PATH = 'hospody/check_ins.json'
 

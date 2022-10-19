@@ -3,6 +3,7 @@ from dataclasses import dataclass
 from typing import Optional
 
 import utils
+from db import Db
 
 
 @dataclass
@@ -32,7 +33,7 @@ class TileData:
 
 
 class Stats:
-    def __init__(self, db: utils.db.Db) -> None:
+    def __init__(self, db: Db) -> None:
         self._db = db
 
     def save_daily_stats(self, date: datetime.date, user_name: str, count: int):
