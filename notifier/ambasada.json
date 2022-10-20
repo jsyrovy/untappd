@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "11° Mango",
-      "description": "Hák/Vagabund, Mango Sour Ale"
+      "name": "10° Chela",
+      "description": "piv. Valášek/Pacific Plate, Mexican Lager"
     },
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Perg Ale",
-      "description": "piv. Auersperg, Žáky, Ale"
+      "name": "11° Nectarine Sorbet",
+      "description": "piv. Sibeeria, Praha, Nectarine Sour Ale"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
+      "name": "12° Matylda",
+      "description": "piv. U Vojtěchů, Pardubice, India Pale Ale"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° Kurtizána",
-      "description": "piv. Mordýř, Dolní Ředice, IPA"
-    },
-    {
-      "name": "14° Jahodový Porter",
-      "description": "Bergquell Brauerei Löbau, Sasko, Ochucený Porter"
+      "name": "14° Lazy Cat",
+      "description": "piv. Mordýř, Dolní Ředice, Žitná IPA"
     },
     {
       "name": "25° Sweet Dreams",
