@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1212805861,
+      "dt": "2022-10-19T20:12:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
+      "id": 1212777919,
+      "dt": "2022-10-19T18:12:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Aurorae",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-aurorae/5055210"
+    },
+    {
+      "id": 1212777580,
+      "dt": "2022-10-19T18:10:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Erste Runde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-erste-runde/4998916"
+    },
+    {
+      "id": 1212769293,
+      "dt": "2022-10-19T17:12:11+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Aurorae",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-aurorae/5055210"
+    },
+    {
+      "id": 1212757683,
+      "dt": "2022-10-19T14:31:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "14° Panská IPA",
+      "brewery": "Holíčsky pivovar Wywar ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/holicsky-pivovar-wywar-14-panska-ipa/1521907"
+    },
+    {
       "id": 1212639058,
       "dt": "2022-10-18T21:14:33+02:00",
       "venue_name": "U Toulavé pípy",
