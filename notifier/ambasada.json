@@ -1,36 +1,40 @@
 {
   "beers": [
     {
-      "name": "10° Chela",
-      "description": "piv. Valášek/Pacific Plate, Mexican Lager"
-    },
-    {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Patronus",
+      "description": "piv. Sibeeria, Praha, Světlý Ležák"
     },
     {
       "name": "11° Nectarine Sorbet",
       "description": "piv. Sibeeria, Praha, Nectarine Sour Ale"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° Canis Major",
+      "description": "piv. Sibeeria, Praha, Hazy Pale Ale"
     },
     {
-      "name": "12° Matylda",
-      "description": "piv. U Vojtěchů, Pardubice, India Pale Ale"
+      "name": "12° Fog Town",
+      "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Fresh Hop Every Day Life",
+      "description": "piv. Sibeeria, Praha, Světlý Ležák"
     },
     {
-      "name": "14° Lazy Cat",
-      "description": "piv. Mordýř, Dolní Ředice, Žitná IPA"
+      "name": "12° Hop Stop",
+      "description": "piv. Sibeeria, Praha, Session IPA"
     },
     {
-      "name": "25° Sweet Dreams",
-      "description": "piv. Nepomucen, Szkaradowo, Polsko, Imperial Pastry Sour Ale Raspberry/Lime/Calamansi/Lemon, 0,25l"
+      "name": "14° Zweite Runde",
+      "description": "piv. Sibeeria, Praha, Hopfenweizen"
+    },
+    {
+      "name": "15° Opus Numbers",
+      "description": "piv. Sibeeria/Puhaste, West Coast IPA"
+    },
+    {
+      "name": "23° Ancestral Recall",
+      "description": "piv. Sibeeria, Praha, Dark Wild Ale w/Blueberryes, 0,25l"
     }
   ]
 }
