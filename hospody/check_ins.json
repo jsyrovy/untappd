@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1213083804,
+      "dt": "2022-10-20T23:06:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Opus Numbers",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-opus-numbers/5045408"
+    },
+    {
+      "id": 1212978736,
+      "dt": "2022-10-20T17:30:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chela 10°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-chela-100/5067102"
+    },
+    {
+      "id": 1212973704,
+      "dt": "2022-10-20T16:54:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Series: Favour",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-sweet-dreams-series-favour/4959918"
+    },
+    {
+      "id": 1212971978,
+      "dt": "2022-10-20T16:40:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nectarine Sorbet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-nectarine-sorbet/4754194"
+    },
+    {
       "id": 1212805861,
       "dt": "2022-10-19T20:12:42+02:00",
       "venue_name": "Pivní ambasáda",
