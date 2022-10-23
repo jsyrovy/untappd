@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Patronus",
-      "description": "piv. Sibeeria, Praha, Světlý Ležák"
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Canis Major",
@@ -13,8 +13,12 @@
       "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
-      "name": "12° Hop Stop",
-      "description": "piv. Sibeeria, Praha, Session IPA"
+      "name": "12° K(r)yseláč",
+      "description": "piv. Four Elements, Praha, Malinový Sour Ale"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "14° Zweite Runde",
