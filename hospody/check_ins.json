@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1214427633,
+      "dt": "2022-10-23T20:53:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "K(r)yseláč",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-k-r-yselac/5022401"
+    },
+    {
+      "id": 1214426920,
+      "dt": "2022-10-23T20:52:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zweite Runde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zweite-runde/5045345"
+    },
+    {
+      "id": 1214425903,
+      "dt": "2022-10-23T20:50:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chela 10°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-chela-100/5067102"
+    },
+    {
+      "id": 1214379824,
+      "dt": "2022-10-23T19:21:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zkruhovec Vol. III",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-zkruhovec-vol-iii/5074485"
+    },
+    {
+      "id": 1214365480,
+      "dt": "2022-10-23T18:49:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Opus Numbers",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-opus-numbers/5045408"
+    },
+    {
+      "id": 1214363600,
+      "dt": "2022-10-23T18:44:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zweite Runde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zweite-runde/5045345"
+    },
+    {
+      "id": 1214353830,
+      "dt": "2022-10-23T18:20:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1214353127,
+      "dt": "2022-10-23T18:18:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sibeeria Canis Major",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-sibeeria-canis-major/5078136"
+    },
+    {
+      "id": 1214305644,
+      "dt": "2022-10-23T15:35:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bezalkoholowe Mango Ale",
+      "brewery": "Browar Grodzisk",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/browar-grodzisk-bezalkoholowe-mango-ale/3713873"
+    },
+    {
+      "id": 1214304975,
+      "dt": "2022-10-23T15:32:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hurricane Katrina",
+      "brewery": "Axiom Brewery",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/axiom-brewery-hurricane-katrina/4948169"
+    },
+    {
       "id": 1213855855,
       "dt": "2022-10-22T19:43:20+02:00",
       "venue_name": "Pivní ambasáda",
