@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Chela",
+      "description": "piv. Valášek/Pacific Plate, Mexican Lager"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -9,20 +13,16 @@
       "description": "piv. Sibeeria, Praha, Hazy Pale Ale"
     },
     {
-      "name": "12° Fog Town",
-      "description": "piv. Sibeeria, Praha, New England Pale Ale"
-    },
-    {
       "name": "12° K(r)yseláč",
       "description": "piv. Four Elements, Praha, Malinový Sour Ale"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "14° Zweite Runde",
-      "description": "piv. Sibeeria, Praha, Hopfenweizen"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "15° Opus Numbers",
