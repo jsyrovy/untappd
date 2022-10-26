@@ -1,16 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Chela",
-      "description": "piv. Valášek/Pacific Plate, Mexican Lager"
+      "name": "10° Višeň",
+      "description": "piv. Klenot, HK, Fruit Sour Ale"
     },
     {
-      "name": "11° Mordýř",
+      "name": "11° Kastelán",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° K(r)yseláč",
-      "description": "piv. Four Elements, Praha, Malinový Sour Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -25,8 +21,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "15° Opus Numbers",
-      "description": "piv. Sibeeria/Puhaste, West Coast IPA"
+      "name": "14° Prácheňská Perla",
+      "description": "piv. Rychtář, Hlinsko, svěltý ležák"
+    },
+    {
+      "name": "16° Seeya",
+      "description": "piv. Pioneer, Žatec, DDH IPA"
     },
     {
       "name": "23° Ancestral Recall",
