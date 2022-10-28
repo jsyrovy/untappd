@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1215304527,
+      "dt": "2022-10-27T23:52:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Kyseláč Višeň",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-kyselac-visen/5015117"
+    },
+    {
+      "id": 1215302966,
+      "dt": "2022-10-27T23:48:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Prácheňská Perla",
+      "brewery": "Pivovar Protivín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-protivin-prachenska-perla/66930"
+    },
+    {
+      "id": 1215178294,
+      "dt": "2022-10-27T16:48:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold IPA /// 14.CIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-cold-ipa-14-cipa-i2/5063621"
+    },
+    {
+      "id": 1215173841,
+      "dt": "2022-10-27T16:09:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rye IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-rye-ipa/5039732"
+    },
+    {
       "id": 1215025524,
       "dt": "2022-10-26T21:14:06+02:00",
       "venue_name": "U Toulavé pípy",
