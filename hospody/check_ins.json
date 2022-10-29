@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1215581489,
+      "dt": "2022-10-28T21:07:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "God Save the Queen",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-god-save-the-queen/5063233"
+    },
+    {
       "id": 1215304527,
       "dt": "2022-10-27T23:52:59+02:00",
       "venue_name": "Pivní ambasáda",
