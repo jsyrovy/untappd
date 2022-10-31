@@ -1,8 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Kastelán",
+      "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° APA Cascade",
+      "description": "piv. Badflash, Praha, APA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -21,8 +25,8 @@
       "description": "piv. Platan, Protivín, svěltý ležák"
     },
     {
-      "name": "15° Rye IPA",
-      "description": "piv. Pivečka, Rousínov u Vyškova, Žitná IPA"
+      "name": "17° God Save The Queen",
+      "description": "piv. Antoš, Slaný, New England IPA"
     },
     {
       "name": "23° Ancestral Recall",
