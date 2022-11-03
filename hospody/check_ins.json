@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1217161191,
+      "dt": "2022-11-02T19:03:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Heřman",
+      "brewery": "Pivovar Nomád",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-herman/3455040"
+    },
+    {
+      "id": 1217159677,
+      "dt": "2022-11-02T18:56:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Počernická 11°",
+      "brewery": "Pivovar Počerňák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pocernak-pocernicka-110/4796525"
+    },
+    {
+      "id": 1217137617,
+      "dt": "2022-11-02T16:39:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Heřman",
+      "brewery": "Pivovar Nomád",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-herman/3455040"
+    },
+    {
+      "id": 1217137425,
+      "dt": "2022-11-02T16:37:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Tropical Hops",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-ipa-tropical-hops/5072839"
+    },
+    {
+      "id": 1217135965,
+      "dt": "2022-11-02T16:20:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pumpkin",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-pumpkin/4717738"
+    },
+    {
       "id": 1217018818,
       "dt": "2022-11-01T20:53:36+01:00",
       "venue_name": "Pivní ambasáda",
