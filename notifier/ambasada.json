@@ -5,6 +5,10 @@
       "description": "piv. Clock, Potštejn, Gluten Reduced Ale"
     },
     {
+      "name": "11° Grave Pact",
+      "description": "piv. Sibeeria/La Débauche, Rye Dark Lager"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -13,20 +17,16 @@
       "description": "piv. Crazy Clown, Bylinný Gin&Ink Sour Ale"
     },
     {
-      "name": "11° Počerňák",
-      "description": "piv. Počerňák, Horní Počernice, Praha, Světlý ležák"
-    },
-    {
-      "name": "12° Heřman",
-      "description": "piv. Nomád, Děčín, German Pils"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "15° Tropical IPA",
-      "description": "piv. Obora, Malšice, IPA"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "15° Idaho",
+      "description": "piv. Mordýř, Dolní Ředice, IPA"
     },
     {
       "name": "23° Ancestral Recall",
