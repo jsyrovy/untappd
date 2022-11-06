@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1218337513,
+      "dt": "2022-11-05T22:10:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský speciál IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svatomartinsky-special-ipa/2380628"
+    },
+    {
+      "id": 1218124013,
+      "dt": "2022-11-05T18:19:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský speciál IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svatomartinsky-special-ipa/2380628"
+    },
+    {
+      "id": 1218110474,
+      "dt": "2022-11-05T18:01:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grave Pact",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grave-pact/5031240"
+    },
+    {
       "id": 1217413784,
       "dt": "2022-11-03T21:46:56+01:00",
       "venue_name": "Pivní ambasáda",
