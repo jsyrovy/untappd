@@ -1,20 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Glee",
-      "description": "piv. Clock, Potštejn, Gluten Reduced Ale"
-    },
-    {
       "name": "11° Grave Pact",
       "description": "piv. Sibeeria/La Débauche, Rye Dark Lager"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "11° Oh My Fuckin Cthulhu",
       "description": "piv. Crazy Clown, Bylinný Gin&Ink Sour Ale"
+    },
+    {
+      "name": "12° Clock",
+      "description": "piv. Clock, Potštejn, American Pale Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -25,12 +21,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "13° Mocnář",
+      "description": "piv. Mordýř, Dolní Ředice, vídeňský ležák"
+    },
+    {
       "name": "14° Svatomartinská",
       "description": "Beskydský pivovárek, Ostravice, IPA"
     },
     {
-      "name": "23° Ancestral Recall",
-      "description": "piv. Sibeeria, Praha, Dark Wild Ale w/Blueberryes, 0,25l"
+      "name": "18° Kasteel Rouge",
+      "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
