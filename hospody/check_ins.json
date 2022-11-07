@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1218708835,
+      "dt": "2022-11-06T21:00:48+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1218649923,
+      "dt": "2022-11-06T19:00:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský speciál IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svatomartinsky-special-ipa/2380628"
+    },
+    {
+      "id": 1218640768,
+      "dt": "2022-11-06T18:39:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pentagram",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-pentagram/4853572"
+    },
+    {
+      "id": 1218626410,
+      "dt": "2022-11-06T18:02:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grave Pact",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grave-pact/5031240"
+    },
+    {
+      "id": 1218593506,
+      "dt": "2022-11-06T16:18:06+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Milkshake IPA Sabro",
+      "brewery": "Chroust",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/chroust-milkshake-ipa-sabro/4989351"
+    },
+    {
       "id": 1218337513,
       "dt": "2022-11-05T22:10:16+01:00",
       "venue_name": "Pivní ambasáda",
