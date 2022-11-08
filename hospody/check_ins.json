@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1218907602,
+      "dt": "2022-11-07T20:48:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mocnář 13°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar-130/4303745"
+    },
+    {
+      "id": 1218881060,
+      "dt": "2022-11-07T18:08:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge (2022)",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge-2022/4814713"
+    },
+    {
+      "id": 1218875488,
+      "dt": "2022-11-07T17:15:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Callista 11",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-callista-11/5107681"
+    },
+    {
       "id": 1218708835,
       "dt": "2022-11-06T21:00:48+01:00",
       "venue_name": "U Toulavé pípy",
