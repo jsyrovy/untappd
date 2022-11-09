@@ -9,8 +9,12 @@
       "description": "piv. Sibeeria/La Débauche, Rye Dark Lager"
     },
     {
-      "name": "12° Clock",
-      "description": "piv. Clock, Potštejn, American Pale Ale"
+      "name": "11° Jonas",
+      "description": "piv. Nomád, Děčín, Kveik Ale"
+    },
+    {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Mocnář",
-      "description": "piv. Mordýř, Dolní Ředice, vídeňský ležák"
     },
     {
       "name": "15° DDH Hazy IPA",
