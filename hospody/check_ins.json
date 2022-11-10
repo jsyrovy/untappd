@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1219171489,
+      "dt": "2022-11-09T15:34:37+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Milkshake IPA Sabro",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-milkshake-ipa-sabro/4989351"
+    },
+    {
+      "id": 1219169386,
+      "dt": "2022-11-09T14:50:35+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Auckland",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-auckland/5051502"
+    },
+    {
       "id": 1219049009,
       "dt": "2022-11-08T20:27:40+01:00",
       "venue_name": "Pivní ambasáda",
@@ -53,6 +71,15 @@
       "brewery": "Pivovar Mordýř",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar-130/4303745"
+    },
+    {
+      "id": 1218894301,
+      "dt": "2022-11-07T19:35:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Callista 11",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-callista-11/5107681"
     },
     {
       "id": 1218881060,
