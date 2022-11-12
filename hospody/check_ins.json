@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1219716314,
+      "dt": "2022-11-11T19:35:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elixír 12",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-elixir-12-single-hop/5111683"
+    },
+    {
+      "id": 1219712431,
+      "dt": "2022-11-11T19:28:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paragánská 12 Single Beer",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-paraganska-12-single-beer/3989429"
+    },
+    {
+      "id": 1219674492,
+      "dt": "2022-11-11T18:25:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DDH Hazy IPA 15°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-ddh-hazy-ipa-150/5093723"
+    },
+    {
+      "id": 1219671902,
+      "dt": "2022-11-11T18:20:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DDH Hazy IPA 15°",
+      "brewery": "Rodinný pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-vik-ddh-hazy-ipa-150/5093723"
+    },
+    {
+      "id": 1219665353,
+      "dt": "2022-11-11T18:06:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elixír 12",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-elixir-12-single-hop/5111683"
+    },
+    {
+      "id": 1219651914,
+      "dt": "2022-11-11T17:35:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elixír 12",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-elixir-12-single-hop/5111683"
+    },
+    {
       "id": 1219363561,
       "dt": "2022-11-10T17:24:41+01:00",
       "venue_name": "U Toulavé pípy",
