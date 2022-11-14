@@ -5,32 +5,32 @@
       "description": "piv. Loutkář, Chrudim, Světlý Ležák"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "11° Samotář",
       "description": "piv. Loutkář, Chrudim, Polotmavý Ležák"
+    },
+    {
+      "name": "11° Skotačivá Veverka",
+      "description": "piv. Valášek, Vsetín, American Pale Ale"
     },
     {
       "name": "12° Loutkář",
       "description": "piv. Loutkář, Chrudim, Světlý Ležák"
     },
     {
-      "name": "12° Paragánská",
-      "description": "piv. Loutkář, Chrudim, Single Hop Ale Kazbek"
+      "name": "12° Martinská",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "13° Chichotavá Dýně",
       "description": "Valášek, Vsetín, Pumkin Ale"
     },
     {
-      "name": "13° Mozaika",
-      "description": "piv. Loutkář, Chrudim, Single Hop Ale Mosaic"
-    },
-    {
       "name": "13° Punk IPA",
       "description": "piv. BrewDog, Fraserburgh, Skotsko, IPA"
+    },
+    {
+      "name": "15° Idaho",
+      "description": "piv. Mordýř, Dolní Ředice, IPA"
     }
   ]
 }
