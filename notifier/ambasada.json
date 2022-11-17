@@ -1,16 +1,20 @@
 {
   "beers": [
     {
-      "name": "10° Marioneta",
-      "description": "piv. Loutkář, Chrudim, Světlý Ležák"
-    },
-    {
-      "name": "11° Skotačivá Veverka",
-      "description": "piv. Valášek, Vsetín, American Pale Ale"
-    },
-    {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+    },
+    {
+      "name": "12° Melchior",
+      "description": "piv. Albrecht, Frýdlant, American Pale Ale"
+    },
+    {
+      "name": "12° Meruňky & Jahody",
+      "description": "piv. Badflash, Praha, Fruit Sour Ale"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Svatomartinská",
@@ -19,10 +23,6 @@
     {
       "name": "12° Svatomartinský Ležák",
       "description": "piv. Agent, Olešnice, Světlý Ležák"
-    },
-    {
-      "name": "13° Chichotavá Dýně",
-      "description": "Valášek, Vsetín, Pumkin Ale"
     },
     {
       "name": "13° Punk IPA",
