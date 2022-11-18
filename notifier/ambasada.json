@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+      "name": "11° Jiskra",
+      "description": "piv. Volt, Jablonec nad Nisou, Světlý Ležák"
     },
     {
-      "name": "12° Melchior",
-      "description": "piv. Albrecht, Frýdlant, American Pale Ale"
+      "name": "11° Kraťas",
+      "description": "Volt & Budvar, Witbier"
     },
     {
-      "name": "12° Meruňky & Jahody",
-      "description": "piv. Badflash, Praha, Fruit Sour Ale"
+      "name": "12° Ohmmm",
+      "description": "piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Pojistka",
+      "description": "piv. Volt, Jablonec nad Nisou, APA"
     },
     {
-      "name": "12° Svatomartinská",
-      "description": "piv. Tvarg, Velká Bystřice, světlý ležák"
+      "name": "12° Zdroj",
+      "description": "piv. Volt, Jablonec nad Nisou, Světlý Ležák"
     },
     {
-      "name": "12° Svatomartinský Ležák",
-      "description": "piv. Agent, Olešnice, Světlý Ležák"
+      "name": "14° Zesilovač",
+      "description": "piv. Volt, Jablonec nad Nisou, IPA"
     },
     {
-      "name": "13° Punk IPA",
-      "description": "piv. BrewDog, Fraserburgh, Skotsko, IPA"
+      "name": "15° Neon",
+      "description": "piv. Volt, Jablonec nad Nisou, NEIPA"
     },
     {
-      "name": "15° Idaho",
-      "description": "piv. Mordýř, Dolní Ředice, IPA"
+      "name": "16° Eliášův Oheň",
+      "description": "piv. Volt, Jablonec nad Nisou, Red IPA"
     }
   ]
 }
