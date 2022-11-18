@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1221444053,
+      "dt": "2022-11-17T17:42:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mlíčňák: Meruňka S Jahodou (Kurnik Šopa Hospoda + Bad Flash)",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-mlicnak-merunka-s-jahodou-kurnik-sopa-hospoda-bad-flash/5016946"
+    },
+    {
+      "id": 1221440974,
+      "dt": "2022-11-17T17:20:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský ležák",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-svatomartinsky-lezak/4601169"
+    },
+    {
+      "id": 1221440824,
+      "dt": "2022-11-17T17:19:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský ležák",
+      "brewery": "Tvarg ",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/tvarg-svatomartinsky-lezak/4601169"
+    },
+    {
+      "id": 1221440736,
+      "dt": "2022-11-17T17:19:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský Ležák 12",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-svatomartinsky-lezak-12/4590212"
+    },
+    {
       "id": 1221293421,
       "dt": "2022-11-16T20:15:56+01:00",
       "venue_name": "Pivní ambasáda",
@@ -53,6 +89,15 @@
       "brewery": "Beer Poets",
       "serving": "Lahvové",
       "beer_link": "https://untappd.com/b/beer-poets-pernikovy-lajf/5118661"
+    },
+    {
+      "id": 1221035217,
+      "dt": "2022-11-15T00:14:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pardubickej Lajf #3",
+      "brewery": "Beer Poets",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-3/5118654"
     },
     {
       "id": 1221033544,
@@ -136,6 +181,15 @@
       "beer_link": "https://untappd.com/b/chroust-5-milkshake-ipa/2353339"
     },
     {
+      "id": 1220801509,
+      "dt": "2022-11-13T20:54:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "$5 Milkshake IPA",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-5-milkshake-ipa/2353339"
+    },
+    {
       "id": 1220801271,
       "dt": "2022-11-13T20:53:58+01:00",
       "venue_name": "U Toulavé pípy",
@@ -172,6 +226,15 @@
       "beer_link": "https://untappd.com/b/chroust-5-milkshake-ipa/2353339"
     },
     {
+      "id": 1220750800,
+      "dt": "2022-11-13T19:07:50+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "$5 Milkshake IPA",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-5-milkshake-ipa/2353339"
+    },
+    {
       "id": 1220739065,
       "dt": "2022-11-13T18:39:35+01:00",
       "venue_name": "U Toulavé pípy",
@@ -203,6 +266,15 @@
       "dt": "2022-11-12T21:11:54+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "$5 Milkshake IPA ",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-5-milkshake-ipa/2353339"
+    },
+    {
+      "id": 1220348238,
+      "dt": "2022-11-12T21:11:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "$5 Milkshake IPA",
       "brewery": "Chroust",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/chroust-5-milkshake-ipa/2353339"
