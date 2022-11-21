@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1222653572,
+      "dt": "2022-11-20T17:14:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Eliášův oheň",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-eliasuv-ohen/2521550"
+    },
+    {
+      "id": 1222646268,
+      "dt": "2022-11-20T16:48:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Neon",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-neon/3021224"
+    },
+    {
+      "id": 1222645704,
+      "dt": "2022-11-20T16:46:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zesilovač",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-zesilovac/2258516"
+    },
+    {
       "id": 1222221241,
       "dt": "2022-11-19T19:38:18+01:00",
       "venue_name": "U Toulavé pípy",
