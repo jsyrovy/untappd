@@ -5,6 +5,10 @@
       "description": "Volt & Budvar, Witbier"
     },
     {
+      "name": "12° Melchior",
+      "description": "piv. Albrecht, Frýdlant, American Pale Ale"
+    },
+    {
       "name": "12° Ohmmm",
       "description": "piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Zdroj",
       "description": "piv. Volt, Jablonec nad Nisou, Světlý Ležák"
-    },
-    {
-      "name": "14° Zesilovač",
-      "description": "piv. Volt, Jablonec nad Nisou, IPA"
     },
     {
       "name": "15° Neon",
