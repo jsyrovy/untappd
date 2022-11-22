@@ -5,6 +5,14 @@
       "description": "Volt & Budvar, Witbier"
     },
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Borůvkový ležák",
+      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+    },
+    {
       "name": "12° Melchior",
       "description": "piv. Albrecht, Frýdlant, American Pale Ale"
     },
@@ -17,16 +25,8 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Svatomartinský Ležák",
-      "description": "piv. Agent, Olešnice, Světlý Ležák"
-    },
-    {
-      "name": "12° Zdroj",
-      "description": "piv. Volt, Jablonec nad Nisou, Světlý Ležák"
-    },
-    {
-      "name": "15° Neon",
-      "description": "piv. Volt, Jablonec nad Nisou, NEIPA"
+      "name": "14° Juicy Bomb Nelson Sauvin+Motueka",
+      "description": "piv. Antoš, Slaný, New England IPA"
     },
     {
       "name": "16° Eliášův Oheň",
