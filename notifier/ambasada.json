@@ -1,20 +1,20 @@
 {
   "beers": [
     {
-      "name": "11° Kraťas",
-      "description": "Volt & Budvar, Witbier"
+      "name": "11° Kazbek",
+      "description": "piv. Klenot, HK, Nefiltrováný Ležák"
     },
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Borůvkový ležák",
-      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+      "name": "12° Aldersbacher",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
     {
-      "name": "12° Melchior",
-      "description": "piv. Albrecht, Frýdlant, American Pale Ale"
+      "name": "12° Blizard",
+      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
     },
     {
       "name": "12° Ohmmm",
