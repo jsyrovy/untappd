@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "11° Kazbek",
-      "description": "piv. Klenot, HK, Nefiltrováný Ležák"
+      "name": "11° Jonas",
+      "description": "piv. Nomád, Děčín, Kveik Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "12° Borůvkový ležák",
+      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
-    },
-    {
-      "name": "12° Blizard",
-      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
-    },
-    {
-      "name": "12° Ohmmm",
-      "description": "piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
+      "name": "12° Meruňky & Jahody",
+      "description": "piv. Badflash, Praha, Fruit Sour Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Weiherer Weisse",
+      "description": "piv. Kundmüller, Horní Franky, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "13° Marzen",
+      "description": "piv. Malešov, světlý ležák"
+    },
+    {
       "name": "14° Juicy Bomb Nelson Sauvin+Motueka",
       "description": "piv. Antoš, Slaný, New England IPA"
     },
     {
-      "name": "16° Eliášův Oheň",
-      "description": "piv. Volt, Jablonec nad Nisou, Red IPA"
+      "name": "18° Reef.",
+      "description": "piv. Moon Lark, Poreba, Polsko, Hazy IPA"
     }
   ]
 }
