@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1223245012,
+      "dt": "2022-11-23T17:05:49+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Single Hop Ale Simcoe 13°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-simcoe-13/2734052"
+    },
+    {
+      "id": 1223244970,
+      "dt": "2022-11-23T17:05:20+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pardubickej Lajf #3",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-3/5118654"
+    },
+    {
+      "id": 1223242067,
+      "dt": "2022-11-23T16:31:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1223241004,
+      "dt": "2022-11-23T16:17:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Bomb Nelson Sauvin & Motueka",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-juicy-bomb-nelson-sauvin-and-motueka/5100933"
+    },
+    {
       "id": 1223088275,
       "dt": "2022-11-22T19:57:38+01:00",
       "venue_name": "Pivní ambasáda",
