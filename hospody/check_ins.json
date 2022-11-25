@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1223651259,
+      "dt": "2022-11-24T21:49:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry & Apricot Sour Ale",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-strawberry-and-apricot-sour-ale/5005644"
+    },
+    {
+      "id": 1223635295,
+      "dt": "2022-11-24T21:20:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-grepfruit-infused-extra-brut-ipa/4347139"
+    },
+    {
+      "id": 1223634369,
+      "dt": "2022-11-24T21:18:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1223621991,
+      "dt": "2022-11-24T20:58:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Triple Gelato: Blueberry Maple Pancake",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-triple-gelato-blueberry-maple-pancake/4953258"
+    },
+    {
+      "id": 1223597453,
+      "dt": "2022-11-24T20:15:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nadílka 20",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nadilka-20/2962054"
+    },
+    {
+      "id": 1223597205,
+      "dt": "2022-11-24T20:15:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mount Cook",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-mount-cook/5121489"
+    },
+    {
+      "id": 1223560898,
+      "dt": "2022-11-24T19:00:30+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Single Hop Ale Simcoe 13°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-single-hop-ale-simcoe-13/2734052"
+    },
+    {
       "id": 1223245012,
       "dt": "2022-11-23T17:05:49+01:00",
       "venue_name": "U Toulavé pípy",
