@@ -9,10 +9,6 @@
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
-      "name": "12° Meruňky & Jahody",
-      "description": "piv. Badflash, Praha, Fruit Sour Ale"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -27,6 +23,10 @@
     {
       "name": "13° Marzen",
       "description": "piv. Malešov, světlý ležák"
+    },
+    {
+      "name": "14° Philadelphia Cascara & Coffee",
+      "description": "piv. Obora, Malšice, Cascara & Coffee Sour Ale"
     },
     {
       "name": "18° Reef.",
