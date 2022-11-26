@@ -1,6 +1,231 @@
 {
   "check_ins": [
     {
+      "id": 1224073549,
+      "dt": "2022-11-25T22:27:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1224049137,
+      "dt": "2022-11-25T21:57:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
+      "id": 1224014895,
+      "dt": "2022-11-25T21:18:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry & Apricot Sour Ale",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-strawberry-and-apricot-sour-ale/5005644"
+    },
+    {
+      "id": 1223987290,
+      "dt": "2022-11-25T20:49:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-grepfruit-infused-extra-brut-ipa/4347139"
+    },
+    {
+      "id": 1223961775,
+      "dt": "2022-11-25T20:21:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry & Apricot Sour Ale",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-strawberry-and-apricot-sour-ale/5005644"
+    },
+    {
+      "id": 1223926429,
+      "dt": "2022-11-25T19:37:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lychee Parker",
+      "brewery": "AleBrowar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/alebrowar-lychee-parker/4969914"
+    },
+    {
+      "id": 1223924294,
+      "dt": "2022-11-25T19:35:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Märzen 13",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-marzen-13/2361925"
+    },
+    {
+      "id": 1223922935,
+      "dt": "2022-11-25T19:33:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lychee Parker",
+      "brewery": "AleBrowar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/alebrowar-lychee-parker/4969914"
+    },
+    {
+      "id": 1223922600,
+      "dt": "2022-11-25T19:32:45+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mount Cook",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-mount-cook/5121489"
+    },
+    {
+      "id": 1223921775,
+      "dt": "2022-11-25T19:31:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1223915402,
+      "dt": "2022-11-25T19:22:35+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour - Plum",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-plum/5110853"
+    },
+    {
+      "id": 1223911918,
+      "dt": "2022-11-25T19:17:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1223895966,
+      "dt": "2022-11-25T18:52:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-grepfruit-infused-extra-brut-ipa/4347139"
+    },
+    {
+      "id": 1223893915,
+      "dt": "2022-11-25T18:49:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1223893485,
+      "dt": "2022-11-25T18:48:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Weizen Hell",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-weizen-hell/121182"
+    },
+    {
+      "id": 1223885039,
+      "dt": "2022-11-25T18:34:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1223868555,
+      "dt": "2022-11-25T18:04:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry & Apricot Sour Ale",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-strawberry-and-apricot-sour-ale/5005644"
+    },
+    {
+      "id": 1223865461,
+      "dt": "2022-11-25T17:58:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jonas",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-jonas/3974430"
+    },
+    {
+      "id": 1223865439,
+      "dt": "2022-11-25T17:58:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-grepfruit-infused-extra-brut-ipa/4347139"
+    },
+    {
+      "id": 1223855963,
+      "dt": "2022-11-25T17:36:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jonas",
+      "brewery": "Pivovar Nomád",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-nomad-jonas/3974430"
+    },
+    {
+      "id": 1223855598,
+      "dt": "2022-11-25T17:35:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Märzen 13",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-marzen-13/2361925"
+    },
+    {
+      "id": 1223850926,
+      "dt": "2022-11-25T17:23:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1223838648,
+      "dt": "2022-11-25T16:48:49+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour - Plum",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-plum/5110853"
+    },
+    {
+      "id": 1223836283,
+      "dt": "2022-11-25T16:40:30+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mount Cook",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-mount-cook/5121489"
+    },
+    {
+      "id": 1223832104,
+      "dt": "2022-11-25T16:22:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Švestka",
+      "brewery": "Pivovar Obora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-svestka/5111752"
+    },
+    {
       "id": 1223651259,
       "dt": "2022-11-24T21:49:09+01:00",
       "venue_name": "Pivní ambasáda",
