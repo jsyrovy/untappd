@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1224377548,
+      "dt": "2022-11-26T17:34:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-grepfruit-infused-extra-brut-ipa/4347139"
+    },
+    {
+      "id": 1224367530,
+      "dt": "2022-11-26T17:12:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1224358825,
+      "dt": "2022-11-26T16:50:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
       "id": 1224073549,
       "dt": "2022-11-25T22:27:48+01:00",
       "venue_name": "Pivní ambasáda",
