@@ -5,8 +5,8 @@
       "description": "piv. Nomád, Děčín, Kveik Ale"
     },
     {
-      "name": "12° Borůvkový ležák",
-      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -21,16 +21,16 @@
       "description": "piv. Pivečka, Rousínov, Grapefriut Brut IPA"
     },
     {
-      "name": "13° Marzen",
-      "description": "piv. Malešov, světlý ležák"
-    },
-    {
       "name": "14° Philadelphia Cascara & Coffee",
       "description": "piv. Obora, Malšice, Cascara & Coffee Sour Ale"
     },
     {
       "name": "18° Reef.",
       "description": "piv. Moon Lark, Poreba, Polsko, Hazy IPA"
+    },
+    {
+      "name": "21° Black Jack",
+      "description": "piv. Sibeeria & Budvar, Imperial Black Porter"
     }
   ]
 }
