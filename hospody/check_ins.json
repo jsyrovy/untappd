@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1224972088,
+      "dt": "2022-11-27T21:55:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
+    },
+    {
+      "id": 1224957150,
+      "dt": "2022-11-27T21:20:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
+    },
+    {
+      "id": 1224953050,
+      "dt": "2022-11-27T21:11:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
+      "id": 1224947984,
+      "dt": "2022-11-27T21:00:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1224935688,
+      "dt": "2022-11-27T20:33:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nuselský Sokolík 12°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-nuselsky-sokolik-120/4796721"
+    },
+    {
+      "id": 1224935023,
+      "dt": "2022-11-27T20:32:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Hopfenweizen",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-hopfenweizen/3480392"
+    },
+    {
+      "id": 1224884376,
+      "dt": "2022-11-27T18:23:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1224869485,
+      "dt": "2022-11-27T17:33:25+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční ležák",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-vanocni-lezak/2985967"
+    },
+    {
+      "id": 1224849790,
+      "dt": "2022-11-27T16:17:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
       "id": 1224377548,
       "dt": "2022-11-26T17:34:17+01:00",
       "venue_name": "Pivní ambasáda",
