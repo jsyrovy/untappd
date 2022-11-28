@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Jonas",
-      "description": "piv. Nomád, Děčín, Kveik Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Nuselský Sokolík",
+      "description": "piv. Four Elements, Praha, American Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
