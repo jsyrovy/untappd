@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1225149929,
+      "dt": "2022-11-28T22:49:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
+    },
+    {
+      "id": 1225148595,
+      "dt": "2022-11-28T22:40:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
+      "id": 1225147430,
+      "dt": "2022-11-28T22:33:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nuselský Sokolík 12°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-nuselsky-sokolik-120/4796721"
+    },
+    {
+      "id": 1225124899,
+      "dt": "2022-11-28T20:24:16+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1225116672,
+      "dt": "2022-11-28T19:35:35+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1225114506,
+      "dt": "2022-11-28T19:21:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
+    },
+    {
+      "id": 1225111575,
+      "dt": "2022-11-28T19:00:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
+      "id": 1225111110,
+      "dt": "2022-11-28T18:57:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reef.",
+      "brewery": "Moon Lark Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/moon-lark-brewery-reef/5027366"
+    },
+    {
+      "id": 1225106009,
+      "dt": "2022-11-28T18:18:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nuselský Sokolík 12°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-nuselsky-sokolik-120/4796721"
+    },
+    {
+      "id": 1225105446,
+      "dt": "2022-11-28T18:14:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bad Flash Fanatic NEIPA – Sabro 14",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-bad-flash-fanatic-neipa-sabro-14/3768277"
+    },
+    {
+      "id": 1225104462,
+      "dt": "2022-11-28T18:06:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
+      "id": 1225102514,
+      "dt": "2022-11-28T17:49:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nuselský Sokolík 12°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-nuselsky-sokolik-120/4796721"
+    },
+    {
+      "id": 1225098408,
+      "dt": "2022-11-28T17:07:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-grepfruit-infused-extra-brut-ipa/4347139"
+    },
+    {
       "id": 1224972088,
       "dt": "2022-11-27T21:55:30+01:00",
       "venue_name": "Pivní ambasáda",
