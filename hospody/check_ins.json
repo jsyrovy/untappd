@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1225305071,
+      "dt": "2022-11-29T23:46:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aventinus (TAP06)",
+      "brewery": "Schneider Weisse G. Schneider & Sohn",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-aventinus-tap06/16851"
+    },
+    {
+      "id": 1225281072,
+      "dt": "2022-11-29T21:40:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aventinus (TAP06)",
+      "brewery": "Schneider Weisse G. Schneider & Sohn",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-aventinus-tap06/16851"
+    },
+    {
+      "id": 1225277853,
+      "dt": "2022-11-29T21:27:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
+    },
+    {
+      "id": 1225277485,
+      "dt": "2022-11-29T21:25:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aventinus (TAP06)",
+      "brewery": "Schneider Weisse G. Schneider & Sohn",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-aventinus-tap06/16851"
+    },
+    {
+      "id": 1225262447,
+      "dt": "2022-11-29T20:26:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
+    },
+    {
+      "id": 1225262201,
+      "dt": "2022-11-29T20:25:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Cascara & Coffee",
+      "brewery": "Pivovar Obora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-cascara-and-coffee/5073348"
+    },
+    {
+      "id": 1225221674,
+      "dt": "2022-11-29T15:44:48+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1225220625,
+      "dt": "2022-11-29T15:19:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Švestka",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-svestka/5111752"
+    },
+    {
       "id": 1225149929,
       "dt": "2022-11-28T22:49:30+01:00",
       "venue_name": "Pivní ambasáda",
@@ -80,6 +152,15 @@
       "brewery": "Four Elements",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/four-elements-nuselsky-sokolik-120/4796721"
+    },
+    {
+      "id": 1225105463,
+      "dt": "2022-11-28T18:14:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Jack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-black-jack/5130408"
     },
     {
       "id": 1225105446,
