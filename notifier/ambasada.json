@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° Colours of farm vol.1",
+      "description": "piv. Haksna, Ostrava, Chokeberry Saison Ale"
     },
     {
-      "name": "11° Perg Ale",
-      "description": "piv. Auersperg, Žáky, Ale"
+      "name": "11° Ležák Haksna",
+      "description": "piv. Haksna, Ostrava, Czech Lager"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Plummy Plum",
+      "description": "piv. Haksna, Ostrava, Sour Ale"
     },
     {
-      "name": "14° Goro",
-      "description": "piv. HoppyDog, Ostrava, White IPA"
+      "name": "13° Hazy Memories",
+      "description": "piv. Haksna, Ostrava, Hazy Pale Ale"
     },
     {
-      "name": "14° Philadelphia Cascara & Coffee",
-      "description": "piv. Obora, Malšice, Cascara & Coffee Sour Ale"
+      "name": "14° ABC Wheat IPA",
+      "description": "piv. Haksna, Ostrava, Wheat IPA"
     },
     {
-      "name": "17° Unicorn Swingers Party",
-      "description": "piv. Crazy Clown, pink milkshake NEIPA s marshmallows, colovým pelyňkem, liči, cukrovou vatou a červenou řepou"
+      "name": "15° Nest in West",
+      "description": "piv. Haksna, Ostrava, West Coast IPA"
     },
     {
-      "name": "18,5° Tap 6 Unser Aventinus",
-      "description": "piv. G. Schneider & Sohn, Kelheim, Bavorsko, Weizen Doppelbock"
+      "name": "17° Tropical city",
+      "description": "piv. Haksna, Ostrava, Pastry Sour Ale"
     },
     {
-      "name": "21° Black Jack",
-      "description": "piv. Sibeeria & Budvar, Imperial Black Porter"
+      "name": "18° Enjoy the feeling",
+      "description": "piv. Haksna, Ostrava, Double NEIPA"
     }
   ]
 }
