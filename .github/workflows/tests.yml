@@ -7,9 +7,9 @@ jobs:
       - name: Check out
         uses: actions/checkout@v2
       - name: Setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.9.5"
+          python-version: "3.11"
       - name: Create venv
         run: make init
       - name: Test pivni-valka
@@ -22,9 +22,9 @@ jobs:
       - name: Check out
         uses: actions/checkout@v2
       - name: Setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.9.5"
+          python-version: "3.11"
       - name: Create venv
         run: make init
       - name: Test
@@ -35,9 +35,9 @@ jobs:
       - name: Check out
         uses: actions/checkout@v2
       - name: Setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.9.5"
+          python-version: "3.11"
       - name: Create venv
         run: make init
       - name: Test pivni-valka
