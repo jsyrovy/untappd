@@ -125,10 +125,10 @@
         
         <a href="https://untappd.com/user/sejrik">
             <div class="item-count" style="grid-area: item-sejrik; background: #577590;">
-                <span class="count">602</span>
+                <span class="count">603</span>
                 <div>
                     <span class="diff" title="Včera">+1</span>
-                    <span class="diff" title="Poslední týden">+7</span>
+                    <span class="diff" title="Poslední týden">+8</span>
                     <span class="diff" title="Poslední měsíc">+28</span>
                 </div>
                 <div class="name">Jirka 👑</div>
@@ -139,7 +139,7 @@
             <div class="item-count" style="grid-area: item-mencik2; background: #43aa8b;">
                 <span class="count">473</span>
                 <div>
-                    <span class="diff" title="Včera">+2</span>
+                    <span class="diff" title="Včera">0</span>
                     <span class="diff" title="Poslední týden">+3</span>
                     <span class="diff" title="Poslední měsíc">+10</span>
                 </div>
@@ -149,11 +149,11 @@
         
         <a href="https://untappd.com/user/Mates511">
             <div class="item-count" style="grid-area: item-Mates511; background: #90be6d;">
-                <span class="count">313</span>
+                <span class="count">314</span>
                 <div>
-                    <span class="diff" title="Včera">+3</span>
-                    <span class="diff" title="Poslední týden">+12</span>
-                    <span class="diff" title="Poslední měsíc">+38</span>
+                    <span class="diff" title="Včera">+1</span>
+                    <span class="diff" title="Poslední týden">+10</span>
+                    <span class="diff" title="Poslední měsíc">+39</span>
                 </div>
                 <div class="name">Matěj </div>
             </div>
@@ -195,26 +195,26 @@
     const totalChart = new Chart(totalCtx, {
         type: 'line',
         data: {
-            labels: ['2022-11-21', '2022-11-22', '2022-11-23', '2022-11-24', '2022-11-25', '2022-11-26', '2022-11-27', '2022-11-28', '2022-11-29', '2022-11-30', '2022-12-01', '2022-12-02', '2022-12-03', '2022-12-04'],
+            labels: ['2022-11-22', '2022-11-23', '2022-11-24', '2022-11-25', '2022-11-26', '2022-11-27', '2022-11-28', '2022-11-29', '2022-11-30', '2022-12-01', '2022-12-02', '2022-12-03', '2022-12-04', '2022-12-05'],
             datasets: [
                 
                 {
                     label: 'Jirka',
-                    data: [588, 588, 588, 589, 592, 593, 595, 595, 595, 596, 597, 600, 601, 602],
+                    data: [588, 588, 589, 592, 593, 595, 595, 595, 596, 597, 600, 601, 602, 603],
                     borderColor: '#577590',
                     backgroundColor: '#577590',
                 },
                 
                 {
                     label: 'Dan',
-                    data: [467, 467, 467, 467, 470, 470, 470, 470, 470, 470, 471, 471, 471, 473],
+                    data: [467, 467, 467, 470, 470, 470, 470, 470, 470, 471, 471, 471, 473, 473],
                     borderColor: '#43aa8b',
                     backgroundColor: '#43aa8b',
                 },
                 
                 {
                     label: 'Matěj',
-                    data: [291, 291, 292, 293, 294, 298, 301, 304, 305, 307, 308, 309, 310, 313],
+                    data: [291, 292, 293, 294, 298, 301, 304, 305, 307, 308, 309, 310, 313, 314],
                     borderColor: '#90be6d',
                     backgroundColor: '#90be6d',
                 },
@@ -241,33 +241,33 @@
     const weeklyChart = new Chart(weeklyCtx, {
         type: 'line',
         data: {
-            labels: ['2022-37', '2022-38', '2022-39', '2022-40', '2022-41', '2022-42', '2022-43', '2022-44', '2022-45', '2022-46', '2022-47', '2022-48'],
+            labels: ['2022-37', '2022-38', '2022-39', '2022-40', '2022-41', '2022-42', '2022-43', '2022-44', '2022-45', '2022-46', '2022-47', '2022-48', '2022-49'],
             datasets: [
                 
                 {
                     label: 'Matěj',
-                    data: [1, 5, 12, 5, 7, 5, 4, 0, 5, 11, 10, 12],
+                    data: [1, 5, 12, 5, 7, 5, 4, 0, 5, 11, 10, 12, 1],
                     borderColor: '#90be6d',
                     backgroundColor: '#90be6d',
                 },
                 
                 {
                     label: 'Dan',
-                    data: [7, 2, 4, 5, 12, 4, 3, 3, 0, 2, 3, 3],
+                    data: [7, 2, 4, 5, 12, 4, 3, 3, 0, 2, 3, 3, 0],
                     borderColor: '#43aa8b',
                     backgroundColor: '#43aa8b',
                 },
                 
                 {
                     label: 'Ondra',
-                    data: [0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0],
+                    data: [0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0],
                     borderColor: '#f9c74f',
                     backgroundColor: '#f9c74f',
                 },
                 
                 {
                     label: 'Jirka',
-                    data: [1, 5, 6, 5, 14, 7, 6, 3, 5, 6, 9, 7],
+                    data: [1, 5, 6, 5, 14, 7, 6, 3, 5, 6, 9, 7, 1],
                     borderColor: '#577590',
                     backgroundColor: '#577590',
                 },
