@@ -5,10 +5,6 @@
       "description": "piv. Haksna, Ostrava, Chokeberry Saison Ale"
     },
     {
-      "name": "11° Ležák Haksna",
-      "description": "piv. Haksna, Ostrava, Czech Lager"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,20 +13,24 @@
       "description": "piv. Auersperg, Žáky, Ale"
     },
     {
+      "name": "12° Divoký Balón Mandarinka",
+      "description": "piv. Rotor, Kunovice, Kettle Sour Ale"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
       "name": "14° ABC Wheat IPA",
       "description": "piv. Haksna, Ostrava, Wheat IPA"
     },
     {
-      "name": "14° Philadelphia Cascara & Coffee",
-      "description": "piv. Obora, Malšice, Cascara & Coffee Sour Ale"
+      "name": "14° Goro",
+      "description": "piv. HoppyDog, Ostrava, White IPA"
     },
     {
       "name": "17° Tropical city",
       "description": "piv. Haksna, Ostrava, Pastry Sour Ale"
-    },
-    {
-      "name": "18° Enjoy the feeling",
-      "description": "piv. Haksna, Ostrava, Double NEIPA"
     }
   ]
 }
