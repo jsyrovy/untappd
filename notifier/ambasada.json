@@ -1,18 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Colours of farm vol.1",
-      "description": "piv. Haksna, Ostrava, Chokeberry Saison Ale"
-    },
-    {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° Perg Ale",
-      "description": "piv. Auersperg, Žáky, Ale"
-    },
-    {
       "name": "12° Divoký Balón Mandarinka",
       "description": "piv. Rotor, Kunovice, Kettle Sour Ale"
     },
@@ -21,16 +9,28 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "14° ABC Wheat IPA",
-      "description": "piv. Haksna, Ostrava, Wheat IPA"
+      "name": "13,7° Lowenbrau Oktoberfestbier",
+      "description": "piv. Lowenbrau, Mnichov, Festbier Hell"
     },
     {
-      "name": "14° Goro",
-      "description": "piv. HoppyDog, Ostrava, White IPA"
+      "name": "13° Brundibár",
+      "description": "piv. Mordýř, Dolní Ředice, IPL"
     },
     {
-      "name": "17° Tropical city",
-      "description": "piv. Haksna, Ostrava, Pastry Sour Ale"
+      "name": "13° Samotář \"Ella\"",
+      "description": "piv. U Vojtěchů, Pardubice, Single Hop Ale"
+    },
+    {
+      "name": "15° Velvyslanec",
+      "description": "piv. Ovipistán, Ledce, IPA"
+    },
+    {
+      "name": "17° Unicorn Swingers Party",
+      "description": "piv. Crazy Clown, pink milkshake NEIPA s marshmallows, colovým pelyňkem, liči, cukrovou vatou a červenou řepou"
+    },
+    {
+      "name": "18,5° Tap 6 Unser Aventinus",
+      "description": "piv. G. Schneider & Sohn, Kelheim, Bavorsko, Weizen Doppelbock"
     }
   ]
 }
