@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1227508778,
+      "dt": "2022-12-07T19:31:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Goro",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-goro/2094412"
+    },
+    {
+      "id": 1227504484,
+      "dt": "2022-12-07T19:14:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Colours of Farm (Arónie)",
+      "brewery": "Haksna Brewery",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/haksna-brewery-colours-of-farm-aronie/5065393"
+    },
+    {
+      "id": 1227496159,
+      "dt": "2022-12-07T18:37:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Divoký Balon Mandarinka",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-divoky-balon-mandarinka/5149985"
+    },
+    {
+      "id": 1227484245,
+      "dt": "2022-12-07T17:27:46+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tapawera",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-tapawera/4486680"
+    },
+    {
+      "id": 1227483237,
+      "dt": "2022-12-07T17:19:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "ABC White IPA 14°",
+      "brewery": "Létající bezdomovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/letajici-bezdomovec-abc-white-ipa-140/5138511"
+    },
+    {
+      "id": 1227482528,
+      "dt": "2022-12-07T17:13:34+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Harvest DDH Hazy IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-harvest-ddh-hazy-ipa/5056317"
+    },
+    {
+      "id": 1227480645,
+      "dt": "2022-12-07T16:56:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Colours of Farm vol. 1",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-colours-of-farm-vol-1/4989220"
+    },
+    {
+      "id": 1227478558,
+      "dt": "2022-12-07T16:31:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "ABC White IPA 14°",
+      "brewery": "Létající bezdomovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/letajici-bezdomovec-abc-white-ipa-140/5138511"
+    },
+    {
+      "id": 1227477346,
+      "dt": "2022-12-07T16:12:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Goro",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-goro/2094412"
+    },
+    {
       "id": 1226982610,
       "dt": "2022-12-04T22:23:37+01:00",
       "venue_name": "U Toulavé pípy",
