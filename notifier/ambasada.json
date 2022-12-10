@@ -1,8 +1,16 @@
 {
   "beers": [
     {
-      "name": "12° Divoký Balón Mandarinka",
-      "description": "piv. Rotor, Kunovice, Kettle Sour Ale"
+      "name": "10° Sametová",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Final Cuntdown Sabro",
+      "description": "piv. Crazy Clown, Single Hop Ale"
+    },
+    {
+      "name": "12° Akumulátor",
+      "description": "piv. Volt, Jablonec nad Nisou, Weizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -13,12 +21,8 @@
       "description": "piv. Lowenbrau, Mnichov, Festbier Hell"
     },
     {
-      "name": "13° Brundibár",
-      "description": "piv. Mordýř, Dolní Ředice, IPL"
-    },
-    {
-      "name": "13° Samotář \"Ella\"",
-      "description": "piv. U Vojtěchů, Pardubice, Single Hop Ale"
+      "name": "13° Samurai",
+      "description": "piv. Agent, Olešnice, Sour Ale s mandarinkami a vánočním kořením"
     },
     {
       "name": "15° Velvyslanec",
@@ -27,10 +31,6 @@
     {
       "name": "17° Unicorn Swingers Party",
       "description": "piv. Crazy Clown, pink milkshake NEIPA s marshmallows, colovým pelyňkem, liči, cukrovou vatou a červenou řepou"
-    },
-    {
-      "name": "18,5° Tap 6 Unser Aventinus",
-      "description": "piv. G. Schneider & Sohn, Kelheim, Bavorsko, Weizen Doppelbock"
     }
   ]
 }
