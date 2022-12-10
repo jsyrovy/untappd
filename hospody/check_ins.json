@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1228218834,
+      "dt": "2022-12-10T00:30:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
       "id": 1227805517,
       "dt": "2022-12-08T23:09:27+01:00",
       "venue_name": "Pivní ambasáda",
