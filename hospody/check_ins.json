@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1228467481,
+      "dt": "2022-12-10T18:00:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Sabro",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-sabro/5141332"
+    },
+    {
+      "id": 1228464237,
+      "dt": "2022-12-10T17:53:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Unicorn Swingers Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-unicorn-swingers-party/5143150"
+    },
+    {
+      "id": 1228464199,
+      "dt": "2022-12-10T17:53:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Unicorn Swingers Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-unicorn-swingers-party/5143150"
+    },
+    {
+      "id": 1228462311,
+      "dt": "2022-12-10T17:49:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Sabro",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-sabro/5141332"
+    },
+    {
+      "id": 1228456602,
+      "dt": "2022-12-10T17:37:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1228448991,
+      "dt": "2022-12-10T17:21:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
+      "id": 1228436056,
+      "dt": "2022-12-10T16:52:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Sabro",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-sabro/5141332"
+    },
+    {
       "id": 1228218834,
       "dt": "2022-12-10T00:30:46+01:00",
       "venue_name": "Pivní ambasáda",
