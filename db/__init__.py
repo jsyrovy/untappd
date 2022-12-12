@@ -4,8 +4,8 @@ from typing import Optional
 
 from utils.common import ENCODING
 
-PATH = 'data.sqlite'
-DUMP_PATH = 'data_dump.sql'
+PATH = "data.sqlite"
+DUMP_PATH = "data_dump.sql"
 
 
 class Db:
@@ -14,9 +14,9 @@ class Db:
         self.cur = self.con.cursor()
 
     def dump(self) -> None:
-        with open(DUMP_PATH, 'w', encoding=ENCODING) as f:
+        with open(DUMP_PATH, "w", encoding=ENCODING) as f:
             for line in self.con.iterdump():
-                f.write(f'{line}\n')
+                f.write(f"{line}\n")
 
     def close(self) -> None:
         self.con.close()

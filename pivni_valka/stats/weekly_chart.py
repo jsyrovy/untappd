@@ -7,7 +7,7 @@ from pivni_valka.stats.common import ChartData, ChartDataset
 
 
 def _get_week_stats() -> dict[str, dict[str, int]]:
-    since = (datetime.date.today() - datetime.timedelta(weeks=12)).strftime('%Y-%W')
+    since = (datetime.date.today() - datetime.timedelta(weeks=12)).strftime("%Y-%W")
     result: dict[str, dict[str, int]] = {}
     stats = db.query_all(
         """
@@ -17,7 +17,7 @@ def _get_week_stats() -> dict[str, dict[str, int]]:
             GROUP BY week, user
             ORDER BY week
         """,
-        (since,)
+        (since,),
     )
 
     for week, user_name, beers in stats:

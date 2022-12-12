@@ -5,28 +5,28 @@ import utils
 
 @dataclass
 class Beer:
-    name: str = ''
-    description: str = ''
+    name: str = ""
+    description: str = ""
 
     def __str__(self) -> str:
-        return f'{self.name}\n{self.description}'
+        return f"{self.name}\n{self.description}"
 
     @staticmethod
-    def from_json(json_: dict[str, str]) -> 'Beer':
+    def from_json(json_: dict[str, str]) -> "Beer":
         return Beer(
-            json_['name'],
-            json_['description'],
+            json_["name"],
+            json_["description"],
         )
 
     def to_json(self) -> dict[str, str]:
         return {
-            'name': self.name,
-            'description': self.description,
+            "name": self.name,
+            "description": self.description,
         }
 
 
 class Offer:
-    PUB_IN_NOTIFICATION = ''
+    PUB_IN_NOTIFICATION = ""
 
     def __init__(self) -> None:
         self._previous_beers: list[Beer] = []
@@ -37,8 +37,8 @@ class Offer:
         raise NotImplementedError
 
     def send_twitter_message(self) -> None:
-        message = f'Nově na čepu {self.PUB_IN_NOTIFICATION}:\n\n'
-        message += '\n\n'.join(str(beer) for beer in self.new_beers)
+        message = f"Nově na čepu {self.PUB_IN_NOTIFICATION}:\n\n"
+        message += "\n\n".join(str(beer) for beer in self.new_beers)
 
         twitter_client = utils.twitter.Client()
         twitter_client.send_message(message)

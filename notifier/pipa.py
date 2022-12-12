@@ -19,16 +19,16 @@ class PipaBeer(Beer):
         return self.name == other.name and self.description == other.description
 
     @staticmethod
-    def from_json(json_: dict[str, str]) -> 'PipaBeer':
+    def from_json(json_: dict[str, str]) -> "PipaBeer":
         return PipaBeer(
-            json_['beer_name'],
-            json_['brewery'],
-            datetime.fromisoformat(json_['dt']),
+            json_["beer_name"],
+            json_["brewery"],
+            datetime.fromisoformat(json_["dt"]),
         )
 
 
 class PipaOffer(Offer):
-    PUB_IN_NOTIFICATION = 'v Pípě'
+    PUB_IN_NOTIFICATION = "v Pípě"
     PUB_NAME = utils.PIPA_NAME
 
     def run(self) -> None:
@@ -41,23 +41,28 @@ class PipaOffer(Offer):
             return
 
         beers = [
-            PipaBeer.from_json(check_in) for check_in in json.loads(path.read_text())['check_ins']
-            if check_in['venue_name'] == self.PUB_NAME
+            PipaBeer.from_json(check_in)
+            for check_in in json.loads(path.read_text())["check_ins"]
+            if check_in["venue_name"] == self.PUB_NAME
         ]
 
         now = datetime.now(tz=timezone(timedelta(seconds=7200)))
 
-        self._previous_beers = list({
-            beer for beer in beers
-            if now - timedelta(days=3) < beer.dt < now - timedelta(days=1)
-        })
-        self._current_beers = list({
-            beer for beer in beers
-            if beer.dt > now - timedelta(days=1)
-        })
-        self.new_beers = [beer for beer in self._current_beers if beer not in self._previous_beers]
+        self._previous_beers = list(
+            {
+                beer
+                for beer in beers
+                if now - timedelta(days=3) < beer.dt < now - timedelta(days=1)
+            }
+        )
+        self._current_beers = list(
+            {beer for beer in beers if beer.dt > now - timedelta(days=1)}
+        )
+        self.new_beers = [
+            beer for beer in self._current_beers if beer not in self._previous_beers
+        ]
 
 
 class LodOffer(PipaOffer):
-    PUB_IN_NOTIFICATION = 'na Lodi'
+    PUB_IN_NOTIFICATION = "na Lodi"
     PUB_NAME = utils.LOD_NAME

@@ -2,7 +2,7 @@ import pytest
 
 from pivni_valka import PivniValka
 
-USER_PROFILE = ''' \
+USER_PROFILE = """ \
 <html>
   <body>
     <div class="stats">
@@ -42,19 +42,19 @@ USER_PROFILE = ''' \
     </div>
   </body>
 </html>
-'''
+"""
 
 
 def test_parse_unique_beers_count():
-    user_profile = USER_PROFILE.format(unique_beers_count='1,234')
+    user_profile = USER_PROFILE.format(unique_beers_count="1,234")
 
     assert PivniValka().parse_unique_beers_count(user_profile) == 1234
 
 
 def test_parse_unique_beers_count_with_invalid_user_profile():
-    user_profile = '<html></html>'
+    user_profile = "<html></html>"
 
     with pytest.raises(ValueError) as excinfo:
         PivniValka().parse_unique_beers_count(user_profile)
 
-    assert str(excinfo.value) == 'Cannot parse user profile.'
+    assert str(excinfo.value) == "Cannot parse user profile."
