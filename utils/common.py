@@ -1,4 +1,3 @@
-import argparse
 import random
 import time
 
@@ -18,14 +17,6 @@ BASE_URL = 'https://untappd.com'
 PIPA_NAME = 'U Toulavé pípy'
 AMBASADA_NAME = 'Pivní ambasáda'
 LOD_NAME = 'Loď Otava'
-
-
-def get_run_args() -> tuple[bool, bool]:
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--local', action='store_true', help="don't download data from website")
-    parser.add_argument('--tweetless', action='store_true', help="don't tweet or send message")
-    args = parser.parse_args()
-    return args.local, args.tweetless
 
 
 def get_random_user_agent() -> str:

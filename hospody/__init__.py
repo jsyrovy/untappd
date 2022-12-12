@@ -86,8 +86,7 @@ class Hospody(BaseRobot):
         new_check_ins = []
 
         for venue in venues:
-            local, _ = utils.get_run_args()
-            new_check_ins.extend(get_new_check_ins(local, venue, venues))
+            new_check_ins.extend(get_new_check_ins(self._args.local, venue, venues))
             utils.random_sleep()
 
         check_ins = load_check_ins(venues)

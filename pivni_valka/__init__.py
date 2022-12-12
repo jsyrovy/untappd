@@ -12,8 +12,7 @@ from robot.db import DbRobot
 
 class PivniValka(DbRobot):
     def _main(self) -> None:
-        local, tweetless = utils.get_run_args()
-        unique_beers_count = self.get_unique_beers_count(local)
+        unique_beers_count = self.get_unique_beers_count()
         users_with_new_beers = self.save_daily_stats_db(unique_beers_count)
         page = self.get_page(
             utils.get_template('pivni-valka.html'),
@@ -54,7 +53,7 @@ class PivniValka(DbRobot):
         with open('pivni_valka/chart_all.html', 'w', encoding=utils.ENCODING) as f:
             f.write(page_all)
 
-        if not local and not tweetless and users_with_new_beers:
+        if not self._args.local and not self._args.tweetless and users_with_new_beers:
             twitter_client = utils.twitter.Client()
             status = self.get_tweet_status(users_with_new_beers)
 
@@ -63,10 +62,10 @@ class PivniValka(DbRobot):
             except utils.twitter.DuplicateTweetError:
                 logging.warning(f'Tweet jiz existuje: {status}')
 
-    def get_unique_beers_count(self, local: bool) -> dict[str, int]:
+    def get_unique_beers_count(self) -> dict[str, int]:
         data = {}
 
-        if local:
+        if self._args.local:
             total_unique_beers = common.get_total_unique_beers()
             for user_name in utils.user.USER_NAMES:
                 data[user_name] = total_unique_beers[user_name] + random.randint(0, 10)
