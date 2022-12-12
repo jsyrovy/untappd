@@ -30,6 +30,8 @@ help:
 	@echo "  install mypy types"
 	@echo "make mypy"
 	@echo "  run mypy test"
+	@echo "make flake8"
+	@echo "  run flake8 test"
 	@echo "make black"
 	@echo "  format code"
 
@@ -69,6 +71,9 @@ run-notifier-tweetless:
 
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .
+
+flake8:
+	${PYTHON} -m flake8 .
 
 remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
