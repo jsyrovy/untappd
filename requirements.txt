@@ -6,3 +6,4 @@ mypy
 types-requests
 tweepy
 csv-to-sqlite
+black

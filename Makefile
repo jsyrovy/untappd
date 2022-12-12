@@ -30,6 +30,8 @@ help:
 	@echo "  install mypy types"
 	@echo "make mypy"
 	@echo "  run mypy test"
+	@echo "make black"
+	@echo "  format code"
 
 init:
 	python3 -m venv venv
@@ -70,3 +72,6 @@ mypy:
 
 remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
+
+black:
+	${PYTHON} -m black .
