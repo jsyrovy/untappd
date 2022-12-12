@@ -1,3 +1,3 @@
 from . import twitter
 from . import user
-from .common import *
+from .common import *  # noqa: F403

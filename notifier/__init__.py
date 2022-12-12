@@ -1,4 +1,3 @@
-import utils
 from notifier.ambasada import AmbasadaOffer
 from notifier.base import Offer
 from notifier.pipa import PipaOffer, LodOffer
