@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1229113710,
+      "dt": "2022-12-11T22:10:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
+      "id": 1229108417,
+      "dt": "2022-12-11T21:58:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1229078634,
+      "dt": "2022-12-11T20:59:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Unicorn Swingers Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-unicorn-swingers-party/5143150"
+    },
+    {
+      "id": 1229072724,
+      "dt": "2022-12-11T20:48:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Unicorn Swingers Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-unicorn-swingers-party/5143150"
+    },
+    {
+      "id": 1229054873,
+      "dt": "2022-12-11T20:13:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1229054019,
+      "dt": "2022-12-11T20:11:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
       "id": 1228467481,
       "dt": "2022-12-10T18:00:50+01:00",
       "venue_name": "Pivní ambasáda",
