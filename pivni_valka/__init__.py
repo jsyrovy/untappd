@@ -119,7 +119,7 @@ class PivniValka(DbRobot):
 
         return ' '.join(values)
 
-    def get_grid_template_areas(self) -> tuple[str, str, str, str]:
+    def get_grid_template_areas(self) -> tuple[str, ...]:
         user_items = [f'item-{user_name}' for user_name in utils.user.USER_NAMES]
 
         return (
