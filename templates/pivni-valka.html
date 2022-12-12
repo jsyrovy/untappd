@@ -69,6 +69,11 @@
             margin: 5px;
         }
 
+        .item-matej-chart {
+            grid-area: item-matej-chart;
+            margin: 5px;
+        }
+
         .item-twitter {
             grid-area: item-twitter;
             margin: 5px;
@@ -128,6 +133,10 @@
             <canvas id="weekly-chart"></canvas>
         </div>
 
+        <div class="item-matej-chart" title="Matějovy ztráty">
+            <canvas id="matej-chart"></canvas>
+        </div>
+
         <div class="item-twitter">
             <a class="twitter-timeline" href="https://twitter.com/pivni_valka?ref_src=twsrc%5Etfw">
                 Tweets by pivni_valka
@@ -169,6 +178,31 @@
             labels: {{ weekly_chart_data.labels | safe }},
             datasets: [
                 {% for dataset in weekly_chart_data.datasets %}
+                {
+                    label: '{{ dataset.label }}',
+                    data: {{ dataset.data | safe }},
+                    borderColor: '{{ dataset.color }}',
+                    backgroundColor: '{{ dataset.color }}',
+                },
+                {% endfor %}
+            ],
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            },
+        },
+    });
+
+    const matejCtx = document.getElementById('matej-chart').getContext('2d');
+    const matejChart = new Chart(matejCtx, {
+        type: 'line',
+        data: {
+            labels: {{ matej_chart_data.labels | safe }},
+            datasets: [
+                {% for dataset in matej_chart_data.datasets %}
                 {
                     label: '{{ dataset.label }}',
                     data: {{ dataset.data | safe }},
