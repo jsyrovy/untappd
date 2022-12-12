@@ -63,7 +63,10 @@ class PivniValka(DbRobot):
                 logging.warning(f'Tweet jiz existuje: {status}')
 
     def get_unique_beers_count(self) -> dict[str, int]:
-        data = {}
+        data: dict[str, int] = {}
+
+        if self._args.publish:
+            return data
 
         if self._args.local:
             total_unique_beers = common.get_total_unique_beers()
@@ -92,7 +95,11 @@ class PivniValka(DbRobot):
         return template.render(**kwargs)
 
     def save_daily_stats_db(self, unique_beers_count: dict[str, int]) -> list[str]:
-        users_with_new_beers = []
+        users_with_new_beers: list[str] = []
+
+        if not unique_beers_count:
+            return users_with_new_beers
+
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
 
         for user_name in utils.user.USER_NAMES:

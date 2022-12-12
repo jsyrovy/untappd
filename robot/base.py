@@ -6,6 +6,7 @@ from dataclasses import dataclass
 class Args:
     local: bool
     tweetless: bool
+    publish: bool
 
 
 class BaseRobot:
@@ -23,5 +24,6 @@ class BaseRobot:
         parser = argparse.ArgumentParser()
         parser.add_argument('--local', action='store_true', help="don't download data from website")
         parser.add_argument('--tweetless', action='store_true', help="don't tweet or send message")
+        parser.add_argument('--publish', action='store_true', help="publish page only")
         args = parser.parse_args()
-        return Args(args.local, args.tweetless)
+        return Args(args.local, args.tweetless, args.publish)

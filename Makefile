@@ -12,6 +12,8 @@ help:
 	@echo "  download stats and publish page"
 	@echo "make run-pivni-valka-local"
 	@echo "  generate stats and publish page"
+	@echo "make publish-pivni-valka"
+	@echo "  publish page"
 	@echo "make test-pivni-valka"
 	@echo "  run tests"
 	@echo "make run-hospody"
@@ -41,6 +43,9 @@ run-pivni-valka-tweetless:
 
 run-pivni-valka-local:
 	${PYTHON} run_pivni_valka.py --local
+
+publish-pivni-valka:
+	${PYTHON} run_pivni_valka.py --publish
 
 test-pivni-valka:
 	${PYTHON} -m pytest pivni_valka/tests.py
