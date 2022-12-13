@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1229331523,
+      "dt": "2022-12-12T23:52:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
+      "id": 1229322561,
+      "dt": "2022-12-12T23:06:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Sabro",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-sabro/5141332"
+    },
+    {
+      "id": 1229308711,
+      "dt": "2022-12-12T21:58:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
       "id": 1229113710,
       "dt": "2022-12-11T22:10:39+01:00",
       "venue_name": "Pivní ambasáda",
