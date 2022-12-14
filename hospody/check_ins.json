@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1229416322,
+      "dt": "2022-12-13T17:02:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Falkon / Černý Potoka Session New England IPA",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-falkon-cerny-potoka-session-new-england-ipa/3510538"
+    },
+    {
+      "id": 1229414078,
+      "dt": "2022-12-13T16:31:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý Prasátko (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2022/5128972"
+    },
+    {
       "id": 1229331523,
       "dt": "2022-12-12T23:52:14+01:00",
       "venue_name": "Pivní ambasáda",
