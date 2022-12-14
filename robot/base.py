@@ -29,5 +29,5 @@ class BaseRobot:
             "--tweetless", action="store_true", help="don't tweet or send message"
         )
         parser.add_argument("--publish", action="store_true", help="publish page only")
-        args = parser.parse_args()
+        args, _ = parser.parse_known_args()
         return Args(args.local, args.tweetless, args.publish)
