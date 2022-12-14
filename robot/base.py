@@ -1,17 +1,18 @@
 import argparse
 from dataclasses import dataclass
+from typing import Optional
 
 
 @dataclass
 class Args:
-    local: bool
-    tweetless: bool
-    publish: bool
+    local: bool = False
+    tweetless: bool = False
+    publish: bool = False
 
 
 class BaseRobot:
-    def __init__(self) -> None:
-        self._args = self._get_args()
+    def __init__(self, args: Optional[Args] = None) -> None:
+        self._args = args or self._get_args()
 
     def run(self) -> None:
         self._main()
