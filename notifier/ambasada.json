@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "10° Sametová",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° Final Cuntdown Sabro",
-      "description": "piv. Crazy Clown, Single Hop Ale"
-    },
-    {
-      "name": "12° Akumulátor",
-      "description": "piv. Volt, Jablonec nad Nisou, Weizen"
-    },
-    {
       "name": "12° Borůvková",
       "description": "piv. Valášek, Vsetín, ochucený ležák"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Session NEIPA",
+      "description": "piv. Černý Potoka & Falkon, Session NEIPA s Brusinkou v Vrbovkou"
+    },
+    {
       "name": "14° Bacchus Frambozen",
       "description": "piv. Van Honsebrouck, Emelgem, Západní Flandry, Flanders Frambozen Brown Ale, 0,25l"
     },
     {
-      "name": "15° Zlatý Prasátko 2022",
-      "description": "piv. Clock, Potštejn, Kveik IPA"
+      "name": "14° Tekutý Kapřík 2022",
+      "description": "piv. Clock, Potštejn, Cold IPA"
+    },
+    {
+      "name": "14° Vánoční",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "16° Drunk on Fruit",
