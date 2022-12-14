@@ -52,7 +52,7 @@ publish-pivni-valka:
 	${PYTHON} run_pivni_valka.py --publish
 
 test-pivni-valka:
-	${PYTHON} -m pytest pivni_valka/tests.py
+	${PYTHON} -m pytest pivni_valka/tests
 
 run-hospody:
 	${PYTHON} run_hospody.py
