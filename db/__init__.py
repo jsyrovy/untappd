@@ -1,3 +1,4 @@
+import os
 import sqlite3
 from collections.abc import Iterable
 from typing import Optional
@@ -5,13 +6,19 @@ from typing import Optional
 from utils.common import ENCODING
 
 PATH = "data.sqlite"
+TEST_DB = ":memory:"
 DUMP_PATH = "data_dump.sql"
+TEST_DUMP_PATH = "test_dump.sql"
 
 
 class Db:
-    def __init__(self) -> None:
-        self.con = sqlite3.connect(PATH)
+    def __init__(self, is_test: bool = False) -> None:
+        self.con = sqlite3.connect(TEST_DB if is_test else PATH)
         self.cur = self.con.cursor()
+
+        if is_test:
+            print("DB is running in test mode.")
+            self.load_test_dump()
 
     def dump(self) -> None:
         with open(DUMP_PATH, "w", encoding=ENCODING) as f:
@@ -41,5 +48,9 @@ class Db:
     def commit(self) -> None:
         self.con.commit()
 
+    def load_test_dump(self) -> None:
+        with open(TEST_DUMP_PATH, "r", encoding=ENCODING) as f:
+            self.cur.executescript(f.read())
 
-db = Db()
+
+db = Db(is_test=bool(os.environ.get("TEST")))
