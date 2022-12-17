@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Borůvková",
       "description": "piv. Valášek, Vsetín, ochucený ležák"
     },
@@ -21,12 +25,8 @@
       "description": "piv. Van Honsebrouck, Emelgem, Západní Flandry, Flanders Frambozen Brown Ale, 0,25l"
     },
     {
-      "name": "14° Tekutý Kapřík 2022",
-      "description": "piv. Clock, Potštejn, Cold IPA"
-    },
-    {
-      "name": "14° Vánoční",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "15° Alianční no. 2",
+      "description": "piv. Pivečka/Malt Worm, West Coast IPA"
     },
     {
       "name": "16° Drunk on Fruit",
