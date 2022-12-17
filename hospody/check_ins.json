@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1230340514,
+      "dt": "2022-12-17T00:22:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ježíšek 20",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
+      "id": 1230193720,
+      "dt": "2022-12-16T20:27:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Linecký Věneček",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-linecky-venecek/3553453"
+    },
+    {
+      "id": 1230185854,
+      "dt": "2022-12-16T20:14:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1230101389,
+      "dt": "2022-12-16T16:57:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1230093674,
+      "dt": "2022-12-16T16:19:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý Kapřík (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2022/5128904"
+    },
+    {
       "id": 1229416322,
       "dt": "2022-12-13T17:02:08+01:00",
       "venue_name": "Pivní ambasáda",
