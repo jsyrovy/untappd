@@ -1,4 +1,5 @@
 import random
+import sys
 import time
 
 import jinja2 as jinja2
@@ -47,3 +48,7 @@ def random_sleep() -> None:
 
 def get_profile_url(user_name: str) -> str:
     return f"{BASE_URL}/user/{user_name}"
+
+
+def is_test() -> bool:
+    return "pytest" in sys.modules

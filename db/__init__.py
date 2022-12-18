@@ -1,9 +1,8 @@
-import os
 import sqlite3
 from collections.abc import Iterable
 from typing import Optional
 
-from utils.common import ENCODING
+from utils import ENCODING, is_test
 
 PATH = "data.sqlite"
 TEST_DB = ":memory:"
@@ -12,11 +11,11 @@ TEST_DUMP_PATH = "test_dump.sql"
 
 
 class Db:
-    def __init__(self, is_test: bool = False) -> None:
-        self.con = sqlite3.connect(TEST_DB if is_test else PATH)
+    def __init__(self, use_test_db: bool = False) -> None:
+        self.con = sqlite3.connect(TEST_DB if use_test_db else PATH)
         self.cur = self.con.cursor()
 
-        if is_test:
+        if use_test_db:
             print("DB is running in test mode.")
             self.load_test_dump()
 
@@ -53,4 +52,4 @@ class Db:
             self.cur.executescript(f.read())
 
 
-db = Db(is_test=bool(os.environ.get("TEST")))
+db = Db(use_test_db=is_test())
