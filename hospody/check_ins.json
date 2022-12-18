@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1230719672,
+      "dt": "2022-12-17T21:03:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance Piv No.2",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-aliance-piv-no-2/5165458"
+    },
+    {
+      "id": 1230566730,
+      "dt": "2022-12-17T17:12:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ježíšek 20",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
+      "id": 1230560979,
+      "dt": "2022-12-17T16:59:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Falkon / Černý Potoka Session New England IPA",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-falkon-cerny-potoka-session-new-england-ipa/3510538"
+    },
+    {
+      "id": 1230553869,
+      "dt": "2022-12-17T16:42:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý Kapřík (2022)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2022/5128904"
+    },
+    {
+      "id": 1230550173,
+      "dt": "2022-12-17T16:31:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "IMELO",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-imelo/5151425"
+    },
+    {
+      "id": 1230548775,
+      "dt": "2022-12-17T16:28:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Freeky APA",
+      "brewery": "Maryensztadt",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/maryensztadt-freeky-apa/3410295"
+    },
+    {
+      "id": 1230532502,
+      "dt": "2022-12-17T15:35:53+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "IMELO",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-imelo/5151425"
+    },
+    {
+      "id": 1230520228,
+      "dt": "2022-12-17T14:41:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
       "id": 1230340514,
       "dt": "2022-12-17T00:22:42+01:00",
       "venue_name": "U Toulavé pípy",
