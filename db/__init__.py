@@ -4,10 +4,10 @@ from typing import Optional
 
 from utils import ENCODING, is_test
 
-PATH = "data.sqlite"
+PATH = "data/data.sqlite"
 TEST_DB = ":memory:"
-DUMP_PATH = "data_dump.sql"
-TEST_DUMP_PATH = "test_dump.sql"
+DUMP_PATH = "data/data_dump.sql"
+TEST_DUMP_PATH = "data/test_dump.sql"
 
 
 class Db:
