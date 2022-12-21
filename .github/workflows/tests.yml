@@ -11,7 +11,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init
+        run: make init-dev
       - name: Test pivni-valka
         run: make test-pivni-valka
       - name: Test hospody
@@ -26,7 +26,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init
+        run: make init-dev
       - name: Test
         run: make mypy
   flake8:
@@ -39,7 +39,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init
+        run: make init-dev
       - name: Test
         run: make flake8
   smoke:
@@ -52,7 +52,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init
+        run: make init-dev
       - name: Test pivni-valka
         run: |
           rm -f pivni_valka/index.html pivni_valka/chart_year.html pivni_valka/chart_all.html data/data_dump.sql

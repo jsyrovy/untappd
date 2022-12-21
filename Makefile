@@ -10,6 +10,10 @@ init:
 	python3 -m venv venv
 	${PYTHON} -m pip install -r requirements.txt
 
+init-dev:
+	python3 -m venv venv
+	${PYTHON} -m pip install -r requirements_dev.txt
+
 run-pivni-valka:
 	${PYTHON} run_pivni_valka.py
 
