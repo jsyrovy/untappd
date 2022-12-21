@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1231587060,
+      "dt": "2022-12-20T16:33:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropická bouře",
+      "brewery": "Pivovar Falkenštejn / Brauhaus Falkenstein ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-falkenstejn-brauhaus-falkenstein-tropicka-boure/5097861"
+    },
+    {
+      "id": 1231586172,
+      "dt": "2022-12-20T16:23:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "African Queen SH ALE 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-african-queen-sh-ale-12/5151540"
+    },
+    {
       "id": 1230719672,
       "dt": "2022-12-17T21:03:14+01:00",
       "venue_name": "Pivní ambasáda",
