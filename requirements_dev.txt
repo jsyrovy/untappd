@@ -6,3 +6,4 @@ types-requests
 black
 flake8
 coverage
+mock
