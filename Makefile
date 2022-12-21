@@ -27,7 +27,7 @@ publish-pivni-valka:
 	${PYTHON} run_pivni_valka.py --publish
 
 test-pivni-valka:
-	${PYTHON} -m pytest pivni_valka/tests
+	${PYTHON} -m pytest tests/pivni_valka
 
 run-hospody:
 	${PYTHON} run_hospody.py
@@ -36,7 +36,7 @@ run-hospody-local:
 	${PYTHON} run_hospody.py --local
 
 test-hospody:
-	${PYTHON} -m pytest hospody/tests.py
+	${PYTHON} -m pytest tests/hospody
 
 run-notifier:
 	${PYTHON} run_notifier.py
