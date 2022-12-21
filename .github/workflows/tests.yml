@@ -12,10 +12,8 @@ jobs:
           python-version: "3.11"
       - name: Create venv
         run: make init-dev
-      - name: Test pivni-valka
-        run: make test-pivni-valka
-      - name: Test hospody
-        run: make test-hospody
+      - name: Test
+        run: make test
   mypy:
     runs-on: ubuntu-latest
     steps:
