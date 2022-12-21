@@ -61,4 +61,4 @@ test:
 
 coverage:
 	${PYTHON} -m coverage run -m pytest
-	${PYTHON} -m coverage report
+	${PYTHON} -m coverage report -m
