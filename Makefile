@@ -4,36 +4,7 @@ PYTHON=venv/bin/python3
 	help
 
 help:
-	@echo "make help"
-	@echo "  show help"
-	@echo "make init"
-	@echo "  create venv and install requirements"
-	@echo "make run-pivni-valka"
-	@echo "  download stats and publish page"
-	@echo "make run-pivni-valka-local"
-	@echo "  generate stats and publish page"
-	@echo "make publish-pivni-valka"
-	@echo "  publish page"
-	@echo "make test-pivni-valka"
-	@echo "  run tests"
-	@echo "make run-hospody"
-	@echo "  download stats and publish page"
-	@echo "make run-hospody-local"
-	@echo "  generate stats and publish page"
-	@echo "make test-hospody"
-	@echo "  run tests"
-	@echo "make run-notifier"
-	@echo "  download current beer offer and send notification"
-	@echo "make run-notifier-tweetless"
-	@echo "  download current beer offer without notification"
-	@echo "make mypy-install-types"
-	@echo "  install mypy types"
-	@echo "make mypy"
-	@echo "  run mypy test"
-	@echo "make flake8"
-	@echo "  run flake8 test"
-	@echo "make black"
-	@echo "  format code"
+	@echo "I don't know what you want me to do."
 
 init:
 	python3 -m venv venv
