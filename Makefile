@@ -56,6 +56,9 @@ remove-pivni-valka-stats-duplicates:
 black:
 	${PYTHON} -m black .
 
-coverage-pivni-valka:
-	${PYTHON} -m coverage run -m pytest pivni_valka/tests
+test:
+	${PYTHON} -m pytest
+
+coverage:
+	${PYTHON} -m coverage run -m pytest
 	${PYTHON} -m coverage report
