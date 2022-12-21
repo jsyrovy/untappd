@@ -8,5 +8,4 @@ class DbRobot(BaseRobot):
         db.dump()
         db.close()
 
-    def _main(self) -> None:
-        raise NotImplementedError
+
