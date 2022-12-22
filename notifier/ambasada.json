@@ -5,32 +5,32 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Nevada",
-      "description": "piv. Cobolis, Praha, American Pale Ale"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
-      "name": "12° Meďour",
-      "description": "piv. Rampušák, Dobruška, Ochucený Ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Utahaný Taťka",
+      "description": "piv. Valášek, Vsetín, Vánoční Ale"
+    },
+    {
+      "name": "13° Vánoční Ležák",
+      "description": "piv. Clock, Potštejn, Světlý ležák"
+    },
+    {
       "name": "14° Bacchus Frambozen",
       "description": "piv. Van Honsebrouck, Emelgem, Západní Flandry, Flanders Frambozen Brown Ale, 0,25l"
     },
     {
-      "name": "14° Tropická Bouře",
-      "description": "piv. Falkenštejn, Krásná Lípa, New England IPA"
-    },
-    {
       "name": "15° Gose",
       "description": "piv. Volt, Jablonec nad Nisou, Višňové Gose"
+    },
+    {
+      "name": "15° Pineapple NEIPA",
+      "description": "piv. Rampušák, Dobruška, Pineapple NEIPA"
     }
   ]
 }
