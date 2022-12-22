@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1231892480,
+      "dt": "2022-12-21T21:19:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Darkness My Friend - RIS Churros & Milk Chocolate",
+      "brewery": "Maryensztadt",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/maryensztadt-darkness-my-friend-ris-churros-and-milk-chocolate/4737340"
+    },
+    {
+      "id": 1231868523,
+      "dt": "2022-12-21T20:18:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Darkness My Friend - RIS Churros & Milk Chocolate",
+      "brewery": "Maryensztadt",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/maryensztadt-darkness-my-friend-ris-churros-and-milk-chocolate/4737340"
+    },
+    {
+      "id": 1231854424,
+      "dt": "2022-12-21T19:37:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose s višněmi",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-gose-s-visnemi/4804333"
+    },
+    {
+      "id": 1231844878,
+      "dt": "2022-12-21T19:07:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropická bouře",
+      "brewery": "Pivovar Falkenštejn / Brauhaus Falkenstein ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-falkenstejn-brauhaus-falkenstein-tropicka-boure/5097861"
+    },
+    {
+      "id": 1231836625,
+      "dt": "2022-12-21T18:37:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční ležák",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-vanocni-lezak/2985967"
+    },
+    {
+      "id": 1231833774,
+      "dt": "2022-12-21T18:26:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rampušák Meďour",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-rampusak-medour/2457013"
+    },
+    {
+      "id": 1231819023,
+      "dt": "2022-12-21T17:11:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropická bouře",
+      "brewery": "Pivovar Falkenštejn / Brauhaus Falkenstein ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-falkenstejn-brauhaus-falkenstein-tropicka-boure/5097861"
+    },
+    {
+      "id": 1231814218,
+      "dt": "2022-12-21T16:33:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropická bouře",
+      "brewery": "Pivovar Falkenštejn / Brauhaus Falkenstein ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-falkenstejn-brauhaus-falkenstein-tropicka-boure/5097861"
+    },
+    {
       "id": 1231587060,
       "dt": "2022-12-20T16:33:37+01:00",
       "venue_name": "Pivní ambasáda",
