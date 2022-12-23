@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "12° Keller Bier",
+      "description": "St. Georgen Bräu, Buttenheim, Horní Franky, Kellerbier"
     },
     {
       "name": "12° Maisels Weisse",
@@ -17,12 +17,12 @@
       "description": "piv. Valášek, Vsetín, Vánoční Ale"
     },
     {
-      "name": "13° Vánoční Ležák",
-      "description": "piv. Clock, Potštejn, Světlý ležák"
-    },
-    {
       "name": "14° Bacchus Frambozen",
       "description": "piv. Van Honsebrouck, Emelgem, Západní Flandry, Flanders Frambozen Brown Ale, 0,25l"
+    },
+    {
+      "name": "14° Vánoční",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "15° Gose",
