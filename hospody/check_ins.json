@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1232197976,
+      "dt": "2022-12-22T21:36:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Utahaný Taťka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-utahany-tatka/5150942"
+    },
+    {
+      "id": 1232097530,
+      "dt": "2022-12-22T17:21:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Joe In the Garden – Forest Fruit Edition",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-joe-in-the-garden-forest-fruit-edition/4480445"
+    },
+    {
+      "id": 1232090209,
+      "dt": "2022-12-22T16:39:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční IPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-vanocni-ipa/2418835"
+    },
+    {
       "id": 1231892480,
       "dt": "2022-12-21T21:19:01+01:00",
       "venue_name": "Pivní ambasáda",
