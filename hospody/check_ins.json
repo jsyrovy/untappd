@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1232557875,
+      "dt": "2022-12-23T20:36:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose s višněmi",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-gose-s-visnemi/4804333"
+    },
+    {
+      "id": 1232555736,
+      "dt": "2022-12-23T20:33:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Utahaný Taťka",
+      "brewery": "Valášek",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/valasek-utahany-tatka/5150942"
+    },
+    {
+      "id": 1232552843,
+      "dt": "2022-12-23T20:29:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pineapple NEIPA 15°",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-pineapple-neipa-150/4340082"
+    },
+    {
+      "id": 1232551076,
+      "dt": "2022-12-23T20:27:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční ležák",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-vanocni-lezak/2985967"
+    },
+    {
       "id": 1232197976,
       "dt": "2022-12-22T21:36:14+01:00",
       "venue_name": "Pivní ambasáda",
