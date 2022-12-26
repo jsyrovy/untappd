@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1233512290,
+      "dt": "2022-12-25T19:21:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Double IPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-double-ipa/1507616"
+    },
+    {
+      "id": 1233512245,
+      "dt": "2022-12-25T19:21:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční speciál 14",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-vanocni-special-14/2407143"
+    },
+    {
+      "id": 1233496642,
+      "dt": "2022-12-25T18:55:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Double IPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-double-ipa/1507616"
+    },
+    {
+      "id": 1233493414,
+      "dt": "2022-12-25T18:49:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose s višněmi",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-gose-s-visnemi/4804333"
+    },
+    {
+      "id": 1233492528,
+      "dt": "2022-12-25T18:48:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Utahaný Taťka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-utahany-tatka/5150942"
+    },
+    {
+      "id": 1233471598,
+      "dt": "2022-12-25T18:16:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cold Front",
+      "brewery": "BrewDog",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/brewdog-cold-front/5052315"
+    },
+    {
       "id": 1233256015,
       "dt": "2022-12-25T00:37:18+01:00",
       "venue_name": "U Toulavé pípy",
