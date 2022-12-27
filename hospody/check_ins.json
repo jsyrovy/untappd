@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1234079621,
+      "dt": "2022-12-26T23:30:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose s višněmi",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-gose-s-visnemi/4804333"
+    },
+    {
+      "id": 1234076818,
+      "dt": "2022-12-26T23:24:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Double IPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-double-ipa/1507616"
+    },
+    {
       "id": 1233512290,
       "dt": "2022-12-25T19:21:22+01:00",
       "venue_name": "Pivní ambasáda",
