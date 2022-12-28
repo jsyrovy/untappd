@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1234435704,
+      "dt": "2022-12-28T00:05:00+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční 13",
+      "brewery": "Jihlavský radniční minipivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/jihlavsky-radnicni-minipivovar-vanocni-13/279010"
+    },
+    {
+      "id": 1234434634,
+      "dt": "2022-12-28T00:02:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sicilian Summer",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-sicilian-summer/5020146"
+    },
+    {
+      "id": 1234335726,
+      "dt": "2022-12-27T20:49:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aventinus Eisbock (TAP09)",
+      "brewery": "Schneider Weisse G. Schneider & Sohn",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-aventinus-eisbock-tap09/67996"
+    },
+    {
+      "id": 1234320105,
+      "dt": "2022-12-27T20:18:58+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kung Fu Hamster",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-kung-fu-hamster/5150100"
+    },
+    {
+      "id": 1234319173,
+      "dt": "2022-12-27T20:17:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lost In Blood Orange",
+      "brewery": "BrewDog",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/brewdog-lost-in-blood-orange/4632052"
+    },
+    {
+      "id": 1234316241,
+      "dt": "2022-12-27T20:10:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "18° Vianočný Gejza",
+      "brewery": "Holíčsky pivovar Wywar ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/holicsky-pivovar-wywar-18-vianocny-gejza/3004638"
+    },
+    {
       "id": 1234079621,
       "dt": "2022-12-26T23:30:11+01:00",
       "venue_name": "Pivní ambasáda",
