@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1234642180,
+      "dt": "2022-12-28T19:26:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Švarc 12° - Obora",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-svarc-120-obora/5148083"
+    },
+    {
       "id": 1234435704,
       "dt": "2022-12-28T00:05:00+01:00",
       "venue_name": "U Toulavé pípy",
