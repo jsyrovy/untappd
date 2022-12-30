@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1235155373,
+      "dt": "2022-12-29T23:14:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Double IPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-double-ipa/1507616"
+    },
+    {
+      "id": 1235153242,
+      "dt": "2022-12-29T23:11:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Ale Mosaic",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-single-hop-ale-mosaic/2779786"
+    },
+    {
+      "id": 1235151460,
+      "dt": "2022-12-29T23:08:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Švarc 12° - Obora",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-svarc-120-obora/5148083"
+    },
+    {
+      "id": 1234959265,
+      "dt": "2022-12-29T16:46:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Double IPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-double-ipa/1507616"
+    },
+    {
+      "id": 1234955532,
+      "dt": "2022-12-29T16:30:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Ale Mosaic",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-single-hop-ale-mosaic/2779786"
+    },
+    {
       "id": 1234642180,
       "dt": "2022-12-28T19:26:21+01:00",
       "venue_name": "Pivní ambasáda",
