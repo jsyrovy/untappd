@@ -104,7 +104,7 @@ class Hospody(BaseRobot):
         unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
         page = get_page(utils.get_template("hospody.html"), unique_beers_check_ins)
 
-        with open("hospody/index.html", "w", encoding=utils.ENCODING) as f:
+        with open("web/hospody/index.html", "w", encoding=utils.ENCODING) as f:
             f.write(page)
 
 
