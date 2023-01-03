@@ -6,6 +6,7 @@ class User:
     name: str
     user_name: str
     color: str
+    hidden: bool = False
 
 
 USERS = (
@@ -15,6 +16,9 @@ USERS = (
     User("Ondra", "ominar", "#f9c74f"),
 )
 USER_NAMES = tuple(user.user_name for user in USERS)
+
+VISIBLE_USERS = tuple(user for user in USERS if not user.hidden)
+VISIBLE_USER_NAMES = tuple(user.user_name for user in VISIBLE_USERS)
 
 
 def get(user_name: str):

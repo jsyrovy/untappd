@@ -22,7 +22,7 @@ def get_tiles_data() -> list[TileData]:
     total_unique_beers = get_total_unique_beers()
     user_with_crown = max(total_unique_beers)
 
-    for user in utils.user.USERS:
+    for user in utils.user.VISIBLE_USERS:
         tiles_data.append(
             TileData(
                 user.name,

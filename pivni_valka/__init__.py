@@ -126,18 +126,18 @@ class PivniValka(DbRobot):
 
         values = [
             f"{user.name} včera vypil {common.get_unique_beers(user.user_name, days=1)} 🍺."
-            for user in utils.user.USERS
+            for user in utils.user.VISIBLE_USERS
             if user.user_name in users_with_new_beers
         ]
         values.extend(
             f"{user.name} má celkem {total_unique_beers[user.user_name]} 🍺."
-            for user in utils.user.USERS
+            for user in utils.user.VISIBLE_USERS
         )
 
         return " ".join(values)
 
     def get_grid_template_areas(self) -> tuple[str, ...]:
-        user_items = [f"item-{user_name}" for user_name in utils.user.USER_NAMES]
+        user_items = [f"item-{user_name}" for user_name in utils.user.VISIBLE_USER_NAMES]
 
         return (
             f'"{" ".join([item for item in user_items])}"',
@@ -148,7 +148,7 @@ class PivniValka(DbRobot):
         )
 
     def get_mobile_grid_template_areas(self) -> list[str]:
-        user_items = [f'"item-{user_name}"' for user_name in utils.user.USER_NAMES]
+        user_items = [f'"item-{user_name}"' for user_name in utils.user.VISIBLE_USER_NAMES]
         user_items.extend(
             [
                 '"item-total-chart"',

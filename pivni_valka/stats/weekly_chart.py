@@ -31,6 +31,9 @@ def get_chart_data() -> ChartData:
     labels: list[str] = []
 
     for user_name, stats in _get_week_stats().items():
+        if user_name not in utils.user.VISIBLE_USER_NAMES:
+            continue
+
         labels = labels or list(stats.keys())
         user = utils.user.get(user_name)
         datasets.append(ChartDataset(user.name, list(stats.values()), user.color))
