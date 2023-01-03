@@ -33,7 +33,9 @@ class PivniValka(DbRobot):
             link="chart_year.html",
         )
 
-        with open("web/pivni_valka/chart_month.html", "w", encoding=utils.ENCODING) as f:
+        with open(
+            "web/pivni_valka/chart_month.html", "w", encoding=utils.ENCODING
+        ) as f:
             f.write(page_month)
 
         page_year = self.get_page(
@@ -137,7 +139,9 @@ class PivniValka(DbRobot):
         return " ".join(values)
 
     def get_grid_template_areas(self) -> tuple[str, ...]:
-        user_items = [f"item-{user_name}" for user_name in utils.user.VISIBLE_USER_NAMES]
+        user_items = [
+            f"item-{user_name}" for user_name in utils.user.VISIBLE_USER_NAMES
+        ]
 
         return (
             f'"{" ".join([item for item in user_items])}"',
@@ -148,7 +152,9 @@ class PivniValka(DbRobot):
         )
 
     def get_mobile_grid_template_areas(self) -> list[str]:
-        user_items = [f'"item-{user_name}"' for user_name in utils.user.VISIBLE_USER_NAMES]
+        user_items = [
+            f'"item-{user_name}"' for user_name in utils.user.VISIBLE_USER_NAMES
+        ]
         user_items.extend(
             [
                 '"item-total-chart"',
