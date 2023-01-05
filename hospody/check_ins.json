@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1237172928,
+      "dt": "2023-01-04T19:02:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydská dvanáctka Ale",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydska-dvanactka-ale/763041"
+    },
+    {
+      "id": 1237169301,
+      "dt": "2023-01-04T18:43:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V. No.2",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-aliance-p-i-v-no-2/5165458"
+    },
+    {
+      "id": 1237167061,
+      "dt": "2023-01-04T18:31:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
       "id": 1236997100,
       "dt": "2023-01-03T17:50:47+01:00",
       "venue_name": "U Toulavé pípy",
