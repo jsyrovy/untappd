@@ -35,9 +35,9 @@ def test_base_robot_with_error():
 
 @use_fresh_db
 def test_dump():
-    with mock.patch('builtins.open', mock.mock_open()) as dump_mock:
+    with mock.patch("builtins.open", mock.mock_open()) as dump_mock:
         db.dump()
-        dump_mock.assert_called_once_with('data/data_dump.sql', 'w', encoding='utf-8')
+        dump_mock.assert_called_once_with("data/data_dump.sql", "w", encoding="utf-8")
 
 
 @use_fresh_db
@@ -49,4 +49,8 @@ def test_close():
 
 @use_fresh_db
 def test_commit():
-    ...
+    db.execute("BEGIN;")
+    db.execute("INSERT INTO pivni_valka VALUES('2023-01-01','Pickles',666);")
+    assert db.con.in_transaction
+    db.commit()
+    assert not db.con.in_transaction
