@@ -5,10 +5,6 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Beskydská",
-      "description": "Beskydský pivovárek, Ostravice, Ale"
-    },
-    {
       "name": "12° Borůvkový ležák",
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
@@ -21,8 +17,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "15° Alianční no. 2",
-      "description": "piv. Pivečka/Malt Worm, West Coast IPA"
+      "name": "13° Lazy Cat",
+      "description": "piv. Mordýř, Dolní Ředice, Rye IPA"
+    },
+    {
+      "name": "14° LucIPA",
+      "description": "piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "15° Stella",
