@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1238433252,
+      "dt": "2023-01-08T18:19:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vídeňský Ležák /// 12.VA.R2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-vidensky-lezak-12-va-r2/4296442"
+    },
+    {
       "id": 1237723204,
       "dt": "2023-01-06T22:53:07+01:00",
       "venue_name": "Pivní ambasáda",
