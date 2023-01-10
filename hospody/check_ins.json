@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1238678498,
+      "dt": "2023-01-09T21:48:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cascade IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-cascade-ipa/1139284"
+    },
+    {
+      "id": 1238672960,
+      "dt": "2023-01-09T21:13:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vídeňský Ležák /// 12.VA.R2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-vidensky-lezak-12-va-r2/4296442"
+    },
+    {
+      "id": 1238645673,
+      "dt": "2023-01-09T17:34:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vídeňský Ležák /// 12.VA.R2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-vidensky-lezak-12-va-r2/4296442"
+    },
+    {
       "id": 1238433252,
       "dt": "2023-01-08T18:19:04+01:00",
       "venue_name": "Pivní ambasáda",
