@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1238798484,
+      "dt": "2023-01-10T21:11:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cascade IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-cascade-ipa/1139284"
+    },
+    {
+      "id": 1238794865,
+      "dt": "2023-01-10T20:52:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cascade IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-cascade-ipa/1139284"
+    },
+    {
+      "id": 1238794510,
+      "dt": "2023-01-10T20:50:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sabro SH Ale 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-sabro-sh-ale-12/5187534"
+    },
+    {
+      "id": 1238793918,
+      "dt": "2023-01-10T20:47:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sabro SH Ale 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-sabro-sh-ale-12/5187534"
+    },
+    {
+      "id": 1238768014,
+      "dt": "2023-01-10T17:47:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Barista Chocolate Quad",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-barista-chocolate-quad/1077683"
+    },
+    {
+      "id": 1238767402,
+      "dt": "2023-01-10T17:41:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cascade IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-cascade-ipa/1139284"
+    },
+    {
+      "id": 1238767169,
+      "dt": "2023-01-10T17:38:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cascade IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-cascade-ipa/1139284"
+    },
+    {
+      "id": 1238764481,
+      "dt": "2023-01-10T17:02:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lazy Cat",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-lazy-cat/689687"
+    },
+    {
+      "id": 1238763912,
+      "dt": "2023-01-10T16:53:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stella",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-stella/3916311"
+    },
+    {
       "id": 1238678498,
       "dt": "2023-01-09T21:48:44+01:00",
       "venue_name": "Pivní ambasáda",
