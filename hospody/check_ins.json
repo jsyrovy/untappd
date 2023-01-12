@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1238923651,
+      "dt": "2023-01-11T19:56:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cascade IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-cascade-ipa/1139284"
+    },
+    {
+      "id": 1238920617,
+      "dt": "2023-01-11T19:40:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sabro SH Ale 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-sabro-sh-ale-12/5187534"
+    },
+    {
+      "id": 1238910730,
+      "dt": "2023-01-11T18:41:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Klenot Sour Pear & Ginger",
+      "brewery": "Královéhradecký měšťanský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kralovehradecky-mestansky-pivovar-klenot-sour-pear-and-ginger/4835361"
+    },
+    {
       "id": 1238798484,
       "dt": "2023-01-10T21:11:27+01:00",
       "venue_name": "Pivní ambasáda",
