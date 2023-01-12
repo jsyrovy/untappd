@@ -1,12 +1,16 @@
 {
   "beers": [
     {
+      "name": "10° Švestka + zázvor",
+      "description": "piv. Klenot, HK, Sour Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° 12.VA.R2",
-      "description": "piv. Záhora, Kněžičky, Vídeňský Ležák"
+      "name": "12° Clock",
+      "description": "piv. Clock, Potštejn, American Pale Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -17,16 +21,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Sabro",
-      "description": "piv. JungBerg, Hořice, Single Hop ALE"
+      "name": "12° Rampušák",
+      "description": "piv. Rampušák, Dobruška, Světlý Ležák"
     },
     {
       "name": "15° Cascade IPA",
       "description": "piv. Pivečka, Rousínov u Vyškova, IPA"
-    },
-    {
-      "name": "15° Stella",
-      "description": "piv. Clock, Potštejn, Sour IPA"
     },
     {
       "name": "22° Kasteel Barista Chocolate Quad",
