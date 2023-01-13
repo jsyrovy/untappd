@@ -5,10 +5,6 @@
       "description": "piv. Klenot, HK, Sour Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Clock",
       "description": "piv. Clock, Potštejn, American Pale Ale"
     },
@@ -23,6 +19,10 @@
     {
       "name": "12° Rampušák",
       "description": "piv. Rampušák, Dobruška, Světlý Ležák"
+    },
+    {
+      "name": "13° Mocnář",
+      "description": "piv. Mordýř, Dolní Ředice, Vídeňský Ležák"
     },
     {
       "name": "15° Cascade IPA",
