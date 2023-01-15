@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Švestka + zázvor",
-      "description": "piv. Klenot, HK, Sour Ale"
-    },
-    {
       "name": "11° Mongozo Banana",
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
     },
     {
-      "name": "11° Skotačivá Veverka",
-      "description": "piv. Valášek, Vsetín, APA"
+      "name": "12° Borůvková",
+      "description": "piv. Valášek, Vsetín, Ochucený Ležák"
+    },
+    {
+      "name": "12° Coyote",
+      "description": "piv. HoppyDog, Ostrava, APA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -21,8 +21,8 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Rampušák",
-      "description": "piv. Rampušák, Dobruška, Světlý Ležák"
+      "name": "12° Very Merry Peachy",
+      "description": "piv. Antoš, Slaný, Sour Ale Broskev + Papája"
     },
     {
       "name": "13° Mocnář",
