@@ -10,12 +10,30 @@
       "beer_link": "https://untappd.com/b/pivovar-louka-american-ipa/4237836"
     },
     {
+      "id": 1239478886,
+      "dt": "2023-01-14T00:26:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "American IPA",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-american-ipa/4237836"
+    },
+    {
       "id": 1239475663,
       "dt": "2023-01-14T00:20:09+01:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Hawaii 17",
       "brewery": "Pivovar Louka",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-louka-hawaii-17/5157931"
+    },
+    {
+      "id": 1239475663,
+      "dt": "2023-01-14T00:20:09+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hawaii 17",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-louka-hawaii-17/5157931"
     },
     {
