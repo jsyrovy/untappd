@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1240211227,
+      "dt": "2023-01-15T18:29:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Coyote",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-coyote/2396520"
+    },
+    {
+      "id": 1240209194,
+      "dt": "2023-01-15T18:23:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mocnář 13°",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar-130/4303745"
+    },
+    {
       "id": 1239478886,
       "dt": "2023-01-14T00:26:12+01:00",
       "venue_name": "U Toulavé pípy",
