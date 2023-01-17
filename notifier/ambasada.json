@@ -9,16 +9,16 @@
       "description": "piv. Valášek, Vsetín, Ochucený Ležák"
     },
     {
-      "name": "12° Coyote",
-      "description": "piv. HoppyDog, Ostrava, APA"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Sabro",
+      "description": "piv. JungBerg, Hořice, Single Hop ALE"
     },
     {
       "name": "12° Very Merry Peachy",
