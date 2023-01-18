@@ -5,12 +5,12 @@
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
     },
     {
-      "name": "12° Borůvková",
-      "description": "piv. Valášek, Vsetín, Ochucený Ležák"
+      "name": "12° Aldersbacher",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° Borůvková",
+      "description": "piv. Valášek, Vsetín, Ochucený Ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -29,8 +29,8 @@
       "description": "piv. Mordýř, Dolní Ředice, Vídeňský Ležák"
     },
     {
-      "name": "15° Blitzkrieeg",
-      "description": "piv. Černý Potoka, West Coast IPA"
+      "name": "15° Idaho",
+      "description": "piv. Mordýř, Dolní Ředice, IPA"
     }
   ]
 }
