@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1240728442,
+      "dt": "2023-01-18T09:41:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Barista Chocolate Quad",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-barista-chocolate-quad/1077683"
+    },
+    {
       "id": 1240653587,
       "dt": "2023-01-17T21:54:08+01:00",
       "venue_name": "Pivní ambasáda",
