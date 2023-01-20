@@ -5,6 +5,10 @@
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
     },
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Světák",
       "description": "piv. Falkenštejn, Krásná Lípa, Světlý Ležák"
     },
@@ -21,16 +25,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Very Merry Peachy",
-      "description": "piv. Antoš, Slaný, Sour Ale Broskev + Papája"
-    },
-    {
-      "name": "13° Mocnář",
-      "description": "piv. Mordýř, Dolní Ředice, Vídeňský Ležák"
-    },
-    {
       "name": "15° Idaho",
       "description": "piv. Mordýř, Dolní Ředice, IPA"
+    },
+    {
+      "name": "16° Drunk on Fruit",
+      "description": "piv. Sibeeria/The Garden, Sour Ale w/ Dragon Fruit & Cascara"
     }
   ]
 }
