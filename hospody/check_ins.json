@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1241297391,
+      "dt": "2023-01-20T23:29:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rotor Passion Fruit Ipa",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-rotor-passion-fruit-ipa/5205559"
+    },
+    {
+      "id": 1241280209,
+      "dt": "2023-01-20T22:57:16+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love the Smell of Nectaron In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-nectaron-in-the-morning/5188341"
+    },
+    {
+      "id": 1241268260,
+      "dt": "2023-01-20T22:35:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Perfetto Tutti 14",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-perfetto-tutti-14/5205389"
+    },
+    {
+      "id": 1241252827,
+      "dt": "2023-01-20T22:08:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lodní šroub 12 APA",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-lodni-sroub-12-apa/3940224"
+    },
+    {
+      "id": 1241204417,
+      "dt": "2023-01-20T20:48:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Banana",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-banana/11621"
+    },
+    {
+      "id": 1241193082,
+      "dt": "2023-01-20T20:29:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rotor Passion Fruit Ipa",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-rotor-passion-fruit-ipa/5205559"
+    },
+    {
+      "id": 1241167753,
+      "dt": "2023-01-20T19:39:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love the Smell of Nectaron In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-nectaron-in-the-morning/5188341"
+    },
+    {
+      "id": 1241159990,
+      "dt": "2023-01-20T19:21:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Novoroční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-novorocni-special/3006085"
+    },
+    {
+      "id": 1241149150,
+      "dt": "2023-01-20T18:56:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Perfetto Tutti 14",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-perfetto-tutti-14/5205389"
+    },
+    {
       "id": 1240911112,
       "dt": "2023-01-19T18:07:10+01:00",
       "venue_name": "Pivní ambasáda",
