@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1242153459,
+      "dt": "2023-01-22T23:11:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gaia Single Beer",
+      "brewery": "Chrudimský pivovar Filištín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chrudimsky-pivovar-filistin-gaia-single-beer/4841791"
+    },
+    {
+      "id": 1242054765,
+      "dt": "2023-01-22T19:22:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Winter IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-winter-ipa/5171602"
+    },
+    {
       "id": 1241547589,
       "dt": "2023-01-21T17:56:03+01:00",
       "venue_name": "U Toulavé pípy",
@@ -26,6 +44,15 @@
       "brewery": "Pivovar Rotor",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-rotor-passion-fruit-ipa/5205559"
+    },
+    {
+      "id": 1241297391,
+      "dt": "2023-01-20T23:29:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "14° Passion Fruit IPA ",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-140-passion-fruit-ipa/5205559"
     },
     {
       "id": 1241280209,
@@ -80,6 +107,15 @@
       "brewery": "Pivovar Rotor",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-rotor-passion-fruit-ipa/5205559"
+    },
+    {
+      "id": 1241193082,
+      "dt": "2023-01-20T20:29:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "14° Passion Fruit IPA ",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-140-passion-fruit-ipa/5205559"
     },
     {
       "id": 1241167753,
