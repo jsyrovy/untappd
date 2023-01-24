@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Mongozo Banana",
-      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -25,8 +21,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "14° Passion Fruit IPA",
-      "description": "piv. Rotor, Kunovice, Fruit IPA"
+      "name": "14° Mad Tea-Party",
+      "description": "piv. Crazy Clown, Pale Ale s liči a jasmínovým čajem"
+    },
+    {
+      "name": "15° Cuvée des Trolls",
+      "description": "piv.  Dubuisson, Pipaix, Henegavsko, Belgian Golden Srong Ale, 0,25l"
     },
     {
       "name": "16° Drunk on Fruit",
