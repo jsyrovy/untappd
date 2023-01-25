@@ -1,6 +1,141 @@
 {
   "check_ins": [
     {
+      "id": 1242446490,
+      "dt": "2023-01-25T00:29:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rychtář Natur",
+      "brewery": "Pivovar Rychtář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rychtar-rychtar-natur/71008"
+    },
+    {
+      "id": 1242433989,
+      "dt": "2023-01-24T23:19:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242431780,
+      "dt": "2023-01-24T23:06:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devil's Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
+      "id": 1242429673,
+      "dt": "2023-01-24T22:52:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devil's Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
+      "id": 1242428626,
+      "dt": "2023-01-24T22:46:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devil's Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
+      "id": 1242413494,
+      "dt": "2023-01-24T21:19:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242384283,
+      "dt": "2023-01-24T18:27:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cuvée des Trolls",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-cuvee-des-trolls/7318"
+    },
+    {
+      "id": 1242380971,
+      "dt": "2023-01-24T18:00:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242379158,
+      "dt": "2023-01-24T17:43:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Drunk on Fruit",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-drunk-on-fruit/5100812"
+    },
+    {
+      "id": 1242379093,
+      "dt": "2023-01-24T17:42:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242378989,
+      "dt": "2023-01-24T17:41:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gaia Single Beer",
+      "brewery": "Chrudimský pivovar Filištín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chrudimsky-pivovar-filistin-gaia-single-beer/4841791"
+    },
+    {
+      "id": 1242378972,
+      "dt": "2023-01-24T17:41:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Drunk on Fruit",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-drunk-on-fruit/5100812"
+    },
+    {
+      "id": 1242378594,
+      "dt": "2023-01-24T17:37:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gaia Single Beer",
+      "brewery": "Chrudimský pivovar Filištín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chrudimsky-pivovar-filistin-gaia-single-beer/4841791"
+    },
+    {
+      "id": 1242376163,
+      "dt": "2023-01-24T17:09:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242373679,
+      "dt": "2023-01-24T16:26:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gaia Single Beer",
+      "brewery": "Chrudimský pivovar Filištín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chrudimsky-pivovar-filistin-gaia-single-beer/4841791"
+    },
+    {
       "id": 1242153459,
       "dt": "2023-01-22T23:11:56+01:00",
       "venue_name": "Pivní ambasáda",
