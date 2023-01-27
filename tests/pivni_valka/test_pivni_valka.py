@@ -1,5 +1,6 @@
 import pytest
 
+from db import use_fresh_test_db
 from pivni_valka import PivniValka
 
 USER_PROFILE = """ \
@@ -45,12 +46,14 @@ USER_PROFILE = """ \
 """
 
 
+@use_fresh_test_db
 def test_parse_unique_beers_count():
     user_profile = USER_PROFILE.format(unique_beers_count="1,234")
 
     assert PivniValka().parse_unique_beers_count(user_profile) == 1234
 
 
+@use_fresh_test_db
 def test_parse_unique_beers_count_with_invalid_user_profile():
     user_profile = "<html></html>"
 
