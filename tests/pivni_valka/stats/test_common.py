@@ -1,6 +1,6 @@
 import datetime
 
-from db import db, use_fresh_test_db
+from db import db
 from pivni_valka.stats.common import (
     get_total_unique_beers,
     get_unique_beers,
@@ -8,7 +8,6 @@ from pivni_valka.stats.common import (
 )
 
 
-@use_fresh_test_db
 def test_get_total_unique_beers():
     assert get_total_unique_beers() == {
         "sejrik": 11,
@@ -18,7 +17,6 @@ def test_get_total_unique_beers():
     }
 
 
-@use_fresh_test_db
 def test_get_unique_beers():
     assert get_unique_beers("sejrik") == "11"
     assert get_unique_beers("sejrik", days=1) == "10"
@@ -27,14 +25,12 @@ def test_get_unique_beers():
     assert get_unique_beers("ominar", formatted=True) == "0"
 
 
-@use_fresh_test_db
 def test_get_unique_beers_before():
     assert get_unique_beers_before("sejrik", datetime.date.today()) == 11
     assert get_unique_beers_before("sejrik", datetime.date(2022, 1, 2)) == 0
     assert get_unique_beers_before("sejrik", datetime.date(2022, 1, 3)) == 1
 
 
-@use_fresh_test_db
 def test_save_daily_stats():
     def _get_count(_date, _user_name):
         return db.query_one(

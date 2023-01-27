@@ -1,8 +1,6 @@
-from db import use_fresh_test_db
 from pivni_valka.stats.tiles import get_tiles_data, TileData
 
 
-@use_fresh_test_db
 def test_get_tiles_data():
     assert get_tiles_data() == [
         TileData(
