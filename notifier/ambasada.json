@@ -1,20 +1,20 @@
 {
   "beers": [
     {
+      "name": "11° Malostranská",
+      "description": "piv. Four Elements, Praha, Světlý Ležák"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Natur",
-      "description": "piv. Rychtář, Hlinsko, Nefiltrovaný Ležák"
+      "name": "11° Randy",
+      "description": "piv. The Barn Beer co., Druztová, APA"
     },
     {
       "name": "11° WeissBier",
       "description": "St. Georgen Bräu, Buttenheim, Horní Franky, Germna Weissbier"
-    },
-    {
-      "name": "12° Blizard",
-      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
