@@ -4,7 +4,8 @@ from db import db
 from pivni_valka.stats.common import (
     get_total_unique_beers,
     get_unique_beers,
-    get_unique_beers_before, save_daily_stats,
+    get_unique_beers_before,
+    save_daily_stats,
 )
 
 
@@ -39,7 +40,7 @@ def test_save_daily_stats():
         )[0]
 
     date = datetime.date.today()
-    user_name = 'tester'
+    user_name = "tester"
 
     save_daily_stats(date, user_name, 1)
     assert _get_count(date, user_name) == 1
