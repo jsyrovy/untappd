@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1242792658,
+      "dt": "2023-01-27T00:42:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devil's Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
+      "id": 1242735846,
+      "dt": "2023-01-26T21:16:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242735191,
+      "dt": "2023-01-26T21:14:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Malostranská 11°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-malostranska-110/4308052"
+    },
+    {
+      "id": 1242733820,
+      "dt": "2023-01-26T21:09:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aecht Schlenkerla Rauchbier - Märzen",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-marzen/471"
+    },
+    {
+      "id": 1242722977,
+      "dt": "2023-01-26T20:30:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Malostranská 11°",
+      "brewery": "Four Elements",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/four-elements-malostranska-110/4308052"
+    },
+    {
+      "id": 1242702963,
+      "dt": "2023-01-26T19:09:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
+      "id": 1242702805,
+      "dt": "2023-01-26T19:08:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Randy",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-randy/3915385"
+    },
+    {
+      "id": 1242680298,
+      "dt": "2023-01-26T16:38:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Prague Drinking Team",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-prague-drinking-team/5180284"
+    },
+    {
+      "id": 1242678972,
+      "dt": "2023-01-26T16:21:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "The Mad Tea-Party",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-the-mad-tea-party/3518929"
+    },
+    {
       "id": 1242570875,
       "dt": "2023-01-25T21:55:18+01:00",
       "venue_name": "U Toulavé pípy",
