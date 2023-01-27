@@ -53,3 +53,11 @@ class Db:
 
 
 db = Db(use_test_db=is_test())
+
+
+def use_fresh_test_db(func):
+    def wrapper():
+        db.__init__(use_test_db=True)
+        func()
+
+    return wrapper
