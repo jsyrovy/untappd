@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Malostranská",
-      "description": "piv. Four Elements, Praha, Světlý Ležák"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -21,8 +17,8 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "14° Mad Tea-Party",
-      "description": "piv. Crazy Clown, Pale Ale s liči a jasmínovým čajem"
+      "name": "13° Chicago",
+      "description": "piv. Agent, Olešnice, IPL"
     },
     {
       "name": "15° Cuvée des Trolls",
@@ -31,6 +27,10 @@
     {
       "name": "15° Devils Candy",
       "description": "piv. Crazy Clown, Kaštanový Stout"
+    },
+    {
+      "name": "16° NEIPA",
+      "description": "piv. Obora, Malšice, New England IPA"
     }
   ]
 }
