@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1243119682,
+      "dt": "2023-01-28T00:26:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chicago IPL",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-chicago-ipl/4317643"
+    },
+    {
+      "id": 1242992314,
+      "dt": "2023-01-27T20:46:17+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gilotina",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-gilotina/1535828"
+    },
+    {
       "id": 1242792658,
       "dt": "2023-01-27T00:42:33+01:00",
       "venue_name": "Pivní ambasáda",
@@ -43,6 +61,15 @@
       "beer_name": "Malostranská 11°",
       "brewery": "Four Elements",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/four-elements-malostranska-110/4308052"
+    },
+    {
+      "id": 1242722977,
+      "dt": "2023-01-26T20:30:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Malostranská 11°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
       "beer_link": "https://untappd.com/b/four-elements-malostranska-110/4308052"
     },
     {
