@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1243952318,
+      "dt": "2023-01-29T22:02:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA 16°",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa-160/5213067"
+    },
+    {
+      "id": 1243868613,
+      "dt": "2023-01-29T18:44:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA 16°",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa-160/5213067"
+    },
+    {
+      "id": 1243866745,
+      "dt": "2023-01-29T18:38:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chicago IPL",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-chicago-ipl/4317643"
+    },
+    {
       "id": 1243119682,
       "dt": "2023-01-28T00:26:08+01:00",
       "venue_name": "Pivní ambasáda",
