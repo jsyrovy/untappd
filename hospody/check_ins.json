@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1244111300,
+      "dt": "2023-01-30T20:12:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1244111005,
+      "dt": "2023-01-30T20:11:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA 16°",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa-160/5213067"
+    },
+    {
+      "id": 1244110933,
+      "dt": "2023-01-30T20:10:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devil's Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
       "id": 1243952318,
       "dt": "2023-01-29T22:02:20+01:00",
       "venue_name": "Pivní ambasáda",
