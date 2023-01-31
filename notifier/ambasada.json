@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Liquid Luck",
+      "description": "piv. Sibeeria, Praha, American Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
-      "name": "12° P.A.P.A.",
-      "description": "piv. Permon, Sokolov, American Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
