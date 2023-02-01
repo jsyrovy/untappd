@@ -53,7 +53,8 @@ jobs:
         run: make init-dev
       - name: Test pivni-valka
         run: |
-          rm -f web/pivni_valka/index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html data/data_dump.sql
+          rm -f web/pivni_valka/index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html
+          echo "BEGIN TRANSACTION; CREATE TABLE [pivni_valka] ([date] text, [user] text, [unique_beers] integer); COMMIT;" >> data/data_dump.sql
           make run-pivni-valka-tweetless
           test -e web/pivni_valka/index.html
           test -e web/pivni_valka/chart_year.html
