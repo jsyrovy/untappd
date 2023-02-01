@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1244230620,
+      "dt": "2023-01-31T20:13:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cuvée des Trolls",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-cuvee-des-trolls/7318"
+    },
+    {
+      "id": 1244229848,
+      "dt": "2023-01-31T20:09:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devil's Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
+      "id": 1244229674,
+      "dt": "2023-01-31T20:08:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa/3358062"
+    },
+    {
+      "id": 1244229542,
+      "dt": "2023-01-31T20:07:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1244229379,
+      "dt": "2023-01-31T20:06:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1244207732,
+      "dt": "2023-01-31T17:36:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1244206696,
+      "dt": "2023-01-31T17:24:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa/3358062"
+    },
+    {
       "id": 1244111300,
       "dt": "2023-01-30T20:12:57+01:00",
       "venue_name": "Pivní ambasáda",
@@ -19,6 +82,15 @@
       "beer_link": "https://untappd.com/b/pivovar-obora-neipa-160/5213067"
     },
     {
+      "id": 1244111005,
+      "dt": "2023-01-30T20:11:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa/3358062"
+    },
+    {
       "id": 1244110933,
       "dt": "2023-01-30T20:10:43+01:00",
       "venue_name": "Pivní ambasáda",
@@ -26,6 +98,15 @@
       "brewery": "Crazy Clown Brewery",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/crazy-clown-brewery-devil-s-candy/3626732"
+    },
+    {
+      "id": 1244092608,
+      "dt": "2023-01-30T17:45:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa/3358062"
     },
     {
       "id": 1243952318,
@@ -37,6 +118,15 @@
       "beer_link": "https://untappd.com/b/pivovar-obora-neipa-160/5213067"
     },
     {
+      "id": 1243952318,
+      "dt": "2023-01-29T22:02:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa/3358062"
+    },
+    {
       "id": 1243868613,
       "dt": "2023-01-29T18:44:26+01:00",
       "venue_name": "Pivní ambasáda",
@@ -44,6 +134,15 @@
       "brewery": "Pivovar Obora",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-obora-neipa-160/5213067"
+    },
+    {
+      "id": 1243868613,
+      "dt": "2023-01-29T18:44:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-neipa/3358062"
     },
     {
       "id": 1243866745,
