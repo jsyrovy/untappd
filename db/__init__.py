@@ -4,20 +4,20 @@ from typing import Optional
 
 from utils import ENCODING, is_test
 
-PATH = "data/data.sqlite"
-TEST_DB = ":memory:"
 DUMP_PATH = "data/data_dump.sql"
 TEST_DUMP_PATH = "data/test_dump.sql"
 
 
 class Db:
-    def __init__(self, use_test_db: bool = False) -> None:
-        self.con = sqlite3.connect(TEST_DB if use_test_db else PATH)
+    def __init__(self, use_test_db: bool = False, database: str = ":memory:") -> None:
+        self.use_test_db: bool = use_test_db
+        self.con = sqlite3.connect(database)
         self.cur = self.con.cursor()
 
         if use_test_db:
             print("DB is running in test mode.")
-            self.load_test_dump()
+
+        self.load_dump()
 
     def dump(self) -> None:
         with open(DUMP_PATH, "w", encoding=ENCODING) as f:
@@ -47,8 +47,10 @@ class Db:
     def commit(self) -> None:
         self.con.commit()
 
-    def load_test_dump(self) -> None:
-        with open(TEST_DUMP_PATH, "r", encoding=ENCODING) as f:
+    def load_dump(self) -> None:
+        with open(
+            TEST_DUMP_PATH if self.use_test_db else DUMP_PATH, "r", encoding=ENCODING
+        ) as f:
             self.cur.executescript(f.read())
 
 

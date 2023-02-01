@@ -62,3 +62,6 @@ test:
 coverage:
 	${PYTHON} -m coverage run -m pytest
 	${PYTHON} -m coverage report -m
+
+save-db-to-file:
+	${PYTHON} -m run_tool save-db-to-file
