@@ -2,7 +2,7 @@ import datetime
 from typing import Optional
 
 import utils
-from database import db
+from database.auto_init import db
 from pivni_valka.stats.common import ChartData, ChartDataset, get_unique_beers_before
 
 

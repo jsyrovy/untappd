@@ -2,6 +2,8 @@ import argparse
 from collections.abc import Callable
 from pathlib import Path
 
+from database.database import Db
+
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Command")
@@ -15,8 +17,6 @@ def main() -> None:
 
 
 def save_db_to_file() -> None:
-    from database import Db
-
     db_path = Path("data/data.sqlite")
     db_path.unlink(missing_ok=True)
 

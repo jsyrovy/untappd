@@ -1,6 +1,6 @@
 import datetime
 
-from database import db
+from database.auto_init import db
 from pivni_valka.stats.common import (
     get_total_unique_beers,
     get_unique_beers,

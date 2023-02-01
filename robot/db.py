@@ -1,4 +1,4 @@
-from database import db
+from database.auto_init import db
 from robot.base import BaseRobot
 
 
