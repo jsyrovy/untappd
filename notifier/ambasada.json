@@ -9,16 +9,16 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Borůvková",
+      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Chicago",
-      "description": "piv. Agent, Olešnice, IPL"
     },
     {
       "name": "15° Cuvée des Trolls",
@@ -29,8 +29,8 @@
       "description": "piv. Crazy Clown, Kaštanový Stout"
     },
     {
-      "name": "16° NEIPA",
-      "description": "piv. Obora, Malšice, New England IPA"
+      "name": "15° Velvyslanec",
+      "description": "piv. Ovipistán, Ledce, IPA"
     }
   ]
 }
