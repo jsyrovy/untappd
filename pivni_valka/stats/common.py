@@ -2,7 +2,7 @@ import datetime
 from dataclasses import dataclass
 from typing import Optional
 
-from db import db
+from database import db
 
 
 @dataclass

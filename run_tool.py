@@ -15,13 +15,13 @@ def main() -> None:
 
 
 def save_db_to_file() -> None:
-    import db
+    from database import Db
 
     db_path = Path("data/data.sqlite")
     db_path.unlink(missing_ok=True)
 
-    database = db.Db(database=str(db_path))
-    database.close()
+    db = Db(database=str(db_path))
+    db.close()
     print(f"Database saved to '{db_path}'.")
 
 

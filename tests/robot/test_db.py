@@ -3,7 +3,7 @@ from sqlite3 import ProgrammingError
 import mock
 import pytest
 
-from db import db
+from database import db
 from robot.db import DbRobot
 
 

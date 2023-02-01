@@ -1,6 +1,6 @@
 import datetime
 
-from db import db
+from database import db
 from pivni_valka.stats.common import ChartData, ChartDataset
 from pivni_valka.stats.weekly_chart import get_chart_data
 

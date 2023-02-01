@@ -2,7 +2,7 @@ import datetime
 from collections import OrderedDict
 
 import utils
-from db import db
+from database import db
 from pivni_valka.stats.common import ChartData, ChartDataset
 
 

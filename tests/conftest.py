@@ -1,6 +1,6 @@
 import pytest
 
-from db import db
+from database import db
 
 
 @pytest.fixture(scope="function", autouse=True)
