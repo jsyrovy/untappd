@@ -58,7 +58,6 @@ jobs:
           test -e web/pivni_valka/index.html
           test -e web/pivni_valka/chart_year.html
           test -e web/pivni_valka/chart_all.html
-          test -e data/data_dump.sql
           grep "Pivní válka" web/pivni_valka/index.html
           grep 'INSERT INTO "pivni_valka"' data/data_dump.sql
       - name: Test hospody
