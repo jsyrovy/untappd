@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1244398153,
+      "dt": "2023-02-01T22:10:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Plum Pear Ginger Chilli",
+      "brewery": "Hradecký Klenot",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-plum-pear-ginger-chilli/5219892"
+    },
+    {
+      "id": 1244386943,
+      "dt": "2023-02-01T21:20:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velvyslanec",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-velvyslanec/4197338"
+    },
+    {
+      "id": 1244386699,
+      "dt": "2023-02-01T21:19:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Crux",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-crux/5169096"
+    },
+    {
+      "id": 1244373092,
+      "dt": "2023-02-01T20:18:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Crux",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-crux/5169096"
+    },
+    {
+      "id": 1244369480,
+      "dt": "2023-02-01T20:01:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1244366886,
+      "dt": "2023-02-01T19:48:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Crux",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-crux/5169096"
+    },
+    {
+      "id": 1244364853,
+      "dt": "2023-02-01T19:38:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Borůvkový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-boruvkovy-lezak-12/470004"
+    },
+    {
       "id": 1244230620,
       "dt": "2023-01-31T20:13:49+01:00",
       "venue_name": "Pivní ambasáda",
