@@ -1,8 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Liquid Luck",
-      "description": "piv. Sibeeria, Praha, American Pale Ale"
+      "name": "10° Hruška, Švestka, Chilli",
+      "description": "piv. Klenot, HK, Sour Ale"
+    },
+    {
+      "name": "11° Crux",
+      "description": "piv. Černý Potoka, Session Hazy IPA"
     },
     {
       "name": "11° Mordýř",
@@ -23,10 +27,6 @@
     {
       "name": "15° Cuvée des Trolls",
       "description": "piv.  Dubuisson, Pipaix, Henegavsko, Belgian Golden Srong Ale, 0,33l"
-    },
-    {
-      "name": "15° Devils Candy",
-      "description": "piv. Crazy Clown, Kaštanový Stout"
     },
     {
       "name": "15° Velvyslanec",
