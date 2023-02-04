@@ -5,16 +5,16 @@
       "description": "piv. Klenot, HK, Sour Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
     {
       "name": "12° Borůvková",
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+    },
+    {
+      "name": "12° Masopustní",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -25,12 +25,12 @@
       "description": "piv. JungBerg, Hořice, Single Hop ALE"
     },
     {
-      "name": "15° Cuvée des Trolls",
-      "description": "piv.  Dubuisson, Pipaix, Henegavsko, Belgian Golden Srong Ale, 0,33l"
-    },
-    {
       "name": "15° III Aliance P.I.V. Strata",
       "description": "piv. Permon, Sokolov, West Coast IPA"
+    },
+    {
+      "name": "16° Boomer",
+      "description": "piv. Bribant, Zielona Gora, PL, American IPA"
     }
   ]
 }
