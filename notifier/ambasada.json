@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Hruška, Švestka, Chilli",
-      "description": "piv. Klenot, HK, Sour Ale"
+      "name": "10° Mango-pina-coco-sour-us",
+      "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
     },
     {
       "name": "12° Aldersbacher",
@@ -13,16 +13,16 @@
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
+      "name": "12° Clock",
+      "description": "piv. Clock, Potštejn, APA"
+    },
+    {
       "name": "12° Masopustní",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Styrian Wolf",
-      "description": "piv. JungBerg, Hořice, Single Hop ALE"
     },
     {
       "name": "15° III Aliance P.I.V. Strata",
