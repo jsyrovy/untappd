@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1246054250,
+      "dt": "2023-02-07T19:07:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boomer",
+      "brewery": "Browar Birbant",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-birbant-boomer/5137303"
+    },
+    {
       "id": 1245718470,
       "dt": "2023-02-05T19:23:02+01:00",
       "venue_name": "Pivní ambasáda",
