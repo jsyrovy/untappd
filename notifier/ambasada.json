@@ -5,10 +5,6 @@
       "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
     },
     {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
-    },
-    {
       "name": "12° Clock",
       "description": "piv. Clock, Potštejn, APA"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Weiherer Weizen",
+      "description": "piv. Kundmüller, Horní Franky, German Hefeweizen"
     },
     {
       "name": "12° Zlatokop",
