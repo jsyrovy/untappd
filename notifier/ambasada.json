@@ -1,12 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Mango-pina-coco-sour-us",
-      "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Clock",
-      "description": "piv. Clock, Potštejn, APA"
+      "name": "12° Ležák",
+      "description": "piv. Trilobit, Praha, Světlý Ležák"
     },
     {
       "name": "12° Masopustní",
@@ -17,12 +13,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Weiherer Weizen",
-      "description": "piv. Kundmüller, Horní Franky, German Hefeweizen"
+      "name": "12° Passion Fruit",
+      "description": "piv. Zichovec, Fruit Sour Ale"
     },
     {
-      "name": "12° Zlatokop",
-      "description": "piv. Malešov, světlý ležák"
+      "name": "12° Red Ale",
+      "description": "Beskydský pivovárek, Ostravice, Red Ale"
+    },
+    {
+      "name": "12° Weiherer Weizen",
+      "description": "piv. Kundmüller, Horní Franky, German Hefeweizen"
     },
     {
       "name": "16° Boomer",
