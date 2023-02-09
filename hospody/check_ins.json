@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1246257759,
+      "dt": "2023-02-08T23:24:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gilotina",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-gilotina/1535828"
+    },
+    {
+      "id": 1246248576,
+      "dt": "2023-02-08T22:40:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Weizen Hell",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-weizen-hell/121182"
+    },
+    {
+      "id": 1246239026,
+      "dt": "2023-02-08T21:56:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Red Ale",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-red-ale/638751"
+    },
+    {
+      "id": 1246193352,
+      "dt": "2023-02-08T18:17:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Weizen Hell",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-weizen-hell/121182"
+    },
+    {
+      "id": 1246193159,
+      "dt": "2023-02-08T18:16:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatokop 12",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-zlatokop-12/4775329"
+    },
+    {
+      "id": 1246191116,
+      "dt": "2023-02-08T18:01:38+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Winter IPA",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-winter-ipa/5171602"
+    },
+    {
+      "id": 1246187849,
+      "dt": "2023-02-08T17:34:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gose - Lemon Rosemary Ginger",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-lemon-rosemary-ginger/5201346"
+    },
+    {
+      "id": 1246185696,
+      "dt": "2023-02-08T17:12:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Chill Factor",
+      "brewery": "Pivovar Raven",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-raven-chill-factor/5142687"
+    },
+    {
       "id": 1246054250,
       "dt": "2023-02-07T19:07:38+01:00",
       "venue_name": "Pivní ambasáda",
@@ -46,6 +118,15 @@
       "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-iii-aliance-p-i-v/5222058"
     },
     {
+      "id": 1245709637,
+      "dt": "2023-02-05T18:59:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strata IPA (3. Aliance P.I.V.)",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-3-aliance-p-i-v/5222058"
+    },
+    {
       "id": 1245407884,
       "dt": "2023-02-04T22:55:22+01:00",
       "venue_name": "U Toulavé pípy",
@@ -80,6 +161,15 @@
       "brewery": "Pivovar Permon",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-iii-aliance-p-i-v/5222058"
+    },
+    {
+      "id": 1245400849,
+      "dt": "2023-02-04T22:46:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strata IPA (3. Aliance P.I.V.)",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-3-aliance-p-i-v/5222058"
     },
     {
       "id": 1245400145,
@@ -127,6 +217,15 @@
       "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-iii-aliance-p-i-v/5222058"
     },
     {
+      "id": 1245393121,
+      "dt": "2023-02-04T22:37:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strata IPA (3. Aliance P.I.V.)",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-3-aliance-p-i-v/5222058"
+    },
+    {
       "id": 1245390927,
       "dt": "2023-02-04T22:34:50+01:00",
       "venue_name": "Pivní ambasáda",
@@ -170,6 +269,15 @@
       "brewery": "Pivovar Permon",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-iii-aliance-p-i-v/5222058"
+    },
+    {
+      "id": 1244867371,
+      "dt": "2023-02-03T22:13:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strata IPA (3. Aliance P.I.V.)",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-3-aliance-p-i-v/5222058"
     },
     {
       "id": 1244865346,
