@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1246370230,
+      "dt": "2023-02-09T18:51:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Red Ale",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-red-ale/638751"
+    },
+    {
+      "id": 1246364989,
+      "dt": "2023-02-09T18:24:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Weizen Hell",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-weizen-hell/121182"
+    },
+    {
       "id": 1246257759,
       "dt": "2023-02-08T23:24:35+01:00",
       "venue_name": "Pivní ambasáda",
