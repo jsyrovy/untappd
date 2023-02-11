@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "12° Ležák",
-      "description": "piv. Trilobit, Praha, Světlý Ležák"
+      "name": "11° Orangde & Elderflower",
+      "description": "piv. Pivečka, Rousínov, Fruit Sour Ale"
     },
     {
-      "name": "12° Masopustní",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° Session IPA",
+      "description": "piv. Pivečka, Rousínov, Session IPA"
+    },
+    {
+      "name": "12° Outmeal Stout",
+      "description": "piv. Pivečka, Rousínov, Stout"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Passion Fruit",
-      "description": "piv. Zichovec, Fruit Sour Ale"
+      "name": "14° DDH IPL",
+      "description": "piv. Pivečka, Rousínov, DDH India Pale Lager"
     },
     {
-      "name": "12° Red Ale",
-      "description": "Beskydský pivovárek, Ostravice, Red Ale"
+      "name": "14° Mango NEIPA",
+      "description": "piv. Pivečka, Rousínov, NEIPA"
     },
     {
-      "name": "12° Weiherer Weizen",
-      "description": "piv. Kundmüller, Horní Franky, German Hefeweizen"
+      "name": "15° Rye IPA",
+      "description": "piv. Pivečka, Rousínov, Rye IPA"
     },
     {
       "name": "16° Boomer",
       "description": "piv. Bribant, Zielona Gora, PL, American IPA"
-    },
-    {
-      "name": "19° Gilotina",
-      "description": "piv. Mordýř, Dolní Ředice, Bylinný Ale"
     }
   ]
 }
