@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1247997664,
+      "dt": "2023-02-14T20:33:20+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "PIRA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-pira/5118285"
+    },
+    {
+      "id": 1247977860,
+      "dt": "2023-02-14T18:58:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Správná Dvojka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-spravna-dvojka/5225952"
+    },
+    {
+      "id": 1247967227,
+      "dt": "2023-02-14T17:49:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Správná Dvojka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-spravna-dvojka/5225952"
+    },
+    {
+      "id": 1247962860,
+      "dt": "2023-02-14T17:10:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango NEIPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-mango-neipa/5058319"
+    },
+    {
+      "id": 1247960324,
+      "dt": "2023-02-14T16:35:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DDH IPL 14°",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-ddh-ipl-140/5199062"
+    },
+    {
+      "id": 1247959021,
+      "dt": "2023-02-14T16:16:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rye IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-rye-ipa/5039732"
+    },
+    {
       "id": 1247873502,
       "dt": "2023-02-13T21:22:45+01:00",
       "venue_name": "Pivní ambasáda",
