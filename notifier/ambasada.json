@@ -5,6 +5,10 @@
       "description": "piv. Pivečka, Rousínov, Fruit Sour Ale"
     },
     {
+      "name": "12° Masopustní",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Outmeal Stout",
       "description": "piv. Pivečka, Rousínov, Stout"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Správná Dvojka",
       "description": "Valášek, Vsetín, Belgian Ale"
-    },
-    {
-      "name": "14° DDH IPL",
-      "description": "piv. Pivečka, Rousínov, DDH India Pale Lager"
     },
     {
       "name": "14° Mango NEIPA",
