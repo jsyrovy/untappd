@@ -1,11 +1,7 @@
 {
   "beers": [
     {
-      "name": "11° Orangde & Elderflower",
-      "description": "piv. Pivečka, Rousínov, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Masopustní",
+      "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
@@ -17,20 +13,24 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Passion Fruit",
+      "description": "piv. Zichovec, Fruit Sour Ale"
+    },
+    {
       "name": "12° Správná Dvojka",
       "description": "Valášek, Vsetín, Belgian Ale"
     },
     {
-      "name": "14° Mango NEIPA",
-      "description": "piv. Pivečka, Rousínov, NEIPA"
+      "name": "12° Weiherer Weizen",
+      "description": "piv. Kundmüller, Horní Franky, German Hefeweizen"
     },
     {
-      "name": "15° Rye IPA",
-      "description": "piv. Pivečka, Rousínov, Rye IPA"
+      "name": "16° Bloody Valentine (pivo s výhodami)",
+      "description": "piv. Záhora, Kněžičky, Brut IPA s Dračí Krví"
     },
     {
-      "name": "16° Boomer",
-      "description": "piv. Bribant, Zielona Gora, PL, American IPA"
+      "name": "18° Kasteel Rouge",
+      "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
