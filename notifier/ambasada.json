@@ -9,6 +9,10 @@
       "description": "piv. Trilobit, Praha, Světlý Ležák"
     },
     {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -17,12 +21,8 @@
       "description": "piv. Zichovec, Fruit Sour Ale"
     },
     {
-      "name": "12° Porch Punker",
-      "description": "piv. Wywar, Holíč, Slovensko, APA"
-    },
-    {
-      "name": "12° Tap 1 Helle Weisse",
-      "description": "piv. Schneider & Son, Kelheim, Dolní Bavorsko, Weisse"
+      "name": "12° Relaxed",
+      "description": "piv. Antoš, Slaný, APA"
     },
     {
       "name": "16° Bloody Valentine (pivo s výhodami)",
