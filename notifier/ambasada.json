@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° Ležák",
-      "description": "piv. Trilobit, Praha, Světlý Ležák"
+      "name": "11° Rataj",
+      "description": "piv. Rychtář, Hlinsko, svěltý ležák"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° Mandla",
+      "description": "piv. Valášek, Vsetín, Mandlový Ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -21,8 +21,8 @@
       "description": "piv. Zichovec, Fruit Sour Ale"
     },
     {
-      "name": "12° Relaxed",
-      "description": "piv. Antoš, Slaný, APA"
+      "name": "13° Winter Ale",
+      "description": "piv. Rampušák, Dobruška, Ale"
     },
     {
       "name": "18° Kasteel Rouge",
