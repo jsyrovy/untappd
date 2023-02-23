@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1250175371,
+      "dt": "2023-02-22T22:45:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gilotina",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-gilotina/1535828"
+    },
+    {
+      "id": 1250175020,
+      "dt": "2023-02-22T22:44:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose - Lemon Rosemary Ginger",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-lemon-rosemary-ginger/5201346"
+    },
+    {
+      "id": 1250112828,
+      "dt": "2023-02-22T18:02:17+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sv. Norbert Pale Ale",
+      "brewery": "Pivovar Strahov",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-strahov-sv-norbert-pale-ale/4861869"
+    },
+    {
+      "id": 1250109565,
+      "dt": "2023-02-22T17:39:25+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jump Around",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-jump-around/5139482"
+    },
+    {
+      "id": 1250106679,
+      "dt": "2023-02-22T17:15:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Snowflake",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-snowflake/5227400"
+    },
+    {
+      "id": 1250102610,
+      "dt": "2023-02-22T16:31:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Imperial IPA",
+      "brewery": "Pivovar Louka",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-louka-imperial-ipa/5234507"
+    },
+    {
       "id": 1249618559,
       "dt": "2023-02-19T22:17:52+01:00",
       "venue_name": "U Toulavé pípy",
