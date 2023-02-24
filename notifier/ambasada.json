@@ -1,6 +1,14 @@
 {
   "beers": [
     {
+      "name": "11° Final Cuntdown Sabro",
+      "description": "piv. Crazy Clown, Single Hop Ale"
+    },
+    {
+      "name": "11° GrischBEERla",
+      "description": "piv. Kundmüller(DE)/Fat Heads (USA), Session IPA"
+    },
+    {
       "name": "11° Rataj",
       "description": "piv. Rychtář, Hlinsko, svěltý ležák"
     },
@@ -21,16 +29,8 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° Winter Ale",
-      "description": "piv. Rampušák, Dobruška, Ale"
-    },
-    {
-      "name": "18° Kasteel Rouge",
-      "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "19° Gilotina",
-      "description": "piv. Mordýř, Dolní Ředice, Bylinný Ale"
+      "name": "15° III Aliance P.I.V. Strata",
+      "description": "piv. Permon, Sokolov, West Coast IPA"
     }
   ]
 }
