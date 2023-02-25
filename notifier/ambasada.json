@@ -9,10 +9,6 @@
       "description": "piv. Kundmüller(DE)/Fat Heads (USA), Session IPA"
     },
     {
-      "name": "11° Rataj",
-      "description": "piv. Rychtář, Hlinsko, svěltý ležák"
-    },
-    {
       "name": "12° Gose Lemon",
       "description": "piv. Obora, Malšice, Gose"
     },
@@ -27,6 +23,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Brundibár",
+      "description": "piv. Mordýř, Dolní Ředice, IPL"
     },
     {
       "name": "15° III Aliance P.I.V. Strata",
