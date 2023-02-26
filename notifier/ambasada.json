@@ -5,10 +5,6 @@
       "description": "piv. Crazy Clown, Single Hop Ale"
     },
     {
-      "name": "11° GrischBEERla",
-      "description": "piv. Kundmüller(DE)/Fat Heads (USA), Session IPA"
-    },
-    {
       "name": "12° Gose Lemon",
       "description": "piv. Obora, Malšice, Gose"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° III Aliance P.I.V. Strata",
       "description": "piv. Permon, Sokolov, West Coast IPA"
+    },
+    {
+      "name": "16° Teaches of Peaches",
+      "description": "piv. Crazy Clown, Peaches Sour NEIPA"
     }
   ]
 }
