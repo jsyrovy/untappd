@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1251752844,
+      "dt": "2023-02-27T17:46:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Teaches of Peaches",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-teaches-of-peaches/2763349"
+    },
+    {
+      "id": 1251750408,
+      "dt": "2023-02-27T17:21:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mandlový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-mandlovy-lezak-12/1197031"
+    },
+    {
+      "id": 1251748403,
+      "dt": "2023-02-27T16:58:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brundibár",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-brundibar/1959940"
+    },
+    {
+      "id": 1251747289,
+      "dt": "2023-02-27T16:43:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strata IPA (3. Aliance P.I.V.)",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-strata-ipa-3-aliance-p-i-v/5222058"
+    },
+    {
       "id": 1251271434,
       "dt": "2023-02-25T23:51:24+01:00",
       "venue_name": "Pivní ambasáda",
