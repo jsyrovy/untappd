@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Final Cuntdown Sabro",
-      "description": "piv. Crazy Clown, Single Hop Ale"
-    },
-    {
       "name": "12° Black Currant",
       "description": "piv. Clock, Potštejn, Sour Ale"
+    },
+    {
+      "name": "12° Blizard",
+      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
     },
     {
       "name": "12° Maisels Weisse",
