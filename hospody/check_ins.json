@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1251914054,
+      "dt": "2023-02-28T20:33:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Erdbeer Porter",
+      "brewery": "Bergquell Brauerei Löbau",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bergquell-brauerei-lobau-erdbeer-porter/46157"
+    },
+    {
+      "id": 1251902748,
+      "dt": "2023-02-28T19:37:04+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zlínský Švec IPA 13% Fašank",
+      "brewery": "Pivovar Malenovice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-malenovice-zlinsky-svec-ipa-13-fasank/3082400"
+    },
+    {
+      "id": 1251898028,
+      "dt": "2023-02-28T19:12:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Teaches of Peaches",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-teaches-of-peaches/2763349"
+    },
+    {
+      "id": 1251897707,
+      "dt": "2023-02-28T19:10:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Final Cuntdown Sabro",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-final-cuntdown-sabro/5141332"
+    },
+    {
+      "id": 1251896736,
+      "dt": "2023-02-28T19:05:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Podlipák 11",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-podlipak-11/4081441"
+    },
+    {
+      "id": 1251880681,
+      "dt": "2023-02-28T17:05:14+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fašanek 12",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-fasanek-12/4759533"
+    },
+    {
       "id": 1251752844,
       "dt": "2023-02-27T17:46:05+01:00",
       "venue_name": "Pivní ambasáda",
