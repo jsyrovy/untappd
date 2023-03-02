@@ -1,12 +1,20 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Black Currant",
       "description": "piv. Clock, Potštejn, Sour Ale"
     },
     {
       "name": "12° Blizard",
       "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
+    },
+    {
+      "name": "12° Borůvková",
+      "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
     },
     {
       "name": "12° Maisels Weisse",
@@ -17,20 +25,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Prostě Ležák",
-      "description": "piv. Bad Flash, Praha, Světlý Ležák"
+      "name": "15° Victoria",
+      "description": "Beskydský pivovárek, Ostravice, English IPA"
     },
     {
-      "name": "13° Brundibár",
-      "description": "piv. Mordýř, Dolní Ředice, IPL"
-    },
-    {
-      "name": "15° III Aliance P.I.V. Strata",
-      "description": "piv. Permon, Sokolov, West Coast IPA"
-    },
-    {
-      "name": "16° Teaches of Peaches",
-      "description": "piv. Crazy Clown, Peaches Sour NEIPA"
+      "name": "18° Deliium Red",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Strong Fruit Ale, 0,25l"
     }
   ]
 }
