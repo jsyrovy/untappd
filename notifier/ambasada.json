@@ -1,20 +1,20 @@
 {
   "beers": [
     {
+      "name": "10° Banana & Coconut",
+      "description": "piv. Klenot, HK, Sour Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Black Currant",
-      "description": "piv. Clock, Potštejn, Sour Ale"
-    },
-    {
-      "name": "12° Blizard",
-      "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
-    },
-    {
       "name": "12° Borůvková",
       "description": "Beskydský pivovárek, Ostravice, ochucený ležák"
+    },
+    {
+      "name": "12° Eldorado",
+      "description": "piv. Loutkář, Chrudim, Single Hop Ale"
     },
     {
       "name": "12° Maisels Weisse",
