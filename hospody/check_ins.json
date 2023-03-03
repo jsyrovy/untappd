@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1252243688,
+      "dt": "2023-03-02T19:29:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Eldorádo 12 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-eldorado-12-single-hop/5230836"
+    },
+    {
+      "id": 1252213245,
+      "dt": "2023-03-02T16:49:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Denali NEIPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-denali-neipa/5195042"
+    },
+    {
+      "id": 1252212437,
+      "dt": "2023-03-02T16:42:14+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Denali NEIPA",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-denali-neipa/5195042"
+    },
+    {
+      "id": 1252212423,
+      "dt": "2023-03-02T16:42:06+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fašanek 12",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-fasanek-12/4759533"
+    },
+    {
+      "id": 1252210824,
+      "dt": "2023-03-02T16:25:22+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zlatá Raketa 17°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-zlata-raketa-170/339181"
+    },
+    {
+      "id": 1252050489,
+      "dt": "2023-03-01T18:53:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Koncept White Stout 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-koncept-white-stout-15/5189422"
+    },
+    {
+      "id": 1252043684,
+      "dt": "2023-03-01T18:15:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Zima)",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-zima/5219024"
+    },
+    {
       "id": 1251914054,
       "dt": "2023-02-28T20:33:21+01:00",
       "venue_name": "U Toulavé pípy",
