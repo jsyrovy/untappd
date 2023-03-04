@@ -7,6 +7,31 @@ CREATE TABLE [archive] (
 	[brewery] text,
 	[venue] text
 );
+INSERT INTO "archive" VALUES(1242376163,'2023-01-24 16:09:29','sejrik','The Mad Tea-Party','Crazy Clown Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1242378972,'2023-01-24 16:41:25','sejrik','Drunk on Fruit','Sibeeria','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1242384283,'2023-01-24 17:27:01','sejrik','Cuvée des Trolls','Brasserie Dubuisson','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1242689382,'2023-01-26 16:58:19','sejrik','Homies','Falkon','Seznam.cz');
+INSERT INTO "archive" VALUES(1242700526,'2023-01-26 17:57:56','sejrik','Random Rules','Verdant Brewing Co','Seznam.cz');
+INSERT INTO "archive" VALUES(1242714325,'2023-01-26 18:57:38','sejrik','If We Must','Verdant Brewing Co','Seznam.cz');
+INSERT INTO "archive" VALUES(1242729951,'2023-01-26 19:55:57','sejrik','Courtship Spectacle','Verdant Brewing Co','Seznam.cz');
+INSERT INTO "archive" VALUES(1243327169,'2023-01-28 16:08:46','sejrik','Bounty 13','Rodinný pivovar Zichovec at Untappd','Untappd at Home');
+INSERT INTO "archive" VALUES(1245095683,'2023-02-04 12:24:14','sejrik','450','Svijany','Hostinec Konrád');
+INSERT INTO "archive" VALUES(1245261927,'2023-02-04 19:05:29','sejrik','Old School American Brown Ale 13','Rodinný pivovar Zichovec at Untappd','Untappd at Home');
+INSERT INTO "archive" VALUES(1246338059,'2023-02-09 11:26:32','sejrik','Laser Beer','Olivův pivovar','Olivův pivovar');
+INSERT INTO "archive" VALUES(1246338619,'2023-02-09 11:43:47','sejrik','Kníže Václav','Olivův pivovar','Olivův pivovar');
+INSERT INTO "archive" VALUES(1246339673,'2023-02-09 12:11:51','sejrik','Saison','Olivův pivovar','Olivův pivovar');
+INSERT INTO "archive" VALUES(1246357220,'2023-02-09 16:35:42','sejrik','Desítka','Pivovar Obora','KMP – Klub malých pivovarů');
+INSERT INTO "archive" VALUES(1246359074,'2023-02-09 16:49:32','sejrik','Cold Fish','černý potoka','KMP – Klub malých pivovarů');
+INSERT INTO "archive" VALUES(1246364874,'2023-02-09 17:24:16','sejrik','Chill Factor','Pivovar Raven','KMP – Klub malých pivovarů');
+INSERT INTO "archive" VALUES(1246367029,'2023-02-09 17:35:55','sejrik','Pesimista','Pivovar Mazák','KMP – Klub malých pivovarů');
+INSERT INTO "archive" VALUES(1246371513,'2023-02-09 17:57:33','sejrik','Chimay Première (Red)','Bières de Chimay','KMP – Klub malých pivovarů');
+INSERT INTO "archive" VALUES(1246545805,'2023-02-10 10:59:46','sejrik','Kleťák','Pivovar Kamenice nad Lipou','Horská chata Kleť');
+INSERT INTO "archive" VALUES(1248348329,'2023-02-16 19:47:32','sejrik','Pardubický Porter','Pardubický pivovar','Pardubický PUB');
+INSERT INTO "archive" VALUES(1248987290,'2023-02-18 17:13:32','sejrik','Světlý ležák 12','Krkonošský medvěd','Stejk bejk');
+INSERT INTO "archive" VALUES(1249011419,'2023-02-18 17:52:27','sejrik','Mejťák 12% Polotmavý ležák','Pivovar Mejto','Stejk bejk');
+INSERT INTO "archive" VALUES(1250492629,'2023-02-24 11:31:36','sejrik','Arnoštova Hořká 10','Pardubický pivovar','Pardubický PUB');
+INSERT INTO "archive" VALUES(1251894336,'2023-02-28 17:50:49','sejrik','Theodor','Olivův pivovar at Untappd','Untappd at Home');
+INSERT INTO "archive" VALUES(1252442889,'2023-03-03 15:31:17','sejrik','Denali NEIPA','Bad Flash','U Toulavé pípy');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
