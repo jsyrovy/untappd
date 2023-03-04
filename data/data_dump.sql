@@ -1,4 +1,12 @@
 BEGIN TRANSACTION;
+CREATE TABLE [archive] (
+	[id] integer PRIMARY KEY,
+    [dt_utc] text,
+	[user] text,
+	[beer] text,
+	[brewery] text,
+	[venue] text
+);
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,

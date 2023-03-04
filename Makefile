@@ -44,6 +44,9 @@ run-notifier:
 run-notifier-tweetless:
 	${PYTHON} run_notifier.py --tweetless
 
+run-archivist:
+	${PYTHON} run_archivist.py
+
 mypy:
 	${PYTHON} -m mypy --ignore-missing-imports .
 
