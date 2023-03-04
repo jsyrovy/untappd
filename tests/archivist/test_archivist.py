@@ -3,9 +3,7 @@ import datetime
 from archivist import get_beer, get_brewery, get_dt, get_venue, get_id
 
 TITLE1 = "Jiří S. is drinking a Denali NEIPA by  Bad Flash at U Toulavé pípy"
-TITLE2 = (
-    "Jiří S. is drinking an Arnoštova Hořká 10 by  Pardubický pivovar at Pardubický PUB"
-)
+TITLE2 = "Jiří S. is drinking an Arnoštova Hořká 10 by  Pardubický pivovar at Untappd at Home"
 
 
 def test_get_dt():
@@ -26,7 +24,7 @@ def test_get_brewery():
 
 def test_get_venue():
     assert get_venue(TITLE1) == "U Toulavé pípy"
-    assert get_venue(TITLE2) == "Pardubický PUB"
+    assert get_venue(TITLE2) == "Untappd at Home"
 
 
 def test_get_id():

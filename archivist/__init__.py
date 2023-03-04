@@ -62,6 +62,9 @@ def get_beer(text: str) -> str:
 
 
 def get_brewery(text: str) -> str:
+    if "Untappd at Home" in text:
+        text = text.replace("Untappd at Home", "")
+
     return get_regex_group(r" by (.*) at ", text)
 
 
