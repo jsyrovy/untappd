@@ -54,7 +54,10 @@ def get_dt(struct: time.struct_time) -> datetime.datetime:
 
 
 def get_regex_group(regex: str, text: str) -> str:
-    return re.search(regex, text, re.IGNORECASE).group(1).strip()
+    if match := re.search(regex, text, re.IGNORECASE):
+        return match.group(1).strip()
+
+    raise ValueError(f"Regex `{regex}` not found in `{text}`.")
 
 
 def get_beer(text: str) -> str:
