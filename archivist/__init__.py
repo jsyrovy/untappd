@@ -3,6 +3,7 @@ import os
 import re
 import time
 from dataclasses import dataclass
+from typing import Optional
 
 import feedparser
 
@@ -17,7 +18,7 @@ class Record:
     user: str
     beer: str
     brewery: str
-    venue: str
+    venue: Optional[str]
 
 
 class Archivist(DbRobot):

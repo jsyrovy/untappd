@@ -1,3 +1,13 @@
+import datetime
+from random import shuffle
+
+from bs4 import BeautifulSoup
+
+import utils
+from archivist import Record, create_record_in_db
+from database.auto_init import db
+from robot.db import DbRobot
+
 CHECK_IN_IDS = [
     int(id_)
     for id_ in """1252442889
@@ -727,3 +737,68 @@ CHECK_IN_IDS = [
         "\n"
     )
 ]
+BATCH = 100
+
+
+class DownloadCheckins(DbRobot):
+    def __init__(self) -> None:
+        super().__init__()
+        self.processed = 0
+        self.errors = 0
+
+    def _main(self) -> None:
+        shuffle(CHECK_IN_IDS)
+
+        for id_ in CHECK_IN_IDS:
+            if self.processed == BATCH:
+                print("Batch was processed.")
+                return
+
+            if is_in_db(id_):
+                print(f"Check-in {id_} is already in DB.")
+                continue
+
+            self.process(id_)
+            utils.random_sleep(max_=2)
+
+        if self.errors:
+            raise Exception(f"{self.errors} error(s) occurred.")
+
+    def process(self, id_: int) -> None:
+        page = get_page(id_)
+
+        try:
+            record = parse(page, id_)
+        except Exception as e:
+            print(f"Error while parsing check-in {id_}: {e}")
+            self.errors += 1
+            return
+
+        create_record_in_db(record)
+        print(f"Check-in {id_} saved to DB.")
+        self.processed += 1
+
+
+def is_in_db(id_: int) -> bool:
+    return bool(db.query_one("SELECT 1 FROM `archive` WHERE `id` = ?;", (id_,)))
+
+
+def get_page(id_: int) -> str:
+    return utils.download_page(f"https://untappd.com/user/sejrik/checkin/{id_}")
+
+
+def parse(page: str, id_: int) -> Record:
+    soup = BeautifulSoup(page, "html.parser")
+
+    dt_utc = datetime.datetime.strptime(
+        soup.find("p", class_="time").text, "%a, %d %b %Y %H:%M:%S %z"
+    )
+    beer, brewery = [
+        element.text for element in soup.find("div", class_="beer").find_all("a")
+    ]
+    location = soup.find("p", class_="location")
+    venue = location.find("a").text.strip() if location else None
+
+    return Record(
+        id_, dt_utc.replace(tzinfo=None), "sejrik", beer.strip(), brewery.strip(), venue
+    )

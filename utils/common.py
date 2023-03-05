@@ -42,8 +42,8 @@ def get_template(
     return env.get_template(file)
 
 
-def random_sleep() -> None:
-    time.sleep(random.randrange(5))
+def random_sleep(max_=5) -> None:
+    time.sleep(random.randrange(max_))
 
 
 def get_profile_url(user_name: str) -> str:
