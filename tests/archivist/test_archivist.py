@@ -12,9 +12,26 @@ from archivist import (
     get_optional_regex_group,
 )
 
-TITLE1 = "Jiří S. is drinking a Denali NEIPA by  Bad Flash at U Toulavé pípy"
-TITLE2 = "Jiří S. is drinking an Arnoštova Hořká 10 by  Pardubický pivovar at Untappd at Home"
-TITLE3 = "Jiří S. is drinking a Welzl 16 IPA by  Pivovar Zábřeh"
+SOURCES = (
+    {
+        "text": "Jiří S. is drinking a Denali NEIPA by  Bad Flash at U Toulavé pípy",
+        "beer": "Denali NEIPA",
+        "brewery": "Bad Flash",
+        "venue": "U Toulavé pípy",
+    },
+    {
+        "text": "Jiří S. is drinking an Arnoštova Hořká 10 by  Pardubický pivovar at Untappd at Home",
+        "beer": "Arnoštova Hořká 10",
+        "brewery": "Pardubický pivovar",
+        "venue": "Untappd at Home",
+    },
+    {
+        "text": "Jiří S. is drinking a Welzl 16 IPA by  Pivovar Zábřeh",
+        "beer": "Welzl 16 IPA",
+        "brewery": "Pivovar Zábřeh",
+        "venue": None,
+    },
+)
 
 
 def test_get_dt():
@@ -24,21 +41,18 @@ def test_get_dt():
 
 
 def test_get_beer():
-    assert get_beer(TITLE1) == "Denali NEIPA"
-    assert get_beer(TITLE2) == "Arnoštova Hořká 10"
-    assert get_beer(TITLE3) == "Welzl 16 IPA"
+    for source in SOURCES:
+        assert get_beer(source["text"]) == source["beer"]
 
 
 def test_get_brewery():
-    assert get_brewery(TITLE1) == "Bad Flash"
-    assert get_brewery(TITLE2) == "Pardubický pivovar"
-    assert get_brewery(TITLE3) == "Pivovar Zábřeh"
+    for source in SOURCES:
+        assert get_brewery(source["text"]) == source["brewery"]
 
 
 def test_get_venue():
-    assert get_venue(TITLE1) == "U Toulavé pípy"
-    assert get_venue(TITLE2) == "Untappd at Home"
-    assert get_venue(TITLE3) is None
+    for source in SOURCES:
+        assert get_venue(source["text"]) == source["venue"]
 
 
 def test_get_id():
