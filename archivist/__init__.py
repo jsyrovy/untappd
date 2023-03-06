@@ -61,6 +61,13 @@ def get_regex_group(regex: str, text: str) -> str:
     raise ValueError(f"Regex `{regex}` not found in `{text}`.")
 
 
+def get_optional_regex_group(regex: str, text: str) -> Optional[str]:
+    try:
+        return get_regex_group(regex, text)
+    except ValueError:
+        return None
+
+
 def get_beer(text: str) -> str:
     return get_regex_group(r"is drinking an? (.*) by ", text)
 
@@ -69,11 +76,17 @@ def get_brewery(text: str) -> str:
     if "Untappd at Home" in text:
         text = text.replace("Untappd at Home", "")
 
-    return get_regex_group(r" by (.*) at ", text)
+    regex = r" by (.*)"
+    at = " at "
+
+    if at in text:
+        regex += at
+
+    return get_regex_group(regex, text)
 
 
-def get_venue(text: str) -> str:
-    return get_regex_group(r" at (.*)", text)
+def get_venue(text: str) -> Optional[str]:
+    return get_optional_regex_group(r" at (.*)", text)
 
 
 def is_record_in_db(record: Record) -> bool:
