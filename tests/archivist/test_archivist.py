@@ -3,6 +3,7 @@ import datetime
 import pytest
 
 from archivist import (
+    Record,
     get_beer,
     get_brewery,
     get_dt,
@@ -10,7 +11,10 @@ from archivist import (
     get_id,
     get_regex_group,
     get_optional_regex_group,
+    is_record_in_db,
+    create_record_in_db,
 )
+from database.auto_init import db
 
 SOURCES = (
     {
@@ -69,3 +73,25 @@ def test_get_regex_group():
 def test_get_optional_regex_group():
     assert get_optional_regex_group(r"select (.*)", "select this") == "this"
     assert get_optional_regex_group(r"yes", "nope") is None
+
+
+def test_is_record_in_db():
+    assert is_record_in_db(Record(1, datetime.datetime.now(), "", "", "", ""))
+    assert not is_record_in_db(Record(10, datetime.datetime.now(), "", "", "", ""))
+
+
+def test_create_record_in_db():
+    id_ = 100
+    user = "user"
+    beer = "pivo"
+    brewery = "pivovar"
+    venue = "venue"
+
+    create_record_in_db(
+        Record(id_, datetime.datetime.now(), user, beer, brewery, venue)
+    )
+
+    assert db.query_one(
+        "SELECT 1 FROM `archive` WHERE `id` = ? AND `user` = ? AND `beer` = ? AND `brewery` = ? AND `venue` = ?;",
+        (id_, user, beer, brewery, venue),
+    )
