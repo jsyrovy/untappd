@@ -12,5 +12,6 @@ class Notifier(BaseRobot):
             offer = class_()
             offer.run()
 
-            if offer.new_beers and not self._args.tweetless:
-                offer.send_twitter_message()
+            if offer.new_beers:
+                offer.set_tasted()
+                offer.send_twitter_message(self._args.tweetless)

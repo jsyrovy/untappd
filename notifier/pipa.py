@@ -21,9 +21,10 @@ class PipaBeer(Beer):
     @staticmethod
     def from_json(json_: dict[str, str]) -> "PipaBeer":
         return PipaBeer(
-            json_["beer_name"],
-            json_["brewery"],
-            datetime.fromisoformat(json_["dt"]),
+            name=json_["beer_name"],
+            description=json_["brewery"],
+            tasted=False,
+            dt=datetime.fromisoformat(json_["dt"]),
         )
 
 
