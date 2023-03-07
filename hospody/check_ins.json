@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1253678685,
+      "dt": "2023-03-06T17:48:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Prague Drinking Team",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-prague-drinking-team/5180284"
+    },
+    {
+      "id": 1253676064,
+      "dt": "2023-03-06T17:19:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Teamwork",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-teamwork/5055215"
+    },
+    {
+      "id": 1253674480,
+      "dt": "2023-03-06T16:59:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
       "id": 1253455672,
       "dt": "2023-03-05T18:53:03+01:00",
       "venue_name": "Pivní ambasáda",
