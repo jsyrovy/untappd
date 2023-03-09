@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1254023759,
+      "dt": "2023-03-08T21:33:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Shake",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-shake/5150020"
+    },
+    {
       "id": 1253678685,
       "dt": "2023-03-06T17:48:59+01:00",
       "venue_name": "Pivní ambasáda",
