@@ -1,16 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Banana & Coconut",
-      "description": "piv. Klenot, HK, Sour Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Clock",
-      "description": "piv. Clock, Potštejn, APA"
+      "name": "12° Galaxy",
+      "description": "piv. JungBerg, Hořice, Single Hop Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -23,6 +19,10 @@
     {
       "name": "13° Vídeňský Ležák",
       "description": "piv. Rampušák, Dobruška, Vídeňský Ležák"
+    },
+    {
+      "name": "14° Shake",
+      "description": "piv. Rotor, Kunovice, jahodo-ananasovo-vanilko-kokosový Milk Sour Ale"
     },
     {
       "name": "15° Idaho",
