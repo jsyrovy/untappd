@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1254635754,
+      "dt": "2023-03-11T00:40:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pop Up!",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-pop-up/5265339"
+    },
+    {
+      "id": 1254635058,
+      "dt": "2023-03-11T00:39:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zajíc IPA",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-zajic-ipa/3977567"
+    },
+    {
+      "id": 1254634494,
+      "dt": "2023-03-11T00:38:25+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "United We Stand",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-united-we-stand/5209781"
+    },
+    {
+      "id": 1254633446,
+      "dt": "2023-03-11T00:36:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Keller",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-keller/121024"
+    },
+    {
+      "id": 1254554714,
+      "dt": "2023-03-10T22:19:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pop Up!",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-pop-up/5265339"
+    },
+    {
       "id": 1254219776,
       "dt": "2023-03-09T21:32:37+01:00",
       "venue_name": "Pivní ambasáda",
