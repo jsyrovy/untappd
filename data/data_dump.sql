@@ -733,6 +733,8 @@ INSERT INTO "archive" VALUES(1251894336,'2023-02-28 17:50:49','sejrik','Theodor'
 INSERT INTO "archive" VALUES(1252442889,'2023-03-03 15:31:17','sejrik','Denali NEIPA','Bad Flash','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1253387358,'2023-03-05 13:38:50','sejrik','Welzl 16 IPA','Pivovar Zábřeh',NULL);
 INSERT INTO "archive" VALUES(1253662524,'2023-03-06 11:53:14','sejrik','Kozel Nealko / Non-Alcoholic','Pivovar Velké Popovice','Untappd at Home');
+INSERT INTO "archive" VALUES(1255384299,'2023-03-12 16:12:44','sejrik','IKEA Öl Ljus Lager','Krönleins Bryggeri','Untappd at Home');
+INSERT INTO "archive" VALUES(1255417991,'2023-03-12 17:43:54','sejrik','IKEA Öl Mörk Lager','Krönleins Bryggeri','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
