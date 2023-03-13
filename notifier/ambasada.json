@@ -1,14 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° Weiherer Keller",
-      "description": "piv. Kundmüller, Horní Franky, Kellerbier"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -17,8 +9,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Slash",
+      "description": "piv. Clock, Potštejn, Pilsner Lager"
+    },
+    {
       "name": "12° Tvarg APA",
       "description": "piv. Tvarg, Velká Bystřice, APA"
+    },
+    {
+      "name": "13° Mordýřka",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "14° Pop-Up!",
