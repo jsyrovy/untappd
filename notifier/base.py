@@ -1,3 +1,4 @@
+import re
 from dataclasses import dataclass
 
 import utils
@@ -55,9 +56,23 @@ class Offer:
 
 
 def is_in_archive(beer: Beer) -> bool:
-    return bool(
-        db.query_one(
-            "SELECT 1 FROM `archive` WHERE `beer` = ? AND `brewery` = ?;",
-            (beer.name, beer.description),
+    def _exists(_beer: str, _brewery: str) -> bool:
+        return bool(
+            db.query_one(
+                "SELECT 1 FROM `archive` WHERE `beer` = ? COLLATE NOCASE AND `brewery` = ? COLLATE NOCASE;",
+                (_beer, _brewery),
+            )
         )
-    )
+
+    if _exists(beer.name, beer.description):
+        return True
+
+    cleaned_beer = get_cleaned_beer(beer)
+    return _exists(cleaned_beer.name, cleaned_beer.description)
+
+
+def get_cleaned_beer(beer: Beer) -> Beer:
+    name = re.sub(r"\d+°", "", beer.name.lower())
+    brewery = beer.description.lower().replace("pivovar", "")
+
+    return Beer(name.strip(), brewery.strip())

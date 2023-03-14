@@ -10,6 +10,7 @@ CREATE TABLE [archive] (
 INSERT INTO "archive" VALUES(1,'2016-10-17 16:39:15','sejrik','Pivo','Pivovar','Pivnice');
 INSERT INTO "archive" VALUES(2,'2016-10-17 16:39:15','sejrik','Pivo 2','Pivovar','Pivnice');
 INSERT INTO "archive" VALUES(3,'2016-10-17 16:39:15','sejrik','Jine Pivo','Jiny Pivovar','Jina Pivnice');
+INSERT INTO "archive" VALUES(4,'2016-10-17 16:39:15','sejrik','Three Suns','Sibeeria',NULL);
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
