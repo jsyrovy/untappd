@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1255960630,
+      "dt": "2023-03-15T19:53:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Borůvkový ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-boruvkovy-lezak-12/470004"
+    },
+    {
       "id": 1255773063,
       "dt": "2023-03-14T17:46:48+01:00",
       "venue_name": "U Toulavé pípy",
