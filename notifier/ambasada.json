@@ -1,32 +1,36 @@
 {
   "beers": [
     {
-      "name": "12° Borůvková",
-      "description": "piv. Valášek, Vsetín, Ochucený Ležák"
+      "name": "10,75° O’Hara’s Irish Red",
+      "description": "Carlow Brewing Company, Bagenalstown, Irsko, Traditional Red Ale"
     },
     {
-      "name": "12° Krásná Paní",
-      "description": "piv. Valášek, Vsetín, Blond Ale"
+      "name": "12° Ležák",
+      "description": "piv. MadCat, Kamenice, Světlý Ležák"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° SHA Simcoe",
+      "description": "piv. MadCat, Kamenice, Single Hop Ale"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "14° NITRO COFFEE",
+      "description": "piv. MadCat, Kamenice, Coffee Stout"
     },
     {
-      "name": "13° Mordýřka",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "15° Drop IPA",
+      "description": "piv. MadCat, Kamenice, IPA"
     },
     {
-      "name": "16° Podivín",
-      "description": "piv. Zhůřák, Zhůř, Kveik New England IPA"
+      "name": "17° Black Berry Currant",
+      "description": "piv. MadCat, Kamenice, Black Berry Currant Sour Ale"
     },
     {
-      "name": "22° Bush Peche Mel",
-      "description": "piv. Dubuisson, Pipaix, Henegavsko, Belgian Strong Fruit Ale, 0,25l"
+      "name": "17° Give me back the Sun and Waves",
+      "description": "piv. MadCat, Kamenice, DDH IPA"
+    },
+    {
+      "name": "18° Kamenický Zabiják",
+      "description": "piv. MadCat, Kamenice, Dopelbock"
     }
   ]
 }
