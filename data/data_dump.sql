@@ -737,6 +737,7 @@ INSERT INTO "archive" VALUES(1255384299,'2023-03-12 16:12:44','sejrik','IKEA Öl
 INSERT INTO "archive" VALUES(1255417991,'2023-03-12 17:43:54','sejrik','IKEA Öl Mörk Lager','Krönleins Bryggeri','Untappd at Home');
 INSERT INTO "archive" VALUES(1255765475,'2023-03-14 15:21:22','sejrik','Shake','Pivovar Rotor','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1255766893,'2023-03-14 15:42:29','sejrik','Podivín – Kveik NEIPA','Pivovar Zhůřák','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1256499506,'2023-03-17 19:29:01','sejrik','Mole Stole My Bananas','Sibeeria','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
