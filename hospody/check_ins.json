@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1256967112,
+      "dt": "2023-03-18T18:59:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelená Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zelena-kurtizana/2041473"
+    },
+    {
+      "id": 1256931162,
+      "dt": "2023-03-18T18:09:57+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelený ležák 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zeleny-lezak-11/4246778"
+    },
+    {
+      "id": 1256879738,
+      "dt": "2023-03-18T16:34:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Give Me Back The Sun And Waves",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-give-me-back-the-sun-and-waves/5149634"
+    },
+    {
+      "id": 1256869808,
+      "dt": "2023-03-18T16:08:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Drop IPA",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-drop-ipa/5262838"
+    },
+    {
+      "id": 1256861511,
+      "dt": "2023-03-18T15:44:17+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "STRATEGIE",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-strategie/5242789"
+    },
+    {
       "id": 1256702097,
       "dt": "2023-03-18T01:04:30+01:00",
       "venue_name": "Pivní ambasáda",
