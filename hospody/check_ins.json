@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1257512214,
+      "dt": "2023-03-19T21:04:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MadCat Winter Bock / Kamenický zabiják",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-madcat-winter-bock-kamenicky-zabijak/3658818"
+    },
+    {
+      "id": 1257461018,
+      "dt": "2023-03-19T19:11:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MadCat Winter Bock / Kamenický zabiják",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-madcat-winter-bock-kamenicky-zabijak/3658818"
+    },
+    {
+      "id": 1257440600,
+      "dt": "2023-03-19T18:24:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Desperát",
+      "brewery": "Pivovar Falkenštejn / Brauhaus Falkenstein ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-falkenstejn-brauhaus-falkenstein-desperat/3094259"
+    },
+    {
+      "id": 1257414182,
+      "dt": "2023-03-19T17:19:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Drop IPA",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-drop-ipa/5262838"
+    },
+    {
+      "id": 1257412946,
+      "dt": "2023-03-19T17:15:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Give Me Back The Sun And Waves",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-give-me-back-the-sun-and-waves/5149634"
+    },
+    {
       "id": 1256967112,
       "dt": "2023-03-18T18:59:42+01:00",
       "venue_name": "U Toulavé pípy",
