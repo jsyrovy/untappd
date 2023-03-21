@@ -5,10 +5,6 @@
       "description": "Carlow Brewing Company, Bagenalstown, Irsko, Traditional Red Ale"
     },
     {
-      "name": "11° Desperát",
-      "description": "piv. Falkenštejn, Krásná Lípa, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -31,6 +27,42 @@
     {
       "name": "18° Kamenický Zabiják",
       "description": "piv. MadCat, Kamenice, Dopelbock"
+    },
+    {
+      "name": "Dárková taška",
+      "description": "dáááárky, jeeej :)"
+    },
+    {
+      "name": "Dárkový poukaz na konzumaci",
+      "description": "Pivní Ambasáda"
+    },
+    {
+      "name": "Dárkový poukaz na řízenou degustaci pivních stylů",
+      "description": "BeerBoys.cz v (Pivní Ambasádě)"
+    },
+    {
+      "name": "Hospodský Kvíz",
+      "description": "21.3. Trošku neřízeně řízené týmové zábavy k pivku :)"
+    },
+    {
+      "name": "Hospodský Kvíz",
+      "description": "28.3. Trošku neřízeně řízené týmové zábavy k pivku :)"
+    },
+    {
+      "name": "Houkají sirény (1. středa v měsíci)",
+      "description": "5.4. Velké pivo za cenu malého"
+    },
+    {
+      "name": "Tambor Tap Takeover",
+      "description": "28.4. k nám zavítá již podruhé Tomáš Dvořák, nicméně nedávno přešel z Klenotu do Tambora a chce se pochlubit, jak mu to jde v jiném pivovaru :)"
+    },
+    {
+      "name": "Triko Ambasády",
+      "description": "černé S, M, L, XL"
+    },
+    {
+      "name": "Zelený Čtvrtek",
+      "description": "6.4. Ano, zelené pivo, všude, takže na všech osmi kohoutech bude něco zeleného :)"
     }
   ]
 }
