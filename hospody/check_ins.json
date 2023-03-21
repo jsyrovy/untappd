@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1257695396,
+      "dt": "2023-03-20T20:56:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Give Me Back The Sun And Waves",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-give-me-back-the-sun-and-waves/5149634"
+    },
+    {
       "id": 1257512214,
       "dt": "2023-03-19T21:04:00+01:00",
       "venue_name": "Pivní ambasáda",
@@ -388,6 +397,15 @@
       "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-svatomartinsky-lezak-12-60/4580457"
     },
     {
+      "id": 1255646338,
+      "dt": "2023-03-13T19:04:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Svatomartinský ležák 12",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-svatomartinsky-lezak-12/4580457"
+    },
+    {
       "id": 1255112917,
       "dt": "2023-03-11T22:58:07+01:00",
       "venue_name": "U Toulavé pípy",
@@ -656,6 +674,15 @@
       "brewery": "Pivovar U Vojtěchů",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-pernikar-140-vanocni-pivo/4639336"
+    },
+    {
+      "id": 1253438828,
+      "dt": "2023-03-05T18:07:38+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Perníkář",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-pernikar/4639336"
     },
     {
       "id": 1253438643,
