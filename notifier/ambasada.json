@@ -5,64 +5,32 @@
       "description": "Carlow Brewing Company, Bagenalstown, Irsko, Traditional Red Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° Klenot Ale",
+      "description": "piv. Klenot, HK, Ale"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "11° Zjara",
+      "description": "piv. Obora, Malšice, White Beer (citron, pomeranč, koriandr a zázvor)"
+    },
+    {
+      "name": "12° Granát",
+      "description": "piv. Mordýř, Dolní Ředice, polotmavý ležák"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Sour Cherry",
+      "description": "piv. HoppyDog, Ostrava, Fruit Sour Ale"
+    },
+    {
+      "name": "14° LucIPA",
+      "description": "piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "14° NITRO COFFEE",
       "description": "piv. MadCat, Kamenice, Coffee Stout"
-    },
-    {
-      "name": "17° Black Berry Currant",
-      "description": "piv. MadCat, Kamenice, Black Berry Currant Sour Ale"
-    },
-    {
-      "name": "17° Give me back the Sun and Waves",
-      "description": "piv. MadCat, Kamenice, DDH IPA"
-    },
-    {
-      "name": "18° Kamenický Zabiják",
-      "description": "piv. MadCat, Kamenice, Dopelbock"
-    },
-    {
-      "name": "Dárková taška",
-      "description": "dáááárky, jeeej :)"
-    },
-    {
-      "name": "Dárkový poukaz na konzumaci",
-      "description": "Pivní Ambasáda"
-    },
-    {
-      "name": "Dárkový poukaz na řízenou degustaci pivních stylů",
-      "description": "BeerBoys.cz v (Pivní Ambasádě)"
-    },
-    {
-      "name": "Hospodský Kvíz",
-      "description": "21.3. Trošku neřízeně řízené týmové zábavy k pivku :)"
-    },
-    {
-      "name": "Hospodský Kvíz",
-      "description": "28.3. Trošku neřízeně řízené týmové zábavy k pivku :)"
-    },
-    {
-      "name": "Houkají sirény (1. středa v měsíci)",
-      "description": "5.4. Velké pivo za cenu malého"
-    },
-    {
-      "name": "Tambor Tap Takeover",
-      "description": "28.4. k nám zavítá již podruhé Tomáš Dvořák, nicméně nedávno přešel z Klenotu do Tambora a chce se pochlubit, jak mu to jde v jiném pivovaru :)"
-    },
-    {
-      "name": "Triko Ambasády",
-      "description": "černé S, M, L, XL"
-    },
-    {
-      "name": "Zelený Čtvrtek",
-      "description": "6.4. Ano, zelené pivo, všude, takže na všech osmi kohoutech bude něco zeleného :)"
     }
   ]
 }
