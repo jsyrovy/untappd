@@ -1,12 +1,8 @@
 {
   "beers": [
     {
-      "name": "10,75° O’Hara’s Irish Red",
-      "description": "Carlow Brewing Company, Bagenalstown, Irsko, Traditional Red Ale"
-    },
-    {
-      "name": "11° Klenot Ale",
-      "description": "piv. Klenot, HK, Ale"
+      "name": "11° Summer Ale",
+      "description": "piv. Mordýř, Dolní Ředice, Ale"
     },
     {
       "name": "11° Zjara",
@@ -23,6 +19,10 @@
     {
       "name": "12° Sour Cherry",
       "description": "piv. HoppyDog, Ostrava, Fruit Sour Ale"
+    },
+    {
+      "name": "13,5° O’Hara’s IPA",
+      "description": "Carlow Brewing Company, Bagenalstown, Irsko, Irish Pale Ale"
     },
     {
       "name": "14° LucIPA",
