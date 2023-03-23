@@ -742,6 +742,9 @@ INSERT INTO "archive" VALUES(1257420502,'2023-03-19 16:36:02','sejrik','Weizen',
 INSERT INTO "archive" VALUES(1257798919,'2023-03-21 16:31:55','sejrik','O''Hara''s Irish Red','O''Hara''s Brewery','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1257802658,'2023-03-21 17:01:32','sejrik','Espressions - Nitro Coffee Stout','MadCat','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1257808237,'2023-03-21 17:37:20','sejrik','MadCat Winter Bock / Kamenický zabiják','MadCat','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1257984813,'2023-03-22 18:53:05','sejrik','Winter IPA','Pivovar Obora','Untappd at Home');
+INSERT INTO "archive" VALUES(1258001986,'2023-03-22 20:00:29','sejrik','NEIPA','Pivovar Obora','Untappd at Home');
+INSERT INTO "archive" VALUES(1258032308,'2023-03-22 21:52:54','sejrik','Milkshake Strata','Chroust','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
