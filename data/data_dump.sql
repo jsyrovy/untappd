@@ -745,6 +745,7 @@ INSERT INTO "archive" VALUES(1257808237,'2023-03-21 17:37:20','sejrik','MadCat W
 INSERT INTO "archive" VALUES(1257984813,'2023-03-22 18:53:05','sejrik','Winter IPA','Pivovar Obora','Untappd at Home');
 INSERT INTO "archive" VALUES(1258001986,'2023-03-22 20:00:29','sejrik','NEIPA','Pivovar Obora','Untappd at Home');
 INSERT INTO "archive" VALUES(1258032308,'2023-03-22 21:52:54','sejrik','Milkshake Strata','Chroust','Untappd at Home');
+INSERT INTO "archive" VALUES(1258224585,'2023-03-23 21:00:28','sejrik','Grapefruit Lollihop','Sibeeria','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
