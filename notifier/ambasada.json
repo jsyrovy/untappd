@@ -25,12 +25,12 @@
       "description": "Carlow Brewing Company, Bagenalstown, Irsko, Irish Pale Ale"
     },
     {
-      "name": "14° LucIPA",
-      "description": "piv. JungBerg, Hořice, IPA"
-    },
-    {
       "name": "14° NITRO COFFEE",
       "description": "piv. MadCat, Kamenice, Coffee Stout"
+    },
+    {
+      "name": "15° Grapefruit Lollihop",
+      "description": "piv. Sibeeria, Praha, IPA w/ Grapefruit"
     }
   ]
 }
