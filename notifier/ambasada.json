@@ -9,6 +9,10 @@
       "description": "piv. Obora, Malšice, White Beer (citron, pomeranč, koriandr a zázvor)"
     },
     {
+      "name": "12° Borůvková",
+      "description": "piv. Valášek, Vsetín, Ochucený Ležák"
+    },
+    {
       "name": "12° Granát",
       "description": "piv. Mordýř, Dolní Ředice, polotmavý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "13,5° O’Hara’s IPA",
       "description": "Carlow Brewing Company, Bagenalstown, Irsko, Irish Pale Ale"
-    },
-    {
-      "name": "14° NITRO COFFEE",
-      "description": "piv. MadCat, Kamenice, Coffee Stout"
     },
     {
       "name": "15° Grapefruit Lollihop",
