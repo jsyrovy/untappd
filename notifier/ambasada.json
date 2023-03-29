@@ -13,14 +13,6 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Sour Cherry",
-      "description": "piv. HoppyDog, Ostrava, Fruit Sour Ale"
-    },
-    {
-      "name": "13,5° O’Hara’s IPA",
-      "description": "Carlow Brewing Company, Bagenalstown, Irsko, Irish Pale Ale"
-    },
-    {
       "name": "13° Marylin",
       "description": "piv. Malešov, Marzen"
     },
@@ -29,8 +21,16 @@
       "description": "piv. Haksna, Ostrava, Hazy IPA"
     },
     {
+      "name": "15° Stella",
+      "description": "piv. Clock, Potštejn, Sour IPA"
+    },
+    {
       "name": "17° Eye of Horus",
       "description": "piv. Crazy Clown, Tripel s fíky a datlemi"
+    },
+    {
+      "name": "22° Bush Peche Mel",
+      "description": "piv. Dubuisson, Pipaix, Henegavsko, Belgian Strong Fruit Ale, 0,25l"
     }
   ]
 }
