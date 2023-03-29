@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Glee",
-      "description": "piv. Clock, Potštejn, Gluten Reduced Ale"
-    },
-    {
       "name": "12° Borůvková",
       "description": "piv. Valášek, Vsetín, Ochucený Ležák"
+    },
+    {
+      "name": "12° Galaxy",
+      "description": "piv. JungBerg, Hořice, Single Hop Ale"
     },
     {
       "name": "12° Granát",
