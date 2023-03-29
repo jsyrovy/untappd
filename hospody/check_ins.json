@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1259845822,
+      "dt": "2023-03-28T20:29:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For Mosaic 15",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic-15/5277192"
+    },
+    {
+      "id": 1259831086,
+      "dt": "2023-03-28T19:18:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Eye of Horus",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-eye-of-horus/1963348"
+    },
+    {
+      "id": 1259808953,
+      "dt": "2023-03-28T16:11:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For Mosaic 15",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic-15/5277192"
+    },
+    {
       "id": 1259684262,
       "dt": "2023-03-27T18:54:59+02:00",
       "venue_name": "U Toulavé pípy",
