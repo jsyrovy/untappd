@@ -44,6 +44,9 @@ run-notifier:
 run-notifier-tweetless:
 	${PYTHON} run_notifier.py --tweetless
 
+run-notifier-ambasada:
+	${PYTHON} run_notifier.py --ambasada
+
 run-archivist:
 	${PYTHON} run_archivist.py
 
