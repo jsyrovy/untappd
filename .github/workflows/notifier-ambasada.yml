@@ -22,7 +22,7 @@ jobs:
           ACCESS_TOKEN_KEY: ${{ secrets.ACCESS_TOKEN_KEY }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
           TWITTER_USER_ID: ${{ secrets.TWITTER_USER_ID }}
-        run: make run-notifier --ambasada
+        run: make run-notifier-ambasada
       - name: Save
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
