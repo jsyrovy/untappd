@@ -1,4 +1,4 @@
-name: notifier
+name: notifier-ambasada
 on:
   schedule:
     - cron: "0 14-22 * * *"
