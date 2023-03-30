@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1260051884,
+      "dt": "2023-03-29T22:43:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bloody Maple",
+      "brewery": "Haksna Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/haksna-brewery-bloody-maple/5247899"
+    },
+    {
+      "id": 1260034768,
+      "dt": "2023-03-29T21:36:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "O'Hara's Irish Pale Ale",
+      "brewery": "O'Hara's Brewery ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/o-hara-s-brewery-o-hara-s-irish-pale-ale/143851"
+    },
+    {
+      "id": 1260033053,
+      "dt": "2023-03-29T21:29:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For Mosaic",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic/5277192"
+    },
+    {
+      "id": 1259999962,
+      "dt": "2023-03-29T19:22:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For Mosaic",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic/5277192"
+    },
+    {
       "id": 1259845822,
       "dt": "2023-03-28T20:29:37+02:00",
       "venue_name": "Pivní ambasáda",
@@ -8,6 +44,15 @@
       "brewery": "Haksna Brewery",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic-15/5277192"
+    },
+    {
+      "id": 1259845822,
+      "dt": "2023-03-28T20:29:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For Mosaic",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic/5277192"
     },
     {
       "id": 1259831086,
@@ -26,6 +71,15 @@
       "brewery": "Haksna Brewery",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic-15/5277192"
+    },
+    {
+      "id": 1259808953,
+      "dt": "2023-03-28T16:11:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For Mosaic",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-mosaic/5277192"
     },
     {
       "id": 1259684262,
