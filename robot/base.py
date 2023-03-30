@@ -8,6 +8,7 @@ class Args:
     local: bool = False
     tweetless: bool = False
     publish: bool = False
+    ambasada: bool = False
 
 
 class BaseRobot:
@@ -30,5 +31,8 @@ class BaseRobot:
             "--tweetless", action="store_true", help="don't tweet or send message"
         )
         parser.add_argument("--publish", action="store_true", help="publish page only")
+        parser.add_argument(
+            "--ambasada", action="store_true", help="ron for Ambasada only"
+        )
         args, _ = parser.parse_known_args()
-        return Args(args.local, args.tweetless, args.publish)
+        return Args(args.local, args.tweetless, args.publish, args.ambasada)

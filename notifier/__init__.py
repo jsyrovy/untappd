@@ -6,7 +6,12 @@ from robot.base import BaseRobot
 
 class Notifier(BaseRobot):
     def _main(self) -> None:
-        offer_classes: tuple[type[Offer], ...] = (AmbasadaOffer, PipaOffer, LodOffer)
+        offer_classes: tuple[type[Offer], ...]
+
+        if self._args.ambasada:
+            offer_classes = (AmbasadaOffer,)
+        else:
+            offer_classes = (AmbasadaOffer, PipaOffer, LodOffer)
 
         for class_ in offer_classes:
             offer = class_()
