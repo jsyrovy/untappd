@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1260638183,
+      "dt": "2023-03-31T23:37:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Marylin",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-marylin/4742982"
+    },
+    {
+      "id": 1260626765,
+      "dt": "2023-03-31T23:17:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clock Ddh Jaro",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-clock-ddh-jaro/5297233"
+    },
+    {
+      "id": 1260527072,
+      "dt": "2023-03-31T20:47:32+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Growler NEIPA",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-growler-neipa/5249074"
+    },
+    {
       "id": 1260298009,
       "dt": "2023-03-31T00:28:45+02:00",
       "venue_name": "Pivní ambasáda",
