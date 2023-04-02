@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1261216097,
+      "dt": "2023-04-02T00:19:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lissa huera IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-lissa-huera-ipa/671753"
+    },
+    {
+      "id": 1261213883,
+      "dt": "2023-04-02T00:16:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Marylin",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-marylin/4742982"
+    },
+    {
       "id": 1260638183,
       "dt": "2023-03-31T23:37:20+02:00",
       "venue_name": "Pivní ambasáda",
@@ -17,6 +35,15 @@
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-clock-clock-ddh-jaro/5297233"
+    },
+    {
+      "id": 1260626765,
+      "dt": "2023-03-31T23:17:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DDH Wheat Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ddh-wheat-ale/4757244"
     },
     {
       "id": 1260527072,
@@ -431,6 +458,15 @@
       "brewery": "Obora",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/obora-zjara-2023/5284499"
+    },
+    {
+      "id": 1258145007,
+      "dt": "2023-03-23T17:45:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zjara 2023",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-zjara-2023/5284505"
     },
     {
       "id": 1257833867,
