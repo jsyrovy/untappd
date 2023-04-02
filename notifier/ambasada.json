@@ -17,6 +17,10 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° WeissBier",
+      "description": "St. Georgen Bräu, Buttenheim, Horní Franky, German Weissbier"
+    },
+    {
       "name": "14° Lissa Huera",
       "description": "Beskydský pivovárek, Ostravice, IPA"
     },
@@ -27,10 +31,6 @@
     {
       "name": "16° Bad Motherfucker",
       "description": "piv. Crazy Clown, Fruit Ale (sušené švestky, třešně, rozinky a meruňky)"
-    },
-    {
-      "name": "17° Eye of Horus",
-      "description": "piv. Crazy Clown, Tripel s fíky a datlemi"
     }
   ]
 }
