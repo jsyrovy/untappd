@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1261606151,
+      "dt": "2023-04-02T23:36:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bad Motherfu**er",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-bad-motherfu-er/5283307"
+    },
+    {
+      "id": 1261605055,
+      "dt": "2023-04-02T23:33:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jaro",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-jaro/5287522"
+    },
+    {
       "id": 1261216097,
       "dt": "2023-04-02T00:19:13+02:00",
       "venue_name": "Pivní ambasáda",
@@ -44,6 +62,15 @@
       "brewery": "Pivovar Clock",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-clock-ddh-wheat-ale/4757244"
+    },
+    {
+      "id": 1260626765,
+      "dt": "2023-03-31T23:17:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DDH Wheat Ale (Jaro)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-ddh-wheat-ale-jaro/4757244"
     },
     {
       "id": 1260527072,
