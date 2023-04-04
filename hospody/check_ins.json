@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1261715447,
+      "dt": "2023-04-03T17:17:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Buttenheimer Weißbier",
+      "brewery": "St. GeorgenBräu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/st-georgenbrau-buttenheimer-weissbier/64955"
+    },
+    {
+      "id": 1261715281,
+      "dt": "2023-04-03T17:15:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lissa huera IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-lissa-huera-ipa/671753"
+    },
+    {
+      "id": 1261712464,
+      "dt": "2023-04-03T16:45:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
+      "id": 1261712094,
+      "dt": "2023-04-03T16:41:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bad Motherfu**er",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-bad-motherfu-er/5283307"
+    },
+    {
       "id": 1261606151,
       "dt": "2023-04-02T23:36:04+02:00",
       "venue_name": "Pivní ambasáda",
