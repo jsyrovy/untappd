@@ -5,10 +5,6 @@
       "description": "piv. JungBerg, Hořice, Ale"
     },
     {
-      "name": "11° Jaro",
-      "description": "piv. Agent, Olešnice, Světlý Ležák"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° WeissBier",
       "description": "St. Georgen Bräu, Buttenheim, Horní Franky, German Weissbier"
+    },
+    {
+      "name": "12° Zdroj",
+      "description": "piv. Volt, Jablonec nad Nisou, Světlý Ležák"
     },
     {
       "name": "13° Kurtizána",
