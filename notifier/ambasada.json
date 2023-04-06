@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Mango + Broskev",
-      "description": "piv. Klenot, HK, Fruit Sour Ale"
+      "name": "11° Mad Berry",
+      "description": "MadCat + Budvar, Fruit Sour Ale (Brusinky se skořicí)"
     },
     {
       "name": "11° Mordýř (Zelený)",
@@ -25,12 +25,12 @@
       "description": "piv. Volt, Jablonec nad Nisou, Světlý Ležák"
     },
     {
-      "name": "13° Kurtizána (Zelená)",
-      "description": "piv. Mordýř, Dolní Ředice, Pivní IPA"
-    },
-    {
       "name": "13° Punk IPA",
       "description": "piv. BrewDog, Fraserburgh, Skotsko, IPA"
+    },
+    {
+      "name": "14° LucIPA",
+      "description": "piv. JungBerg, Hořice, IPA"
     }
   ]
 }
