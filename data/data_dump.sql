@@ -753,6 +753,10 @@ INSERT INTO "archive" VALUES(1258647755,'2023-03-24 23:05:51','sejrik','Hopminer
 INSERT INTO "archive" VALUES(1261915146,'2023-04-04 18:30:00','sejrik','16 Exkluziv / Maibock','Primátor','Untappd at Home');
 INSERT INTO "archive" VALUES(1262054822,'2023-04-05 14:07:15','sejrik','Bad Motherfu**er','Crazy Clown Brewery','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1262353244,'2023-04-06 18:21:35','sejrik','Argus Strong','Frankfurter Brauhaus','Untappd at Home');
+INSERT INTO "archive" VALUES(1262570925,'2023-04-07 10:32:07','sejrik','Książęce Złote Pszeniczne Bezalkoholowe','Tyskie Browary Książęce','Leszno');
+INSERT INTO "archive" VALUES(1262699989,'2023-04-07 17:47:46','sejrik','Hazy Morning','PINTA','Hotel Olivia');
+INSERT INTO "archive" VALUES(1262753140,'2023-04-07 19:07:53','sejrik','A Ja Pale Ale','PINTA','Hotel Olivia');
+INSERT INTO "archive" VALUES(1262788510,'2023-04-07 19:56:20','sejrik','Gelato: Passion Fruit, Mango & Peach','Funky Fluid','Hotel Olivia');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
