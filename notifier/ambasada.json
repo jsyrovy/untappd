@@ -9,16 +9,16 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
-    },
-    {
       "name": "12° Citra IPL",
       "description": "piv. Bad Flash, Praha, India Pale Lager"
     },
     {
       "name": "12° Krásná Paní",
       "description": "piv. Valášek, Vsetín, Blond Ale"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -29,8 +29,8 @@
       "description": "piv. BrewDog, Fraserburgh, Skotsko, IPA"
     },
     {
-      "name": "14° LucIPA",
-      "description": "piv. JungBerg, Hořice, IPA"
+      "name": "14° Větrník",
+      "description": "piv. U Vojtěchů, Pardubice, Red IPA"
     }
   ]
 }
