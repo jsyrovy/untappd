@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1264037114,
+      "dt": "2023-04-10T20:52:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velikonoční světlá 14",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-velikonocni-svetla-14/654914"
+    },
+    {
+      "id": 1264033384,
+      "dt": "2023-04-10T20:38:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Citra IPL",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-citra-ipl/5056462"
+    },
+    {
+      "id": 1264009419,
+      "dt": "2023-04-10T19:05:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velikonoční světlá 14",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-velikonocni-svetla-14/654914"
+    },
+    {
+      "id": 1264003341,
+      "dt": "2023-04-10T18:41:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Citra IPL",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-citra-ipl/5056462"
+    },
+    {
+      "id": 1263980775,
+      "dt": "2023-04-10T17:07:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1263979460,
+      "dt": "2023-04-10T17:01:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Teamwork",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-teamwork/5055215"
+    },
+    {
+      "id": 1263978470,
+      "dt": "2023-04-10T16:57:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Větrník",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-vetrnik/5282390"
+    },
+    {
+      "id": 1263968797,
+      "dt": "2023-04-10T16:12:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Větrník",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-vetrnik/5282390"
+    },
+    {
       "id": 1263868481,
       "dt": "2023-04-10T00:31:11+02:00",
       "venue_name": "U Toulavé pípy",
