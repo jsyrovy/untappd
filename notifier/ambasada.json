@@ -5,6 +5,10 @@
       "description": "MadCat + Budvar, Fruit Sour Ale (Brusinky se skořicí)"
     },
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Cloudy",
       "description": "piv. Pivečka, Rousínov u Vyškova, Session NEIPA"
     },
@@ -27,10 +31,6 @@
     {
       "name": "13° Punk IPA",
       "description": "piv. BrewDog, Fraserburgh, Skotsko, IPA"
-    },
-    {
-      "name": "14° Velikonoční",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     }
   ]
 }
