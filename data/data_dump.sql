@@ -761,6 +761,8 @@ INSERT INTO "archive" VALUES(1263041924,'2023-04-08 09:59:07','sejrik','Seth & R
 INSERT INTO "archive" VALUES(1263094385,'2023-04-08 14:03:41','sejrik','Lager Light','Nowy Browar Gdański','Nowy Browar Gdański');
 INSERT INTO "archive" VALUES(1263106480,'2023-04-08 14:36:46','sejrik','Ciemny Lager','Nowy Browar Gdański','Nowy Browar Gdański');
 INSERT INTO "archive" VALUES(1263969917,'2023-04-10 14:17:26','sejrik','Ryze hořká 12','Radegast','Restaurace Pod Košem');
+INSERT INTO "archive" VALUES(1264162448,'2023-04-11 15:55:31','sejrik','Atak Chmielu','PINTA','Untappd at Home');
+INSERT INTO "archive" VALUES(1264182371,'2023-04-11 17:52:59','sejrik','Modern Drinking','PINTA','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[date] text,
 	[user] text,
