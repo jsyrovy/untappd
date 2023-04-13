@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1264389509,
+      "dt": "2023-04-12T21:58:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orion γ",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-g/5237441"
+    },
+    {
+      "id": 1264379762,
+      "dt": "2023-04-12T21:22:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "COMFORT",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-comfort/4836536"
+    },
+    {
+      "id": 1264356893,
+      "dt": "2023-04-12T19:56:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vyšlehaná Kraslice",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-vyslehana-kraslice/4784735"
+    },
+    {
+      "id": 1264337727,
+      "dt": "2023-04-12T18:31:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session Scanner (Nectaron / Citra)",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-session-scanner-nectaron-citra/5286907"
+    },
+    {
       "id": 1264037114,
       "dt": "2023-04-10T20:52:20+02:00",
       "venue_name": "Pivní ambasáda",
@@ -242,6 +278,15 @@
       "brewery": "MadCat",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/madcat-zelena-desitka/5304282"
+    },
+    {
+      "id": 1262434089,
+      "dt": "2023-04-06T23:15:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelená Velikonoční 10",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-zelena-velikonocni-10/5304282"
     },
     {
       "id": 1262378973,
