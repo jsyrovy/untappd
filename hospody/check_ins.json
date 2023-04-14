@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1264614205,
+      "dt": "2023-04-13T22:28:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunshine",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-sunshine/4685934"
+    },
+    {
+      "id": 1264607201,
+      "dt": "2023-04-13T22:07:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vyšlehaná Kraslice",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-vyslehana-kraslice/4784735"
+    },
+    {
+      "id": 1264606754,
+      "dt": "2023-04-13T22:06:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orion γ",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-g/5237441"
+    },
+    {
+      "id": 1264562729,
+      "dt": "2023-04-13T19:59:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
       "id": 1264389509,
       "dt": "2023-04-12T21:58:10+02:00",
       "venue_name": "Pivní ambasáda",
