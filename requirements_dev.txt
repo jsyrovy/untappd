@@ -8,3 +8,4 @@ flake8
 coverage
 mock
 types-mock
+ipython

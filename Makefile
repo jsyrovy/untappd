@@ -77,3 +77,6 @@ before-commit:
 	make test
 	make mypy
 	make flake8
+
+ipython:
+	${PYTHON} -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
