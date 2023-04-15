@@ -4,3 +4,4 @@ jinja2
 tweepy
 csv-to-sqlite
 feedparser
+SQLAlchemy
