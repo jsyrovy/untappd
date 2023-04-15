@@ -1,9 +1,10 @@
 import datetime
 
 import pytest
+from sqlalchemy import select
+from sqlalchemy.orm import Session
 
 from archivist import (
-    Record,
     get_beer,
     get_brewery,
     get_dt,
@@ -14,7 +15,8 @@ from archivist import (
     is_record_in_db,
     create_record_in_db,
 )
-from database.auto_init import db
+from database.models import Archive
+from database.orm import engine
 
 SOURCES = (
     {
@@ -76,8 +78,8 @@ def test_get_optional_regex_group():
 
 
 def test_is_record_in_db():
-    assert is_record_in_db(Record(1, datetime.datetime.now(), "", "", "", ""))
-    assert not is_record_in_db(Record(10, datetime.datetime.now(), "", "", "", ""))
+    assert is_record_in_db(1)
+    assert not is_record_in_db(10)
 
 
 def test_create_record_in_db():
@@ -88,10 +90,22 @@ def test_create_record_in_db():
     venue = "venue"
 
     create_record_in_db(
-        Record(id_, datetime.datetime.now(), user, beer, brewery, venue)
+        Archive(
+            id=id_,
+            dt_utc=datetime.datetime.now(),
+            user=user,
+            beer=beer,
+            brewery=brewery,
+            venue=venue,
+        )
     )
 
-    assert db.query_one(
-        "SELECT 1 FROM `archive` WHERE `id` = ? AND `user` = ? AND `beer` = ? AND `brewery` = ? AND `venue` = ?;",
-        (id_, user, beer, brewery, venue),
+    stmt = select(Archive).where(
+        Archive.id == id_,
+        Archive.user == user,
+        Archive.beer == beer,
+        Archive.brewery == brewery,
+        Archive.venue == venue,
     )
+    with Session(engine) as session:
+        assert session.execute(stmt).scalar_one()

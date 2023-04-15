@@ -4,8 +4,9 @@ from random import shuffle
 from bs4 import BeautifulSoup
 
 import utils
-from archivist import Record, create_record_in_db
+from archivist import create_record_in_db
 from database.auto_init import db
+from database.models import Archive
 from robot.db import DbRobot
 
 CHECK_IN_IDS = [
@@ -787,7 +788,7 @@ def get_page(id_: int) -> str:
     return utils.download_page(f"https://untappd.com/user/sejrik/checkin/{id_}")
 
 
-def parse(page: str, id_: int) -> Record:
+def parse(page: str, id_: int) -> Archive:
     soup = BeautifulSoup(page, "html.parser")
 
     dt_utc = datetime.datetime.strptime(
@@ -799,6 +800,11 @@ def parse(page: str, id_: int) -> Record:
     location = soup.find("p", class_="location")
     venue = location.find("a").text.strip() if location else None
 
-    return Record(
-        id_, dt_utc.replace(tzinfo=None), "sejrik", beer.strip(), brewery.strip(), venue
+    return Archive(
+        id=id_,
+        dt_utc=dt_utc.replace(tzinfo=None),
+        user="sejrik",
+        beer=beer.strip(),
+        brewery=brewery.strip(),
+        venue=venue,
     )

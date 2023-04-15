@@ -2,26 +2,18 @@ import datetime
 import os
 import re
 import time
-from dataclasses import dataclass
 from typing import Optional
 
 import feedparser
+from sqlalchemy import select
+from sqlalchemy.orm import Session
 
-from database.auto_init import db
-from robot.db import DbRobot
-
-
-@dataclass
-class Record:
-    id: int
-    dt_utc: datetime.datetime
-    user: str
-    beer: str
-    brewery: str
-    venue: Optional[str]
+from database.models import Archive
+from database.orm import engine
+from robot.orm import OrmRobot
 
 
-class Archivist(DbRobot):
+class Archivist(OrmRobot):
     def _main(self) -> None:
         user = "sejrik"
         key = os.environ["FEED_KEY"]
@@ -30,18 +22,18 @@ class Archivist(DbRobot):
 
         for entry in feed.entries:
             records.append(
-                Record(
-                    get_id(entry.id),
-                    get_dt(entry.published_parsed),
-                    user,
-                    get_beer(entry.title),
-                    get_brewery(entry.title),
-                    get_venue(entry.title),
+                Archive(
+                    id=get_id(entry.id),
+                    dt_utc=get_dt(entry.published_parsed),
+                    user=user,
+                    beer=get_beer(entry.title),
+                    brewery=get_brewery(entry.title),
+                    venue=get_venue(entry.title),
                 )
             )
 
         for record in records:
-            if not is_record_in_db(record):
+            if not is_record_in_db(record.id):
                 print(f"Saved to DB: {record}")
                 create_record_in_db(record)
 
@@ -89,19 +81,13 @@ def get_venue(text: str) -> Optional[str]:
     return get_optional_regex_group(r" at (.*)", text)
 
 
-def is_record_in_db(record: Record) -> bool:
-    return bool(db.query_one("SELECT 1 FROM `archive` WHERE `id` = ?;", (record.id,)))
+def is_record_in_db(id_: int) -> bool:
+    stmt = select(Archive.id).where(Archive.id == id_)
+    with Session(engine) as session:
+        return bool(session.execute(stmt).first())
 
 
-def create_record_in_db(record: Record) -> None:
-    db.execute(
-        "INSERT INTO `archive` (`id`, `dt_utc`, `user`, `beer`, `brewery`, `venue`) VALUES (?, ?, ?, ?, ?, ?);",
-        (
-            record.id,
-            record.dt_utc,
-            record.user,
-            record.beer,
-            record.brewery,
-            record.venue,
-        ),
-    )
+def create_record_in_db(record: Archive) -> None:
+    with Session(engine) as session:
+        session.add(record)
+        session.commit()
