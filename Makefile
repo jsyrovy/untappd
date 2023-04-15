@@ -71,3 +71,9 @@ coverage:
 
 save-db-to-file:
 	${PYTHON} -m run_tool save-db-to-file
+
+before-commit:
+	make black
+	make test
+	make mypy
+	make flake8
