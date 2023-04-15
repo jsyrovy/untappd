@@ -9,7 +9,8 @@ def test_get_chart_data():
     today = datetime.date.today().isoformat()
 
     db.execute(
-        "INSERT INTO pivni_valka VALUES (?, 'sejrik', 1), (?, 'mencik2', 2), (?, 'Mates511', 3), (?, 'ominar', 4);",
+        "INSERT INTO pivni_valka (date, user, unique_beers) "
+        "VALUES (?, 'sejrik', 1), (?, 'mencik2', 2), (?, 'Mates511', 3), (?, 'ominar', 4);",
         (today,) * 4,
     )
 

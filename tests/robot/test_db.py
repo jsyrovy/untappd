@@ -37,7 +37,9 @@ def test_close():
 
 def test_commit():
     db.execute("BEGIN;")
-    db.execute("INSERT INTO pivni_valka VALUES('2023-01-01','Pickles',666);")
+    db.execute(
+        "INSERT INTO pivni_valka (date, user, unique_beers) VALUES('2023-01-01','Pickles',666);"
+    )
     assert db.con.in_transaction
     db.commit()
     assert not db.con.in_transaction
