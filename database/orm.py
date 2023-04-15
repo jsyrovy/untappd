@@ -12,7 +12,7 @@ def load_dump(use_test_db: bool = False) -> None:
     ) as f:
         with engine.connect() as conn:
             conn.connection.executescript(f.read())  # type: ignore[attr-defined]
-    print('Dump loaded.')
+    print("Dump loaded.")
 
 
 def dump() -> None:
@@ -20,7 +20,7 @@ def dump() -> None:
         with engine.connect() as conn:
             for line in conn.connection.iterdump():  # type: ignore[attr-defined]
                 f.write(f"{line}\n")
-    print('Dump created.')
+    print("Dump created.")
 
 
 load_dump(is_test())
