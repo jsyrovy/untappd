@@ -1,6 +1,105 @@
 {
   "check_ins": [
     {
+      "id": 1265615939,
+      "dt": "2023-04-16T00:55:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Libeň 15°",
+      "brewery": "Pivo Václav",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivo-vaclav-new-liben-150/4063895"
+    },
+    {
+      "id": 1265614991,
+      "dt": "2023-04-16T00:54:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-vyrocni-special/2597145"
+    },
+    {
+      "id": 1265522278,
+      "dt": "2023-04-15T22:46:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-vyrocni-special/2597145"
+    },
+    {
+      "id": 1265519858,
+      "dt": "2023-04-15T22:43:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunshine",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-sunshine/4685934"
+    },
+    {
+      "id": 1265485618,
+      "dt": "2023-04-15T22:05:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Libeň 15°",
+      "brewery": "Pivo Václav",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivo-vaclav-new-liben-150/4063895"
+    },
+    {
+      "id": 1265405511,
+      "dt": "2023-04-15T20:38:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Baterka",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-baterka/2566025"
+    },
+    {
+      "id": 1265404929,
+      "dt": "2023-04-15T20:38:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "COMFORT",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-comfort/4836536"
+    },
+    {
+      "id": 1265403821,
+      "dt": "2023-04-15T20:36:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hořká desítka",
+      "brewery": "Pivovar Genius noci",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-genius-noci-horka-desitka/2685338"
+    },
+    {
+      "id": 1265239509,
+      "dt": "2023-04-15T16:00:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
+      "id": 1265193263,
+      "dt": "2023-04-15T12:54:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orion γ",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-g/5237441"
+    },
+    {
+      "id": 1265192851,
+      "dt": "2023-04-15T12:52:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hořká desítka",
+      "brewery": "Pivovar Genius noci",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-genius-noci-horka-desitka/2685338"
+    },
+    {
       "id": 1264993098,
       "dt": "2023-04-14T23:17:05+02:00",
       "venue_name": "Pivní ambasáda",
