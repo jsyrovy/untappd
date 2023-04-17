@@ -12,5 +12,5 @@ def test_base_robot():
 def test_args():
     robot = BaseRobot()
     assert robot._args.local is False
-    assert robot._args.tweetless is False
+    assert robot._args.notificationless is False
     assert robot._args.publish is False

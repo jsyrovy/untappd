@@ -39,16 +39,15 @@ class Offer:
     def run(self) -> None:
         raise NotImplementedError
 
-    def send_twitter_message(self, tweetless: bool) -> None:
+    def send_notification(self, notificationless: bool) -> None:
         message = f"Nově na čepu {self.PUB_IN_NOTIFICATION}:\n\n"
         message += "\n\n".join(str(beer) for beer in self.new_beers)
 
-        if tweetless:
+        if notificationless:
             print(message)
             return
 
-        twitter_client = utils.twitter.Client()
-        twitter_client.send_message(message)
+        utils.pushover.send_notification(message)
 
     def set_tasted(self) -> None:
         for beer in self.new_beers:

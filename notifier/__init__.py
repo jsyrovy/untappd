@@ -19,4 +19,4 @@ class Notifier(BaseRobot):
 
             if offer.new_beers:
                 offer.set_tasted()
-                offer.send_twitter_message(self._args.tweetless)
+                offer.send_notification(self._args.notificationless)

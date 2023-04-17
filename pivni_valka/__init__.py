@@ -55,14 +55,13 @@ class PivniValka(DbRobot):
         with open("web/pivni_valka/chart_all.html", "w", encoding=utils.ENCODING) as f:
             f.write(page_all)
 
-        if not self._args.local and not self._args.tweetless and users_with_new_beers:
-            twitter_client = utils.twitter.Client()
-            status = self.get_tweet_status(users_with_new_beers)
-
-            try:
-                twitter_client.tweet(status)
-            except utils.twitter.DuplicateTweetError:
-                logging.warning(f"Tweet jiz existuje: {status}")
+        if (
+            not self._args.local
+            and not self._args.notificationless
+            and users_with_new_beers
+        ):
+            status = self.get_yesterday_status(users_with_new_beers)
+            utils.pushover.send_notification(status)
 
     def get_unique_beers_count(self) -> dict[str, int]:
         data: dict[str, int] = {}
@@ -120,7 +119,7 @@ class PivniValka(DbRobot):
 
         return users_with_new_beers
 
-    def get_tweet_status(self, users_with_new_beers: list[str]) -> str:
+    def get_yesterday_status(self, users_with_new_beers: list[str]) -> str:
         if not users_with_new_beers:
             return ""
 
@@ -148,7 +147,6 @@ class PivniValka(DbRobot):
             f'"{" ".join(["item-total-chart"] * len(user_items))}"',
             f'"{" ".join(["item-weekly-chart"] * len(user_items))}"',
             f'"{" ".join(["item-matej-chart"] * len(user_items))}"',
-            f'"{" ".join(["item-twitter"] * len(user_items))}"',
         )
 
     def get_mobile_grid_template_areas(self) -> list[str]:
@@ -160,7 +158,6 @@ class PivniValka(DbRobot):
                 '"item-total-chart"',
                 '"item-weekly-chart"',
                 '"item-matej-chart"',
-                '"item-twitter"',
             ]
         )
 

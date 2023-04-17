@@ -17,8 +17,8 @@ init-dev:
 run-pivni-valka:
 	${PYTHON} run_pivni_valka.py
 
-run-pivni-valka-tweetless:
-	${PYTHON} run_pivni_valka.py --tweetless
+run-pivni-valka-notificationless:
+	${PYTHON} run_pivni_valka.py --notificationless
 
 run-pivni-valka-local:
 	${PYTHON} run_pivni_valka.py --local
@@ -41,8 +41,8 @@ test-hospody:
 run-notifier:
 	${PYTHON} run_notifier.py
 
-run-notifier-tweetless:
-	${PYTHON} run_notifier.py --tweetless
+run-notifier-notificationless:
+	${PYTHON} run_notifier.py --notificationless
 
 run-notifier-ambasada:
 	${PYTHON} run_notifier.py --ambasada
