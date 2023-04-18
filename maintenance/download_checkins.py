@@ -4,8 +4,7 @@ from random import shuffle
 from bs4 import BeautifulSoup
 
 import utils
-from archivist import create_record_in_db
-from database.auto_init import db
+from archivist import create_record_in_db, is_record_in_db
 from database.models import Archive
 from robot.db import DbRobot
 
@@ -755,7 +754,7 @@ class DownloadCheckins(DbRobot):
                 print("Batch was processed.")
                 return
 
-            if is_in_db(id_):
+            if is_record_in_db(id_):
                 print(f"Check-in {id_} is already in DB.")
                 continue
 
@@ -778,10 +777,6 @@ class DownloadCheckins(DbRobot):
         create_record_in_db(record)
         print(f"Check-in {id_} saved to DB.")
         self.processed += 1
-
-
-def is_in_db(id_: int) -> bool:
-    return bool(db.query_one("SELECT 1 FROM `archive` WHERE `id` = ?;", (id_,)))
 
 
 def get_page(id_: int) -> str:
