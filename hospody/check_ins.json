@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1266063039,
+      "dt": "2023-04-17T17:15:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Libeň 15°",
+      "brewery": "Pivo Václav",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivo-vaclav-new-liben-150/4063895"
+    },
+    {
       "id": 1265832090,
       "dt": "2023-04-16T18:39:34+02:00",
       "venue_name": "U Toulavé pípy",
