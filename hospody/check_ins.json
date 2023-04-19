@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1266268715,
+      "dt": "2023-04-18T22:55:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Žito Ale 13°",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-zito-ale-130/5298279"
+    },
+    {
+      "id": 1266257345,
+      "dt": "2023-04-18T22:00:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-vyrocni-special/2597145"
+    },
+    {
+      "id": 1266198217,
+      "dt": "2023-04-18T16:09:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Žito Ale 13°",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-zito-ale-130/5298279"
+    },
+    {
       "id": 1266063039,
       "dt": "2023-04-17T17:15:35+02:00",
       "venue_name": "Pivní ambasáda",
