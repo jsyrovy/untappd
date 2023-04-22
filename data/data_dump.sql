@@ -777,6 +777,13 @@ INSERT INTO "archive" VALUES(1265491753,'2023-04-15 20:11:55.000000','sejrik','I
 INSERT INTO "archive" VALUES(1266063039,'2023-04-17 15:15:35.000000','sejrik','New Libeň 15°','Pivo Václav','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1266365828,'2023-04-19 14:32:56.000000','sejrik','Žito Ale 13°','Bad Flash','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1266417550,'2023-04-19 18:53:33.000000','sejrik','Sinners','Falkon','Untappd at Home');
+INSERT INTO "archive" VALUES(1266860077,'2023-04-21 16:27:54.000000','sejrik','Ordinary Bitter','Trenčiansky pivovar Lanius','Lanius');
+INSERT INTO "archive" VALUES(1266861654,'2023-04-21 16:31:17.000000','sejrik','Amber Ale 11°','Trenčiansky pivovar Lanius','Lanius');
+INSERT INTO "archive" VALUES(1266863225,'2023-04-21 16:34:41.000000','sejrik','NonstHop Session IPA','Trenčiansky pivovar Lanius','Lanius');
+INSERT INTO "archive" VALUES(1266867270,'2023-04-21 16:43:13.000000','sejrik','Witbier','Trenčiansky pivovar Lanius','Lanius');
+INSERT INTO "archive" VALUES(1266871775,'2023-04-21 16:52:56.000000','sejrik','Wild Cherry Saison','Trenčiansky pivovar Lanius','Lanius');
+INSERT INTO "archive" VALUES(1266873006,'2023-04-21 16:55:26.000000','sejrik','Irish Stout 16°','Trenčiansky pivovar Lanius','Lanius');
+INSERT INTO "archive" VALUES(1266926007,'2023-04-21 18:32:43.000000','sejrik','Brown IPA 18°','Trenčiansky pivovar Lanius','Lanius');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
