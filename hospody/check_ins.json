@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1267062730,
+      "dt": "2023-04-22T00:10:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeňka",
+      "brewery": "Pivovar Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-horac-psenka/5315355"
+    },
+    {
       "id": 1266458537,
       "dt": "2023-04-19T23:31:28+02:00",
       "venue_name": "U Toulavé pípy",
