@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1267569194,
+      "dt": "2023-04-22T22:42:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeňka",
+      "brewery": "Pivovar Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-horac-psenka/5315355"
+    },
+    {
+      "id": 1267560156,
+      "dt": "2023-04-22T22:31:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stylish Girl – Blackcurrant Milkshake NEIPA",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-blackcurrant-milkshake-neipa/5268041"
+    },
+    {
+      "id": 1267308404,
+      "dt": "2023-04-22T17:04:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour – Maracuja And Mango",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-maracuja-and-mango/4939956"
+    },
+    {
+      "id": 1267306243,
+      "dt": "2023-04-22T16:59:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Altfränkisch Klosterbier",
+      "brewery": "Klosterbrauerei Weissenohe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/klosterbrauerei-weissenohe-altfrankisch-klosterbier/90124"
+    },
+    {
+      "id": 1267299817,
+      "dt": "2023-04-22T16:44:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Treffpunkt Hefeweizen",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-treffpunkt-hefeweizen/5313487"
+    },
+    {
       "id": 1267062730,
       "dt": "2023-04-22T00:10:55+02:00",
       "venue_name": "Pivní ambasáda",
