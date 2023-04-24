@@ -787,6 +787,7 @@ INSERT INTO "archive" VALUES(1266926007,'2023-04-21 18:32:43.000000','sejrik','B
 INSERT INTO "archive" VALUES(1267206803,'2023-04-22 05:28:44.000000','sejrik','Belgian Hoppy Tripel','Trenčiansky pivovar Lanius','Lanius');
 INSERT INTO "archive" VALUES(1267229071,'2023-04-22 10:33:11.000000','sejrik','Suvila (Summer House)','Põhjala','Mestský Hostinec');
 INSERT INTO "archive" VALUES(1267235058,'2023-04-22 11:10:48.000000','sejrik','Porch Punker','Holíčsky pivovar Wywar','Mestský Hostinec');
+INSERT INTO "archive" VALUES(1267811618,'2023-04-23 11:18:17.000000','sejrik','Budvar 33','Budějovický Budvar','BBQ Smokehouse');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
