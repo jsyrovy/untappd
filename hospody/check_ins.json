@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1267894574,
+      "dt": "2023-04-23T18:39:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-apa/4244138"
+    },
+    {
+      "id": 1267893645,
+      "dt": "2023-04-23T18:36:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční Speciál - 10 Let",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-vyrocni-special-10-let/5315324"
+    },
+    {
+      "id": 1267888518,
+      "dt": "2023-04-23T18:23:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeňka",
+      "brewery": "Pivovar Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-horac-psenka/5315355"
+    },
+    {
+      "id": 1267879368,
+      "dt": "2023-04-23T17:58:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sváteční ležák",
+      "brewery": "Svijany",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/svijany-svatecni-lezak/3800927"
+    },
+    {
       "id": 1267569194,
       "dt": "2023-04-22T22:42:08+02:00",
       "venue_name": "Pivní ambasáda",
