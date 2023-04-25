@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1268192831,
+      "dt": "2023-04-24T22:52:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sea Buckthorn Sorbet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-sea-buckthorn-sorbet/3692458"
+    },
+    {
+      "id": 1268187488,
+      "dt": "2023-04-24T22:22:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gulden Draak 9000 Quadrupel 2023",
+      "brewery": "Brouwerij Van Steenberge",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/brouwerij-van-steenberge-gulden-draak-9000-quadrupel-2023/5260714"
+    },
+    {
+      "id": 1268167536,
+      "dt": "2023-04-24T20:41:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-vyrocni-special/2597145"
+    },
+    {
       "id": 1267894574,
       "dt": "2023-04-23T18:39:03+02:00",
       "venue_name": "Pivní ambasáda",
