@@ -1,4 +1,5 @@
-from database.orm import engine, dump
+from database.orm import engine
+from database.utils import dump
 from robot.base import BaseRobot
 
 
@@ -9,7 +10,7 @@ class OrmRobot(BaseRobot):
 
     def run(self) -> None:
         super().run()
-        dump()
+        dump(engine)
 
     def _main(self) -> None:
         raise NotImplementedError

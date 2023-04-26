@@ -133,6 +133,3 @@ dmypy.json
 
 # databases
 *.sqlite
-
-# exported dump
-data/data.sql

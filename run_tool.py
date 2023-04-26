@@ -2,7 +2,9 @@ import argparse
 from collections.abc import Callable
 from pathlib import Path
 
-from database.orm import dump
+from sqlalchemy import create_engine
+
+from database.utils import load_dump
 
 
 def main() -> None:
@@ -17,10 +19,12 @@ def main() -> None:
 
 
 def save_db_to_file() -> None:
-    db_path = Path("data/data.sql")
+    db_path = Path("data/data.sqlite")
     db_path.unlink(missing_ok=True)
 
-    dump(str(db_path))
+    engine = create_engine(f"sqlite+pysqlite:///{db_path}")
+    load_dump(engine)
+    print(f"Database saved to '{db_path}'.")
 
 
 COMMANDS: dict[str, Callable] = {
