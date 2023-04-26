@@ -12,7 +12,7 @@ def test_get_tiles_data():
             diff_day="+10",
             diff_week="+11",
             diff_month="+11",
-            has_crown=True,
+            has_crown=False,
         ),
         TileData(
             name="Dan",
@@ -34,6 +34,6 @@ def test_get_tiles_data():
             diff_day="+30",
             diff_week="+33",
             diff_month="+33",
-            has_crown=False,
+            has_crown=True,
         ),
     ]

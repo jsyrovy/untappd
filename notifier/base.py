@@ -1,8 +1,10 @@
 import re
 from dataclasses import dataclass
 
+from sqlalchemy import text
+
 import utils
-from database.auto_init import db
+from database.orm import engine
 
 
 @dataclass
@@ -56,12 +58,15 @@ class Offer:
 
 def is_in_archive(beer: Beer) -> bool:
     def _exists(_beer: str, _brewery: str) -> bool:
-        return bool(
-            db.query_one(
-                "SELECT 1 FROM `archive` WHERE `beer` = ? COLLATE NOCASE AND `brewery` = ? COLLATE NOCASE;",
-                (_beer, _brewery),
+        with engine.connect() as conn:
+            return bool(
+                conn.execute(
+                    text(
+                        "SELECT 1 FROM `archive` "
+                        "WHERE `beer` = :beer COLLATE NOCASE AND `brewery` = :brewery COLLATE NOCASE;",
+                    ).bindparams(beer=_beer, brewery=_brewery)
+                ).first(),
             )
-        )
 
     if _exists(beer.name, beer.description):
         return True

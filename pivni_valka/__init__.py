@@ -1,5 +1,4 @@
 import datetime
-import logging
 import random
 
 import jinja2
@@ -7,10 +6,10 @@ from bs4 import BeautifulSoup
 
 import utils
 from pivni_valka.stats import common, tiles, total_chart, weekly_chart, matej_chart
-from robot.db import DbRobot
+from robot.orm import OrmRobot
 
 
-class PivniValka(DbRobot):
+class PivniValka(OrmRobot):
     def _main(self) -> None:
         unique_beers_count = self.get_unique_beers_count()
         users_with_new_beers = self.save_daily_stats_db(unique_beers_count)

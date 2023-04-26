@@ -2,7 +2,9 @@ import datetime
 from dataclasses import dataclass
 from typing import Optional
 
-from database.auto_init import db
+from sqlalchemy import text
+
+from database.orm import engine
 
 
 @dataclass
@@ -19,20 +21,29 @@ class ChartData:
 
 
 def get_total_unique_beers() -> dict[str, int]:
-    return {
-        value[0]: value[1]
-        for value in db.query_all(
-            "SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;"
-        )
-    }
+    with engine.connect() as conn:
+        return {
+            value[0]: value[1]
+            for value in conn.execute(
+                text("SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;")
+            ).all()
+        }
 
 
 def get_unique_beers(
     user_name: str, days: Optional[int] = None, formatted: bool = False
 ) -> str:
-    sql = "SELECT unique_beers FROM pivni_valka WHERE user = ? ORDER BY `date` DESC"
-    values = db.query_all(f"{sql} LIMIT {days};" if days else sql, (user_name,))
-    beers = sum(value[0] for value in values)
+    sql = "SELECT unique_beers FROM pivni_valka WHERE user = :user ORDER BY `date` DESC"
+    with engine.connect() as conn:
+        values = (
+            conn.execute(
+                text(f"{sql} LIMIT {days};" if days else sql).bindparams(user=user_name)
+            )
+            .scalars()
+            .all()
+        )
+
+    beers = sum(values)
 
     if formatted:
         return f"+{beers}" if beers else str(beers)
@@ -41,26 +52,35 @@ def get_unique_beers(
 
 
 def get_unique_beers_before(user_name: str, before: datetime.date) -> int:
-    return db.query_one(
-        "SELECT SUM(unique_beers) FROM pivni_valka WHERE user = ? AND `date` < ?",
-        (user_name, before.isoformat()),
-    )[0]
+    with engine.connect() as conn:
+        return conn.execute(
+            text(
+                "SELECT SUM(unique_beers) FROM pivni_valka WHERE user = :user AND `date` < :date",
+            ).bindparams(user=user_name, date=before.isoformat())
+        ).scalar_one()
 
 
 def save_daily_stats(date: datetime.date, user_name: str, count: int):
-    exists = db.query_one(
-        "SELECT 1 FROM pivni_valka WHERE `date` = ? and user = ?;", (date, user_name)
-    )
-
-    if exists:
-        db.execute(
-            "UPDATE pivni_valka SET unique_beers = ? WHERE `date` = ? and user = ?;",
-            (count, date, user_name),
-        )
-    else:
-        db.execute(
-            "INSERT INTO pivni_valka (`date`, user, unique_beers) VALUES (?, ?, ?);",
-            (date, user_name, count),
+    with engine.connect() as conn:
+        exists = bool(
+            conn.execute(
+                text(
+                    "SELECT 1 FROM pivni_valka WHERE `date` = :date and user = :user;",
+                ).bindparams(date=date, user=user_name)
+            ).first()
         )
 
-    db.commit()
+        if exists:
+            conn.execute(
+                text(
+                    "UPDATE pivni_valka SET unique_beers = :unique_beers WHERE `date` = :date and user = :user;",
+                ).bindparams(date=date, user=user_name, unique_beers=count)
+            )
+        else:
+            conn.execute(
+                text(
+                    "INSERT INTO pivni_valka (`date`, user, unique_beers) VALUES (:date, :user, :unique_beers);",
+                ).bindparams(date=date, user=user_name, unique_beers=count)
+            )
+
+        conn.commit()

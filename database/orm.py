@@ -1,7 +1,9 @@
 from sqlalchemy import create_engine
 
-from database.database import DUMP_PATH, TEST_DUMP_PATH
 from utils import ENCODING, is_test
+
+DUMP_PATH = "data/data_dump.sql"
+TEST_DUMP_PATH = "data/test_dump.sql"
 
 engine = create_engine("sqlite+pysqlite:///:memory:", echo=True)
 
@@ -15,8 +17,8 @@ def load_dump(use_test_db: bool = False) -> None:
     print("Dump loaded.")
 
 
-def dump() -> None:
-    with open(DUMP_PATH, "w", encoding=ENCODING) as f:
+def dump(path: str = "") -> None:
+    with open(path or DUMP_PATH, "w", encoding=ENCODING) as f:
         with engine.connect() as conn:
             for line in conn.connection.iterdump():  # type: ignore[attr-defined]
                 f.write(f"{line}\n")

@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import utils
 from archivist import create_record_in_db, is_record_in_db
 from database.models import Archive
-from robot.db import DbRobot
+from robot.base import BaseRobot
 
 CHECK_IN_IDS = [
     int(id_)
@@ -740,7 +740,7 @@ CHECK_IN_IDS = [
 BATCH = 100
 
 
-class DownloadCheckins(DbRobot):
+class DownloadCheckins(BaseRobot):
     def __init__(self) -> None:
         super().__init__()
         self.processed = 0

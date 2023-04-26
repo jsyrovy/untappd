@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from operator import itemgetter
 
 import utils
 from pivni_valka.stats.common import get_total_unique_beers, get_unique_beers
@@ -20,7 +21,7 @@ class TileData:
 def get_tiles_data() -> list[TileData]:
     tiles_data = []
     total_unique_beers = get_total_unique_beers()
-    user_with_crown = max(total_unique_beers)
+    user_with_crown = max(total_unique_beers.items(), key=itemgetter(1))[0]
 
     for user in utils.user.VISIBLE_USERS:
         tiles_data.append(

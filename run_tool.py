@@ -2,7 +2,7 @@ import argparse
 from collections.abc import Callable
 from pathlib import Path
 
-from database.database import Db
+from database.orm import dump
 
 
 def main() -> None:
@@ -17,12 +17,10 @@ def main() -> None:
 
 
 def save_db_to_file() -> None:
-    db_path = Path("data/data.sqlite")
+    db_path = Path("data/data.sql")
     db_path.unlink(missing_ok=True)
 
-    db = Db(database=str(db_path))
-    db.close()
-    print(f"Database saved to '{db_path}'.")
+    dump(str(db_path))
 
 
 COMMANDS: dict[str, Callable] = {
