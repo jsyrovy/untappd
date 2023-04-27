@@ -9,10 +9,6 @@
       "description": "piv. Sibeeria, Praha, Sour Ale w/ Sea Buckthorn & Mango"
     },
     {
-      "name": "11° Sumer Ale",
-      "description": "piv. Mordýř, Dolní Ředice, ALE"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -25,8 +21,12 @@
       "description": "piv. Svijany, Světlý Ležák"
     },
     {
-      "name": "14° Lazy Cat",
-      "description": "piv. Mordýř, Dolní Ředice, Žitná IPA"
+      "name": "13° Juicy IPL",
+      "description": "piv. Tambor, Dvůr Králové, IPL"
+    },
+    {
+      "name": "17° Tlustý Netopýr",
+      "description": "piv. Antoš, Slaný, Rye IPA"
     },
     {
       "name": "22° Gulden Draak 9000",
