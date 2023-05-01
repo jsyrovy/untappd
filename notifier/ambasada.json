@@ -1,11 +1,7 @@
 {
   "beers": [
     {
-      "name": "10° Ležák",
-      "description": "piv. Tambor, Dvůr Králové, Světlý Ležák"
-    },
-    {
-      "name": "11° Mordýř",
+      "name": "11° Kastelán",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
@@ -17,8 +13,12 @@
       "description": "piv. Tambor, Dvůr Králové, Světlý Ležák"
     },
     {
-      "name": "13° April Stout",
-      "description": "piv. Tambor, Dvůr Králové, Stout"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Very Merry Tropically",
+      "description": "piv. Antoš, Slaný, Mango Passion Fruit Ale"
     },
     {
       "name": "13° Sharp HBC 630",
