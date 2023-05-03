@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Kastelán",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Petr Ale",
+      "description": "piv. JungBerg, Hořice, Ale"
     },
     {
-      "name": "11° Nevada",
-      "description": "piv. Cobolis, Praha, American Pale Ale"
+      "name": "11° Kastelán",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "11° Česká 11.L.R1",
@@ -25,8 +25,8 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "17° Tlustý Netopýr",
-      "description": "piv. Antoš, Slaný, Rye IPA"
+      "name": "17° Antonio",
+      "description": "piv. Clock, Potštejn, gluten-reduced grapefruit brut IPA"
     },
     {
       "name": "22° Gulden Draak 9000",
