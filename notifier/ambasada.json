@@ -5,6 +5,14 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "11° Nevada",
+      "description": "piv. Cobolis, Praha, American Pale Ale"
+    },
+    {
+      "name": "11° Česká 11.L.R1",
+      "description": "piv. Záhora, Kněžičky, Světlý Ležák"
+    },
+    {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
@@ -15,6 +23,10 @@
     {
       "name": "12° Very Merry Tropically",
       "description": "piv. Antoš, Slaný, Mango Passion Fruit Ale"
+    },
+    {
+      "name": "17° Tlustý Netopýr",
+      "description": "piv. Antoš, Slaný, Rye IPA"
     },
     {
       "name": "22° Gulden Draak 9000",
