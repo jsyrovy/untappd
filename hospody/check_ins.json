@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1272089835,
+      "dt": "2023-05-07T01:49:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mini Maxi IPA",
+      "brewery": "PINTA",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pinta-mini-maxi-ipa/3308445"
+    },
+    {
+      "id": 1272087711,
+      "dt": "2023-05-07T01:45:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Freeky APA",
+      "brewery": "Maryensztadt",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/maryensztadt-freeky-apa/3410295"
+    },
+    {
+      "id": 1272039663,
+      "dt": "2023-05-07T00:28:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hop Battle: Cryo Sabro vs. Mosaic",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-hop-battle-cryo-sabro-vs-mosaic/5313540"
+    },
+    {
       "id": 1271365054,
       "dt": "2023-05-05T21:10:25+02:00",
       "venue_name": "Pivní ambasáda",
