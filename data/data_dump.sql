@@ -800,6 +800,8 @@ INSERT INTO "archive" VALUES(1270989509,'2023-05-04 20:42:53.000000','sejrik','A
 INSERT INTO "archive" VALUES(1271742472,'2023-05-06 14:02:41.000000','sejrik','Trautenberk 13','Pivovar Trautenberk','Untappd at Home');
 INSERT INTO "archive" VALUES(1271813067,'2023-05-06 15:47:33.000000','sejrik','Mango Weizen','Browar Jana','Untappd at Home');
 INSERT INTO "archive" VALUES(1271923060,'2023-05-06 18:29:53.000000','sejrik','Trautenberk 14 APA','Pivovar Trautenberk','Untappd at Home');
+INSERT INTO "archive" VALUES(1272329079,'2023-05-07 16:50:28.000000','sejrik','Peach Gose','Browar Jana','Untappd at Home');
+INSERT INTO "archive" VALUES(1272401082,'2023-05-07 19:15:37.000000','sejrik','Fusion: Magic Road','Funky Fluid','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
