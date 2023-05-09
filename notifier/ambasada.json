@@ -13,6 +13,10 @@
       "description": "piv. Sibeeria/Thrills, Dry Hopped Belgian Pale Ale"
     },
     {
+      "name": "12° Ležák",
+      "description": "piv. Valášek, Vsetín, Světlý Ležák"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -21,16 +25,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Šlehač",
-      "description": "piv. U Vojtěchů, Pardubice, IPL"
-    },
-    {
       "name": "15° Cloud Scanner",
       "description": "piv. Černý Potoka, New England IPA"
     },
     {
-      "name": "22° Gulden Draak 9000",
-      "description": "piv. Van Steenberge, Ertvelde, Východní Flandry, Belgian Quadrupel, 0,25l"
+      "name": "18° Kasteel Rouge",
+      "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
