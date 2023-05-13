@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1273631241,
+      "dt": "2023-05-13T01:29:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lokna Bohuš",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-lokna-bohus/3895643"
+    },
+    {
+      "id": 1273584751,
+      "dt": "2023-05-12T23:59:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! 14° West Coast IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-140-west-coast-ipa/4700800"
+    },
+    {
+      "id": 1273575877,
+      "dt": "2023-05-12T23:42:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mad Flanders",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-mad-flanders/5065385"
+    },
+    {
+      "id": 1273570888,
+      "dt": "2023-05-12T23:33:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chargé D'affaires 13",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-charge-d-affaires-13/5275494"
+    },
+    {
+      "id": 1273564627,
+      "dt": "2023-05-12T23:22:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Světlý ležák 12°",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-svetly-lezak-12/324404"
+    },
+    {
+      "id": 1273494243,
+      "dt": "2023-05-12T21:29:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mad Flanders",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-mad-flanders/5065385"
+    },
+    {
+      "id": 1273345966,
+      "dt": "2023-05-12T15:24:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pardubickej Lajf #4",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-4/5352283"
+    },
+    {
       "id": 1273132783,
       "dt": "2023-05-11T19:03:34+02:00",
       "venue_name": "Pivní ambasáda",
