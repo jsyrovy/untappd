@@ -807,6 +807,7 @@ INSERT INTO "archive" VALUES(1272584746,'2023-05-08 14:16:43.000000','sejrik','N
 INSERT INTO "archive" VALUES(1272807692,'2023-05-09 20:13:11.000000','sejrik','Bornem Tripel','Brouwerij Van Steenberge','Untappd at Home');
 INSERT INTO "archive" VALUES(1273105071,'2023-05-11 14:24:29.000000','sejrik','Pardubickej Lajf #4','Beer Poets','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1273111655,'2023-05-11 15:22:40.000000','sejrik','Thunder (Funky Fluid X Salama)','Funky Fluid','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1273984709,'2023-05-13 18:40:14.000000','sejrik','Piraat','Brouwerij Van Steenberge','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
