@@ -808,6 +808,14 @@ INSERT INTO "archive" VALUES(1272807692,'2023-05-09 20:13:11.000000','sejrik','B
 INSERT INTO "archive" VALUES(1273105071,'2023-05-11 14:24:29.000000','sejrik','Pardubickej Lajf #4','Beer Poets','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1273111655,'2023-05-11 15:22:40.000000','sejrik','Thunder (Funky Fluid X Salama)','Funky Fluid','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1273984709,'2023-05-13 18:40:14.000000','sejrik','Piraat','Brouwerij Van Steenberge','Untappd at Home');
+INSERT INTO "archive" VALUES(1274303803,'2023-05-14 08:46:52.000000','sejrik','Pilsner Urquell','Plzeňský Prazdroj','Chata Výrovka');
+INSERT INTO "archive" VALUES(1274309920,'2023-05-14 10:16:00.000000','sejrik','Paroháč 1623','Pivovar Luční bouda','Luční bouda');
+INSERT INTO "archive" VALUES(1274313169,'2023-05-14 10:46:41.000000','sejrik','Paroháč IPA','Pivovar Luční bouda','Luční bouda');
+INSERT INTO "archive" VALUES(1274337957,'2023-05-14 13:23:54.000000','sejrik','Sněžka 10 Světlé výčepní','Pecký pivovar','Bouda Máma');
+INSERT INTO "archive" VALUES(1274339911,'2023-05-14 13:32:54.000000','sejrik','Sněžka 12 Světlý ležák','Pecký pivovar','Bouda Máma');
+INSERT INTO "archive" VALUES(1274342496,'2023-05-14 13:45:27.000000','sejrik','Sněžka 13 Tmavý speciál','Pecký pivovar','Bouda Máma');
+INSERT INTO "archive" VALUES(1274344504,'2023-05-14 13:54:10.000000','sejrik','Sněžka Red IPA','Pecký pivovar','Bouda Máma');
+INSERT INTO "archive" VALUES(1274345724,'2023-05-14 13:59:15.000000','sejrik','Sněžka 16 IPA','Pecký pivovar','Bouda Máma');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
