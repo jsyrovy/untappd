@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1274613681,
+      "dt": "2023-05-15T16:29:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lokna Bohuš",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-lokna-bohus/3895643"
+    },
+    {
       "id": 1274391788,
       "dt": "2023-05-14T18:33:07+02:00",
       "venue_name": "U Toulavé pípy",
