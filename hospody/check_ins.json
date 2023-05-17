@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1274756529,
+      "dt": "2023-05-16T15:45:01+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hungover Sniper",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hungover-sniper/5334576"
+    },
+    {
+      "id": 1274755467,
+      "dt": "2023-05-16T15:26:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sun APA 12%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-sun-apa-12/1558059"
+    },
+    {
       "id": 1274613681,
       "dt": "2023-05-15T16:29:05+02:00",
       "venue_name": "Pivní ambasáda",
