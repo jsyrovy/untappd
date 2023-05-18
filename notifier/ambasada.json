@@ -9,6 +9,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Clock",
+      "description": "piv. Clock, Potštejn, American Pale Ale"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -27,10 +31,6 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "9° Mílijus",
-      "description": "piv. Agent, Olešnice, Summer Ale"
     }
   ]
 }
