@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Ležák",
+      "description": "piv. Tvarg, Velká Bystřice, Světlý Ležák"
+    },
+    {
       "name": "11° Mad Berry",
       "description": "piv. MadCat/Budvar, Fruit Sour Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° No Idols!",
-      "description": "piv. Clock, Potštejn, India Pale Lager"
     },
     {
       "name": "15° India",
