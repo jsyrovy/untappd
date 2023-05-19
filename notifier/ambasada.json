@@ -5,10 +5,6 @@
       "description": "piv. Tvarg, Velká Bystřice, Světlý Ležák"
     },
     {
-      "name": "11° Mad Berry",
-      "description": "piv. MadCat/Budvar, Fruit Sour Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,6 +19,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Lemon Gose",
+      "description": "piv. Obora, Malšice, Lemon Gose"
     },
     {
       "name": "15° India",
