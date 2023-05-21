@@ -818,6 +818,10 @@ INSERT INTO "archive" VALUES(1274344504,'2023-05-14 13:54:10.000000','sejrik','S
 INSERT INTO "archive" VALUES(1274345724,'2023-05-14 13:59:15.000000','sejrik','Sněžka 16 IPA','Pecký pivovar','Bouda Máma');
 INSERT INTO "archive" VALUES(1274613681,'2023-05-15 14:29:05.000000','sejrik','Lokna Bohuš','Beskydský pivovárek','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1275831028,'2023-05-19 23:33:36.000000','sejrik','Sněžka NEIPA','Pecký pivovar','Untappd at Home');
+INSERT INTO "archive" VALUES(1275950167,'2023-05-20 09:46:46.000000','sejrik','Trautenberk 13','Pivovar Trautenberk','Ford Bar Černá Hora');
+INSERT INTO "archive" VALUES(1275969013,'2023-05-20 11:42:32.000000','sejrik','Kolínský speciál 13°','Pivovar Volt','Hotel Kolínská Bouda');
+INSERT INTO "archive" VALUES(1275992420,'2023-05-20 13:07:27.000000','sejrik','Konrad 11° / Vratislavický ležák','Pivovar Liberec Vratislavice','Husova Bouda');
+INSERT INTO "archive" VALUES(1276010268,'2023-05-20 13:54:56.000000','sejrik','Tři sestry','Hubertus','Pražská bouda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
