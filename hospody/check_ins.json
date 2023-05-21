@@ -1,6 +1,132 @@
 {
   "check_ins": [
     {
+      "id": 1276320079,
+      "dt": "2023-05-20T23:01:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose - Lemon Rosemary Ginger",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-lemon-rosemary-ginger/5201346"
+    },
+    {
+      "id": 1276296327,
+      "dt": "2023-05-20T22:31:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1276292400,
+      "dt": "2023-05-20T22:27:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tripception",
+      "brewery": "Axiom Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/axiom-brewery-tripception/3335196"
+    },
+    {
+      "id": 1276291316,
+      "dt": "2023-05-20T22:26:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fanatic NEIPA",
+      "brewery": "Bad Flash",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/bad-flash-fanatic-neipa/3768277"
+    },
+    {
+      "id": 1276270993,
+      "dt": "2023-05-20T22:02:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pardubickej Lajf #4",
+      "brewery": "Beer Poets",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-4/5352283"
+    },
+    {
+      "id": 1276249441,
+      "dt": "2023-05-20T21:39:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liberation Ale",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-liberation-ale/1574185"
+    },
+    {
+      "id": 1276108929,
+      "dt": "2023-05-20T18:53:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "11 Ležák",
+      "brewery": "Tvarg ",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/tvarg-11-lezak/4088691"
+    },
+    {
+      "id": 1276108033,
+      "dt": "2023-05-20T18:52:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose - Lemon Rosemary Ginger",
+      "brewery": "Pivovar Obora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-lemon-rosemary-ginger/5201346"
+    },
+    {
+      "id": 1276076261,
+      "dt": "2023-05-20T18:05:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lazy Cat",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-lazy-cat/689687"
+    },
+    {
+      "id": 1276075307,
+      "dt": "2023-05-20T18:04:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Splávek APA",
+      "brewery": "Pivovar Choceň",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-chocen-splavek-apa/4426401"
+    },
+    {
+      "id": 1276041278,
+      "dt": "2023-05-20T17:02:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1276021266,
+      "dt": "2023-05-20T16:20:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clock APA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-clock-apa/730508"
+    },
+    {
+      "id": 1275977269,
+      "dt": "2023-05-20T14:16:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Honey Ale 11",
+      "brewery": "Pivovar Louka",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-louka-honey-ale-11/4916443"
+    },
+    {
+      "id": 1275976818,
+      "dt": "2023-05-20T14:15:01+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hungover Sniper",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hungover-sniper/5334576"
+    },
+    {
       "id": 1275790298,
       "dt": "2023-05-20T00:15:36+02:00",
       "venue_name": "U Toulavé pípy",
