@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Ležák",
-      "description": "piv. Tvarg, Velká Bystřice, Světlý Ležák"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,6 +19,10 @@
     {
       "name": "13° Lemon Gose",
       "description": "piv. Obora, Malšice, Lemon Gose"
+    },
+    {
+      "name": "14° Konspirátor",
+      "description": "piv. Ovipistán, Ledce, Světlý Ležák"
     },
     {
       "name": "14° Lazy Cat",
