@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1277288210,
+      "dt": "2023-05-24T22:12:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Batalion 22. Narozeniny",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-batalion-narozeniny/5365338"
+    },
+    {
+      "id": 1277244588,
+      "dt": "2023-05-24T19:35:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Konspirátor",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-konspirator/5369782"
+    },
+    {
+      "id": 1277225960,
+      "dt": "2023-05-24T18:10:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Pale Ale",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-american-pale-ale/1488773"
+    },
+    {
+      "id": 1277222227,
+      "dt": "2023-05-24T17:49:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose - Lemon Rosemary Ginger",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-lemon-rosemary-ginger/5201346"
+    },
+    {
+      "id": 1277221878,
+      "dt": "2023-05-24T17:47:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Konspirátor",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-konspirator/5369782"
+    },
+    {
+      "id": 1277217452,
+      "dt": "2023-05-24T17:16:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Pale Ale",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-american-pale-ale/1488773"
+    },
+    {
       "id": 1277074560,
       "dt": "2023-05-23T20:19:02+02:00",
       "venue_name": "Pivní ambasáda",
