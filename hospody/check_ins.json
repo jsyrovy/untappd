@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1277539924,
+      "dt": "2023-05-25T23:33:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Batalion 22. Narozeniny",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-batalion-narozeniny/5365338"
+    },
+    {
+      "id": 1277536759,
+      "dt": "2023-05-25T23:23:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.i.v. 4",
+      "brewery": "Akciový pivovar Libertas",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/akciovy-pivovar-libertas-aliance-p-i-v-4/5373165"
+    },
+    {
+      "id": 1277532655,
+      "dt": "2023-05-25T23:11:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "South Africa IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-south-africa-ipa/3619161"
+    },
+    {
+      "id": 1277529151,
+      "dt": "2023-05-25T23:00:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Konspirátor",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-konspirator/5369782"
+    },
+    {
+      "id": 1277459255,
+      "dt": "2023-05-25T19:43:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Konspirátor",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-konspirator/5369782"
+    },
+    {
+      "id": 1277448880,
+      "dt": "2023-05-25T19:10:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.i.v. 4",
+      "brewery": "Akciový pivovar Libertas",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/akciovy-pivovar-libertas-aliance-p-i-v-4/5373165"
+    },
+    {
+      "id": 1277410965,
+      "dt": "2023-05-25T15:39:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Reasonably Stupid",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-reasonably-stupid/5343521"
+    },
+    {
+      "id": 1277410499,
+      "dt": "2023-05-25T15:35:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "CitroPOP",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-citropop/4756356"
+    },
+    {
+      "id": 1277407060,
+      "dt": "2023-05-25T14:58:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lemondrop single beer 12",
+      "brewery": "Chrudimský pivovar Filištín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chrudimsky-pivovar-filistin-lemondrop-single-beer-12/5366839"
+    },
+    {
       "id": 1277288210,
       "dt": "2023-05-24T22:12:03+02:00",
       "venue_name": "Pivní ambasáda",
