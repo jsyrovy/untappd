@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1278949517,
+      "dt": "2023-05-28T21:27:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Saison s rebarborou a jahodami",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-saison-s-rebarborou-a-jahodami/5361666"
+    },
+    {
+      "id": 1278949034,
+      "dt": "2023-05-28T21:26:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Azacca 10",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-azacca-10/5337085"
+    },
+    {
+      "id": 1278843954,
+      "dt": "2023-05-28T18:41:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "South Africa IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-south-africa-ipa/3619161"
+    },
+    {
+      "id": 1278825866,
+      "dt": "2023-05-28T18:07:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Azacca 10",
+      "brewery": "Pivovar Albrecht",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-albrecht-azacca-10/5337085"
+    },
+    {
+      "id": 1278812675,
+      "dt": "2023-05-28T17:38:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.i.v. 4",
+      "brewery": "Akciový pivovar Libertas",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/akciovy-pivovar-libertas-aliance-p-i-v-4/5373165"
+    },
+    {
+      "id": 1278812223,
+      "dt": "2023-05-28T17:37:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Konspirátor",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-konspirator/5369782"
+    },
+    {
+      "id": 1278731193,
+      "dt": "2023-05-28T13:00:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nealko IPA Free",
+      "brewery": "Nachmelená Opice",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-nealko-ipa-free/4882542"
+    },
+    {
       "id": 1278558603,
       "dt": "2023-05-28T00:09:37+02:00",
       "venue_name": "U Toulavé pípy",
