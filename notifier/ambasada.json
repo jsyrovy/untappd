@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° AZACCA",
-      "description": "Albrecht, Frýdlant, Single Hop Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "11° St. Georgen",
       "description": "St. Georgen Brau, Buttenheim, Horní Franky, German Hefeweizen"
+    },
+    {
+      "name": "12° Alianční IV",
+      "description": "piv. Libertas, Praha, American Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
