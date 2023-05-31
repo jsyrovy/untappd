@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Hektor",
+      "description": "piv. Clock, Potštejn, Světlý Ležák"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° Cyclops IPA",
       "description": "piv. Antoš, Slaný, India Pale Ale"
-    },
-    {
-      "name": "14° Konspirátor",
-      "description": "piv. Ovipistán, Ledce, Světlý Ležák"
     },
     {
       "name": "18° Pauwel Kwak",
