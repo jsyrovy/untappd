@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1280144992,
+      "dt": "2023-06-02T19:23:50+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Blood Orange Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-blood-orange-gose/5369752"
+    },
+    {
+      "id": 1280138877,
+      "dt": "2023-06-02T19:12:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Blood Orange Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-blood-orange-gose/5369752"
+    },
+    {
+      "id": 1280133574,
+      "dt": "2023-06-02T19:02:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Vibes 10",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-summer-vibes-10/4900793"
+    },
+    {
+      "id": 1280117513,
+      "dt": "2023-06-02T18:29:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Blood Orange Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-blood-orange-gose/5369752"
+    },
+    {
+      "id": 1280113157,
+      "dt": "2023-06-02T18:19:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "White IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-white-ipa/1369454"
+    },
+    {
       "id": 1279947896,
       "dt": "2023-06-02T00:01:38+02:00",
       "venue_name": "U Toulavé pípy",
