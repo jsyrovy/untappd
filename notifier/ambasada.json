@@ -5,10 +5,6 @@
       "description": "St. Georgen Brau, Buttenheim, Horní Franky, German Hefeweizen"
     },
     {
-      "name": "12° Alianční IV",
-      "description": "piv. Libertas, Praha, American Pale Ale"
-    },
-    {
       "name": "12° Granát",
       "description": "piv. Mordýř, Dolní Ředice, Polotmavý Ležák"
     },
@@ -17,8 +13,12 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Saison",
-      "description": "piv. Rampušák, Dobruška, Rebarboro-Jahodový Saison"
+      "name": "12° SHA Amarillo",
+      "description": "piv. MadCat, Kamenice, Single Hop Ale"
+    },
+    {
+      "name": "13° Mangová",
+      "description": "piv. Mordýř, Dolní Ředice, Mangový Ale"
     },
     {
       "name": "15° Casual IPA",
