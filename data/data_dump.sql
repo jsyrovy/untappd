@@ -837,6 +837,9 @@ INSERT INTO "archive" VALUES(1279919273,'2023-06-01 20:29:25.000000','sejrik','C
 INSERT INTO "archive" VALUES(1279938004,'2023-06-01 21:29:41.000000','sejrik','Pauwel Kwak','Brouwerij Bosteels','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1280133574,'2023-06-02 17:02:22.000000','sejrik','Summer Vibes 10','Rodinný pivovar Zichovec','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1280661010,'2023-06-03 17:43:44.000000','sejrik','Perlenbacher Hefeweissbier / Wheat Beer','Lidl Deutschland / Germany','Untappd at Home');
+INSERT INTO "archive" VALUES(1281067225,'2023-06-04 12:57:06.000000','sejrik','Pils Special','Browar Wrzos','Wielka Czantoria');
+INSERT INTO "archive" VALUES(1281122681,'2023-06-04 15:56:18.000000','sejrik','Żywiec','Grupa Żywiec','Hotel Pod Jedlami');
+INSERT INTO "archive" VALUES(1281189547,'2023-06-04 18:22:25.000000','sejrik','Double IPA','Browar Zamkowy Cieszyn','Hotel Pod Jedlami');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
