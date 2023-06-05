@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1281087908,
+      "dt": "2023-06-04T16:12:50+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gluten Free",
+      "brewery": "Browar Nepomucen",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-gluten-free/4756929"
+    },
+    {
+      "id": 1281082914,
+      "dt": "2023-06-04T15:55:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Malá NEIPA 8",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-mala-neipa-8/5323350"
+    },
+    {
+      "id": 1281082514,
+      "dt": "2023-06-04T15:54:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Stairway To Heaven",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-stairway-to-heaven/5312407"
+    },
+    {
+      "id": 1281033821,
+      "dt": "2023-06-04T10:21:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Casual IPA 15°",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-casual-ipa-150/5317479"
+    },
+    {
       "id": 1280906188,
       "dt": "2023-06-04T00:52:36+02:00",
       "venue_name": "U Toulavé pípy",
@@ -19,10 +55,28 @@
       "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
     },
     {
+      "id": 1280881368,
+      "dt": "2023-06-04T00:12:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
+    },
+    {
       "id": 1280874636,
       "dt": "2023-06-04T00:02:31+02:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Raspberry, Blackberry &Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
+    },
+    {
+      "id": 1280874636,
+      "dt": "2023-06-04T00:02:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
@@ -113,6 +167,15 @@
       "dt": "2023-06-03T17:50:30+02:00",
       "venue_name": "U Toulavé pípy",
       "beer_name": "Yummy Raspberry, Blackberry &Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
+    },
+    {
+      "id": 1280585672,
+      "dt": "2023-06-03T17:50:30+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
