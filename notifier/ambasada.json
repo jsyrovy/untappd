@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Helter Skelter",
+      "description": "piv. Crazy Clown, Gose Tomato & Basil"
+    },
+    {
       "name": "11° St. Georgen",
       "description": "St. Georgen Brau, Buttenheim, Horní Franky, German Hefeweizen"
     },
@@ -21,12 +25,8 @@
       "description": "piv. MadCat, Kamenice, Single Hop Ale"
     },
     {
-      "name": "13° Mangová",
-      "description": "piv. Mordýř, Dolní Ředice, Mangový Ale"
-    },
-    {
-      "name": "15° Casual IPA",
-      "description": "piv. Haksna, Ostrava, India Pale Ale"
+      "name": "14° LucIPA",
+      "description": "piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "18° Pauwel Kwak",
