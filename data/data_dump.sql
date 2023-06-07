@@ -844,6 +844,8 @@ INSERT INTO "archive" VALUES(1281388620,'2023-06-05 14:20:10.000000','sejrik','B
 INSERT INTO "archive" VALUES(1281388726,'2023-06-05 14:21:33.000000','sejrik','Głębce','Browar Wisła','Browar Wisła');
 INSERT INTO "archive" VALUES(1281390218,'2023-06-05 14:36:40.000000','sejrik','Wiślanin Ciemne','Browar Wisła','Browar Wisła');
 INSERT INTO "archive" VALUES(1281400490,'2023-06-05 15:54:22.000000','sejrik','Hazy IPA','Beskidzki Browar Rzemieślniczy','Barania Góra Schronisko PTTK na Przysłopie Pod Baranią Górą Wisła');
+INSERT INTO "archive" VALUES(1281538051,'2023-06-06 06:48:07.000000','sejrik','Głuszec Habsburgów','Browar Wisła','Browar Wisła');
+INSERT INTO "archive" VALUES(1281597165,'2023-06-06 18:03:33.000000','sejrik','Czarne','Browar Wisła','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
