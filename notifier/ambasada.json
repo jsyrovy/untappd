@@ -1,16 +1,20 @@
 {
   "beers": [
     {
+      "name": "10° Beskydská",
+      "description": "Beskydský pivovar, Ostravice, Ale"
+    },
+    {
       "name": "11° Helter Skelter",
       "description": "piv. Crazy Clown, Gose Tomato & Basil"
     },
     {
-      "name": "11° St. Georgen",
-      "description": "St. Georgen Brau, Buttenheim, Horní Franky, German Hefeweizen"
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Granát",
-      "description": "piv. Mordýř, Dolní Ředice, Polotmavý Ležák"
+      "name": "11° St. Georgen",
+      "description": "St. Georgen Brau, Buttenheim, Horní Franky, German Hefeweizen"
     },
     {
       "name": "12° Mein Blondes Tap 1",
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° SHA Amarillo",
-      "description": "piv. MadCat, Kamenice, Single Hop Ale"
     },
     {
       "name": "14° LucIPA",
