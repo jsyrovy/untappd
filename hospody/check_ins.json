@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1282104975,
+      "dt": "2023-06-09T00:08:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydska desítka Ale",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydska-desitka-ale/2721053"
+    },
+    {
+      "id": 1282104443,
+      "dt": "2023-06-09T00:06:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jak Nie? Jak Tak!",
+      "brewery": "Cześć Brat!",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/czesc-brat-jak-nie-jak-tak/5326072"
+    },
+    {
+      "id": 1282103757,
+      "dt": "2023-06-09T00:04:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hauskrecht vs. Clock Žitná IPA",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-vs-clock-zitna-ipa/5374833"
+    },
+    {
+      "id": 1282093027,
+      "dt": "2023-06-08T23:30:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Adventure",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-adventure/5388446"
+    },
+    {
+      "id": 1282086327,
+      "dt": "2023-06-08T23:10:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Tomato & Basil",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-tomato-and-basil/5372092"
+    },
+    {
+      "id": 1282081168,
+      "dt": "2023-06-08T22:53:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hauskrecht vs. Clock Žitná IPA",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-vs-clock-zitna-ipa/5374833"
+    },
+    {
+      "id": 1282023027,
+      "dt": "2023-06-08T20:15:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Adventure",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-adventure/5388446"
+    },
+    {
+      "id": 1281965129,
+      "dt": "2023-06-08T16:30:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Malá NEIPA 8",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-mala-neipa-8/5323350"
+    },
+    {
       "id": 1281866754,
       "dt": "2023-06-08T00:33:27+02:00",
       "venue_name": "U Toulavé pípy",
