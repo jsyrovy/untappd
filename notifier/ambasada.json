@@ -21,16 +21,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "14° Hauskrecht vs. Clock",
-      "description": "piv. Clock/Hauskrecht, Rye IPA"
-    },
-    {
       "name": "14° Mongozo Banana",
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
     },
     {
       "name": "15° One Adventure",
       "description": "piv. Sibeeria, Praha, West Coast IPA"
+    },
+    {
+      "name": "16° Fog or Smog",
+      "description": "piv. Haksna, Ostrava, NEIPA"
     }
   ]
 }
