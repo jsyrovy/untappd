@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Beskydská",
-      "description": "Beskydský pivovar, Ostravice, Ale"
-    },
-    {
       "name": "11° Helter Skelter",
       "description": "piv. Crazy Clown, Gose Tomato & Basil"
     },
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Summer Ale",
+      "description": "piv. Horác, Jihlava,  Ale"
     },
     {
       "name": "12° Aldersbacher",
