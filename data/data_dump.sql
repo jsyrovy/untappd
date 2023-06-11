@@ -850,6 +850,11 @@ INSERT INTO "archive" VALUES(1281750229,'2023-06-07 15:17:49.000000','sejrik','E
 INSERT INTO "archive" VALUES(1281763078,'2023-06-07 16:28:11.000000','sejrik','Černá Barbora','Ostravar','Fortel');
 INSERT INTO "archive" VALUES(1281965129,'2023-06-08 14:30:16.000000','sejrik','Malá NEIPA 8','Rodinný pivovar Zichovec','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1282023881,'2023-06-08 18:18:11.000000','sejrik','Browar Wisła Kopydło','Browar Wisła','Untappd at Home');
+INSERT INTO "archive" VALUES(1282668780,'2023-06-10 12:04:43.000000','sejrik','Milo 10','Klášterní pivovar Želiv','Klášterní restaurace Želiv');
+INSERT INTO "archive" VALUES(1282671558,'2023-06-10 12:15:19.000000','sejrik','Haštal 12','Klášterní pivovar Želiv','Klášterní restaurace Želiv');
+INSERT INTO "archive" VALUES(1282672395,'2023-06-10 12:18:31.000000','sejrik','Siard 11','Klášterní pivovar Želiv','Klášterní restaurace Želiv');
+INSERT INTO "archive" VALUES(1282677910,'2023-06-10 12:38:26.000000','sejrik','Vitus 14','Klášterní pivovar Želiv','Klášterní restaurace Želiv');
+INSERT INTO "archive" VALUES(1282679751,'2023-06-10 12:44:43.000000','sejrik','Pacific Jack 16','Klášterní pivovar Želiv','Klášterní restaurace Želiv');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
