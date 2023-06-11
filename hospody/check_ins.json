@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1283064412,
+      "dt": "2023-06-11T00:22:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Adventure",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-adventure/5388446"
+    },
+    {
+      "id": 1283063676,
+      "dt": "2023-06-11T00:21:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fog or Smog",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-fog-or-smog/4895646"
+    },
+    {
+      "id": 1283063310,
+      "dt": "2023-06-11T00:20:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Tomato & Basil",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-tomato-and-basil/5372092"
+    },
+    {
+      "id": 1283062422,
+      "dt": "2023-06-11T00:19:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Ale Blonde",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-summer-ale-blonde/4995744"
+    },
+    {
+      "id": 1283061752,
+      "dt": "2023-06-11T00:18:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Ale Blonde",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-summer-ale-blonde/4995744"
+    },
+    {
       "id": 1282466436,
       "dt": "2023-06-09T23:37:04+02:00",
       "venue_name": "U Toulavé pípy",
