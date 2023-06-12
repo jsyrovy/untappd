@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1283315019,
+      "dt": "2023-06-11T18:50:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Best Newz",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-best-newz/5331207"
+    },
+    {
+      "id": 1283303648,
+      "dt": "2023-06-11T18:22:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dad Pint",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-dad-pint/5374422"
+    },
+    {
+      "id": 1283274950,
+      "dt": "2023-06-11T16:55:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/5382720"
+    },
+    {
+      "id": 1283266189,
+      "dt": "2023-06-11T16:24:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Best Newz",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-best-newz/5331207"
+    },
+    {
+      "id": 1283264777,
+      "dt": "2023-06-11T16:19:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Love Is In the Air",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-love-is-in-the-air/5323366"
+    },
+    {
+      "id": 1283255529,
+      "dt": "2023-06-11T15:44:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Vibes",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-summer-vibes/5394438"
+    },
+    {
       "id": 1283064412,
       "dt": "2023-06-11T00:22:33+02:00",
       "venue_name": "Pivní ambasáda",
@@ -44,6 +98,15 @@
       "brewery": "Horác",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/horac-summer-ale-blonde/4995744"
+    },
+    {
+      "id": 1283061752,
+      "dt": "2023-06-11T00:18:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Vibes",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-summer-vibes/5394438"
     },
     {
       "id": 1282466436,
