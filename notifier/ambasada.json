@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Goldie",
+      "description": "piv. Clock, Potštejn, Weizenbier"
+    },
+    {
       "name": "11° Helter Skelter",
       "description": "piv. Crazy Clown, Gose Tomato & Basil"
     },
@@ -11,10 +15,6 @@
     {
       "name": "11° Summer Ale",
       "description": "piv. Horác, Jihlava,  Ale"
-    },
-    {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
