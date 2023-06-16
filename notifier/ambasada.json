@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° American Ale",
+      "description": "piv. Malešov, APA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -13,16 +17,20 @@
       "description": "piv. Obora, Malšice, Sour Ale"
     },
     {
-      "name": "13° Best Newz",
-      "description": "piv. Thrills/Sibeeria, Farmhouse Ale"
-    },
-    {
-      "name": "13° Mango Ale",
-      "description": "piv. Mordýř, Dolní Ředice, Mangový Ale"
+      "name": "13° Dad Pint",
+      "description": "piv. Sibeeria/Andersons, Extra Special Bitter"
     },
     {
       "name": "14° Mongozo Banana",
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
+    },
+    {
+      "name": "14° Tvarg IPA",
+      "description": "piv. Tvrarg, Velká Bystřice, IPA"
+    },
+    {
+      "name": "9° Trudi",
+      "description": "piv. Clock, Potštejn, Gluten Reduced Session NEIPA"
     }
   ]
 }
