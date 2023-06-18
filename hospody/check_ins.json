@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1285074737,
+      "dt": "2023-06-17T20:54:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/5382720"
+    },
+    {
+      "id": 1284903732,
+      "dt": "2023-06-17T16:45:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour 12 Strawberry Rhubarb",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-strawberry-rhubarb/5323365"
+    },
+    {
+      "id": 1284806866,
+      "dt": "2023-06-17T06:49:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pineapple & Mango",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-pineapple-and-mango/5362671"
+    },
+    {
       "id": 1284678617,
       "dt": "2023-06-17T00:28:05+02:00",
       "venue_name": "U Toulavé pípy",
