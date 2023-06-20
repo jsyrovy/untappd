@@ -9,3 +9,4 @@ coverage
 mock
 types-mock
 ipython
+pylint

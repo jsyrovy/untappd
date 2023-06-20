@@ -51,10 +51,13 @@ run-archivist:
 	${PYTHON} run_archivist.py
 
 mypy:
-	${PYTHON} -m mypy --ignore-missing-imports .
+	${PYTHON} -m mypy --ignore-missing-imports --strict .
 
 flake8:
-	${PYTHON} -m flake8 .
+	${PYTHON} -m flake8 --color=always .
+
+pylint:
+	${PYTHON} -m pylint -j 0 --output-format=colorized --recursive=y .
 
 remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
@@ -77,6 +80,7 @@ before-commit:
 	make test
 	make mypy
 	make flake8
+	make pylint
 
 ipython:
 	${PYTHON} -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
