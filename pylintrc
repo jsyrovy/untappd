@@ -46,7 +46,7 @@ fail-under=10
 #from-stdin=
 
 # Files or directories to be skipped. They should be base names, not paths.
-ignore=CVS
+ignore=CVS,venv,__pycache__,.mypy_cache,.pytest_cache
 
 # Add files or directories matching the regular expressions patterns to the
 # ignore-list. The regex matches against paths and can be in Posix or Windows
@@ -77,7 +77,7 @@ jobs=1
 # Control the amount of potential inferred values when inferring a single
 # object. This can help the performance when dealing with large functions or
 # complex, nested conditions.
-limit-inference-results=100
+limit-inference-results=120
 
 # List of plugins (as comma separated values of python module names) to load,
 # usually to register additional checkers.
@@ -188,9 +188,13 @@ function-naming-style=snake_case
 good-names=i,
            j,
            k,
+           e,
            ex,
            Run,
-           _
+           _,
+           r,
+           f,
+           dt
 
 # Good variable names regexes, separated by a comma. If names match any regex,
 # they will always be accepted
@@ -428,7 +432,12 @@ disable=raw-checker-failed,
         suppressed-message,
         useless-suppression,
         deprecated-pragma,
-        use-symbolic-message-instead
+        use-symbolic-message-instead,
+        missing-module-docstring,
+        missing-function-docstring,
+        missing-class-docstring,
+        too-few-public-methods
+
 
 # Enable the message, report, category or checker with the given id(s). You can
 # either give multiple identifier separated by comma (,) or put this option
