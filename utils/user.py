@@ -25,7 +25,7 @@ class UserNotFound(Exception):
     ...
 
 
-def get(user_name: str):
+def get(user_name: str) -> User:
     try:
         return [user for user in USERS if user.user_name == user_name][0]
     except IndexError as e:

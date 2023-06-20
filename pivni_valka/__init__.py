@@ -1,5 +1,6 @@
 import datetime
 import random
+from typing import Any
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -96,7 +97,7 @@ class PivniValka(OrmRobot):
 
         return int(unique_beers_count.replace(",", ""))
 
-    def get_page(self, template: jinja2.Template, **kwargs) -> str:
+    def get_page(self, template: jinja2.Template, **kwargs: dict[str, Any]) -> str:
         return template.render(**kwargs)
 
     def save_daily_stats_db(self, unique_beers_count: dict[str, int]) -> list[str]:

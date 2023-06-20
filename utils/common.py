@@ -42,7 +42,7 @@ def get_template(
     return env.get_template(file)
 
 
-def random_sleep(max_=5) -> None:
+def random_sleep(max_: int = 5) -> None:
     time.sleep(random.randrange(max_))
 
 

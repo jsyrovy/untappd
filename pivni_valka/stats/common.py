@@ -60,7 +60,7 @@ def get_unique_beers_before(user_name: str, before: datetime.date) -> int:
         ).scalar_one()
 
 
-def save_daily_stats(date: datetime.date, user_name: str, count: int):
+def save_daily_stats(date: datetime.date, user_name: str, count: int) -> None:
     with engine.connect() as conn:
         exists = bool(
             conn.execute(
