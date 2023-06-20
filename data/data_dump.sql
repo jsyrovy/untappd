@@ -867,6 +867,7 @@ INSERT INTO "archive" VALUES(1284929993,'2023-06-17 15:39:20.000000','sejrik','Z
 INSERT INTO "archive" VALUES(1284955837,'2023-06-17 16:23:14.000000','sejrik','Kazbek 11','Hradecký Klenot','Zámek Pardubice');
 INSERT INTO "archive" VALUES(1284969586,'2023-06-17 16:43:34.000000','sejrik','NEIPA 11° Chmelová Mrda','Pivovar Lončák','Zámek Pardubice');
 INSERT INTO "archive" VALUES(1285074737,'2023-06-17 18:54:23.000000','sejrik','Trudi','Pivovar Clock','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1285868422,'2023-06-19 20:00:35.000000','sejrik','West Coast IPA','Browar Zamkowy Cieszyn','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
