@@ -51,7 +51,8 @@ run-archivist:
 	${PYTHON} run_archivist.py
 
 mypy:
-	${PYTHON} -m mypy --ignore-missing-imports --strict .
+	${PYTHON} -m mypy --ignore-missing-imports --strict  --exclude tests .
+	${PYTHON} -m mypy --ignore-missing-imports  tests
 
 flake8:
 	${PYTHON} -m flake8 --color=always .
