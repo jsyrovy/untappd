@@ -17,20 +17,20 @@
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° Philadelphia Jahoda",
-      "description": "piv. Obora, Malšice, Sour Ale"
-    },
-    {
       "name": "13° Dad Pint",
       "description": "piv. Sibeeria/Andersons, Extra Special Bitter"
     },
     {
-      "name": "14° Mongozo Banana",
-      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
+      "name": "13° We Are All Mad Here",
+      "description": "piv. Crazy Clown, Fruited Ale (černý rybíz a ostružiny)"
     },
     {
-      "name": "14° Tvarg IPA",
-      "description": "piv. Tvrarg, Velká Bystřice, IPA"
+      "name": "14° Cold IPA",
+      "description": "piv. Medvěd, Vrchlabí, Cold IPA"
+    },
+    {
+      "name": "14° Mongozo Banana",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Banana Ale, 0,2l"
     }
   ]
 }
