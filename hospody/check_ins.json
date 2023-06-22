@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1286291479,
+      "dt": "2023-06-21T23:05:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Raspberry Pussy",
+      "brewery": "Lucky Bastard",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lucky-bastard-raspberry-pussy/5393974"
+    },
+    {
+      "id": 1286288588,
+      "dt": "2023-06-21T22:55:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "We're All Mad Here",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-we-re-all-mad-here/2025427"
+    },
+    {
       "id": 1286144711,
       "dt": "2023-06-21T04:06:17+02:00",
       "venue_name": "U Toulavé pípy",
