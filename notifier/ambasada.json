@@ -9,10 +9,6 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Raspberry Pussy",
-      "description": "piv. Lucky Bastard, Brno, Fruit Pale Ale"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° One Adventure",
       "description": "piv. Sibeeria, Praha, West Coast IPA"
+    },
+    {
+      "name": "9° Diplomat",
+      "description": "piv. Ovipistán, Ledce, Summer Ale"
     }
   ]
 }
