@@ -1,6 +1,213 @@
 {
   "check_ins": [
     {
+      "id": 1286960118,
+      "dt": "2023-06-23T23:16:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Beertime Dialogue: Southern Star & Idaho",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-beertime-dialogue-southern-star-and-idaho/5340045"
+    },
+    {
+      "id": 1286956251,
+      "dt": "2023-06-23T23:10:50+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Raspberry & Banana Shake",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-raspberry-and-banana-shake/5410137"
+    },
+    {
+      "id": 1286952156,
+      "dt": "2023-06-23T23:04:32+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Triple Gelato: Yellow Fluff",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-triple-gelato-yellow-fluff/4756759"
+    },
+    {
+      "id": 1286950650,
+      "dt": "2023-06-23T23:02:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Collab Piggy X Sibeeria",
+      "brewery": "The Piggy Brewing Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-piggy-brewing-company-collab-piggy-x-sibeeria/5390605"
+    },
+    {
+      "id": 1286948357,
+      "dt": "2023-06-23T22:59:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold IPA 14",
+      "brewery": "Krkonošský medvěd",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krkonossky-medved-cold-ipa-14/5414275"
+    },
+    {
+      "id": 1286933625,
+      "dt": "2023-06-23T22:37:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Adventure",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-adventure/5388446"
+    },
+    {
+      "id": 1286921424,
+      "dt": "2023-06-23T22:20:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1286920377,
+      "dt": "2023-06-23T22:18:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Yellow Fluff",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-yellow-fluff/5405137"
+    },
+    {
+      "id": 1286918182,
+      "dt": "2023-06-23T22:15:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Collab Piggy X Sibeeria",
+      "brewery": "The Piggy Brewing Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-piggy-brewing-company-collab-piggy-x-sibeeria/5390605"
+    },
+    {
+      "id": 1286874947,
+      "dt": "2023-06-23T21:17:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Raspberry & Banana Shake",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-raspberry-and-banana-shake/5410137"
+    },
+    {
+      "id": 1286825608,
+      "dt": "2023-06-23T20:07:28+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Raspberry & Banana Shake",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-raspberry-and-banana-shake/5410137"
+    },
+    {
+      "id": 1286802644,
+      "dt": "2023-06-23T19:30:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Žitohola 11",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-zitohola-11/1884404"
+    },
+    {
+      "id": 1286788354,
+      "dt": "2023-06-23T19:06:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Collab Piggy X Sibeeria",
+      "brewery": "The Piggy Brewing Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-piggy-brewing-company-collab-piggy-x-sibeeria/5390605"
+    },
+    {
+      "id": 1286787348,
+      "dt": "2023-06-23T19:04:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Raspberry & Banana Shake",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-raspberry-and-banana-shake/5410137"
+    },
+    {
+      "id": 1286774795,
+      "dt": "2023-06-23T18:42:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hoptopia",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-hoptopia/2290462"
+    },
+    {
+      "id": 1286770991,
+      "dt": "2023-06-23T18:35:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Raspberry & Banana Shake",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-raspberry-and-banana-shake/5410137"
+    },
+    {
+      "id": 1286761362,
+      "dt": "2023-06-23T18:16:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Raspberry & Banana Shake",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-raspberry-and-banana-shake/5410137"
+    },
+    {
+      "id": 1286760762,
+      "dt": "2023-06-23T18:15:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Pink Guava, Passion Fruit & Peach",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-pink-guava-passion-fruit-and-peach/3765021"
+    },
+    {
+      "id": 1286760181,
+      "dt": "2023-06-23T18:14:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Collab Piggy X Sibeeria",
+      "brewery": "The Piggy Brewing Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-piggy-brewing-company-collab-piggy-x-sibeeria/5390605"
+    },
+    {
+      "id": 1286752090,
+      "dt": "2023-06-23T17:56:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Passion Fruit, Mango & Peach",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-passion-fruit-mango-and-peach/4088544"
+    },
+    {
+      "id": 1286740874,
+      "dt": "2023-06-23T17:28:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "We're All Mad Here",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-we-re-all-mad-here/2025427"
+    },
+    {
+      "id": 1286737833,
+      "dt": "2023-06-23T17:19:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold IPA 14",
+      "brewery": "Krkonošský medvěd",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krkonossky-medved-cold-ipa-14/5414275"
+    },
+    {
+      "id": 1286733788,
+      "dt": "2023-06-23T17:07:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dad Pint",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-dad-pint/5374422"
+    },
+    {
       "id": 1286426609,
       "dt": "2023-06-22T17:29:53+02:00",
       "venue_name": "Pivní ambasáda",
