@@ -2,8 +2,10 @@ import datetime
 from dataclasses import dataclass
 from typing import Optional
 
-from sqlalchemy import text
+from sqlalchemy import text, func, select
+from sqlalchemy.orm import Session
 
+from database.models import PivniValka
 from database.orm import engine
 
 
@@ -52,12 +54,11 @@ def get_unique_beers(
 
 
 def get_unique_beers_before(user_name: str, before: datetime.date) -> int:
-    with engine.connect() as conn:
-        return conn.execute(  # type: ignore
-            text(
-                "SELECT SUM(unique_beers) FROM pivni_valka WHERE user = :user AND `date` < :date",
-            ).bindparams(user=user_name, date=before.isoformat())
-        ).scalar_one()
+    stmt = select(func.sum(PivniValka.unique_beers)).where(
+        PivniValka.user == user_name, PivniValka.date < before
+    )
+    with Session(engine) as session:
+        return session.execute(stmt).scalar_one()  # type: ignore[no-any-return]
 
 
 def save_daily_stats(date: datetime.date, user_name: str, count: int) -> None:
