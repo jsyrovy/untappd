@@ -46,7 +46,7 @@ class PipaOffer(Offer):
 
         beers = [
             PipaBeer.from_json(check_in)
-            for check_in in json.loads(path.read_text())["check_ins"]
+            for check_in in json.loads(path.read_text(utils.ENCODING))["check_ins"]
             if check_in["venue_name"] == self.PUB_NAME
         ]
 

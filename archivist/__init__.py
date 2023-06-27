@@ -69,10 +69,10 @@ def get_brewery(text: str) -> str:
         text = text.replace("Untappd at Home", "")
 
     regex = r" by (.*)"
-    at = " at "
+    regex_at = " at "
 
-    if at in text:
-        regex += at
+    if regex_at in text:
+        regex += regex_at
 
     return get_regex_group(regex, text)
 

@@ -6,7 +6,7 @@ from pivni_valka.stats.common import get_total_unique_beers, get_unique_beers
 
 
 @dataclass
-class TileData:
+class TileData:  # pylint: disable=too-many-instance-attributes
     name: str
     user_name: str
     url: str

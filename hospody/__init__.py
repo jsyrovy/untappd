@@ -27,8 +27,8 @@ class Venue:
 
 
 @dataclass
-class CheckIn:
-    id: int
+class CheckIn:  # pylint: disable=too-many-instance-attributes
+    id: int  # pylint: disable=invalid-name
     dt: datetime
     venue_name: str
     beer_name: str
@@ -93,11 +93,13 @@ class Hospody(BaseRobot):
 
         for new_check_in in new_check_ins:
             if new_check_in in check_ins:
-                logging.info(f"Check in {new_check_in.id} jiz existuje.")
+                logging.info("Check in %d jiz existuje.", new_check_in.id)
                 continue
 
             check_ins.append(new_check_in)
-            logging.info(f"Novy check in {new_check_in.id} - {new_check_in.beer_name}.")
+            logging.info(
+                "Novy check in %d - %s.", new_check_in.id, new_check_in.beer_name
+            )
 
         sort_check_ins(check_ins)
         save_check_ins(check_ins)
@@ -122,9 +124,11 @@ def get_new_check_ins(
     return parse_check_ins(page, venue)
 
 
-def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:
-    def parse_dt(s: str) -> datetime:
-        utc_dt = datetime.strptime(s, "%a, %d %b %Y %H:%M:%S %z")
+def parse_check_ins(  # pylint: disable=too-many-locals
+    page: str, venue: Venue
+) -> list[CheckIn]:
+    def parse_dt(dt_as_string: str) -> datetime:
+        utc_dt = datetime.strptime(dt_as_string, "%a, %d %b %Y %H:%M:%S %z")
         return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
 
     def get_czech_serving(en_serving: str) -> str:
@@ -178,7 +182,7 @@ def load_check_ins(venues: tuple[Venue, ...]) -> list[CheckIn]:
 
     return [
         CheckIn.from_json(check_in, venues)
-        for check_in in json.loads(path.read_text())["check_ins"]
+        for check_in in json.loads(path.read_text(encoding=utils.ENCODING))["check_ins"]
     ]
 
 

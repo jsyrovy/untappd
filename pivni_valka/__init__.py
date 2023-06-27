@@ -143,7 +143,7 @@ class PivniValka(OrmRobot):
         ]
 
         return (
-            f'"{" ".join([item for item in user_items])}"',
+            f'"{" ".join(user_items)}"',
             f'"{" ".join(["item-total-chart"] * len(user_items))}"',
             f'"{" ".join(["item-weekly-chart"] * len(user_items))}"',
             f'"{" ".join(["item-matej-chart"] * len(user_items))}"',

@@ -30,7 +30,8 @@ class AmbasadaOffer(Offer):
             return
 
         self._previous_beers = [
-            Beer.from_json(beer) for beer in json.loads(path.read_text())["beers"]
+            Beer.from_json(beer)
+            for beer in json.loads(path.read_text(utils.ENCODING))["beers"]
         ]
 
     def _load_current_beers(self, page: str) -> None:

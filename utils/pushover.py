@@ -1,5 +1,8 @@
-import requests
 import os
+
+import requests
+
+import utils
 
 
 def send_notification(text: str) -> None:
@@ -10,6 +13,7 @@ def send_notification(text: str) -> None:
             "user": os.environ["PUSHOVER_USER_KEY"],
             "message": text,
         },
+        timeout=utils.TIMEOUT,
     )
 
     r.raise_for_status()
