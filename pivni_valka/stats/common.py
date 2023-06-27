@@ -53,7 +53,7 @@ def get_unique_beers(
 
 def get_unique_beers_before(user_name: str, before: datetime.date) -> int:
     with engine.connect() as conn:
-        return conn.execute(
+        return conn.execute(  # type: ignore
             text(
                 "SELECT SUM(unique_beers) FROM pivni_valka WHERE user = :user AND `date` < :date",
             ).bindparams(user=user_name, date=before.isoformat())

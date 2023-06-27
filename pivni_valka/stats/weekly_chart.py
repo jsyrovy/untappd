@@ -13,7 +13,7 @@ def _get_week_stats() -> dict[str, dict[str, int]]:
     since = (datetime.date.today() - datetime.timedelta(weeks=12)).strftime("%Y-%W")
     result: dict[str, dict[str, int]] = {}
     with engine.connect() as conn:
-        stats: Sequence[Row] = conn.execute(
+        stats: Sequence[Row[tuple[str, str, int]]] = conn.execute(
             text(
                 """
                 SELECT strftime('%Y-%W', `date`) as week, user, sum(unique_beers)

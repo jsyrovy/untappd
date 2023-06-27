@@ -29,7 +29,7 @@ def _get_user_data(user_name: str, days: Optional[int] = None) -> list[int]:
 
 def _get_days() -> int:
     with engine.connect() as conn:
-        return conn.execute(
+        return conn.execute(  # type: ignore
             text("SELECT COUNT(`date`) FROM (SELECT DISTINCT `date` FROM pivni_valka)")
         ).scalar_one()
 

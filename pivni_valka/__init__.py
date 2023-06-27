@@ -1,13 +1,16 @@
 import datetime
 import random
-from typing import Any
 
 import jinja2
 from bs4 import BeautifulSoup
 
 import utils
 from pivni_valka.stats import common, tiles, total_chart, weekly_chart, matej_chart
+from pivni_valka.stats.common import ChartData
+from pivni_valka.stats.tiles import TileData
 from robot.orm import OrmRobot
+
+GetPageKwArgs = list[TileData] | ChartData | tuple[str, ...] | list[str] | str
 
 
 class PivniValka(OrmRobot):
@@ -97,7 +100,7 @@ class PivniValka(OrmRobot):
 
         return int(unique_beers_count.replace(",", ""))
 
-    def get_page(self, template: jinja2.Template, **kwargs: dict[str, Any]) -> str:
+    def get_page(self, template: jinja2.Template, **kwargs: GetPageKwArgs) -> str:
         return template.render(**kwargs)
 
     def save_daily_stats_db(self, unique_beers_count: dict[str, int]) -> list[str]:

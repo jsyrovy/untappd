@@ -27,7 +27,7 @@ def save_db_to_file() -> None:
     print(f"Database saved to '{db_path}'.")
 
 
-COMMANDS: dict[str, Callable] = {
+COMMANDS: dict[str, Callable[[], None]] = {
     "save-db-to-file": save_db_to_file,
 }
 
