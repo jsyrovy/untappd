@@ -9,10 +9,6 @@
       "description": "piv. Klenot, HK, Sour Ale"
     },
     {
-      "name": "10° Summer Ale",
-      "description": "piv. Permon, Sokolov, Ale"
-    },
-    {
       "name": "11° Liquid Luck",
       "description": "piv. Sibeeria, Praha, American Pale Ale"
     },
@@ -23,6 +19,10 @@
     {
       "name": "11° Weizen",
       "description": "piv. Kousek Piva, Liberev, German Hefeweizen"
+    },
+    {
+      "name": "12° Cascade",
+      "description": "piv. Bad Flash, Praha, APA"
     },
     {
       "name": "14° Laguna",
