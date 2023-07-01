@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1289176491,
+      "dt": "2023-06-30T23:03:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Kohatu Hazy IPA",
+      "brewery": "AleBrowar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/alebrowar-single-hop-kohatu-hazy-ipa/5275555"
+    },
+    {
+      "id": 1289127985,
+      "dt": "2023-06-30T21:50:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA 12° Cascade",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-apa-120-cascade/3347882"
+    },
+    {
+      "id": 1289109891,
+      "dt": "2023-06-30T21:24:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Kohatu Hazy IPA",
+      "brewery": "AleBrowar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/alebrowar-single-hop-kohatu-hazy-ipa/5275555"
+    },
+    {
+      "id": 1289075908,
+      "dt": "2023-06-30T20:34:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1288977216,
+      "dt": "2023-06-30T17:07:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1288970420,
+      "dt": "2023-06-30T16:41:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Single Hop Kohatu Hazy IPA",
+      "brewery": "AleBrowar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/alebrowar-single-hop-kohatu-hazy-ipa/5275555"
+    },
+    {
       "id": 1288818341,
       "dt": "2023-06-29T23:40:02+02:00",
       "venue_name": "Pivní ambasáda",
