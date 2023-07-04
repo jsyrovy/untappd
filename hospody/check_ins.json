@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1290456897,
+      "dt": "2023-07-04T00:00:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bez Příběhu 13",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-bez-pribehu-13/5404530"
+    },
+    {
+      "id": 1290456553,
+      "dt": "2023-07-03T23:59:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bez Příběhu 13",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-bez-pribehu-13/5404530"
+    },
+    {
+      "id": 1290456451,
+      "dt": "2023-07-03T23:59:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Disko radši ne",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-disko-radsi-ne/5353834"
+    },
+    {
+      "id": 1290435870,
+      "dt": "2023-07-03T23:03:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pineapple, Papaya & Coconut",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pineapple-papaya-and-coconut/5202144"
+    },
+    {
+      "id": 1290417120,
+      "dt": "2023-07-03T22:13:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Disko radši ne",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-disko-radsi-ne/5353834"
+    },
+    {
+      "id": 1290416605,
+      "dt": "2023-07-03T22:12:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour – Mango & Peach",
+      "brewery": "Hradecký Klenot",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-sour-mango-and-peach/4292985"
+    },
+    {
+      "id": 1290393588,
+      "dt": "2023-07-03T21:11:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Disko radši ne",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-disko-radsi-ne/5353834"
+    },
+    {
+      "id": 1290378323,
+      "dt": "2023-07-03T20:29:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Affair",
+      "brewery": "Budějovický Budvar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/budejovicky-budvar-summer-affair/5381920"
+    },
+    {
+      "id": 1290367829,
+      "dt": "2023-07-03T19:58:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour – Mango & Peach",
+      "brewery": "Hradecký Klenot",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-sour-mango-and-peach/4292985"
+    },
+    {
+      "id": 1290357365,
+      "dt": "2023-07-03T19:25:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kousek Weizenu",
+      "brewery": "Pivovar Kousek Piva",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kousek-piva-kousek-weizenu/4413609"
+    },
+    {
+      "id": 1290348849,
+      "dt": "2023-07-03T18:54:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "300 Kurven 10%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-300-kurven-10/3144726"
+    },
+    {
+      "id": 1290334686,
+      "dt": "2023-07-03T17:50:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/5382720"
+    },
+    {
+      "id": 1290326473,
+      "dt": "2023-07-03T16:51:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anthropoid 13 Speciální Ležák",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-anthropoid-13-specialni-lezak/4859658"
+    },
+    {
       "id": 1289695618,
       "dt": "2023-07-01T22:18:52+02:00",
       "venue_name": "U Toulavé pípy",
