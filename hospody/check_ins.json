@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1290948949,
+      "dt": "2023-07-05T21:17:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Single Hop Kohatu Hazy IPA",
+      "brewery": "AleBrowar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/alebrowar-single-hop-kohatu-hazy-ipa/5275555"
+    },
+    {
+      "id": 1290938201,
+      "dt": "2023-07-05T20:48:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Disko radši ne",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-disko-radsi-ne/5353834"
+    },
+    {
+      "id": 1290935605,
+      "dt": "2023-07-05T20:41:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Affair",
+      "brewery": "Budějovický Budvar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/budejovicky-budvar-summer-affair/5381920"
+    },
+    {
       "id": 1290711891,
       "dt": "2023-07-04T22:12:14+02:00",
       "venue_name": "Pivní ambasáda",
