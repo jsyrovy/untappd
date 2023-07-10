@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1292554381,
+      "dt": "2023-07-09T21:45:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bez Příběhu 13",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-bez-pribehu-13/5404530"
+    },
+    {
+      "id": 1292480538,
+      "dt": "2023-07-09T19:22:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "CitroPOP",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-citropop/4756356"
+    },
+    {
+      "id": 1292472100,
+      "dt": "2023-07-09T19:05:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Léto 2023",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2023/5402500"
+    },
+    {
+      "id": 1292469527,
+      "dt": "2023-07-09T18:59:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Buttenheimer Weißbier",
+      "brewery": "St. Georgen Bräu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/st-georgenbrau-buttenheimer-weissbier/64955"
+    },
+    {
       "id": 1292011593,
       "dt": "2023-07-08T20:15:03+02:00",
       "venue_name": "U Toulavé pípy",
