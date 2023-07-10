@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° 300 Kurven",
-      "description": "piv. JungBerg, Hořice, Světlý Ležák"
-    },
-    {
       "name": "10° Léto 2023",
       "description": "piv. Sibeeria, Praha, Session IPA"
+    },
+    {
+      "name": "10° Patronus",
+      "description": "piv. Sibeeria, Praha, Czech Pale Lager"
     },
     {
       "name": "11° Mordýř",
