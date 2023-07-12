@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1292960303,
+      "dt": "2023-07-11T19:49:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Blueberry Tart",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-blueberry-tart/5324994"
+    },
+    {
+      "id": 1292947050,
+      "dt": "2023-07-11T19:04:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Strawberry Banana Milk Power",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-strawberry-banana-milk-power/5410353"
+    },
+    {
+      "id": 1292944779,
+      "dt": "2023-07-11T18:55:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Amarillo",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-amarillo/2145335"
+    },
+    {
       "id": 1292750870,
       "dt": "2023-07-10T19:15:51+02:00",
       "venue_name": "Pivní ambasáda",
