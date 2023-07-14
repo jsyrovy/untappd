@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1293416237,
+      "dt": "2023-07-13T18:53:17+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Strawberry Banana Milk Power",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-strawberry-banana-milk-power/5410353"
+    },
+    {
+      "id": 1293415960,
+      "dt": "2023-07-13T18:52:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "No Idols! 13° India Pale Lager",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-13-india-pale-lager/2075875"
+    },
+    {
+      "id": 1293388879,
+      "dt": "2023-07-13T17:05:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "No Idols! 13° India Pale Lager",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-13-india-pale-lager/2075875"
+    },
+    {
+      "id": 1293384482,
+      "dt": "2023-07-13T16:36:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Amarillo",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-amarillo/2145335"
+    },
+    {
       "id": 1293164361,
       "dt": "2023-07-12T18:45:34+02:00",
       "venue_name": "Pivní ambasáda",
