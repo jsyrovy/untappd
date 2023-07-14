@@ -13,16 +13,12 @@
       "description": "piv. Crazy Clown, Sour Ale"
     },
     {
-      "name": "11° Randy Ale",
-      "description": "piv. The Barn Beer co., Druztová, APA"
+      "name": "12,5° Matylda",
+      "description": "piv. U Vojtěchů, Pardubice, India Pale Ale"
     },
     {
-      "name": "12° St. Georgen",
-      "description": "St. Georgen Bräu, Buttenheim, Horní Franky, German Weissbier"
-    },
-    {
-      "name": "14° Citro Pop",
-      "description": "piv. Pioneer, Žatec, NEIPA"
+      "name": "14° Hops in Mind",
+      "description": "piv. Haksna, Ostrava, American IPA"
     },
     {
       "name": "14° I Love the Smell of NZ Cascade",
@@ -31,6 +27,10 @@
     {
       "name": "16° Kohatu",
       "description": "AleBrowar, Lebork, PL, Single Hop Hazy IPA"
+    },
+    {
+      "name": "Tropical Wheat (4,5% alc.)",
+      "description": "Pivovarna Hopsbrew, Dobrunje, Slovinsko, Wheat Beer"
     }
   ]
 }
