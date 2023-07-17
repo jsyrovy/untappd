@@ -9,6 +9,14 @@
       "description": "Chroust/Sibeeria, Mexican Lager"
     },
     {
+      "name": "10° Mongozo Coconut",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Cocount Ale, 0,25l"
+    },
+    {
+      "name": "11° Galaxy",
+      "description": "piv. Loutkář, Chrudim, Single Hop Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,16 +25,8 @@
       "description": "piv. Obora, Malšice, Sour Mango/Marakuja"
     },
     {
-      "name": "12,5° Matylda",
-      "description": "piv. U Vojtěchů, Pardubice, India Pale Ale"
-    },
-    {
       "name": "14° Hops in Mind",
       "description": "piv. Haksna, Ostrava, American IPA"
-    },
-    {
-      "name": "16° Kohatu",
-      "description": "AleBrowar, Lebork, PL, Single Hop Hazy IPA"
     },
     {
       "name": "Tropical Wheat (4,5% alc.)",
