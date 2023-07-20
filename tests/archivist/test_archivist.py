@@ -41,9 +41,7 @@ SOURCES = (
 
 
 def test_get_dt():
-    assert get_dt((2020, 1, 1, 0, 0, 0, 0, 0, 0)) == datetime.datetime(
-        2020, 1, 1, 0, 0, 0
-    )
+    assert get_dt((2020, 1, 1, 0, 0, 0, 0, 0, 0)) == datetime.datetime(2020, 1, 1, 0, 0, 0)
 
 
 def test_get_beer():

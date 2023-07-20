@@ -26,24 +26,14 @@ def get_total_unique_beers() -> dict[str, int]:
     with engine.connect() as conn:
         return {
             value[0]: value[1]
-            for value in conn.execute(
-                text("SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;")
-            ).all()
+            for value in conn.execute(text("SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;")).all()
         }
 
 
-def get_unique_beers(
-    user_name: str, days: Optional[int] = None, formatted: bool = False
-) -> str:
+def get_unique_beers(user_name: str, days: Optional[int] = None, formatted: bool = False) -> str:
     sql = "SELECT unique_beers FROM pivni_valka WHERE user = :user ORDER BY `date` DESC"
     with engine.connect() as conn:
-        values = (
-            conn.execute(
-                text(f"{sql} LIMIT {days};" if days else sql).bindparams(user=user_name)
-            )
-            .scalars()
-            .all()
-        )
+        values = conn.execute(text(f"{sql} LIMIT {days};" if days else sql).bindparams(user=user_name)).scalars().all()
 
     beers = sum(values)
 

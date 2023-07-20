@@ -64,7 +64,7 @@ remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
 
 black:
-	${PYTHON} -m black .
+	${PYTHON} -m black --line-length 120 .
 
 test:
 	${PYTHON} -m pytest

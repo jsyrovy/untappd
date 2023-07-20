@@ -4,9 +4,7 @@ import hospody
 
 VENUES = (
     hospody.Venue("nejlepsi hospoda", "https://nejlepsihospoda.cz"),
-    hospody.Venue(
-        "jeste lepsi hospoda", "https://nejlepsihospodaneninejlepsihospoda.cz"
-    ),
+    hospody.Venue("jeste lepsi hospoda", "https://nejlepsihospodaneninejlepsihospoda.cz"),
 )
 
 
@@ -72,9 +70,7 @@ def test_check_ins_order():
     middle_check_in = hospody.CheckIn.get_random(VENUES)
     last_check_in = hospody.CheckIn.get_random(VENUES)
 
-    check_ins = hospody.get_unique_beers_check_ins(
-        [last_check_in, first_check_in, middle_check_in]
-    )
+    check_ins = hospody.get_unique_beers_check_ins([last_check_in, first_check_in, middle_check_in])
 
     assert first_check_in.dt < middle_check_in.dt < last_check_in.dt
     assert len(check_ins) == 1

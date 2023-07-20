@@ -53,18 +53,10 @@ class PipaOffer(Offer):
         now = datetime.now(tz=timezone(timedelta(seconds=7200)))
 
         self._previous_beers = list(
-            {
-                beer
-                for beer in beers
-                if now - timedelta(days=3) < beer.dt < now - timedelta(days=1)
-            }
+            {beer for beer in beers if now - timedelta(days=3) < beer.dt < now - timedelta(days=1)}
         )
-        self._current_beers = list(
-            {beer for beer in beers if beer.dt > now - timedelta(days=1)}
-        )
-        self.new_beers = [
-            beer for beer in self._current_beers if beer not in self._previous_beers
-        ]
+        self._current_beers = list({beer for beer in beers if beer.dt > now - timedelta(days=1)})
+        self.new_beers = [beer for beer in self._current_beers if beer not in self._previous_beers]
 
 
 class LodOffer(PipaOffer):

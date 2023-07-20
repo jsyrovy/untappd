@@ -11,9 +11,7 @@ def test_orm_robot():
 
 def test_orm_robot_dump():
     robot = OrmRobot()
-    with mock.patch("robot.orm.dump") as dump_mock, mock.patch.object(
-        robot, "_main"
-    ) as main_mock:
+    with mock.patch("robot.orm.dump") as dump_mock, mock.patch.object(robot, "_main") as main_mock:
         robot.run()
 
     main_mock.assert_called_once()

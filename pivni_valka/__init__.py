@@ -36,9 +36,7 @@ class PivniValka(OrmRobot):
             link="chart_year.html",
         )
 
-        with open(
-            "web/pivni_valka/chart_month.html", "w", encoding=utils.ENCODING
-        ) as f:
+        with open("web/pivni_valka/chart_month.html", "w", encoding=utils.ENCODING) as f:
             f.write(page_month)
 
         page_year = self.get_page(
@@ -58,11 +56,7 @@ class PivniValka(OrmRobot):
         with open("web/pivni_valka/chart_all.html", "w", encoding=utils.ENCODING) as f:
             f.write(page_all)
 
-        if (
-            not self._args.local
-            and not self._args.notificationless
-            and users_with_new_beers
-        ):
+        if not self._args.local and not self._args.notificationless and users_with_new_beers:
             status = self.get_yesterday_status(users_with_new_beers)
             utils.pushover.send_notification(status)
 
@@ -89,12 +83,7 @@ class PivniValka(OrmRobot):
         soup = BeautifulSoup(user_profile, "html.parser")
 
         try:
-            unique_beers_count = (
-                soup.find("div", class_="stats")
-                .find_all("a")[1]
-                .find("span", class_="stat")
-                .text
-            )
+            unique_beers_count = soup.find("div", class_="stats").find_all("a")[1].find("span", class_="stat").text
         except Exception as e:
             raise ValueError("Cannot parse user profile.") from e
 
@@ -112,9 +101,7 @@ class PivniValka(OrmRobot):
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
 
         for user_name in utils.user.USER_NAMES:
-            new_beers = unique_beers_count[user_name] - common.get_unique_beers_before(
-                user_name, before=yesterday
-            )
+            new_beers = unique_beers_count[user_name] - common.get_unique_beers_before(user_name, before=yesterday)
             common.save_daily_stats(yesterday, user_name, new_beers)
 
             if new_beers:
@@ -134,16 +121,13 @@ class PivniValka(OrmRobot):
             if user.user_name in users_with_new_beers
         ]
         values.extend(
-            f"{user.name} má celkem {total_unique_beers[user.user_name]} 🍺."
-            for user in utils.user.VISIBLE_USERS
+            f"{user.name} má celkem {total_unique_beers[user.user_name]} 🍺." for user in utils.user.VISIBLE_USERS
         )
 
         return " ".join(values)
 
     def get_grid_template_areas(self) -> tuple[str, ...]:
-        user_items = [
-            f"item-{user_name}" for user_name in utils.user.VISIBLE_USER_NAMES
-        ]
+        user_items = [f"item-{user_name}" for user_name in utils.user.VISIBLE_USER_NAMES]
 
         return (
             f'"{" ".join(user_items)}"',
@@ -153,9 +137,7 @@ class PivniValka(OrmRobot):
         )
 
     def get_mobile_grid_template_areas(self) -> list[str]:
-        user_items = [
-            f'"item-{user_name}"' for user_name in utils.user.VISIBLE_USER_NAMES
-        ]
+        user_items = [f'"item-{user_name}"' for user_name in utils.user.VISIBLE_USER_NAMES]
         user_items.extend(
             [
                 '"item-total-chart"',

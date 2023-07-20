@@ -16,9 +16,7 @@ class AmbasadaOffer(Offer):
 
         self._load_previous_beers()
         self._load_current_beers(page)
-        self.new_beers = [
-            beer for beer in self._current_beers if beer not in self._previous_beers
-        ]
+        self.new_beers = [beer for beer in self._current_beers if beer not in self._previous_beers]
 
         self._sort_beers()
         self._save_beers()
@@ -29,10 +27,7 @@ class AmbasadaOffer(Offer):
         if not path.exists():
             return
 
-        self._previous_beers = [
-            Beer.from_json(beer)
-            for beer in json.loads(path.read_text(utils.ENCODING))["beers"]
-        ]
+        self._previous_beers = [Beer.from_json(beer) for beer in json.loads(path.read_text(utils.ENCODING))["beers"]]
 
     def _load_current_beers(self, page: str) -> None:
         soup = BeautifulSoup(page, "html.parser")

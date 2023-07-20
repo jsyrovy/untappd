@@ -8,11 +8,7 @@ def get_chart_data(days: int) -> ChartData:
 
     for user in utils.user.USERS:
         if user.user_name in ("Mates511", "sejrik", "mencik2"):
-            datasets.append(
-                ChartDataset(
-                    user.name, _get_user_data(user.user_name, days), user.color
-                )
-            )
+            datasets.append(ChartDataset(user.name, _get_user_data(user.user_name, days), user.color))
 
     dataset_jirka = datasets[0]
     dataset_dan = datasets[1]

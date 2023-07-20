@@ -97,9 +97,7 @@ class Hospody(BaseRobot):
                 continue
 
             check_ins.append(new_check_in)
-            logging.info(
-                "Novy check in %d - %s.", new_check_in.id, new_check_in.beer_name
-            )
+            logging.info("Novy check in %d - %s.", new_check_in.id, new_check_in.beer_name)
 
         sort_check_ins(check_ins)
         save_check_ins(check_ins)
@@ -110,9 +108,7 @@ class Hospody(BaseRobot):
             f.write(page)
 
 
-def get_new_check_ins(
-    local: bool, venue: Venue, venues: tuple[Venue, ...]
-) -> list[CheckIn]:
+def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> list[CheckIn]:
     if local:
         return [
             CheckIn.get_random(venues),
@@ -124,9 +120,7 @@ def get_new_check_ins(
     return parse_check_ins(page, venue)
 
 
-def parse_check_ins(  # pylint: disable=too-many-locals
-    page: str, venue: Venue
-) -> list[CheckIn]:
+def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:  # pylint: disable=too-many-locals
     def parse_dt(dt_as_string: str) -> datetime:
         utc_dt = datetime.strptime(dt_as_string, "%a, %d %b %Y %H:%M:%S %z")
         return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
@@ -157,19 +151,11 @@ def parse_check_ins(  # pylint: disable=too-many-locals
         dt = parse_dt(feedback.find("a", class_="time").text)
         beer_name = links[1].text
         brewery = links[2].text
-        serving_section = (
-            checkin_comment.find("p", class_="serving") if checkin_comment else None
-        )
-        serving = get_czech_serving(
-            serving_section.find("span").text if serving_section else None
-        )
+        serving_section = checkin_comment.find("p", class_="serving") if checkin_comment else None
+        serving = get_czech_serving(serving_section.find("span").text if serving_section else None)
         beer_link = f'{utils.BASE_URL}{links[1]["href"]}'
 
-        beers.append(
-            CheckIn(
-                id_, dt, venue.name, beer_name, brewery, serving, beer_link, venue.url
-            )
-        )
+        beers.append(CheckIn(id_, dt, venue.name, beer_name, brewery, serving, beer_link, venue.url))
 
     return beers
 
@@ -200,14 +186,9 @@ def save_check_ins(check_ins: list[CheckIn]) -> None:
 def get_unique_beers_check_ins(check_ins: list[CheckIn]) -> list[CheckIn]:
     unique_beers_check_ins: list[CheckIn] = []
 
-    for check_in in [
-        check_in
-        for check_in in check_ins
-        if check_in.serving in (SERVING_DRAFT, SERVING_UNKNOWN)
-    ]:
+    for check_in in [check_in for check_in in check_ins if check_in.serving in (SERVING_DRAFT, SERVING_UNKNOWN)]:
         if check_in.beer_name not in [
-            unique_beers_checkin.beer_name
-            for unique_beers_checkin in unique_beers_check_ins
+            unique_beers_checkin.beer_name for unique_beers_checkin in unique_beers_check_ins
         ]:
             unique_beers_check_ins.append(check_in)
 
