@@ -54,7 +54,7 @@ def get_unique_beers(
 
 
 def get_unique_beers_before(user_name: str, before: datetime.date) -> int:
-    stmt = select(func.sum(PivniValka.unique_beers)).where(
+    stmt = select(func.sum(PivniValka.unique_beers)).where(  # pylint: disable=not-callable
         PivniValka.user == user_name, PivniValka.date < before
     )
     with Session(engine) as session:
