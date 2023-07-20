@@ -5,10 +5,6 @@
       "description": "piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
-      "name": "10° Los Banditos",
-      "description": "Chroust/Sibeeria, Mexican Lager"
-    },
-    {
       "name": "10° Mongozo Coconut",
       "description": "piv. Huyghe, Melle, Východní Flandry, Exotic Cocount Ale, 0,25l"
     },
@@ -19,6 +15,10 @@
     {
       "name": "11° Summer Ale",
       "description": "piv. Rampušák, Dobruška, Session NEIPA s Mandarinakmi"
+    },
+    {
+      "name": "12° Everyday Life",
+      "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
     },
     {
       "name": "14° Beskydské Hořké",
