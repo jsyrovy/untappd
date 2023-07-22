@@ -17,6 +17,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Aldersbacher",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+    },
+    {
       "name": "12° Everyday Life",
       "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
     },
@@ -27,10 +31,6 @@
     {
       "name": "9° Elektrolít",
       "description": "piv. Volt, Jablonec nad Nisou, Malinový Sour Ale"
-    },
-    {
-      "name": "Tropical Wheat (4,5% alc.)",
-      "description": "Pivovarna Hopsbrew, Dobrunje, Slovinsko, Wheat Beer"
     }
   ]
 }
