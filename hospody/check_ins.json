@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1296805901,
+      "dt": "2023-07-22T22:58:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "300 Kurven 10%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-300-kurven-10/3144726"
+    },
+    {
+      "id": 1296749702,
+      "dt": "2023-07-22T21:53:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lissa huera IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-lissa-huera-ipa/671753"
+    },
+    {
+      "id": 1296709147,
+      "dt": "2023-07-22T21:09:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jiskra",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-jiskra/5371985"
+    },
+    {
+      "id": 1296683562,
+      "dt": "2023-07-22T20:41:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elektro-lít – malina",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-elektro-lit-malina/3499026"
+    },
+    {
+      "id": 1296656146,
+      "dt": "2023-07-22T20:09:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elektro-lít – malina",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-elektro-lit-malina/3499026"
+    },
+    {
+      "id": 1296623101,
+      "dt": "2023-07-22T19:28:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jiskra",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-jiskra/5371985"
+    },
+    {
+      "id": 1296614071,
+      "dt": "2023-07-22T19:17:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical Wheat",
+      "brewery": "Pivovarna Hopsbrew",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovarna-hopsbrew-tropical-wheat/1596682"
+    },
+    {
+      "id": 1296612216,
+      "dt": "2023-07-22T19:14:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lissa huera IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-lissa-huera-ipa/671753"
+    },
+    {
+      "id": 1296579326,
+      "dt": "2023-07-22T18:27:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical Wheat",
+      "brewery": "Pivovarna Hopsbrew",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovarna-hopsbrew-tropical-wheat/1596682"
+    },
+    {
+      "id": 1296537009,
+      "dt": "2023-07-22T17:06:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Coconut",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-coconut/30042"
+    },
+    {
       "id": 1296186541,
       "dt": "2023-07-21T21:20:24+02:00",
       "venue_name": "Pivní ambasáda",
