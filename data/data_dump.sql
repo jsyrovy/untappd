@@ -901,6 +901,17 @@ INSERT INTO "archive" VALUES(1293155955,'2023-07-12 16:14:39.000000','sejrik','I
 INSERT INTO "archive" VALUES(1293485147,'2023-07-13 19:44:50.000000','sejrik','Love Is In the Air','Rodinný pivovar Zichovec','Untappd at Home');
 INSERT INTO "archive" VALUES(1293828382,'2023-07-14 19:22:57.000000','sejrik','Piraat Triple Hop','Brouwerij Van Steenberge','Untappd at Home');
 INSERT INTO "archive" VALUES(1294393116,'2023-07-15 20:06:34.000000','sejrik','Yummy Raspberry, Blackberry & Vanilla','Sibeeria','Untappd at Home');
+INSERT INTO "archive" VALUES(1296455875,'2023-07-22 09:19:19.000000','sejrik','Trautenberk 13','Pivovar Trautenberk','Bílá Třemešná');
+INSERT INTO "archive" VALUES(1296456094,'2023-07-22 09:22:23.000000','sejrik','Weizen','Primátor','Dolní Brusnice');
+INSERT INTO "archive" VALUES(1296463528,'2023-07-22 10:35:05.000000','sejrik','Meloun & Lime Sour','MadCat','Hotel pod Zvičinou');
+INSERT INTO "archive" VALUES(1296474330,'2023-07-22 11:36:54.000000','sejrik','Srpěna 11','Pivovar Obora',NULL);
+INSERT INTO "archive" VALUES(1296482345,'2023-07-22 12:14:06.000000','sejrik','Maisel & Friends West Coast IPA','Brauerei Gebr. Maisel','Raisova chata Zvičina');
+INSERT INTO "archive" VALUES(1296516449,'2023-07-22 14:13:34.000000','sejrik','Rauch /// 12.RCH.R1','Pivovar Záhora',NULL);
+INSERT INTO "archive" VALUES(1296517198,'2023-07-22 14:15:46.000000','sejrik','Diplomat','Pivovar Ovipistán',NULL);
+INSERT INTO "archive" VALUES(1296542497,'2023-07-22 15:19:13.000000','sejrik','Anežka','Pivovar Clock','Bílá Třemešná');
+INSERT INTO "archive" VALUES(1296610075,'2023-07-22 17:12:02.000000','sejrik','Atašé','Pivovar Ovipistán','Bílá Třemešná');
+INSERT INTO "archive" VALUES(1296647568,'2023-07-22 17:59:39.000000','sejrik','NZ Lager /// 11.NZ.R1','Pivovar Záhora','Bílá Třemešná');
+INSERT INTO "archive" VALUES(1296690223,'2023-07-22 18:48:27.000000','sejrik','Hoppy Hell','Brauerei Gebr. Maisel','Bílá Třemešná');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
