@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1297958933,
+      "dt": "2023-07-26T22:50:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-tropical-sour/4176308"
+    },
+    {
+      "id": 1297933879,
+      "dt": "2023-07-26T21:43:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clock APA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-clock-apa/730508"
+    },
+    {
+      "id": 1297838911,
+      "dt": "2023-07-26T17:00:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-tropical-sour/4176308"
+    },
+    {
+      "id": 1297837282,
+      "dt": "2023-07-26T16:52:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jiskra",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-jiskra/5371985"
+    },
+    {
+      "id": 1297832144,
+      "dt": "2023-07-26T16:21:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
       "id": 1297591564,
       "dt": "2023-07-25T16:35:39+02:00",
       "venue_name": "U Toulavé pípy",
