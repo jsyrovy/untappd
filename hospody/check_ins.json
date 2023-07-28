@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1298211699,
+      "dt": "2023-07-27T21:42:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Garp 451",
+      "brewery": "Pivovar Garp",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-garp-garp-451/4170958"
+    },
+    {
+      "id": 1298126087,
+      "dt": "2023-07-27T18:20:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-tropical-sour/4176308"
+    },
+    {
+      "id": 1298099540,
+      "dt": "2023-07-27T16:26:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
       "id": 1297958933,
       "dt": "2023-07-26T22:50:34+02:00",
       "venue_name": "Pivní ambasáda",
