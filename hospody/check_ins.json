@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1299176809,
+      "dt": "2023-07-29T22:46:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "California 12°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-california-120/201399"
+    },
+    {
+      "id": 1299151369,
+      "dt": "2023-07-29T22:17:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1299137806,
+      "dt": "2023-07-29T22:03:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Garp 451",
+      "brewery": "Pivovar Garp",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-garp-garp-451/4170958"
+    },
+    {
+      "id": 1299056088,
+      "dt": "2023-07-29T20:33:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-tropical-sour/4176308"
+    },
+    {
+      "id": 1298965402,
+      "dt": "2023-07-29T18:37:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Garp 451",
+      "brewery": "Pivovar Garp",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-garp-garp-451/4170958"
+    },
+    {
       "id": 1298612003,
       "dt": "2023-07-28T22:24:10+02:00",
       "venue_name": "Pivní ambasáda",
