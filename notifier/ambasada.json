@@ -9,6 +9,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Everyday Life",
+      "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
+    },
+    {
       "name": "12° Léto",
       "description": "piv. Clock, Potštejn, Peach Sour NEIPA"
     },
@@ -27,10 +31,6 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "8° Mini IPA: Sabro, Simcoe & Mosaic",
-      "description": "piv. Sibeeria, Praha, Session IPA"
     }
   ]
 }
