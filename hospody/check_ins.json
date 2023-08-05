@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1301072439,
+      "dt": "2023-08-04T23:43:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Carrot Attack",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-carrot-attack/5420975"
+    },
+    {
+      "id": 1301071567,
+      "dt": "2023-08-04T23:42:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Nature",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-nature/5462377"
+    },
+    {
+      "id": 1300988062,
+      "dt": "2023-08-04T21:42:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ratlík 10°",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-ratlik-100/4432537"
+    },
+    {
+      "id": 1300963590,
+      "dt": "2023-08-04T21:10:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Nature",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-nature/5462377"
+    },
+    {
+      "id": 1300888111,
+      "dt": "2023-08-04T19:21:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Carrot Attack",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-carrot-attack/5420975"
+    },
+    {
+      "id": 1300839076,
+      "dt": "2023-08-04T17:50:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "8PA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-8pa/5422084"
+    },
+    {
       "id": 1300598996,
       "dt": "2023-08-03T21:53:23+02:00",
       "venue_name": "Pivní ambasáda",
