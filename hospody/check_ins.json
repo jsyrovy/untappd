@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1301889324,
+      "dt": "2023-08-06T17:41:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session Wheat Ale 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-session-wheat-ale-13/5425579"
+    },
+    {
+      "id": 1301888632,
+      "dt": "2023-08-06T17:39:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
+    },
+    {
       "id": 1301554123,
       "dt": "2023-08-05T21:52:45+02:00",
       "venue_name": "Pivní ambasáda",
