@@ -10,3 +10,4 @@ mock
 types-mock
 ipython
 pylint
+ruff
