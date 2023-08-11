@@ -9,28 +9,28 @@
       "description": "piv. Crazy Clown, Gummy Bear Pale Ale"
     },
     {
-      "name": "11° Ilegál",
-      "description": "piv. Agent, Olešnice, American Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° One Nature",
-      "description": "piv. Sibeeria, Praha, Gose w/Mint and Lime"
-    },
-    {
-      "name": "13° Wheat Ale",
-      "description": "piv. Mordýř, Dolní Ředice, American Wheat"
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "14° Twist",
       "description": "piv. Clock, Potštejn, Red IPA"
     },
     {
+      "name": "15° One Adventure",
+      "description": "piv. Sibeeria, Praha, West Coast IPA"
+    },
+    {
       "name": "19° Hop Spirit",
       "description": "Totenhopfen Brauhaus, Lucemburk, Imperial Hazy IPA, 0,3l"
+    },
+    {
+      "name": "9° PaKa Summer Ale",
+      "description": "piv. Malešov, ALE"
     }
   ]
 }
