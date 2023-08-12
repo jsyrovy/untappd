@@ -920,6 +920,15 @@ INSERT INTO "archive" VALUES(1302644791,'2023-08-09 16:55:49.000000','sejrik','I
 INSERT INTO "archive" VALUES(1302666966,'2023-08-09 18:02:55.000000','sejrik','Galaxy HBC 438 NEIPA','Pivovar Antoš','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1302674477,'2023-08-09 18:23:52.000000','sejrik','Mordýř 11','Pivovar Mordýř','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1302704710,'2023-08-09 19:43:20.000000','sejrik','Twist','Pivovar Clock','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1303128282,'2023-08-11 06:28:07.000000','sejrik','Union Session Brut IPA','Chroust',NULL);
+INSERT INTO "archive" VALUES(1303131180,'2023-08-11 07:42:53.000000','sejrik','Calamansi Pugita','Sibeeria',NULL);
+INSERT INTO "archive" VALUES(1303132470,'2023-08-11 08:15:15.000000','sejrik','Queers of the Stone Age','Anderson''s Brewery',NULL);
+INSERT INTO "archive" VALUES(1303134930,'2023-08-11 09:10:05.000000','sejrik','Šemík 11° Sun APA','Pivovar Koníček','U Koníčka');
+INSERT INTO "archive" VALUES(1303137111,'2023-08-11 09:50:04.000000','sejrik','Grošák 14%','Pivovar Koníček','U Koníčka');
+INSERT INTO "archive" VALUES(1303140904,'2023-08-11 10:40:34.000000','sejrik','Hatatitla','Pivovar Koníček','U Koníčka');
+INSERT INTO "archive" VALUES(1303156574,'2023-08-11 12:06:05.000000','sejrik','Kazbek IPL 11°','Restaurace a pivovar Kohutka','Restaurace a pivovar Kohutka');
+INSERT INTO "archive" VALUES(1303163936,'2023-08-11 12:42:44.000000','sejrik','Juicy Pussy','Restaurace a pivovar Kohutka','Restaurace a pivovar Kohutka');
+INSERT INTO "archive" VALUES(1303166179,'2023-08-11 12:53:09.000000','sejrik','Kohut 12° Medový ležák','Restaurace a pivovar Kohutka','Restaurace a pivovar Kohutka');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
