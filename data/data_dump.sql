@@ -929,6 +929,10 @@ INSERT INTO "archive" VALUES(1303140904,'2023-08-11 10:40:34.000000','sejrik','H
 INSERT INTO "archive" VALUES(1303156574,'2023-08-11 12:06:05.000000','sejrik','Kazbek IPL 11°','Restaurace a pivovar Kohutka','Restaurace a pivovar Kohutka');
 INSERT INTO "archive" VALUES(1303163936,'2023-08-11 12:42:44.000000','sejrik','Juicy Pussy','Restaurace a pivovar Kohutka','Restaurace a pivovar Kohutka');
 INSERT INTO "archive" VALUES(1303166179,'2023-08-11 12:53:09.000000','sejrik','Kohut 12° Medový ležák','Restaurace a pivovar Kohutka','Restaurace a pivovar Kohutka');
+INSERT INTO "archive" VALUES(1303733104,'2023-08-12 15:32:00.000000','sejrik','Beskydský ležák','Beskydský pivovárek','Beskydský pivovárek');
+INSERT INTO "archive" VALUES(1303765421,'2023-08-12 16:26:52.000000','sejrik','Zbuj','Beskydský pivovárek','Beskydský pivovárek');
+INSERT INTO "archive" VALUES(1303789544,'2023-08-12 17:00:52.000000','sejrik','Beskydské hořké','Beskydský pivovárek','Beskydský pivovárek');
+INSERT INTO "archive" VALUES(1303908593,'2023-08-12 19:18:28.000000','sejrik','Juicy Session Mango IPA','Beskydský pivovárek','Ostravice');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
