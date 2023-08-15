@@ -17,6 +17,10 @@
       "description": "piv. Sibeeria, Praha, Gose w/Mint and Lime"
     },
     {
+      "name": "11° Summer Blond",
+      "description": "piv. Horác, Jihlava, Blond Ale"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -27,10 +31,6 @@
     {
       "name": "19° Hop Spirit",
       "description": "Totenhopfen Brauhaus, Lucemburk, Imperial Hazy IPA, 0,3l"
-    },
-    {
-      "name": "9° PaKa Summer Ale",
-      "description": "piv. Malešov, ALE"
     }
   ]
 }
