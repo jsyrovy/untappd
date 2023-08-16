@@ -17,8 +17,8 @@
       "description": "piv. Sibeeria, Praha, Gose w/Mint and Lime"
     },
     {
-      "name": "11° Summer Blond",
-      "description": "piv. Horác, Jihlava, Blond Ale"
+      "name": "12° Cream Ale",
+      "description": "piv. Obora, Malšice, Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -27,10 +27,6 @@
     {
       "name": "15° One Adventure",
       "description": "piv. Sibeeria, Praha, West Coast IPA"
-    },
-    {
-      "name": "30° Triple Gelato: Verde",
-      "description": "piv. Funky Fluid, Varšava, Triple Ice Cream Sour w. kiwi, mango & cactus"
     }
   ]
 }
