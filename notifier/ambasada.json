@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° 300 Kurven",
-      "description": "piv. JungBerg, Hořice, Světlý Ležák"
-    },
-    {
       "name": "11° Gummiberry Potion",
       "description": "piv. Crazy Clown, Gummy Bear Pale Ale"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° Cream Ale",
       "description": "piv. Obora, Malšice, Ale"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "15° One Adventure",
