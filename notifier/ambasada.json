@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Gummiberry Potion",
-      "description": "piv. Crazy Clown, Gummy Bear Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "11° One Nature",
       "description": "piv. Sibeeria, Praha, Gose w/Mint and Lime"
+    },
+    {
+      "name": "12° Alianční no. V",
+      "description": "piv. Pivečka, Rousínov, Sour Ale s černým rybízem"
     },
     {
       "name": "12° Cream Ale",
