@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1305759299,
+      "dt": "2023-08-18T23:47:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Birthday APA (2023)",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-birthday-apa-2023/5441601"
+    },
+    {
+      "id": 1305702878,
+      "dt": "2023-08-18T22:13:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lucipa",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010"
+    },
+    {
+      "id": 1305684008,
+      "dt": "2023-08-18T21:45:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
+      "id": 1305670534,
+      "dt": "2023-08-18T21:26:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Agent Orange",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-agent-orange/5489686"
+    },
+    {
+      "id": 1305636395,
+      "dt": "2023-08-18T20:34:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
+      "id": 1305479861,
+      "dt": "2023-08-18T09:17:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Agent Orange",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-agent-orange/5489686"
+    },
+    {
       "id": 1305334158,
       "dt": "2023-08-17T21:53:28+02:00",
       "venue_name": "Pivní ambasáda",
