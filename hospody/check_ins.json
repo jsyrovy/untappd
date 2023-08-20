@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1306244182,
+      "dt": "2023-08-19T22:22:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
+      "id": 1306191178,
+      "dt": "2023-08-19T21:20:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
+      "id": 1306165379,
+      "dt": "2023-08-19T20:50:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Agent Orange",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-agent-orange/5489686"
+    },
+    {
+      "id": 1306164841,
+      "dt": "2023-08-19T20:50:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cream Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-cream-ale/5302872"
+    },
+    {
+      "id": 1306157833,
+      "dt": "2023-08-19T20:42:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Nature",
+      "brewery": "Sibeeria",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/sibeeria-one-nature/5462377"
+    },
+    {
+      "id": 1306156029,
+      "dt": "2023-08-19T20:39:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
+      "id": 1306146188,
+      "dt": "2023-08-19T20:27:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cream Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-cream-ale/5302872"
+    },
+    {
+      "id": 1306144593,
+      "dt": "2023-08-19T20:26:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Nature",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-nature/5462377"
+    },
+    {
+      "id": 1306144280,
+      "dt": "2023-08-19T20:25:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
+      "id": 1306139299,
+      "dt": "2023-08-19T20:19:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné Pivo",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-psenicne-pivo/3984035"
+    },
+    {
+      "id": 1306111868,
+      "dt": "2023-08-19T19:44:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lucipa",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010"
+    },
+    {
+      "id": 1306051204,
+      "dt": "2023-08-19T18:20:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cream Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-cream-ale/5302872"
+    },
+    {
       "id": 1305759299,
       "dt": "2023-08-18T23:47:31+02:00",
       "venue_name": "U Toulavé pípy",
