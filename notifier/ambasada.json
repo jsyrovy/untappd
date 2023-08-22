@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Blackdog Mango",
+      "description": "piv. Clock, Potštejn, Mango Brut IPA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
