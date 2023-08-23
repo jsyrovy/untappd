@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Blackdog Mango",
-      "description": "piv. Clock, Potštejn, Mango Brut IPA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Akumulátor",
+      "description": "piv. Volt, Jablonec nad Nisou, Weizen"
     },
     {
       "name": "12° Alianční no. V",
@@ -17,16 +17,16 @@
       "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
+      "name": "12° Hoptopia",
+      "description": "piv. Chroust, Potštejn, APA"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° Agent Orange",
       "description": "piv. Crazy Clown, Orange Kveik Ale s vanilkou"
-    },
-    {
-      "name": "13° Pšenice",
-      "description": "piv. Kynšperský Zajíc, Kynšperk, Weizen"
     },
     {
       "name": "14° Misty Skywalker",
