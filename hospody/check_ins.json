@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1306995830,
+      "dt": "2023-08-22T17:22:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Marioneta 10 Světlé Výčepní",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-marioneta-10-svetle-vycepni/3940223"
+    },
+    {
       "id": 1306820718,
       "dt": "2023-08-21T17:07:13+02:00",
       "venue_name": "U Toulavé pípy",
