@@ -25,12 +25,12 @@
       "description": "piv. Crazy Clown, Orange Kveik Ale s vanilkou"
     },
     {
-      "name": "13° Kurtizána",
-      "description": "piv. Mordýř, Dolní Ředice, IPA"
-    },
-    {
       "name": "13° Pšenice",
       "description": "piv. Kynšperský Zajíc, Kynšperk, Weizen"
+    },
+    {
+      "name": "14° Misty Skywalker",
+      "description": "piv. MadCat, Kamenice, DDH IPA"
     }
   ]
 }
