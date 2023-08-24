@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1307302911,
+      "dt": "2023-08-24T00:00:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
+      "id": 1307296702,
+      "dt": "2023-08-23T23:37:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
+      "id": 1307284212,
+      "dt": "2023-08-23T22:48:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hoptopia",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-hoptopia/2290462"
+    },
+    {
+      "id": 1307218617,
+      "dt": "2023-08-23T19:17:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Agent Orange",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-agent-orange/5489686"
+    },
+    {
+      "id": 1307217942,
+      "dt": "2023-08-23T19:14:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackdog Mango Brut IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-blackdog-mango-brut-ipa/5470494"
+    },
+    {
+      "id": 1307214233,
+      "dt": "2023-08-23T19:01:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackdog Mango Brut IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-blackdog-mango-brut-ipa/5470494"
+    },
+    {
+      "id": 1307213342,
+      "dt": "2023-08-23T18:58:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč (Aliance P.I.V.)",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-kyselac-aliance-p-i-v/5471219"
+    },
+    {
       "id": 1306995830,
       "dt": "2023-08-22T17:22:38+02:00",
       "venue_name": "U Toulavé pípy",
@@ -44,6 +107,15 @@
       "brewery": "Sibeeria",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/sibeeria-one-nature-gose/5495045"
+    },
+    {
+      "id": 1306809165,
+      "dt": "2023-08-21T14:59:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Nature",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-nature/5462377"
     },
     {
       "id": 1306681608,
