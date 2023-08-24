@@ -9,10 +9,6 @@
       "description": "piv. Volt, Jablonec nad Nisou, Weizen"
     },
     {
-      "name": "12° Alianční no. V",
-      "description": "piv. Pivečka, Rousínov, Sour Ale s černým rybízem"
-    },
-    {
       "name": "12° Fogtown",
       "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Misty Skywalker",
       "description": "piv. MadCat, Kamenice, DDH IPA"
+    },
+    {
+      "name": "15° Plum Reaper Junior",
+      "description": "piv. Crazy Clown, Švestkový Imperial Sour s bergamotem, kalamansi a kardamomem"
     },
     {
       "name": "18° Kasteel Rouge",
