@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Patronus",
+      "description": "piv. Sibeeria, Praha, Czech Pale Lager"
+    },
+    {
       "name": "10° Slunečník",
       "description": "piv. U Vojtěchů, Pardubice, Summer Ale"
     },
@@ -11,10 +15,6 @@
     {
       "name": "12° Akumulátor",
       "description": "piv. Volt, Jablonec nad Nisou, Weizen"
-    },
-    {
-      "name": "12° Fogtown",
-      "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
