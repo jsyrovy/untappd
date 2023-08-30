@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1309079785,
+      "dt": "2023-08-29T16:42:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fogtown",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fogtown/4568275"
+    },
+    {
       "id": 1308932029,
       "dt": "2023-08-28T18:00:29+02:00",
       "venue_name": "U Toulavé pípy",
