@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1309560351,
+      "dt": "2023-08-31T23:00:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1309555600,
+      "dt": "2023-08-31T22:45:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "It's Time For BRU-1",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-it-s-time-for-bru-1/5411111"
+    },
+    {
+      "id": 1309536512,
+      "dt": "2023-08-31T21:49:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Léto Ve Skle",
+      "brewery": "Beer Poets",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/beer-poets-leto-ve-skle/5504337"
+    },
+    {
+      "id": 1309451036,
+      "dt": "2023-08-31T16:30:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Veni Vidi Motueka 10",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-motueka-10/5490781"
+    },
+    {
+      "id": 1309447415,
+      "dt": "2023-08-31T15:56:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Veni Vidi Motueka 10",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-veni-vidi-motueka-10/5490781"
+    },
+    {
       "id": 1309331296,
       "dt": "2023-08-30T22:18:35+02:00",
       "venue_name": "Pivní ambasáda",
