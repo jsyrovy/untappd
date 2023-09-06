@@ -9,6 +9,10 @@
       "description": "piv. HoppyDog, Ostrava, American Pale Ale"
     },
     {
+      "name": "12° Everyday Life",
+      "description": "piv. Sibeeria, Praha, Czech Premium Lager"
+    },
+    {
       "name": "12° Gosee Terorr",
       "description": "piv. Čestmír, Brandýs nad Labem, Gose"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° No Idols!",
       "description": "piv. Clock, Potštejn, West Coast IPA"
-    },
-    {
-      "name": "15° Grapefruit Lollihop",
-      "description": "piv. Sibeeria, Praha, IPA w/ Grapefruit"
     },
     {
       "name": "18° Kasteel Rouge",
