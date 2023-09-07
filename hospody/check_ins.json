@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1311537603,
+      "dt": "2023-09-06T22:45:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Calamansi Pugita",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-calamansi-pugita/5453378"
+    },
+    {
+      "id": 1311525595,
+      "dt": "2023-09-06T21:57:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
+      "id": 1311515370,
+      "dt": "2023-09-06T21:20:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Goosee Terror",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-goosee-terror/5490848"
+    },
+    {
+      "id": 1311502070,
+      "dt": "2023-09-06T20:35:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! 14° West Coast IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-140-west-coast-ipa/4700800"
+    },
+    {
+      "id": 1311487319,
+      "dt": "2023-09-06T19:45:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Goosee Terror",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-goosee-terror/5490848"
+    },
+    {
+      "id": 1311472819,
+      "dt": "2023-09-06T18:51:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1311464616,
+      "dt": "2023-09-06T18:17:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grapefruit-lollihop/2620360"
+    },
+    {
+      "id": 1311463293,
+      "dt": "2023-09-06T18:11:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orion δ",
+      "brewery": "černý potoka",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-d/5441684"
+    },
+    {
+      "id": 1311445375,
+      "dt": "2023-09-06T16:00:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Komplic",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-komplic/4333953"
+    },
+    {
       "id": 1311289624,
       "dt": "2023-09-05T17:35:23+02:00",
       "venue_name": "U Toulavé pípy",
