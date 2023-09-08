@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1311752063,
+      "dt": "2023-09-07T22:49:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "CH47 Chinook",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-ch47-chinook/5206878"
+    },
+    {
+      "id": 1311750918,
+      "dt": "2023-09-07T22:45:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Pale Ale 12 °",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-american-pale-ale-12-0/4843640"
+    },
+    {
+      "id": 1311743871,
+      "dt": "2023-09-07T22:24:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "CH47 Chinook",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-ch47-chinook/5206878"
+    },
+    {
+      "id": 1311743397,
+      "dt": "2023-09-07T22:22:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! 14° West Coast IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-140-west-coast-ipa/4700800"
+    },
+    {
+      "id": 1311738084,
+      "dt": "2023-09-07T22:06:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Pale Ale 12 °",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-american-pale-ale-12-0/4843640"
+    },
+    {
+      "id": 1311721465,
+      "dt": "2023-09-07T21:20:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1311652893,
+      "dt": "2023-09-07T17:41:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1311644711,
+      "dt": "2023-09-07T16:53:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
+      "id": 1311641685,
+      "dt": "2023-09-07T16:30:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Komplic",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-komplic/4333953"
+    },
+    {
       "id": 1311537603,
       "dt": "2023-09-06T22:45:25+02:00",
       "venue_name": "Pivní ambasáda",
