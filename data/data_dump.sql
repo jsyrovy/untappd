@@ -940,6 +940,8 @@ INSERT INTO "archive" VALUES(1304207789,'2023-08-13 09:40:18.000000','sejrik','K
 INSERT INTO "archive" VALUES(1304209456,'2023-08-13 10:01:07.000000','sejrik','IPA','Pivovar Ogar','Kunčický pivovar');
 INSERT INTO "archive" VALUES(1305334158,'2023-08-17 19:53:28.000000','sejrik','Cream Ale','Pivovar Obora','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1305638585,'2023-08-18 18:38:19.000000','sejrik','Mosaic','Kyjovský pivovar','Untappd at Home');
+INSERT INTO "archive" VALUES(1311738084,'2023-09-07 20:06:33.000000','sejrik','American Pale Ale 12 °','Přátelský pivovar Malešov','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1311752063,'2023-09-07 20:49:33.000000','sejrik','CH47 Chinook','Pivovar Rotor','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
