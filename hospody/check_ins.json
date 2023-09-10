@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1312652950,
+      "dt": "2023-09-09T23:49:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšenice 12",
+      "brewery": "Tambor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tambor-psenice-12/5510180"
+    },
+    {
+      "id": 1312645927,
+      "dt": "2023-09-09T23:38:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Milionář 12",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-milionar-12/5517646"
+    },
+    {
+      "id": 1312644132,
+      "dt": "2023-09-09T23:35:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční Ležák 2023",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-vyrocni-lezak-2023/5517859"
+    },
+    {
+      "id": 1312593522,
+      "dt": "2023-09-09T22:24:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšenice 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-psenice-12/3823594"
+    },
+    {
+      "id": 1312592843,
+      "dt": "2023-09-09T22:23:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Rosso",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-rosso/5374705"
+    },
+    {
       "id": 1312145377,
       "dt": "2023-09-09T00:39:44+02:00",
       "venue_name": "U Toulavé pípy",
