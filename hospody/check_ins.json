@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1312903592,
+      "dt": "2023-09-10T18:46:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "CH47 Chinook",
+      "brewery": "Pivovar Rotor",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-rotor-ch47-chinook/5206878"
+    },
+    {
+      "id": 1312902213,
+      "dt": "2023-09-10T18:43:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Milionář 12",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-milionar-12/5517646"
+    },
+    {
+      "id": 1312883561,
+      "dt": "2023-09-10T17:54:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výroční Ležák 2023",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-vyrocni-lezak-2023/5517859"
+    },
+    {
       "id": 1312652950,
       "dt": "2023-09-09T23:49:51+02:00",
       "venue_name": "Pivní ambasáda",
