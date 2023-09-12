@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Ale",
+      "description": "piv. Klenot, HK, Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Alianční no. V",
       "description": "piv. Pivečka, Rousínov, Sour Ale s černým rybízem"
-    },
-    {
-      "name": "12° Milionář",
-      "description": "piv. Malešov, Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
