@@ -13,10 +13,6 @@
       "description": "piv. Pivečka, Rousínov, Sour Ale s černým rybízem"
     },
     {
-      "name": "12° Beskydská Pšenka",
-      "description": "Beskydský pivovárek, Ostravice, Pšeničný Ale"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -27,6 +23,10 @@
     {
       "name": "15° Emil",
       "description": "piv. Mordýř, Dolní Ředice, IPA"
+    },
+    {
+      "name": "6° Last Touch of Summer",
+      "description": "piv. Sibeeria, Praha, American Pale Ale"
     }
   ]
 }
