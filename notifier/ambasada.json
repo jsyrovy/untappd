@@ -5,16 +5,20 @@
       "description": "piv. Klenot, HK, Ale"
     },
     {
+      "name": "11° Apricot",
+      "description": "piv. Horác, Jihlava, Sour Fruit Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Alianční no. V",
-      "description": "piv. Pivečka, Rousínov, Sour Ale s černým rybízem"
-    },
-    {
       "name": "12° Beskydská Pšenka",
       "description": "Beskydský pivovárek, Ostravice, Pšeničný Ale"
+    },
+    {
+      "name": "12° California",
+      "description": "piv. Matuška, Broumy, American Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -23,10 +27,6 @@
     {
       "name": "14° Bacchus Frambozen",
       "description": "piv. Van Honsebrouck, Emelgem, Západní Flandry, Malinový Brown Ale, 0,25l"
-    },
-    {
-      "name": "14° Kněhyně",
-      "description": "Beskydský pivovárek, Ostravice, IPA"
     },
     {
       "name": "6° Last Touch of Summer",
