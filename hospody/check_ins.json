@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1313966735,
+      "dt": "2023-09-15T19:30:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Last Touch of Summer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-last-touch-of-summer/5520971"
+    },
+    {
       "id": 1312903592,
       "dt": "2023-09-10T18:46:35+02:00",
       "venue_name": "Pivní ambasáda",
