@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Ale",
-      "description": "piv. Klenot, HK, Ale"
-    },
-    {
       "name": "11° Apricot",
       "description": "piv. Horác, Jihlava, Sour Fruit Ale"
     },
