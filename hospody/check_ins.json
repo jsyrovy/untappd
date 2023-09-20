@@ -1,6 +1,213 @@
 {
   "check_ins": [
     {
+      "id": 1315365611,
+      "dt": "2023-09-19T23:17:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of El Dorado in the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-el-dorado-in-the-morning/5518357"
+    },
+    {
+      "id": 1315365111,
+      "dt": "2023-09-19T23:14:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lobster Pszenicne",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-lobster-pszenicne/5532473"
+    },
+    {
+      "id": 1315364249,
+      "dt": "2023-09-19T23:10:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Podchmielony Wojownik",
+      "brewery": "Browar Łańcut",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/browar-lancut-podchmielony-wojownik/5489272"
+    },
+    {
+      "id": 1315360505,
+      "dt": "2023-09-19T22:51:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of El Dorado in the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-el-dorado-in-the-morning/5518357"
+    },
+    {
+      "id": 1315342719,
+      "dt": "2023-09-19T21:32:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Podchmielony Wojownik",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-podchmielony-wojownik/5489272"
+    },
+    {
+      "id": 1315340889,
+      "dt": "2023-09-19T21:25:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Innovation",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-innovation/5494960"
+    },
+    {
+      "id": 1315340645,
+      "dt": "2023-09-19T21:24:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-happiness-17/5494957"
+    },
+    {
+      "id": 1315340502,
+      "dt": "2023-09-19T21:24:01+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Tradition 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-tradition-12/5494961"
+    },
+    {
+      "id": 1315340315,
+      "dt": "2023-09-19T21:23:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Blueberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-blueberry-berliner-weisse/2237292"
+    },
+    {
+      "id": 1315337744,
+      "dt": "2023-09-19T21:13:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lobster Pszenicne",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-lobster-pszenicne/5532473"
+    },
+    {
+      "id": 1315325166,
+      "dt": "2023-09-19T20:24:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-happiness-17/5494957"
+    },
+    {
+      "id": 1315325096,
+      "dt": "2023-09-19T20:24:02+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Blueberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-blueberry-berliner-weisse/2237292"
+    },
+    {
+      "id": 1315304151,
+      "dt": "2023-09-19T18:48:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-happiness-17/5494957"
+    },
+    {
+      "id": 1315303011,
+      "dt": "2023-09-19T18:42:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Blueberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-blueberry-berliner-weisse/2237292"
+    },
+    {
+      "id": 1315294314,
+      "dt": "2023-09-19T17:48:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Innovation",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-innovation/5494960"
+    },
+    {
+      "id": 1315294246,
+      "dt": "2023-09-19T17:47:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-happiness-17/5494957"
+    },
+    {
+      "id": 1315294183,
+      "dt": "2023-09-19T17:47:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Tradition 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-tradition-12/5494961"
+    },
+    {
+      "id": 1315286391,
+      "dt": "2023-09-19T16:30:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1315282170,
+      "dt": "2023-09-19T15:33:34+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "White IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-raven-white-ipa/1369454"
+    },
+    {
+      "id": 1315280165,
+      "dt": "2023-09-19T15:02:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Blueberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-blueberry-berliner-weisse/2237292"
+    },
+    {
+      "id": 1315279555,
+      "dt": "2023-09-19T14:51:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Blueberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-blueberry-berliner-weisse/2237292"
+    },
+    {
+      "id": 1315279538,
+      "dt": "2023-09-19T14:51:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-happiness-17/5494957"
+    },
+    {
+      "id": 1315279487,
+      "dt": "2023-09-19T14:50:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "11 Years of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-11-years-of-happiness-17/5494957"
+    },
+    {
       "id": 1315203066,
       "dt": "2023-09-18T23:01:17+02:00",
       "venue_name": "U Toulavé pípy",
