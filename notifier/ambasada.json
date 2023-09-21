@@ -21,16 +21,16 @@
       "description": "piv. Lobster, Wroclaw, Weizen"
     },
     {
-      "name": "14° Kněhyně",
-      "description": "Beskydský pivovárek, Ostravice, IPA"
-    },
-    {
       "name": "14° Podchmielony Wojownik",
       "description": "piv. Lancut, Polsko, American IPA"
     },
     {
       "name": "17°  I Love the Smell of El Dorado in the Morning",
       "description": "piv. Sibeeria, Praha, New England IPA"
+    },
+    {
+      "name": "17° Taste Like Summer",
+      "description": "piv. Zichovec, New England IPA"
     }
   ]
 }
