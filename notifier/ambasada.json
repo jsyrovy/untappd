@@ -5,10 +5,6 @@
       "description": "piv. Clock, Potštejn, gluten-reduced Ale"
     },
     {
-      "name": "12° Granát",
-      "description": "piv. Mordýř, Dolní Ředice, Polotmavý Ležák"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -21,12 +17,16 @@
       "description": "piv. Čestmír, Brandýs nad Labem, Fruit Sour Ale"
     },
     {
-      "name": "14° Podchmielony Wojownik",
-      "description": "piv. Lancut, Polsko, American IPA"
+      "name": "12° Raspberry, Lingonberry, Chocolate & Mint",
+      "description": "piv. Sibeeria/Growler, Sour Ale"
     },
     {
-      "name": "17°  I Love the Smell of El Dorado in the Morning",
-      "description": "piv. Sibeeria, Praha, New England IPA"
+      "name": "13° Mordýřka",
+      "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
+    },
+    {
+      "name": "16° Unity Brew",
+      "description": "piv. Crazy Clown/Vik, Imperial Sour Ale s liči, broskvemi, ibiškem a laktózou"
     },
     {
       "name": "17° Taste Like Summer",
