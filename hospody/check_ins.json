@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1317273726,
+      "dt": "2023-09-25T22:52:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Neon",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-neon/3021224"
+    },
+    {
       "id": 1317055664,
       "dt": "2023-09-24T21:24:23+02:00",
       "venue_name": "Pivní ambasáda",
