@@ -5,16 +5,16 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° American Pale Ale",
-      "description": "piv. Pivečka, Rousínov u Vyškova, APA"
-    },
-    {
       "name": "12° Gose Lemon",
       "description": "piv. Obora, Malšice, Lemon Gose"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° Mosaic",
+      "description": "piv. Wywar, Holíč, SK, APA"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
