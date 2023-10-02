@@ -9,10 +9,6 @@
       "description": "piv. Sibeeria, Praha, American Pale Ale"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
       "name": "12° Mosaic",
       "description": "piv. Wywar, Holíč, SK, APA"
     },
@@ -31,6 +27,10 @@
     {
       "name": "16° Unity Brew",
       "description": "piv. Crazy Clown/Vik, Imperial Sour Ale s liči, broskvemi, ibiškem a laktózou"
+    },
+    {
+      "name": "16° Weizenbock",
+      "description": "piv. Kundmüller, Weiher, Bavorsko, Weizenbock"
     }
   ]
 }
