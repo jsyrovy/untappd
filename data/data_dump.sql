@@ -978,6 +978,7 @@ INSERT INTO "archive" VALUES(1318112182,'2023-09-29 19:37:52.000000','sejrik','E
 INSERT INTO "archive" VALUES(1318406231,'2023-09-30 14:07:34.000000','sejrik','Sölsch','Bäckelar Brewery GmbH','Fügen im Zillertal');
 INSERT INTO "archive" VALUES(1318502664,'2023-09-30 17:09:50.000000','sejrik','Franziskaner Premium Weissbier Dunkel','Spaten-Franziskaner-Löwenbräu-Gruppe','Hart im Zillertal');
 INSERT INTO "archive" VALUES(1318572926,'2023-09-30 18:36:42.000000','sejrik','Tegernseer Spezial','Herzoglich Bayerisches Brauhaus Tegernsee','Hart im Zillertal');
+INSERT INTO "archive" VALUES(1319283218,'2023-10-02 19:19:43.000000','sejrik','Budweiser Budvar B:SPECIAL Kroužek','Budějovický Budvar','Beer Bar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
