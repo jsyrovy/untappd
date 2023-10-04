@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1319396504,
+      "dt": "2023-10-03T17:35:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mosaic Single Hop APA 12°",
+      "brewery": "Holíčsky pivovar Wywar ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/holicsky-pivovar-wywar-mosaic-single-hop-apa-120/5361769"
+    },
+    {
+      "id": 1319391345,
+      "dt": "2023-10-03T16:48:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1319391204,
+      "dt": "2023-10-03T16:47:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mosaic Single Hop APA 12°",
+      "brewery": "Holíčsky pivovar Wywar ",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/holicsky-pivovar-wywar-mosaic-single-hop-apa-120/5361769"
+    },
+    {
+      "id": 1319390069,
+      "dt": "2023-10-03T16:35:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends West Coast IPA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-west-coast-ipa/5256734"
+    },
+    {
       "id": 1319319276,
       "dt": "2023-10-03T00:26:23+02:00",
       "venue_name": "U Toulavé pípy",
