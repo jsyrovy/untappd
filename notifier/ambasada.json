@@ -5,6 +5,14 @@
       "description": "piv. Crazy Clown/Bad Flash, DDH red IPA s grepem"
     },
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -13,12 +21,8 @@
       "description": "piv. JungBerg, Hořice, Pale Ale"
     },
     {
-      "name": "12° Svatováclavská",
-      "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
-      "name": "14° West Coast IPA",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, West Coast IPA"
+      "name": "13° Brut IPA",
+      "description": "piv. Pivečka, Rousínov u Vyškova, Brut IPA"
     },
     {
       "name": "16° One Jurney",
@@ -27,10 +31,6 @@
     {
       "name": "16° Unity Brew",
       "description": "piv. Crazy Clown/Vik, Imperial Sour Ale s liči, broskvemi, ibiškem a laktózou"
-    },
-    {
-      "name": "16° Weizenbock",
-      "description": "piv. Kundmüller, Weiher, Bavorsko, Weizenbock"
     }
   ]
 }
