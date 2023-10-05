@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "11° Brustok Friends Beer",
-      "description": "piv. Crazy Clown/Bad Flash, DDH red IPA s grepem"
+      "name": "12° Franziskaner",
+      "description": "Spaten-Franziskaner-Bräu, Mnichov, German Hefeweizen"
     },
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "13,7° Augustiner Oktoberfestbier",
+      "description": "piv. Augustiner, Mnichov, Festbier Hell"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "13,7° Hacker-Pschorr Oktoberfestbier",
+      "description": "piv. Hacker-Pschorr, Mnichov, Festbier Marzen"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "13,7° Hofbräu Oktoberfestbier",
+      "description": "Staatliches Hofbräuhaus, Mnichov, Festbier Hell"
     },
     {
-      "name": "12° Polární Vlk",
-      "description": "piv. JungBerg, Hořice, Pale Ale"
+      "name": "13,7° Löwenbräu Oktoberfestbier",
+      "description": "piv. Löwenbräu, Mnichov, Festbier Hell"
     },
     {
-      "name": "13° Brut IPA",
-      "description": "piv. Pivečka, Rousínov u Vyškova, Brut IPA"
+      "name": "13,7° Paulaner Oktoberfestbier",
+      "description": "piv. Paulaner, Mnichov, Festbier Hell"
     },
     {
-      "name": "16° One Jurney",
-      "description": "piv. Sibeeria, Praha, New England IPA"
+      "name": "13,7° Spaten Oktoberfestbier",
+      "description": "Spaten-Franziskaner-Bräu, Mnichov, Festbier Hell"
     },
     {
       "name": "20° Petrus Aged Red",
