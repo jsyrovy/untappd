@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1319593640,
+      "dt": "2023-10-04T20:06:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
+      "id": 1319580678,
+      "dt": "2023-10-04T19:14:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brūstok Friends Beer",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-friends-beer/5541541"
+    },
+    {
+      "id": 1319565565,
+      "dt": "2023-10-04T17:57:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
+      "id": 1319563041,
+      "dt": "2023-10-04T17:40:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
+      "id": 1319560492,
+      "dt": "2023-10-04T17:21:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brūstok Friends Beer",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-friends-beer/5541541"
+    },
+    {
+      "id": 1319559963,
+      "dt": "2023-10-04T17:16:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Polární Vlk 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-polarni-vlk-12/5537739"
+    },
+    {
+      "id": 1319559353,
+      "dt": "2023-10-04T17:11:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends West Coast IPA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-west-coast-ipa/5256734"
+    },
+    {
+      "id": 1319556366,
+      "dt": "2023-10-04T16:41:28+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Down Under",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-down-under/5522512"
+    },
+    {
+      "id": 1319553676,
+      "dt": "2023-10-04T16:08:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
       "id": 1319396504,
       "dt": "2023-10-03T17:35:35+02:00",
       "venue_name": "Pivní ambasáda",
