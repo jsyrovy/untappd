@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1319856405,
+      "dt": "2023-10-05T23:38:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Bier (2023)",
+      "brewery": "Augustiner-Bräu München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/augustiner-brau-munchen-oktoberfestbier-2023/5503427"
+    },
+    {
+      "id": 1319843079,
+      "dt": "2023-10-05T22:53:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spaten Oktoberfestbier (2023)",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-oktoberfestbier-2023/5464672"
+    },
+    {
+      "id": 1319833147,
+      "dt": "2023-10-05T22:21:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Löwenbräu Oktoberfestbier (2023)",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-oktoberfestbier-2023/5462320"
+    },
+    {
+      "id": 1319828362,
+      "dt": "2023-10-05T22:06:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrus Red",
+      "brewery": "Brouwerij De Brabandere",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-de-brabandere-petrus-red/311764"
+    },
+    {
+      "id": 1319823865,
+      "dt": "2023-10-05T21:52:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paulaner Oktoberfest Bier (2023)",
+      "brewery": "Paulaner Brauerei",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/paulaner-brauerei-paulaner-oktoberfest-bier-2023/5468323"
+    },
+    {
+      "id": 1319816571,
+      "dt": "2023-10-05T21:30:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Märzen (2023)",
+      "brewery": "Hacker-Pschorr",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hacker-pschorr-oktoberfest-marzen-2023/5466766"
+    },
+    {
+      "id": 1319805477,
+      "dt": "2023-10-05T20:58:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Bier (2023)",
+      "brewery": "Augustiner-Bräu München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/augustiner-brau-munchen-oktoberfestbier-2023/5503427"
+    },
+    {
+      "id": 1319805270,
+      "dt": "2023-10-05T20:58:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Franziskaner Premium Weissbier Naturtrüb",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-franziskaner-premium-weissbier/14564"
+    },
+    {
       "id": 1319593640,
       "dt": "2023-10-04T20:06:28+02:00",
       "venue_name": "Pivní ambasáda",
