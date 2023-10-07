@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "12° Franziskaner",
-      "description": "Spaten-Franziskaner-Bräu, Mnichov, German Hefeweizen"
-    },
-    {
       "name": "12° GrischBEERla",
       "description": "piv. Kundmüller (DE)/Fat Heads (USA), Session IPA"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "13,7° Hacker-Pschorr Oktoberfestbier",
