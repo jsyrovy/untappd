@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "12° GrischBEERla",
-      "description": "piv. Kundmüller (DE)/Fat Heads (USA), Session IPA"
+      "name": "12° Fresh Hop Ale Most",
+      "description": "piv. Clock, Potštejn, Single Hop Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -25,8 +25,8 @@
       "description": "piv. Paulaner, Mnichov, Festbier Hell"
     },
     {
-      "name": "13,7° Spaten Oktoberfestbier",
-      "description": "Spaten-Franziskaner-Bräu, Mnichov, Festbier Hell"
+      "name": "13° Brut IPA",
+      "description": "piv. Pivečka, Rousínov u Vyškova, Brut IPA"
     },
     {
       "name": "20° Petrus Aged Red",
