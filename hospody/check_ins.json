@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1320491794,
+      "dt": "2023-10-07T18:25:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "GrischBEERla",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-grischbeerla/5203082"
+    },
+    {
+      "id": 1320472830,
+      "dt": "2023-10-07T17:53:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
+      "id": 1320463309,
+      "dt": "2023-10-07T17:34:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1320439568,
+      "dt": "2023-10-07T16:42:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Paulaner Oktoberfest Wiesn",
+      "brewery": "Paulaner Brauerei",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/paulaner-brauerei-paulaner-oktoberfest-wiesn/763577"
+    },
+    {
+      "id": 1320429710,
+      "dt": "2023-10-07T16:17:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spaten Oktoberfestbier",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-spaten-oktoberfestbier/1722617"
+    },
+    {
       "id": 1320165234,
       "dt": "2023-10-06T22:26:10+02:00",
       "venue_name": "Pivní ambasáda",
