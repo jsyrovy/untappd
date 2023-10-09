@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1321010537,
+      "dt": "2023-10-08T18:36:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Hop Ale Most 2023",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-fresh-hop-ale-most-2023/5552561"
+    },
+    {
       "id": 1320491794,
       "dt": "2023-10-07T18:25:20+02:00",
       "venue_name": "Pivní ambasáda",
