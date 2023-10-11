@@ -1,8 +1,12 @@
 {
   "beers": [
     {
-      "name": "12° Fresh Hop Ale Most",
-      "description": "piv. Clock, Potštejn, Single Hop Ale"
+      "name": "11° Brustok Friends Beer",
+      "description": "piv. Crazy Clown/Bad Flash, DDH red IPA s grepem"
+    },
+    {
+      "name": "11° Cold Fish",
+      "description": "piv. Černý Potoka, Hořice, Session IPA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -13,10 +17,6 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13,7° Hofbräu Oktoberfestbier",
-      "description": "Staatliches Hofbräuhaus, Mnichov, Festbier Hell"
-    },
-    {
       "name": "13,7° Löwenbräu Oktoberfestbier",
       "description": "piv. Löwenbräu, Mnichov, Festbier Hell"
     },
@@ -25,12 +25,12 @@
       "description": "piv. Paulaner, Mnichov, Festbier Hell"
     },
     {
-      "name": "14° LundeHund",
-      "description": "piv. HoppyDog, Ostrava, Kveik IPA"
+      "name": "14° Kasteel Xtra",
+      "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Blonde ALE, 0,25l"
     },
     {
-      "name": "20° Petrus Aged Red",
-      "description": "piv. De Brabandere, Harelbeke, Západní Flandry, Třešňový Belgian Strong Ale, 0,25l"
+      "name": "14° LundeHund",
+      "description": "piv. HoppyDog, Ostrava, Kveik IPA"
     }
   ]
 }
