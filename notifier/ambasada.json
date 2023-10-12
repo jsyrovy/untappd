@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Brustok Friends Beer",
-      "description": "piv. Crazy Clown/Bad Flash, DDH red IPA s grepem"
-    },
-    {
       "name": "11° Cold Fish",
       "description": "piv. Černý Potoka, Hořice, Session IPA"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+    },
+    {
+      "name": "12° Mango Raspberry",
+      "description": "piv. Zichovec, Fruit Sour Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
