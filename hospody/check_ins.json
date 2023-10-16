@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1322988037,
+      "dt": "2023-10-15T16:48:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Léto Ve Skle",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-leto-ve-skle/5504337"
+    },
+    {
+      "id": 1322978662,
+      "dt": "2023-10-15T16:14:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kiwi & Green Tea",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-kiwi-and-green-tea/1772000"
+    },
+    {
       "id": 1322832427,
       "dt": "2023-10-15T01:23:40+02:00",
       "venue_name": "Pivní ambasáda",
