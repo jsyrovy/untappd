@@ -994,6 +994,7 @@ INSERT INTO "archive" VALUES(1322479019,'2023-10-14 15:40:52.000000','sejrik','G
 INSERT INTO "archive" VALUES(1322576255,'2023-10-14 17:58:42.000000','sejrik','Piwo Palikota Wheat IPA','Browar Tenczynek','Swieradow-Zdroj');
 INSERT INTO "archive" VALUES(1322632261,'2023-10-14 18:59:48.000000','sejrik','Komes Strong Blonde','Browar Fortuna','Swieradow-Zdroj');
 INSERT INTO "archive" VALUES(1322696436,'2023-10-14 20:07:43.000000','sejrik','Komes Potrójny Złoty','Browar Fortuna','Swieradow-Zdroj');
+INSERT INTO "archive" VALUES(1323084808,'2023-10-15 18:48:38.000000','sejrik','Gulden Draak Classic','Brouwerij Van Steenberge','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
