@@ -995,6 +995,11 @@ INSERT INTO "archive" VALUES(1322576255,'2023-10-14 17:58:42.000000','sejrik','P
 INSERT INTO "archive" VALUES(1322632261,'2023-10-14 18:59:48.000000','sejrik','Komes Strong Blonde','Browar Fortuna','Swieradow-Zdroj');
 INSERT INTO "archive" VALUES(1322696436,'2023-10-14 20:07:43.000000','sejrik','Komes Potrójny Złoty','Browar Fortuna','Swieradow-Zdroj');
 INSERT INTO "archive" VALUES(1323084808,'2023-10-15 18:48:38.000000','sejrik','Gulden Draak Classic','Brouwerij Van Steenberge','Untappd at Home');
+INSERT INTO "archive" VALUES(1323275267,'2023-10-16 17:06:19.000000','sejrik','Vinařská Jedenáctka','Pivovar Thrills Brewing','Seznam.cz');
+INSERT INTO "archive" VALUES(1323277592,'2023-10-16 17:19:29.000000','sejrik','Tak','Brauhaus Bevog','Seznam.cz');
+INSERT INTO "archive" VALUES(1323285484,'2023-10-16 17:59:42.000000','sejrik','Kramah','Brauhaus Bevog','Seznam.cz');
+INSERT INTO "archive" VALUES(1323295989,'2023-10-16 18:48:21.000000','sejrik','Super Can Fest Special Brew / Cold IPA','Dogma Brewery','Seznam.cz');
+INSERT INTO "archive" VALUES(1323323830,'2023-10-16 21:05:19.000000','sejrik','Union Grapefruit Milkshake IPA Chroust','Chroust',NULL);
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
