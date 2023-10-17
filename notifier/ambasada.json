@@ -9,10 +9,6 @@
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
     {
-      "name": "12° Mango Raspberry",
-      "description": "piv. Zichovec, Fruit Sour Ale"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -31,6 +27,10 @@
     {
       "name": "17° Podzim 2023",
       "description": "piv. Sibeeria, Praha, Wee Heavy Ale"
+    },
+    {
+      "name": "9° Maracuja",
+      "description": "piv. Raven, Plzeň, Fruit Sour Ale"
     }
   ]
 }
