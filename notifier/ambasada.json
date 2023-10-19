@@ -5,6 +5,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Ohmmm",
+      "description": "piv. Volt, Jablonec nad Nisou, Borůvkový Sour Ale"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -13,12 +17,12 @@
       "description": "piv. Agent, Olešnice, Polotmavý Premium Lager"
     },
     {
-      "name": "13° Pšeničné",
-      "description": "piv. Kynšperský Zajíc, Weizen"
+      "name": "13° DDH Brut IPA",
+      "description": "piv. Volt, Jablonec nad Nisou, DDH Brut IPA"
     },
     {
-      "name": "14° Cyclops IPA",
-      "description": "piv. Antoš, Slaný, IPA"
+      "name": "13° Pšeničné",
+      "description": "piv. Kynšperský Zajíc, Weizen"
     },
     {
       "name": "14° Kasteel Xtra",
@@ -27,10 +31,6 @@
     {
       "name": "17° Podzim 2023",
       "description": "piv. Sibeeria, Praha, Wee Heavy Ale"
-    },
-    {
-      "name": "9° Maracuja",
-      "description": "piv. Raven, Plzeň, Fruit Sour Ale"
     }
   ]
 }
