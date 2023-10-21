@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1324284871,
+      "dt": "2023-10-21T00:46:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 13",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-brut-ipa-13/5570193"
+    },
+    {
+      "id": 1324223827,
+      "dt": "2023-10-20T22:56:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
+      "id": 1324180075,
+      "dt": "2023-10-20T21:46:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helles Schlenkerla Lagerbier",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-helles-schlenkerla-lager/19471"
+    },
+    {
+      "id": 1324176499,
+      "dt": "2023-10-20T21:41:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 13",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-brut-ipa-13/5570193"
+    },
+    {
+      "id": 1324171482,
+      "dt": "2023-10-20T21:34:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 13",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-brut-ipa-13/5570193"
+    },
+    {
+      "id": 1324151221,
+      "dt": "2023-10-20T21:04:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ohmmm",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-ohmmm/4582852"
+    },
+    {
+      "id": 1323979859,
+      "dt": "2023-10-20T09:39:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 13",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-brut-ipa-13/5570193"
+    },
+    {
       "id": 1323897229,
       "dt": "2023-10-20T00:24:00+02:00",
       "venue_name": "U Toulavé pípy",
