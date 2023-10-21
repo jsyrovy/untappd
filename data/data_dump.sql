@@ -11234,4 +11234,8 @@ INSERT INTO "pivni_valka" VALUES(10221,'2023-10-19','sejrik',2);
 INSERT INTO "pivni_valka" VALUES(10222,'2023-10-19','mencik2',0);
 INSERT INTO "pivni_valka" VALUES(10223,'2023-10-19','Mates511',0);
 INSERT INTO "pivni_valka" VALUES(10224,'2023-10-19','ominar',0);
+INSERT INTO "pivni_valka" VALUES(10225,'2023-10-20','sejrik',2);
+INSERT INTO "pivni_valka" VALUES(10226,'2023-10-20','mencik2',1);
+INSERT INTO "pivni_valka" VALUES(10227,'2023-10-20','Mates511',0);
+INSERT INTO "pivni_valka" VALUES(10228,'2023-10-20','ominar',0);
 COMMIT;
