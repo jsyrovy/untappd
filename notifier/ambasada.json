@@ -5,6 +5,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Everyday Life",
+      "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
+    },
+    {
       "name": "12° Haka",
       "description": "piv. Louka, Session IPA"
     },
@@ -27,10 +31,6 @@
     {
       "name": "14° Kasteel Xtra",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, Belgian Blonde ALE, 0,25l"
-    },
-    {
-      "name": "17° Podzim 2023",
-      "description": "piv. Sibeeria, Praha, Wee Heavy Ale"
     }
   ]
 }
