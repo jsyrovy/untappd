@@ -1002,6 +1002,8 @@ INSERT INTO "archive" VALUES(1323295989,'2023-10-16 18:48:21.000000','sejrik','S
 INSERT INTO "archive" VALUES(1323323830,'2023-10-16 21:05:19.000000','sejrik','Union Grapefruit Milkshake IPA Chroust','Chroust',NULL);
 INSERT INTO "archive" VALUES(1323856182,'2023-10-19 20:13:35.000000','sejrik','Brut IPA 13','Pivovar Volt','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1323870355,'2023-10-19 20:57:39.000000','sejrik','Podzim 2023','Sibeeria','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1324124337,'2023-10-20 18:24:50.000000','sejrik','Hoppy Weizen','Trzech Kumpli','Cristal Resort Szklarska Poręba');
+INSERT INTO "archive" VALUES(1324136527,'2023-10-20 18:43:18.000000','sejrik','Misty','Trzech Kumpli','Cristal Resort Szklarska Poręba');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
