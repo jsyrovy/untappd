@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1324732190,
+      "dt": "2023-10-21T22:09:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 13",
+      "brewery": "Pivovar Volt",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-volt-brut-ipa-13/5570193"
+    },
+    {
+      "id": 1324685939,
+      "dt": "2023-10-21T21:17:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Haka 12°",
+      "brewery": "Pivovar Louka",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-louka-haka-120/4422305"
+    },
+    {
+      "id": 1324644738,
+      "dt": "2023-10-21T20:32:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Haka 12°",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-haka-120/4422305"
+    },
+    {
+      "id": 1324640379,
+      "dt": "2023-10-21T20:26:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1324618877,
+      "dt": "2023-10-21T20:02:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
       "id": 1324284871,
       "dt": "2023-10-21T00:46:47+02:00",
       "venue_name": "Pivní ambasáda",
