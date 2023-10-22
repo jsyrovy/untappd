@@ -21,16 +21,16 @@
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° DDH Brut IPA",
-      "description": "piv. Volt, Jablonec nad Nisou, DDH Brut IPA"
-    },
-    {
       "name": "13° Pšeničné",
       "description": "piv. Kynšperský Zajíc, Weizen"
     },
     {
       "name": "14° Kasteel Xtra",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, Belgian Blonde ALE, 0,25l"
+    },
+    {
+      "name": "17° Antonio",
+      "description": "piv. Clock, Potštejn, Gluten Reduced Grapefruit Brut IPA"
     }
   ]
 }
