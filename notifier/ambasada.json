@@ -9,6 +9,10 @@
       "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
     },
     {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
       "name": "12° Ohmmm",
       "description": "piv. Volt, Jablonec nad Nisou, Borůvkový Sour Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Soráč",
       "description": "piv. JungBerg, Hořice, Ale"
-    },
-    {
-      "name": "13° Pšeničné",
-      "description": "piv. Kynšperský Zajíc, Weizen"
     },
     {
       "name": "14° Kasteel Xtra",
