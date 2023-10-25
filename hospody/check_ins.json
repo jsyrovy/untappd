@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1325429292,
+      "dt": "2023-10-24T18:33:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Soráč 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-sorac-12/5571179"
+    },
+    {
+      "id": 1325411768,
+      "dt": "2023-10-24T15:45:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
       "id": 1325313234,
       "dt": "2023-10-23T20:51:06+02:00",
       "venue_name": "Pivní ambasáda",
