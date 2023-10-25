@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Barbier",
+      "description": "piv. Crazy Clown, Belgian Wit w/ Raspberry"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
-      "name": "12° Ohmmm",
-      "description": "piv. Volt, Jablonec nad Nisou, Borůvkový Sour Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
