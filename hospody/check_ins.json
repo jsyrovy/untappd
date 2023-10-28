@@ -1,6 +1,132 @@
 {
   "check_ins": [
     {
+      "id": 1326248199,
+      "dt": "2023-10-28T00:32:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kiwi & Green Tea",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-kiwi-and-green-tea/1772000"
+    },
+    {
+      "id": 1326246033,
+      "dt": "2023-10-28T00:28:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love You Pumpkin",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-i-love-you-pumpkin/3465142"
+    },
+    {
+      "id": 1326222649,
+      "dt": "2023-10-27T23:43:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
+      "id": 1326221932,
+      "dt": "2023-10-27T23:42:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "[BA:RBI:R]",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ba-rbi-r/5559966"
+    },
+    {
+      "id": 1326181599,
+      "dt": "2023-10-27T22:31:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "[BA:RBI:R]",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ba-rbi-r/5559966"
+    },
+    {
+      "id": 1326174356,
+      "dt": "2023-10-27T22:19:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Spooky Time 14",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-spooky-time-14/5540425"
+    },
+    {
+      "id": 1326168421,
+      "dt": "2023-10-27T22:09:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "[BA:RBI:R]",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ba-rbi-r/5559966"
+    },
+    {
+      "id": 1326133691,
+      "dt": "2023-10-27T21:16:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VECTOR",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-vector/4301618"
+    },
+    {
+      "id": 1326113462,
+      "dt": "2023-10-27T20:45:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love You Pumpkin",
+      "brewery": "Pivovar Raven",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-raven-i-love-you-pumpkin/3465142"
+    },
+    {
+      "id": 1326074385,
+      "dt": "2023-10-27T19:39:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Xtra",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-xtra/4447178"
+    },
+    {
+      "id": 1326073715,
+      "dt": "2023-10-27T19:38:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Barbier",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-barbier/2907708"
+    },
+    {
+      "id": 1326054672,
+      "dt": "2023-10-27T19:01:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Equanotka 12 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-equanotka-12-single-hop/4524718"
+    },
+    {
+      "id": 1326039417,
+      "dt": "2023-10-27T18:28:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
+      "id": 1326034484,
+      "dt": "2023-10-27T18:17:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Growler Sour Ale: Raspberry, Lingonberry, Chocolate & Mint",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-growler-sour-ale-raspberry-lingonberry-chocolate-and-mint/5315032"
+    },
+    {
       "id": 1325854268,
       "dt": "2023-10-26T22:27:42+02:00",
       "venue_name": "Pivní ambasáda",
