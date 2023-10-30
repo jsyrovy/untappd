@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1327056095,
+      "dt": "2023-10-29T21:01:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pumpkin Ale",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-pumpkin-ale/4549126"
+    },
+    {
+      "id": 1327019412,
+      "dt": "2023-10-29T19:38:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pumpkin Ale",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-pumpkin-ale/4549126"
+    },
+    {
+      "id": 1327015424,
+      "dt": "2023-10-29T19:29:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VECTOR",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-vector/4301618"
+    },
+    {
+      "id": 1327006107,
+      "dt": "2023-10-29T19:07:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Journey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-journey/5542032"
+    },
+    {
       "id": 1326549995,
       "dt": "2023-10-28T19:47:06+02:00",
       "venue_name": "U Toulavé pípy",
