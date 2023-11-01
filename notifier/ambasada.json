@@ -5,16 +5,16 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Aldersbacher",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
+    },
+    {
       "name": "12° Blizard",
       "description": "piv. Mordýř, Dolní Ředice, Winter Ale"
     },
     {
       "name": "12° Czech Norris",
       "description": "Dois Corvos/Sibeeria, Dry-Hopped Czech Lager"
-    },
-    {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -29,8 +29,8 @@
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, Belgian Blonde ALE, 0,25l"
     },
     {
-      "name": "15° Whore of Babylon",
-      "description": "piv. Crazy Clown, NEIPA s Ananasem"
+      "name": "14° Žitná IPA",
+      "description": "piv. Malešov, Rye IPA"
     }
   ]
 }
