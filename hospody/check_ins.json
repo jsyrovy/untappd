@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1327414843,
+      "dt": "2023-10-31T23:34:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Whore of Babylon Pineapple",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-whore-of-babylon-pineapple/5574568"
+    },
+    {
+      "id": 1327413849,
+      "dt": "2023-10-31T23:30:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Czech Norris",
+      "brewery": "Dois Corvos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/dois-corvos-czech-norris/5515273"
+    },
+    {
+      "id": 1327387339,
+      "dt": "2023-10-31T21:56:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Whore of Babylon Pineapple",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-whore-of-babylon-pineapple/5574568"
+    },
+    {
+      "id": 1327371143,
+      "dt": "2023-10-31T20:56:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Barbier",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-barbier/2907708"
+    },
+    {
       "id": 1327249595,
       "dt": "2023-10-30T22:48:40+01:00",
       "venue_name": "Pivní ambasáda",
