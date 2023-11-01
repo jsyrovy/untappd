@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° 300 Kurven",
-      "description": "piv. JungBerg, Hořice, Světlý Ležák"
-    },
-    {
       "name": "11° Barbier",
       "description": "piv. Crazy Clown, Belgian Wit w/ Raspberry"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Výtržník",
