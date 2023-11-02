@@ -1,7 +1,11 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
+      "name": "10° 300 Kurven",
+      "description": "piv. JungBerg, Hořice, Světlý Ležák"
+    },
+    {
+      "name": "11° Kastelán",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
@@ -15,10 +19,6 @@
     {
       "name": "12° Czech Norris",
       "description": "Dois Corvos/Sibeeria, Dry-Hopped Czech Lager"
-    },
-    {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Philadelphia Mango/Maracuja",
