@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1327750375,
+      "dt": "2023-11-02T21:39:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1327704578,
+      "dt": "2023-11-02T19:16:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rye IPA 14 ",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-rye-ipa-14/4133042"
+    },
+    {
+      "id": 1327703512,
+      "dt": "2023-11-02T19:11:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Czech Norris",
+      "brewery": "Dois Corvos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/dois-corvos-czech-norris/5515273"
+    },
+    {
       "id": 1327598111,
       "dt": "2023-11-01T23:44:14+01:00",
       "venue_name": "Pivní ambasáda",
