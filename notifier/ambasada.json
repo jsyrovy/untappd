@@ -5,10 +5,6 @@
       "description": "piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
-      "name": "11° Kastelán",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "11° Liquid Luck",
       "description": "piv. Sibeeria, Praha, American Pale Ale"
     },
@@ -31,6 +27,10 @@
     {
       "name": "14° Žitná IPA",
       "description": "piv. Malešov, Rye IPA"
+    },
+    {
+      "name": "15° Porter",
+      "description": "piv. Mordýř, Dolní Ředice, Porter"
     }
   ]
 }
