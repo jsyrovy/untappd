@@ -9,10 +9,6 @@
       "description": "piv. Klenot, HK, Fruit Sour Ale"
     },
     {
-      "name": "11° Liquid Luck",
-      "description": "piv. Sibeeria, Praha, American Pale Ale"
-    },
-    {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Heffeweizen"
     },
@@ -21,12 +17,16 @@
       "description": "Beskydský pivovárek, Ostravice, Ale"
     },
     {
+      "name": "13° Kurtizána",
+      "description": "piv. Mordýř, Dolní Ředice, IPA"
+    },
+    {
       "name": "14° Kasteel Xtra",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, Belgian Blonde ALE, 0,25l"
     },
     {
-      "name": "14° Žitná IPA",
-      "description": "piv. Malešov, Rye IPA"
+      "name": "14° Timeless",
+      "description": "piv. Sibeeria, Praha, Oak Aged Pale Lager"
     },
     {
       "name": "15° Porter",
