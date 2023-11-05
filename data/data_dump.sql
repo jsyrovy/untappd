@@ -1013,6 +1013,10 @@ INSERT INTO "archive" VALUES(1326097031,'2023-10-27 18:18:53.000000','sejrik','P
 INSERT INTO "archive" VALUES(1326616336,'2023-10-28 19:08:16.000000','sejrik','Pan IPAni','Trzech Kumpli','Untappd at Home');
 INSERT INTO "archive" VALUES(1327548690,'2023-11-01 19:28:55.000000','sejrik','American IPA','Browar Stu Mostów','Untappd at Home');
 INSERT INTO "archive" VALUES(1327739901,'2023-11-02 20:09:34.000000','sejrik','Komes Imperial IPA','Browar Fortuna','Untappd at Home');
+INSERT INTO "archive" VALUES(1328376192,'2023-11-04 16:42:11.000000','sejrik','Kölsch','Pivovar Obora','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1328387200,'2023-11-04 16:59:32.000000','sejrik','Equanotka 12 Single Hop','Pivovar Loutkář','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1328427679,'2023-11-04 17:55:07.000000','sejrik','Větrník','Pivovar U Vojtěchů','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1328548667,'2023-11-04 20:17:46.000000','sejrik','Double New Louny','Rodinný pivovar Zichovec','U Toulavé pípy');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
