@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1329117465,
+      "dt": "2023-11-06T19:10:06+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Double New Louny 2023",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-double-new-louny-2023/5580228"
+    },
+    {
+      "id": 1329111860,
+      "dt": "2023-11-06T18:31:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Goldie",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-goldie/778831"
+    },
+    {
       "id": 1328960181,
       "dt": "2023-11-05T21:20:34+01:00",
       "venue_name": "Pivní ambasáda",
