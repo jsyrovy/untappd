@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1329921272,
+      "dt": "2023-11-10T20:51:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "All Cats Are Beautiful",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-all-cats-are-beautiful/3068390"
+    },
+    {
       "id": 1329627778,
       "dt": "2023-11-09T22:11:16+01:00",
       "venue_name": "Pivní ambasáda",
