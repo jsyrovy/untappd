@@ -1020,6 +1020,9 @@ INSERT INTO "archive" VALUES(1328548667,'2023-11-04 20:17:46.000000','sejrik','D
 INSERT INTO "archive" VALUES(1328807544,'2023-11-05 11:10:00.000000','sejrik','Yankee','Svatokopecký pivovar','Entrée restaurant');
 INSERT INTO "archive" VALUES(1328841864,'2023-11-05 15:04:42.000000','sejrik','Volba Sládků: Kraftbier','Plzeňský Prazdroj','Caffe Opera');
 INSERT INTO "archive" VALUES(1329627778,'2023-11-09 21:11:16.000000','sejrik','All Cats Are Beautiful','Crazy Clown Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1329860170,'2023-11-10 18:20:57.000000','sejrik','Ruthard 11','Ossegg Praha','Untappd at Home');
+INSERT INTO "archive" VALUES(1329902717,'2023-11-10 19:25:43.000000','sejrik','Philipp 12 (Praha)','Ossegg Praha','Untappd at Home');
+INSERT INTO "archive" VALUES(1329968638,'2023-11-10 20:54:39.000000','sejrik','Vídeňský Ležák','Ossegg Praha','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
