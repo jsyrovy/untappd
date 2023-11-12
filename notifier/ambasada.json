@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Petr Ale",
-      "description": "piv. JungBerg, Hořice, Ale"
-    },
-    {
-      "name": "11° Oasis of Passion",
-      "description": "piv. Haksna, Ostrava, Fruit Sour Ale"
+      "name": "12° Clock",
+      "description": "piv. Clock, Potštejn, American Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Podél Plotu",
+      "description": "piv. Bad Flash, Praha, Fruit Sour Ale"
     },
     {
       "name": "13° Alianční P.I.V.",
