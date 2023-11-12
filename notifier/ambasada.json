@@ -9,10 +9,6 @@
       "description": "piv. Haksna, Ostrava, Fruit Sour Ale"
     },
     {
-      "name": "12° Everyday Life",
-      "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -31,6 +27,10 @@
     {
       "name": "16° All Cats Are Beautiful",
       "description": "piv. Crazy Clown, Belgian NEIPA"
+    },
+    {
+      "name": "19° Raintown",
+      "description": "piv. Sibeeria, Praha, Double NEIPA"
     }
   ]
 }
