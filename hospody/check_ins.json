@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1330599859,
+      "dt": "2023-11-12T00:07:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Porter",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-porter/4825227"
+    },
+    {
+      "id": 1330599239,
+      "dt": "2023-11-12T00:06:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "All Cats Are Beautiful",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-all-cats-are-beautiful/3068390"
+    },
+    {
+      "id": 1330597309,
+      "dt": "2023-11-12T00:03:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "6. Alianční Pivo",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-6-aliancni-pivo/5580998"
+    },
+    {
+      "id": 1330595842,
+      "dt": "2023-11-12T00:00:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oasis of Passion 11",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-oasis-of-passion-11/5528252"
+    },
+    {
+      "id": 1330322901,
+      "dt": "2023-11-11T18:21:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-marzen/471"
+    },
+    {
+      "id": 1330308630,
+      "dt": "2023-11-11T17:58:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "6. Alianční Pivo",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-6-aliancni-pivo/5580998"
+    },
+    {
+      "id": 1330273769,
+      "dt": "2023-11-11T16:52:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "6. Alianční Pivo",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-6-aliancni-pivo/5580998"
+    },
+    {
+      "id": 1330262725,
+      "dt": "2023-11-11T16:28:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "All Cats Are Beautiful",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-all-cats-are-beautiful/3068390"
+    },
+    {
+      "id": 1330254508,
+      "dt": "2023-11-11T16:10:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
       "id": 1329921272,
       "dt": "2023-11-10T20:51:14+01:00",
       "venue_name": "Pivní ambasáda",
