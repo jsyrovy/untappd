@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Fogtown",
       "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Podél Plotu",
       "description": "piv. Bad Flash, Praha, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Svatomartinský Ležák",
-      "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "13° Alianční P.I.V.",
