@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Mango-pina-coco-sour",
+      "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Podél Plotu",
-      "description": "piv. Bad Flash, Praha, Fruit Sour Ale"
     },
     {
       "name": "13° Alianční P.I.V.",
