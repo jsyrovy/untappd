@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1332142958,
+      "dt": "2023-11-18T18:04:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hoptopia",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-hoptopia/2290462"
+    },
+    {
+      "id": 1332139156,
+      "dt": "2023-11-18T17:56:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sabres of Paradise",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-sabres-of-paradise/4442272"
+    },
+    {
       "id": 1331879432,
       "dt": "2023-11-17T23:18:53+01:00",
       "venue_name": "Pivní ambasáda",
