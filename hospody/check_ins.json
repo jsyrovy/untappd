@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1332668007,
+      "dt": "2023-11-19T20:34:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Witt",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-witt/5591457"
+    },
+    {
+      "id": 1332661259,
+      "dt": "2023-11-19T20:17:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "6. Alianční Pivo",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-6-aliancni-pivo/5580998"
+    },
+    {
+      "id": 1332659650,
+      "dt": "2023-11-19T20:13:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Splávek BFS Belgian Witbier",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-splavek-bfs-belgian-witbier/5605364"
+    },
+    {
+      "id": 1332657882,
+      "dt": "2023-11-19T20:09:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "6. Alianční Pivo",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-6-aliancni-pivo/5580998"
+    },
+    {
       "id": 1332142958,
       "dt": "2023-11-18T18:04:02+01:00",
       "venue_name": "Pivní ambasáda",
