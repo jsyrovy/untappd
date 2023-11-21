@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1332842740,
+      "dt": "2023-11-20T19:11:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lucipa",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010"
+    },
+    {
       "id": 1332668007,
       "dt": "2023-11-19T20:34:09+01:00",
       "venue_name": "Pivní ambasáda",
