@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Mango-pina-coco-sour",
-      "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
+      "name": "11° Cherry & Hibiscus",
+      "description": "piv. Pivečka, Rousínov u Vyškova, Fruit Sour Ale"
     },
     {
       "name": "11° Loki",
@@ -11,10 +11,6 @@
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° Fogtown",
-      "description": "piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
