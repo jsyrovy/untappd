@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1332998357,
+      "dt": "2023-11-21T20:44:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aecht Schlenkerla Rauchbier – Märzen",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-rauchbier-marzen/471"
+    },
+    {
+      "id": 1332975838,
+      "dt": "2023-11-21T18:48:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Loki 11°",
+      "brewery": "Pivovar Panaczech",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-panaczech-loki-110/3765336"
+    },
+    {
+      "id": 1332975779,
+      "dt": "2023-11-21T18:47:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango-Piña-Coco-Sourus",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-mango-pina-coco-sourus/2990679"
+    },
+    {
       "id": 1332842740,
       "dt": "2023-11-20T19:11:47+01:00",
       "venue_name": "Pivní ambasáda",
