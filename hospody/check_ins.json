@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1333189712,
+      "dt": "2023-11-22T21:31:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Loki 11°",
+      "brewery": "Pivovar Panaczech",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-panaczech-loki-110/3765336"
+    },
+    {
+      "id": 1333170649,
+      "dt": "2023-11-22T20:31:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Cherry & Hibiscus",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-sour-cherry-and-hibiscus/4987929"
+    },
+    {
+      "id": 1333161760,
+      "dt": "2023-11-22T20:01:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Cherry & Hibiscus",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-sour-cherry-and-hibiscus/4987929"
+    },
+    {
+      "id": 1333124837,
+      "dt": "2023-11-22T16:45:25+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Velvet 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-velvet-17/5578063"
+    },
+    {
+      "id": 1333124559,
+      "dt": "2023-11-22T16:41:45+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Clock APA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/clock-clock-apa/730508"
+    },
+    {
       "id": 1332998357,
       "dt": "2023-11-21T20:44:14+01:00",
       "venue_name": "Pivní ambasáda",
