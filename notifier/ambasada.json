@@ -13,6 +13,10 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Aldersbacher",
+      "description": "piv. Aldersbacher, Dolní Bavorsko, German Weizen"
+    },
+    {
       "name": "12° Everyday Life",
       "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
     },
@@ -27,10 +31,6 @@
     {
       "name": "13° Cloudy Colombo",
       "description": "piv. Zhůřák, Zhůř, Kveik NEIPA"
-    },
-    {
-      "name": "13° Witbier",
-      "description": "piv. BadFlash/Splávek, Belgian Witbier"
     }
   ]
 }
