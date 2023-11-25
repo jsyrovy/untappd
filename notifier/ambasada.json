@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "10° Primadona",
+      "description": "piv. Prager Laffe, Praha, Blond Ale"
+    },
+    {
       "name": "11° Blackcurrant Sorbet",
       "description": "piv. Sibeeria, Praha, Fruit Sour Ale"
     },
     {
       "name": "11° Cherry & Hibiscus",
       "description": "piv. Pivečka, Rousínov u Vyškova, Fruit Sour Ale"
-    },
-    {
-      "name": "11° Glee",
-      "description": "piv. Clock, Potštejn, gluten-reduced Ale"
     },
     {
       "name": "11° Mordýř",
