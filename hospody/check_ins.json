@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1334377095,
+      "dt": "2023-11-25T22:31:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Primadona",
+      "brewery": "Prager Laffe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/prager-laffe-primadona/2115224"
+    },
+    {
+      "id": 1334355742,
+      "dt": "2023-11-25T22:03:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1334338207,
+      "dt": "2023-11-25T21:40:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloudy Columbo",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-cloudy-columbo/5594513"
+    },
+    {
+      "id": 1334170502,
+      "dt": "2023-11-25T17:38:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloudy Columbo",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-cloudy-columbo/5594513"
+    },
+    {
+      "id": 1334115611,
+      "dt": "2023-11-25T15:07:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Walter Raleigh",
+      "brewery": "Švabín Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/svabin-alchemical-brewery-walter-raleigh/5379669"
+    },
+    {
       "id": 1333975249,
       "dt": "2023-11-25T01:06:00+01:00",
       "venue_name": "Pivní ambasáda",
