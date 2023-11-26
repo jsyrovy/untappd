@@ -1035,6 +1035,12 @@ INSERT INTO "archive" VALUES(1331372504,'2023-11-15 22:05:43.000000','sejrik','S
 INSERT INTO "archive" VALUES(1331380349,'2023-11-15 22:43:51.000000','sejrik','PP 12%','Pivovar JungBerg','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1333499981,'2023-11-23 21:12:35.000000','sejrik','Everyday Life','Sibeeria','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1333755967,'2023-11-24 19:05:18.000000','sejrik','Kunětický Kastelán 11','Pivovar Mordýř','Untappd at Home');
+INSERT INTO "archive" VALUES(1334088387,'2023-11-25 11:39:38.000000','sejrik','Blitzkrieeg','černý potoka','Bistro Špejle');
+INSERT INTO "archive" VALUES(1334182402,'2023-11-25 17:02:44.000000','sejrik','Desítka','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1334198936,'2023-11-25 17:30:46.000000','sejrik','Dvanáctka','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1334221574,'2023-11-25 18:06:04.000000','sejrik','Automat I.','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1334240611,'2023-11-25 18:33:29.000000','sejrik','Voltage','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1334261148,'2023-11-25 19:01:34.000000','sejrik','Apollo Galaxy 13°','Pivovar Matuška','Automat Matuška');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
