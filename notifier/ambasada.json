@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Primadona",
-      "description": "piv. Prager Laffe, Praha, Blond Ale"
-    },
-    {
       "name": "11° Blackcurrant Sorbet",
       "description": "piv. Sibeeria, Praha, Fruit Sour Ale"
     },
@@ -15,6 +11,10 @@
     {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Skotačivá Veverka",
+      "description": "piv. Valášek, Vsetín, APA"
     },
     {
       "name": "12° Aldersbacher",
