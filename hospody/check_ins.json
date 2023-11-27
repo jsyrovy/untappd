@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1334743507,
+      "dt": "2023-11-26T23:26:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hoppydelic 13°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-hoppydelic-130/5303428"
+    },
+    {
+      "id": 1334743179,
+      "dt": "2023-11-26T23:25:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Primadona",
+      "brewery": "Prager Laffe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/prager-laffe-primadona/2115224"
+    },
+    {
+      "id": 1334648180,
+      "dt": "2023-11-26T18:59:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hoppydelic 13°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-hoppydelic-130/5303428"
+    },
+    {
+      "id": 1334630939,
+      "dt": "2023-11-26T18:04:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hoppydelic 13°",
+      "brewery": "Four Elements",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/four-elements-hoppydelic-130/5303428"
+    },
+    {
+      "id": 1334618885,
+      "dt": "2023-11-26T17:20:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloudy Columbo",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-cloudy-columbo/5594513"
+    },
+    {
       "id": 1334377095,
       "dt": "2023-11-25T22:31:57+01:00",
       "venue_name": "Pivní ambasáda",
