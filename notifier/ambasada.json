@@ -13,16 +13,16 @@
       "description": "piv. Valášek, Vsetín, APA"
     },
     {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Weizen"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Philadelphia Jahoda",
       "description": "piv. Obora, Malšice, Jahodový Sour Ale"
+    },
+    {
+      "name": "12° Weizen",
+      "description": "piv. Pivečka, Rousínov u Vyškova, Weizen"
     },
     {
       "name": "13° HoppyDelic",
