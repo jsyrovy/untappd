@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1334977469,
+      "dt": "2023-11-28T21:12:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopadelic",
+      "brewery": "By The Horns Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/by-the-horns-brewing-co-hopadelic/2268216"
+    },
+    {
+      "id": 1334935019,
+      "dt": "2023-11-28T15:57:26+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "IceHoppy",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-icehoppy/5583862"
+    },
+    {
+      "id": 1334933513,
+      "dt": "2023-11-28T15:29:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Euphoria",
+      "brewery": "Švabín Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/svabin-brewery-euphoria/5482022"
+    },
+    {
+      "id": 1334933368,
+      "dt": "2023-11-28T15:26:27+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Dummy King",
+      "brewery": "Švabín Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/svabin-alchemical-brewery-dummy-king/5379673"
+    },
+    {
       "id": 1334743507,
       "dt": "2023-11-26T23:26:47+01:00",
       "venue_name": "Pivní ambasáda",
