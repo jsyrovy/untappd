@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1335289847,
+      "dt": "2023-11-30T21:19:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Randy - Idaho 7 & Citra Edition",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-randy-idaho-7-and-citra-edition/5605313"
+    },
+    {
+      "id": 1335281203,
+      "dt": "2023-11-30T20:51:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weizen",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-weizen/3497180"
+    },
+    {
+      "id": 1335278924,
+      "dt": "2023-11-30T20:43:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Randy - Idaho 7 & Citra Edition",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-randy-idaho-7-and-citra-edition/5605313"
+    },
+    {
+      "id": 1335265723,
+      "dt": "2023-11-30T19:54:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weizen",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-weizen/3497180"
+    },
+    {
+      "id": 1335231151,
+      "dt": "2023-11-30T16:44:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lazy Cat",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-lazy-cat/689687"
+    },
+    {
+      "id": 1335228536,
+      "dt": "2023-11-30T16:13:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Randy - Idaho 7 & Citra Edition",
+      "brewery": "The Barn Beer Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/the-barn-beer-co-randy-idaho-7-and-citra-edition/5605313"
+    },
+    {
       "id": 1335123304,
       "dt": "2023-11-29T21:27:33+01:00",
       "venue_name": "Pivní ambasáda",
