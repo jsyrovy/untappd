@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Randy Idaho",
-      "description": "piv. The Barn Beer co., Druztová, APA"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -23,6 +19,10 @@
     {
       "name": "13° Prapivo",
       "description": "piv. Sibeeria, Gruit Ale"
+    },
+    {
+      "name": "13° Samotář Azacca",
+      "description": "piv. U Vojtěchů, Pardubice, Single Hop Ale"
     },
     {
       "name": "14° Chladná (ako zmrzlinový pohár)",
