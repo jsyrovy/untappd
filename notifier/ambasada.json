@@ -5,20 +5,16 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Hopfenweizen",
+      "description": "piv. Kundmüller, Weiher, Bavorsko, German Hopfenweizen"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Philadelphia Jahoda",
       "description": "piv. Obora, Malšice, Jahodový Sour Ale"
-    },
-    {
-      "name": "12° Weizen",
-      "description": "piv. Pivečka, Rousínov u Vyškova, Weizen"
-    },
-    {
-      "name": "13° Prapivo",
-      "description": "piv. Sibeeria, Gruit Ale"
     },
     {
       "name": "13° Samotář Azacca",
@@ -31,6 +27,10 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "6° Last Touch of Summer",
+      "description": "piv. Sibeeria, Praha, American Pale Ale"
     }
   ]
 }
