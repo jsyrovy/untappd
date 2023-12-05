@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1336621128,
+      "dt": "2023-12-04T19:38:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chladná (ako zmrzlinový pohár)",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-chladna-ako-zmrzlinovy-pohar/5600403"
+    },
+    {
+      "id": 1336607001,
+      "dt": "2023-12-04T18:13:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chladná (ako zmrzlinový pohár)",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-chladna-ako-zmrzlinovy-pohar/5600403"
+    },
+    {
       "id": 1336148141,
       "dt": "2023-12-02T23:47:58+01:00",
       "venue_name": "U Toulavé pípy",
