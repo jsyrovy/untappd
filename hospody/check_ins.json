@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1336793235,
+      "dt": "2023-12-05T21:02:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Beertime Dialogue: HBC 586 & Huell Melon",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-beertime-dialogue-hbc-586-and-melon/5580210"
+    },
+    {
+      "id": 1336792750,
+      "dt": "2023-12-05T21:00:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Costa Rica Coffee Stout",
+      "brewery": "Pivovar Raven",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-raven-costa-rica-coffee-stout/3515601"
+    },
+    {
       "id": 1336621128,
       "dt": "2023-12-04T19:38:23+01:00",
       "venue_name": "Pivní ambasáda",
