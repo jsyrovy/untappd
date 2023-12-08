@@ -1048,6 +1048,7 @@ INSERT INTO "archive" VALUES(1335124958,'2023-11-29 20:35:06.000000','sejrik','P
 INSERT INTO "archive" VALUES(1335242078,'2023-11-30 17:05:34.000000','sejrik','Staropramen 11','Pivovary Staropramen','Smíchovský radniční sklípek');
 INSERT INTO "archive" VALUES(1335275717,'2023-11-30 19:32:00.000000','sejrik','Staropramen Dark / Černý ležák','Pivovary Staropramen','Smíchovský radniční sklípek');
 INSERT INTO "archive" VALUES(1336961538,'2023-12-06 19:31:48.000000','sejrik','Southwold Christmas Ale 2023','Marks & Spencer','Untappd at Home');
+INSERT INTO "archive" VALUES(1337185307,'2023-12-07 20:51:15.000000','sejrik','Crazy Mike','AleBrowar','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
