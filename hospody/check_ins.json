@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1337204090,
+      "dt": "2023-12-07T22:50:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aecht Schlenkerla Eiche - Doppelbock (2023)",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-eiche-doppelbock-2023/5630122"
+    },
+    {
+      "id": 1337201783,
+      "dt": "2023-12-07T22:42:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloud Connection",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-cloud-connection/5599933"
+    },
+    {
+      "id": 1337197943,
+      "dt": "2023-12-07T22:30:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Bajuwarus",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-bajuwarus/1739361"
+    },
+    {
+      "id": 1337191927,
+      "dt": "2023-12-07T22:10:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydská dvanáctka Ale",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydska-dvanactka-ale/763041"
+    },
+    {
+      "id": 1337105251,
+      "dt": "2023-12-07T16:32:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cloud Connection",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-cloud-connection/5599933"
+    },
+    {
+      "id": 1337103113,
+      "dt": "2023-12-07T16:07:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Last Touch of Summer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-last-touch-of-summer/5520971"
+    },
+    {
       "id": 1337012087,
       "dt": "2023-12-06T23:38:23+01:00",
       "venue_name": "U Toulavé pípy",
