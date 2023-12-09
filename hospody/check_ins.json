@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1337344579,
+      "dt": "2023-12-08T16:37:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Fuckin’ Whatever",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-fuckin-whatever/3532395"
+    },
+    {
+      "id": 1337343145,
+      "dt": "2023-12-08T16:30:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brústok.BeerBerry 14°",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-beerberry-140/5624398"
+    },
+    {
       "id": 1337204090,
       "dt": "2023-12-07T22:50:26+01:00",
       "venue_name": "Pivní ambasáda",
