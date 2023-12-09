@@ -1049,6 +1049,15 @@ INSERT INTO "archive" VALUES(1335242078,'2023-11-30 17:05:34.000000','sejrik','S
 INSERT INTO "archive" VALUES(1335275717,'2023-11-30 19:32:00.000000','sejrik','Staropramen Dark / Černý ležák','Pivovary Staropramen','Smíchovský radniční sklípek');
 INSERT INTO "archive" VALUES(1336961538,'2023-12-06 19:31:48.000000','sejrik','Southwold Christmas Ale 2023','Marks & Spencer','Untappd at Home');
 INSERT INTO "archive" VALUES(1337185307,'2023-12-07 20:51:15.000000','sejrik','Crazy Mike','AleBrowar','Untappd at Home');
+INSERT INTO "archive" VALUES(1337383928,'2023-12-08 17:33:29.000000','sejrik','Anežka','Pivovar Clock','Pivní lednice');
+INSERT INTO "archive" VALUES(1337409551,'2023-12-08 18:26:39.000000','sejrik','Boží Ležák!','Sibeeria','Pivní lednice');
+INSERT INTO "archive" VALUES(1337416792,'2023-12-08 18:40:10.000000','sejrik','Dáreček','Pivovar Mazák','Pivní lednice');
+INSERT INTO "archive" VALUES(1337426392,'2023-12-08 18:57:27.000000','sejrik','Štědrá IPA (2023)','Chroust','Pivní lednice');
+INSERT INTO "archive" VALUES(1337436745,'2023-12-08 19:15:14.000000','sejrik','Vánoční Hruška 12','Rodinný pivovar Zichovec','Pivní lednice');
+INSERT INTO "archive" VALUES(1337448840,'2023-12-08 19:34:47.000000','sejrik','Tekutý kapřík (2023)','Pivovar Clock','Pivní lednice');
+INSERT INTO "archive" VALUES(1337463408,'2023-12-08 19:57:20.000000','sejrik','Spekulka 17','Rodinný pivovar Zichovec','Pivní lednice');
+INSERT INTO "archive" VALUES(1337476810,'2023-12-08 20:17:23.000000','sejrik','Stromeček','Pivovar Antoš','Pivní lednice');
+INSERT INTO "archive" VALUES(1337491839,'2023-12-08 20:39:57.000000','sejrik','Boží Stout!','Sibeeria','Pivní lednice');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
