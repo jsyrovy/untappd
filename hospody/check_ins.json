@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1338353564,
+      "dt": "2023-12-10T20:38:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rafan",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-rafan/2658169"
+    },
+    {
+      "id": 1338335126,
+      "dt": "2023-12-10T19:58:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Twist",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-twist/753375"
+    },
+    {
+      "id": 1338247198,
+      "dt": "2023-12-10T15:21:20+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1338245397,
+      "dt": "2023-12-10T15:11:20+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gentle Way",
+      "brewery": "Yankee & Kraut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/yankee-and-kraut-gentle-way/5452161"
+    },
+    {
       "id": 1337885039,
       "dt": "2023-12-09T19:55:43+01:00",
       "venue_name": "U Toulavé pípy",
