@@ -5,6 +5,10 @@
       "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
+      "name": "12° Maisels Weisse",
+      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -19,10 +23,6 @@
     {
       "name": "16° Merry Fuckin Whatever",
       "description": "piv. Crazy Clown, Sušenkový Ale se sušeným ovocem naloženým v rumu (hrušky, švestky, rozinky, višně, skořice)"
-    },
-    {
-      "name": "17° Bajuwarus",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Weizenbock"
     },
     {
       "name": "17° Berry ME",
