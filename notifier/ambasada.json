@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Sametová",
+      "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -13,8 +13,8 @@
       "description": "piv. Valášek, Vsetín, Session NEIPA"
     },
     {
-      "name": "14° Twist",
-      "description": "piv. Clock, Potštejn, Red IPA"
+      "name": "15° Drakkar",
+      "description": "piv. Panaczech, Praha, NEIPA"
     },
     {
       "name": "16° Merry Fuckin Whatever",
