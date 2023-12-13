@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1338710415,
+      "dt": "2023-12-12T20:28:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Me",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-berry-me/5633150"
+    },
+    {
       "id": 1338353564,
       "dt": "2023-12-10T20:38:58+01:00",
       "venue_name": "Pivní ambasáda",
