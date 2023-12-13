@@ -5,16 +5,12 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Czech Norris",
-      "description": "Dois Corvos/Sibeeria, Dry-Hopped Czech Lager"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Rafan",
-      "description": "piv. HoppyDog, Ostrava, APA"
+      "name": "12° Výtržník",
+      "description": "piv. Valášek, Vsetín, Session NEIPA"
     },
     {
       "name": "14° Twist",
@@ -31,6 +27,10 @@
     {
       "name": "17° Berry ME",
       "description": "piv. Falknštejn/Bad Flash, Pastry Sour Ale"
+    },
+    {
+      "name": "7° Saison Bohémienne (5% alc.)",
+      "description": "Au Baron/Sibeeria, Francouzský Saison"
     }
   ]
 }
