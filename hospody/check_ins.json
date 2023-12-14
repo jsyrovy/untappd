@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1338950025,
+      "dt": "2023-12-13T23:29:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aventinus Eisbock (2022)",
+      "brewery": "Schneider Weisse G. Schneider & Sohn",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/schneider-weisse-g-schneider-and-sohn-aventinus-eisbock-2022/5536578"
+    },
+    {
+      "id": 1338943846,
+      "dt": "2023-12-13T23:05:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Bajuwarus",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-bajuwarus/1739361"
+    },
+    {
+      "id": 1338919366,
+      "dt": "2023-12-13T21:38:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Me",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-berry-me/5633150"
+    },
+    {
+      "id": 1338911606,
+      "dt": "2023-12-13T21:13:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výtržník",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-vytrznik/4294495"
+    },
+    {
+      "id": 1338910984,
+      "dt": "2023-12-13T21:11:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sametová 10",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-sametova-10/1909913"
+    },
+    {
+      "id": 1338909725,
+      "dt": "2023-12-13T21:07:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DRAKKAR 15",
+      "brewery": "Pivovar Panaczech",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-panaczech-drakkar-15/5518971"
+    },
+    {
+      "id": 1338902226,
+      "dt": "2023-12-13T20:44:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výtržník",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-vytrznik/4294495"
+    },
+    {
+      "id": 1338870303,
+      "dt": "2023-12-13T18:44:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výtržník",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-vytrznik/4294495"
+    },
+    {
+      "id": 1338862101,
+      "dt": "2023-12-13T18:05:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Saison Bohémienne",
+      "brewery": "Brasserie au Baron",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-au-baron-saison-bohemienne/5613610"
+    },
+    {
       "id": 1338710415,
       "dt": "2023-12-12T20:28:33+01:00",
       "venue_name": "Pivní ambasáda",
@@ -235,6 +316,15 @@
       "beer_link": "https://untappd.com/b/pivovar-raven-habanero-sour-ipa/5628177"
     },
     {
+      "id": 1337011555,
+      "dt": "2023-12-06T23:36:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Chilli Sour IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-chilli-sour-ipa/5588555"
+    },
+    {
       "id": 1336999183,
       "dt": "2023-12-06T22:42:51+01:00",
       "venue_name": "Pivní ambasáda",
@@ -334,6 +424,15 @@
       "beer_link": "https://untappd.com/b/pivovar-raven-habanero-sour-ipa/5628177"
     },
     {
+      "id": 1336915501,
+      "dt": "2023-12-06T16:41:44+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Chilli Sour IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-chilli-sour-ipa/5588555"
+    },
+    {
       "id": 1336914342,
       "dt": "2023-12-06T16:28:29+01:00",
       "venue_name": "U Toulavé pípy",
@@ -404,6 +503,15 @@
       "brewery": "Pivovar Raven",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-raven-habanero-sour-ipa/5628177"
+    },
+    {
+      "id": 1336148141,
+      "dt": "2023-12-02T23:47:58+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Chilli Sour IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-chilli-sour-ipa/5588555"
     },
     {
       "id": 1336147490,
