@@ -16,6 +16,7 @@ def test_get_total_unique_beers():
         "sejrik": 11,
         "mencik2": 22,
         "Mates511": 33,
+        "karolina_matukova_7117": 44,
         "ominar": 0,
     }
 
