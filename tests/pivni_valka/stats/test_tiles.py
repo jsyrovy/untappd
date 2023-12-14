@@ -34,17 +34,6 @@ def test_get_tiles_data():
             diff_day="+30",
             diff_week="+33",
             diff_month="+33",
-            has_crown=False,
-        ),
-        TileData(
-            name="Kája",
-            user_name="karolina_matukova_7117",
-            url="https://untappd.com/user/karolina_matukova_7117",
-            color="#f88379",
-            unique_beers_count=44,
-            diff_day="+40",
-            diff_week="+44",
-            diff_month="+44",
             has_crown=True,
         ),
     ]
