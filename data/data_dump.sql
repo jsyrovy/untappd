@@ -14123,5 +14123,5 @@ INSERT INTO "pivni_valka" VALUES(13056,'2023-12-14','sejrik',0);
 INSERT INTO "pivni_valka" VALUES(13057,'2023-12-14','mencik2',1);
 INSERT INTO "pivni_valka" VALUES(13058,'2023-12-14','Mates511',0);
 INSERT INTO "pivni_valka" VALUES(13059,'2023-12-14','ominar',0);
-INSERT INTO "pivni_valka" VALUES(13060,'2023-12-14','karolina_matukova_7117',1);
+INSERT INTO "pivni_valka" VALUES(13060,'2023-12-14','karolina_matukova_7117',2);
 COMMIT;
