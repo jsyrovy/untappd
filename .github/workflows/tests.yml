@@ -80,7 +80,7 @@ jobs:
       - name: Test pivni-valka
         run: |
           rm -f web/pivni_valka/index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html
-          echo "BEGIN TRANSACTION; CREATE TABLE [pivni_valka] ([date] text, [user] text, [unique_beers] integer); INSERT INTO "pivni_valka" VALUES('1999-01-01','sejrik',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','mencik2',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','Mates511',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','ominar',0); COMMIT;" > data/data_dump.sql
+          echo "BEGIN TRANSACTION; CREATE TABLE [pivni_valka] ([date] text, [user] text, [unique_beers] integer); INSERT INTO "pivni_valka" VALUES('1999-01-01','sejrik',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','mencik2',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','Mates511',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','ominar',0); INSERT INTO "pivni_valka" VALUES('1999-01-01','karolina_matukova_7117',0); COMMIT;" > data/data_dump.sql
           make run-pivni-valka-notificationless
           test -e web/pivni_valka/index.html
           test -e web/pivni_valka/chart_year.html
