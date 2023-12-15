@@ -3,8 +3,8 @@ import pathlib
 
 from bs4 import BeautifulSoup
 
-import utils
 from notifier.base import Beer, Offer
+from utils import common
 
 
 class AmbasadaOffer(Offer):
@@ -12,7 +12,7 @@ class AmbasadaOffer(Offer):
     PUB_IN_NOTIFICATION = "v Ambasádě"
 
     def run(self) -> None:
-        page = utils.download_page("https://pivniambasada.cz")
+        page = common.download_page("https://pivniambasada.cz")
 
         self._load_previous_beers()
         self._load_current_beers(page)
@@ -27,7 +27,7 @@ class AmbasadaOffer(Offer):
         if not path.exists():
             return
 
-        self._previous_beers = [Beer.from_json(beer) for beer in json.loads(path.read_text(utils.ENCODING))["beers"]]
+        self._previous_beers = [Beer.from_json(beer) for beer in json.loads(path.read_text(common.ENCODING))["beers"]]
 
     def _load_current_beers(self, page: str) -> None:
         soup = BeautifulSoup(page, "html.parser")
@@ -58,5 +58,5 @@ class AmbasadaOffer(Offer):
     def _save_beers(self) -> None:
         data = {"beers": [beer.to_json() for beer in self._current_beers]}
 
-        with open(self.BEERS_PATH, "w", encoding=utils.ENCODING) as f:
+        with open(self.BEERS_PATH, "w", encoding=common.ENCODING) as f:
             f.write(json.dumps(data, indent=2, ensure_ascii=False))

@@ -1,6 +1,6 @@
 from sqlalchemy import Engine
 
-from utils import ENCODING
+from utils.common import ENCODING
 
 DUMP_PATH = "data/data_dump.sql"
 TEST_DUMP_PATH = "data/test_dump.sql"

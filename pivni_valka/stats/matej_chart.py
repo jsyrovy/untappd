@@ -1,4 +1,4 @@
-import utils
+import utils.user
 from pivni_valka.stats.common import ChartData, ChartDataset
 from pivni_valka.stats.total_chart import _get_user_data, _get_chart_labels
 

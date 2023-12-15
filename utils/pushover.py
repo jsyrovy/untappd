@@ -2,7 +2,7 @@ import os
 
 import requests
 
-import utils
+from utils.common import TIMEOUT
 
 
 def send_notification(text: str) -> None:
@@ -13,7 +13,7 @@ def send_notification(text: str) -> None:
             "user": os.environ["PUSHOVER_USER_KEY"],
             "message": text,
         },
-        timeout=utils.TIMEOUT,
+        timeout=TIMEOUT,
     )
 
     r.raise_for_status()

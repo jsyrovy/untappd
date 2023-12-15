@@ -1,5 +1,6 @@
 import mock
-from utils import (
+
+from utils.common import (
     get_random_user_agent,
     USER_AGENTS,
     download_page,
@@ -15,7 +16,7 @@ def test_get_random_user_agent():
 
 
 def test_download_page():
-    with mock.patch("utils.requests.get") as get_mock:
+    with mock.patch("utils.common.requests.get") as get_mock:
         type(get_mock.return_value).text = mock.PropertyMock(return_value="hi")
         assert download_page("") == "hi"
 
@@ -26,7 +27,7 @@ def test_get_template():
 
 
 def test_random_sleep():
-    with mock.patch("utils.time.sleep") as sleep_mock:
+    with mock.patch("utils.common.time.sleep") as sleep_mock:
         random_sleep()
         sleep_mock.assert_called_once()
 

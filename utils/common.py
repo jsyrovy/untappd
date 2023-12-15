@@ -5,8 +5,6 @@ import time
 import jinja2
 import requests
 
-import utils
-
 ENCODING = "utf-8"
 USER_AGENTS = (
     "Windows 10/ Edge browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246",  # noqa: E501 # pylint: disable=line-too-long
@@ -30,7 +28,7 @@ def get_random_user_agent() -> str:
 def download_page(url: str) -> str:
     headers = {"User-Agent": get_random_user_agent()}
 
-    r = requests.get(url, headers=headers, timeout=utils.TIMEOUT)
+    r = requests.get(url, headers=headers, timeout=TIMEOUT)
 
     return r.text
 

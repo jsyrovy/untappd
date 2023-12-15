@@ -3,10 +3,10 @@ from random import shuffle
 
 from bs4 import BeautifulSoup
 
-import utils
 from archivist import create_record_in_db, is_record_in_db
 from database.models import Archive
 from robot.base import BaseRobot
+from utils import common
 
 CHECK_IN_IDS = [
     int(id_)
@@ -759,7 +759,7 @@ class DownloadCheckins(BaseRobot):
                 continue
 
             self.process(id_)
-            utils.random_sleep(max_=2)
+            common.random_sleep(max_=2)
 
         if self.errors:
             raise Exception(f"{self.errors} error(s) occurred.")  # pylint: disable=broad-exception-raised
@@ -780,7 +780,7 @@ class DownloadCheckins(BaseRobot):
 
 
 def get_page(id_: int) -> str:
-    return utils.download_page(f"https://untappd.com/user/sejrik/checkin/{id_}")
+    return common.download_page(f"https://untappd.com/user/sejrik/checkin/{id_}")
 
 
 def parse(page: str, id_: int) -> Archive:

@@ -3,9 +3,9 @@ import pathlib
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
-import utils
 from hospody import CHECK_INS_PATH
 from notifier.base import Offer, Beer
+from utils import common
 
 
 @dataclass
@@ -33,7 +33,7 @@ class PipaBeer(Beer):
 
 class PipaOffer(Offer):
     PUB_IN_NOTIFICATION = "v Pípě"
-    PUB_NAME = utils.PIPA_NAME
+    PUB_NAME = common.PIPA_NAME
 
     def run(self) -> None:
         self._load_beers()
@@ -46,7 +46,7 @@ class PipaOffer(Offer):
 
         beers = [
             PipaBeer.from_json(check_in)
-            for check_in in json.loads(path.read_text(utils.ENCODING))["check_ins"]
+            for check_in in json.loads(path.read_text(common.ENCODING))["check_ins"]
             if check_in["venue_name"] == self.PUB_NAME
         ]
 
@@ -61,4 +61,4 @@ class PipaOffer(Offer):
 
 class LodOffer(PipaOffer):
     PUB_IN_NOTIFICATION = "na Lodi"
-    PUB_NAME = utils.LOD_NAME
+    PUB_NAME = common.LOD_NAME

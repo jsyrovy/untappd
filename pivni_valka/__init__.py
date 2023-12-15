@@ -4,11 +4,13 @@ import random
 import jinja2
 from bs4 import BeautifulSoup
 
-import utils
+import utils.user
 from pivni_valka.stats import common, tiles, total_chart, weekly_chart, matej_chart
 from pivni_valka.stats.common import ChartData
 from pivni_valka.stats.tiles import TileData
 from robot.orm import OrmRobot
+from utils import pushover
+from utils.common import ENCODING, get_template, download_page, get_profile_url, random_sleep
 
 GetPageKwArgs = list[TileData] | ChartData | tuple[str, ...] | list[str] | str
 
@@ -18,7 +20,7 @@ class PivniValka(OrmRobot):
         unique_beers_count = self.get_unique_beers_count()
         users_with_new_beers = self.save_daily_stats_db(unique_beers_count)
         page = self.get_page(
-            utils.get_template("pivni-valka.html"),
+            get_template("pivni-valka.html"),
             tiles_data=tiles.get_tiles_data(),
             total_chart_data=total_chart.get_chart_data(days=14),
             weekly_chart_data=weekly_chart.get_chart_data(),
@@ -27,38 +29,38 @@ class PivniValka(OrmRobot):
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
 
-        with open("web/pivni_valka/index.html", "w", encoding=utils.ENCODING) as f:
+        with open("web/pivni_valka/index.html", "w", encoding=ENCODING) as f:
             f.write(page)
 
         page_month = self.get_page(
-            utils.get_template("pivni-valka-chart.html"),
+            get_template("pivni-valka-chart.html"),
             total_chart_data=total_chart.get_chart_data(days=30),
             link="chart_year.html",
         )
 
-        with open("web/pivni_valka/chart_month.html", "w", encoding=utils.ENCODING) as f:
+        with open("web/pivni_valka/chart_month.html", "w", encoding=ENCODING) as f:
             f.write(page_month)
 
         page_year = self.get_page(
-            utils.get_template("pivni-valka-chart.html"),
+            get_template("pivni-valka-chart.html"),
             total_chart_data=total_chart.get_chart_data(days=365),
             link="chart_all.html",
         )
 
-        with open("web/pivni_valka/chart_year.html", "w", encoding=utils.ENCODING) as f:
+        with open("web/pivni_valka/chart_year.html", "w", encoding=ENCODING) as f:
             f.write(page_year)
 
         page_all = self.get_page(
-            utils.get_template("pivni-valka-chart.html"),
+            get_template("pivni-valka-chart.html"),
             total_chart_data=total_chart.get_chart_data(),
         )
 
-        with open("web/pivni_valka/chart_all.html", "w", encoding=utils.ENCODING) as f:
+        with open("web/pivni_valka/chart_all.html", "w", encoding=ENCODING) as f:
             f.write(page_all)
 
         if not self._args.local and not self._args.notificationless and users_with_new_beers:
             status = self.get_yesterday_status(users_with_new_beers)
-            utils.pushover.send_notification(status)
+            pushover.send_notification(status)
 
     def get_unique_beers_count(self) -> dict[str, int]:
         data: dict[str, int] = {}
@@ -73,9 +75,9 @@ class PivniValka(OrmRobot):
             return data
 
         for user_name in utils.user.USER_NAMES:
-            user_profile = utils.download_page(utils.get_profile_url(user_name))
+            user_profile = download_page(get_profile_url(user_name))
             data[user_name] = self.parse_unique_beers_count(user_profile)
-            utils.random_sleep()
+            random_sleep()
 
         return data
 

@@ -3,8 +3,8 @@ from dataclasses import dataclass
 
 from sqlalchemy import text
 
-import utils
 from database.orm import engine
+from utils import pushover
 
 
 @dataclass
@@ -49,7 +49,7 @@ class Offer:
             print(message)
             return
 
-        utils.pushover.send_notification(message)
+        pushover.send_notification(message)
 
     def set_tasted(self) -> None:
         for beer in self.new_beers:

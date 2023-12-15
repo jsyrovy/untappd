@@ -9,8 +9,8 @@ from typing import Any
 import jinja2
 from bs4 import BeautifulSoup
 
-import utils
 from robot.base import BaseRobot
+from utils import common
 
 CHECK_INS_PATH = "hospody/check_ins.json"
 
@@ -46,7 +46,7 @@ class CheckIn:  # pylint: disable=too-many-instance-attributes
             "Pivo",
             "Pivovar",
             SERVING_DRAFT,
-            utils.BASE_URL,
+            common.BASE_URL,
             random.choice(venues).url,
         )
 
@@ -78,16 +78,16 @@ class CheckIn:  # pylint: disable=too-many-instance-attributes
 class Hospody(BaseRobot):
     def _main(self) -> None:
         venues = (
-            Venue(utils.PIPA_NAME, f"{utils.BASE_URL}/v/u-toulave-pipy/3663231"),
-            Venue(utils.AMBASADA_NAME, f"{utils.BASE_URL}/v/pivni-ambasada/3943799"),
-            Venue(utils.LOD_NAME, f"{utils.BASE_URL}/v/lod-otava/6353222"),
+            Venue(common.PIPA_NAME, f"{common.BASE_URL}/v/u-toulave-pipy/3663231"),
+            Venue(common.AMBASADA_NAME, f"{common.BASE_URL}/v/pivni-ambasada/3943799"),
+            Venue(common.LOD_NAME, f"{common.BASE_URL}/v/lod-otava/6353222"),
         )
 
         new_check_ins = []
 
         for venue in venues:
             new_check_ins.extend(get_new_check_ins(self._args.local, venue, venues))
-            utils.random_sleep()
+            common.random_sleep()
 
         check_ins = load_check_ins(venues)
 
@@ -102,9 +102,9 @@ class Hospody(BaseRobot):
         sort_check_ins(check_ins)
         save_check_ins(check_ins)
         unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
-        page = get_page(utils.get_template("hospody.html"), unique_beers_check_ins)
+        page = get_page(common.get_template("hospody.html"), unique_beers_check_ins)
 
-        with open("web/hospody/index.html", "w", encoding=utils.ENCODING) as f:
+        with open("web/hospody/index.html", "w", encoding=common.ENCODING) as f:
             f.write(page)
 
 
@@ -116,7 +116,7 @@ def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> l
             CheckIn.get_random(venues),
         ]
 
-    page = utils.download_page(venue.url)
+    page = common.download_page(venue.url)
     return parse_check_ins(page, venue)
 
 
@@ -153,7 +153,7 @@ def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:  # pylint: disabl
         brewery = links[2].text
         serving_section = checkin_comment.find("p", class_="serving") if checkin_comment else None
         serving = get_czech_serving(serving_section.find("span").text if serving_section else None)
-        beer_link = f'{utils.BASE_URL}{links[1]["href"]}'
+        beer_link = f'{common.BASE_URL}{links[1]["href"]}'
 
         beers.append(CheckIn(id_, dt, venue.name, beer_name, brewery, serving, beer_link, venue.url))
 
@@ -168,7 +168,7 @@ def load_check_ins(venues: tuple[Venue, ...]) -> list[CheckIn]:
 
     return [
         CheckIn.from_json(check_in, venues)
-        for check_in in json.loads(path.read_text(encoding=utils.ENCODING))["check_ins"]
+        for check_in in json.loads(path.read_text(encoding=common.ENCODING))["check_ins"]
     ]
 
 
@@ -179,7 +179,7 @@ def sort_check_ins(check_ins: list[CheckIn]) -> None:
 def save_check_ins(check_ins: list[CheckIn]) -> None:
     data = {"check_ins": [check_in.to_json() for check_in in check_ins]}
 
-    with open(CHECK_INS_PATH, "w", encoding=utils.ENCODING) as f:
+    with open(CHECK_INS_PATH, "w", encoding=common.ENCODING) as f:
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
 

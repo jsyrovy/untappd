@@ -4,7 +4,7 @@ from typing import Sequence
 
 from sqlalchemy import text, Row
 
-import utils
+import utils.user
 from database.orm import engine
 from pivni_valka.stats.common import ChartData, ChartDataset
 

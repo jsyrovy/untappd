@@ -3,7 +3,7 @@ from typing import Optional
 
 from sqlalchemy import text
 
-import utils
+import utils.user
 from database.orm import engine
 from pivni_valka.stats.common import ChartData, ChartDataset, get_unique_beers_before
 

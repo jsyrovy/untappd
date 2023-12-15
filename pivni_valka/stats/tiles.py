@@ -1,8 +1,9 @@
 from dataclasses import dataclass
 from operator import itemgetter
 
-import utils
+import utils.user
 from pivni_valka.stats.common import get_total_unique_beers, get_unique_beers
+from utils import common
 
 
 @dataclass
@@ -28,7 +29,7 @@ def get_tiles_data() -> list[TileData]:
             TileData(
                 user.name,
                 user.user_name,
-                f"{utils.BASE_URL}/user/{user.user_name}",
+                f"{common.BASE_URL}/user/{user.user_name}",
                 user.color,
                 total_unique_beers[user.user_name],
                 get_unique_beers(user.user_name, days=1, formatted=True),
