@@ -5,6 +5,10 @@
       "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
+      "name": "12° California",
+      "description": "piv. Matuška, Broumy, American Pale Ale"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Philadelphia Mango/Marakuja",
       "description": "piv. Obora, Malšice, Fruit Sour Ale"
-    },
-    {
-      "name": "13° El Dorado Sharp",
-      "description": "piv. Horác, Jihlava, Single Hop Ale"
     },
     {
       "name": "15° Drakkar",
