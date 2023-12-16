@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1339561947,
+      "dt": "2023-12-16T00:41:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Noel/ Christmas (2023)",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-noel-christmas-2023/5588781"
+    },
+    {
+      "id": 1339559040,
+      "dt": "2023-12-16T00:35:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Saison Bohémienne",
+      "brewery": "Brasserie au Baron",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-au-baron-saison-bohemienne/5613610"
+    },
+    {
+      "id": 1339555442,
+      "dt": "2023-12-16T00:28:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sharp El Dorado",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-sharp-el-dorado/4882709"
+    },
+    {
       "id": 1339166057,
       "dt": "2023-12-14T23:03:51+01:00",
       "venue_name": "Pivní ambasáda",
