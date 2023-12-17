@@ -5,10 +5,6 @@
       "description": "piv. Matuška, Broumy, American Pale Ale"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
@@ -17,16 +13,20 @@
       "description": "piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
+      "name": "13° Anděl",
+      "description": "piv. Matuška, Broumy, Belgian Blonde Ale"
+    },
+    {
       "name": "14° Old Gold IPA",
       "description": "piv. JungBerg/Budvar, Gold IPA"
     },
     {
-      "name": "19° Delirium Christmas",
-      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Strong Ale, 0,25l"
+      "name": "19° Boží NEIPA!",
+      "description": "piv. Sibeeria, Praha, New England IPA"
     },
     {
-      "name": "7° Saison Bohémienne (5% alc.)",
-      "description": "Au Baron/Sibeeria, Francouzský Saison"
+      "name": "19° Delirium Christmas",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Strong Ale, 0,25l"
     }
   ]
 }
