@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Sametová",
-      "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
       "name": "12° California",
       "description": "piv. Matuška, Broumy, American Pale Ale"
     },
