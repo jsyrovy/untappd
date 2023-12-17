@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1340039039,
+      "dt": "2023-12-16T23:33:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Noel/ Christmas (2023)",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-noel-christmas-2023/5588781"
+    },
+    {
+      "id": 1340029725,
+      "dt": "2023-12-16T23:20:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "California 12°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-california-120/201399"
+    },
+    {
       "id": 1339561947,
       "dt": "2023-12-16T00:41:15+01:00",
       "venue_name": "Pivní ambasáda",
