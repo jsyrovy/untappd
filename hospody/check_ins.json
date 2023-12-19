@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1340579359,
+      "dt": "2023-12-18T21:08:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1340540917,
+      "dt": "2023-12-18T18:08:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1340537332,
+      "dt": "2023-12-18T17:41:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Old Gold IPA",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-old-gold-ipa/5615765"
+    },
+    {
+      "id": 1340535577,
+      "dt": "2023-12-18T17:27:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1340534541,
+      "dt": "2023-12-18T17:18:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1340534306,
+      "dt": "2023-12-18T17:16:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "California 12°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-california-120/201399"
+    },
+    {
+      "id": 1340533627,
+      "dt": "2023-12-18T17:10:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Old Gold IPA",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-old-gold-ipa/5615765"
+    },
+    {
+      "id": 1340529689,
+      "dt": "2023-12-18T16:24:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anděl 13°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-andel-130/5129786"
+    },
+    {
       "id": 1340362041,
       "dt": "2023-12-17T20:52:34+01:00",
       "venue_name": "Pivní ambasáda",
