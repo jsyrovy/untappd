@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Liquid Luck",
+      "description": "piv. Sibeeria, Praha, APA"
+    },
+    {
       "name": "12° Cirrus",
       "description": "piv. Chroust, Potštejn,  New England IPA"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° Vánoční",
       "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
-      "name": "19° Boží NEIPA!",
-      "description": "piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "19° Delirium Christmas",
