@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1341023262,
+      "dt": "2023-12-21T00:12:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kynšperský Zajíc 13° vídeňský speciál",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-13-vidensky-special/754586"
+    },
+    {
+      "id": 1340971249,
+      "dt": "2023-12-20T21:29:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý kapřík (2023)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2023/5615594"
+    },
+    {
+      "id": 1340968895,
+      "dt": "2023-12-20T21:23:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cirrus",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-cirrus/5554454"
+    },
+    {
+      "id": 1340954095,
+      "dt": "2023-12-20T20:42:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží NEIPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-neipa/4071886"
+    },
+    {
+      "id": 1340953836,
+      "dt": "2023-12-20T20:41:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
+      "id": 1340913580,
+      "dt": "2023-12-20T18:22:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cirrus",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-cirrus/5554454"
+    },
+    {
+      "id": 1340895446,
+      "dt": "2023-12-20T16:34:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý kapřík (2023)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2023/5615594"
+    },
+    {
+      "id": 1340895019,
+      "dt": "2023-12-20T16:30:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour - Strawberry & Lychee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-strawberry-and-lychee/5458596"
+    },
+    {
       "id": 1340579359,
       "dt": "2023-12-18T21:08:33+01:00",
       "venue_name": "Pivní ambasáda",
