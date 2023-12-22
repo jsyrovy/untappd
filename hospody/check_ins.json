@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1341215204,
+      "dt": "2023-12-21T21:16:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
+      "id": 1341156882,
+      "dt": "2023-12-21T18:47:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné Pivo",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-psenicne-pivo/3984035"
+    },
+    {
+      "id": 1341153259,
+      "dt": "2023-12-21T18:35:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční 14",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-vanocni-14/2407143"
+    },
+    {
+      "id": 1341152319,
+      "dt": "2023-12-21T18:32:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cirrus",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-cirrus/5554454"
+    },
+    {
+      "id": 1341149815,
+      "dt": "2023-12-21T18:23:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý kapřík (2023)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2023/5615594"
+    },
+    {
+      "id": 1341142546,
+      "dt": "2023-12-21T17:56:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční 14",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-vanocni-14/2407143"
+    },
+    {
+      "id": 1341137129,
+      "dt": "2023-12-21T17:31:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cirrus",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-cirrus/5554454"
+    },
+    {
+      "id": 1341137127,
+      "dt": "2023-12-21T17:31:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý kapřík (2023)",
+      "brewery": "Pivovar Clock",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2023/5615594"
+    },
+    {
       "id": 1341023262,
       "dt": "2023-12-21T00:12:52+01:00",
       "venue_name": "Pivní ambasáda",
