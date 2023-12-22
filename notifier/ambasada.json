@@ -5,6 +5,10 @@
       "description": "piv. Sibeeria, Praha, APA"
     },
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Cirrus",
       "description": "piv. Chroust, Potštejn,  New England IPA"
     },
@@ -17,16 +21,12 @@
       "description": "piv. Kynšperksý Zajíc, Weizen"
     },
     {
-      "name": "13° Tekutý Kapřík 2023",
-      "description": "piv. Clock, Potštejn, DDH Kolsh"
-    },
-    {
-      "name": "14° Vánoční",
-      "description": "piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
       "name": "16° Merry Stressmas",
       "description": "piv. Crazy Clown, Praha, Dark Sour Ale  s lékořicí, badyánem a citronem"
+    },
+    {
+      "name": "17° Tlustý Netopýr",
+      "description": "piv. Antoš, Slaný, Rye IPA"
     },
     {
       "name": "19° Delirium Christmas",
