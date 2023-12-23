@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1341620719,
+      "dt": "2023-12-22T22:20:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1341608661,
+      "dt": "2023-12-22T22:03:34+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour - Strawberry & Lychee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-strawberry-and-lychee/5458596"
+    },
+    {
+      "id": 1341587476,
+      "dt": "2023-12-22T21:34:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Stressmas",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-stressmas/5617208"
+    },
+    {
+      "id": 1341585936,
+      "dt": "2023-12-22T21:32:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Apač",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-apac/3902175"
+    },
+    {
+      "id": 1341481189,
+      "dt": "2023-12-22T18:48:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Stressmas",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-stressmas/5617208"
+    },
+    {
+      "id": 1341469177,
+      "dt": "2023-12-22T18:23:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Christmas IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-christmas-ipa/5098812"
+    },
+    {
+      "id": 1341452912,
+      "dt": "2023-12-22T17:45:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet New England",
+      "brewery": "Gæðingur Brugghús",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/gaedingur-brugghus-sweet-new-england/3715133"
+    },
+    {
+      "id": 1341446608,
+      "dt": "2023-12-22T17:27:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Icelandic White Ale",
+      "brewery": "Einstök Ölgerð",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/einstok-olgerd-icelandic-white-ale/103773"
+    },
+    {
+      "id": 1341443136,
+      "dt": "2023-12-22T17:16:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SOPI Session IPA",
+      "brewery": "Malbygg",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/malbygg-sopi-session-ipa/2565148"
+    },
+    {
       "id": 1341215204,
       "dt": "2023-12-21T21:16:28+01:00",
       "venue_name": "Pivní ambasáda",
