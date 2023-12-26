@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1342924171,
+      "dt": "2023-12-25T19:05:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Apač",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-apac/3902175"
+    },
+    {
+      "id": 1342922699,
+      "dt": "2023-12-25T19:02:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
       "id": 1341935857,
       "dt": "2023-12-23T18:23:06+01:00",
       "venue_name": "U Toulavé pípy",
