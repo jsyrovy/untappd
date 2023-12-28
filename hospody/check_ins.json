@@ -1,6 +1,195 @@
 {
   "check_ins": [
     {
+      "id": 1343661494,
+      "dt": "2023-12-27T20:21:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ježíšek 20",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-jezisek-20/2438968"
+    },
+    {
+      "id": 1343661414,
+      "dt": "2023-12-27T20:21:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1343659596,
+      "dt": "2023-12-27T20:17:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Noel/ Christmas (2023)",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-noel-christmas-2023/5588781"
+    },
+    {
+      "id": 1343658980,
+      "dt": "2023-12-27T20:16:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1343658564,
+      "dt": "2023-12-27T20:15:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Stressmas",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-stressmas/5617208"
+    },
+    {
+      "id": 1343658109,
+      "dt": "2023-12-27T20:14:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Apač",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-apac/3902175"
+    },
+    {
+      "id": 1343656505,
+      "dt": "2023-12-27T20:11:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1343655399,
+      "dt": "2023-12-27T20:08:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Královská Vášeň 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-kralovska-vasen-12/5648866"
+    },
+    {
+      "id": 1343654414,
+      "dt": "2023-12-27T20:06:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Královská Vášeň 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-kralovska-vasen-12/5648866"
+    },
+    {
+      "id": 1343653223,
+      "dt": "2023-12-27T20:04:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1343648558,
+      "dt": "2023-12-27T19:54:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Královská Vášeň 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-kralovska-vasen-12/5648866"
+    },
+    {
+      "id": 1343635416,
+      "dt": "2023-12-27T19:24:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1343632589,
+      "dt": "2023-12-27T19:17:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1343627691,
+      "dt": "2023-12-27T19:05:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Apač",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-apac/3902175"
+    },
+    {
+      "id": 1343627186,
+      "dt": "2023-12-27T19:04:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ježibaba 12",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-jezibaba-12/1573582"
+    },
+    {
+      "id": 1343626091,
+      "dt": "2023-12-27T19:01:59+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční Perníček",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-vanocni-pernicek/4067107"
+    },
+    {
+      "id": 1343620166,
+      "dt": "2023-12-27T18:46:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Stressmas",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-stressmas/5617208"
+    },
+    {
+      "id": 1343611775,
+      "dt": "2023-12-27T18:24:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné Pivo",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-psenicne-pivo/3984035"
+    },
+    {
+      "id": 1343604165,
+      "dt": "2023-12-27T18:02:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1343599686,
+      "dt": "2023-12-27T17:48:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Apač",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-apac/3902175"
+    },
+    {
+      "id": 1343596252,
+      "dt": "2023-12-27T17:36:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gunslinger",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-gunslinger/1614466"
+    },
+    {
       "id": 1342924171,
       "dt": "2023-12-25T19:05:33+01:00",
       "venue_name": "Pivní ambasáda",
