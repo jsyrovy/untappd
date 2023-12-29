@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Garp - 410",
+      "description": "piv. Garp, Bakov nad Jizerou, Session IPA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Weizen"
-    },
-    {
-      "name": "12° Královská Vášeň",
-      "description": "piv. JungBerg, Hořice, Pale Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
