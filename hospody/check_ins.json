@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1344131495,
+      "dt": "2023-12-29T00:09:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Královská Vášeň 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-kralovska-vasen-12/5648866"
+    },
+    {
+      "id": 1344129194,
+      "dt": "2023-12-29T00:04:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1343918024,
+      "dt": "2023-12-28T16:38:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Královská Vášeň 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-kralovska-vasen-12/5648866"
+    },
+    {
       "id": 1343661494,
       "dt": "2023-12-27T20:21:43+01:00",
       "venue_name": "U Toulavé pípy",
