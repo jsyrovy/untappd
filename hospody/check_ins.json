@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1344584442,
+      "dt": "2023-12-30T00:42:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1344505618,
+      "dt": "2023-12-29T22:39:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Garp 410",
+      "brewery": "Pivovar Garp",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-garp-garp-410/3201826"
+    },
+    {
+      "id": 1344484356,
+      "dt": "2023-12-29T22:10:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Garp 410",
+      "brewery": "Pivovar Garp",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-garp-garp-410/3201826"
+    },
+    {
+      "id": 1344438331,
+      "dt": "2023-12-29T21:10:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1344419683,
+      "dt": "2023-12-29T20:45:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1344295080,
+      "dt": "2023-12-29T16:42:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Královská Vášeň 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-kralovska-vasen-12/5648866"
+    },
+    {
+      "id": 1344294276,
+      "dt": "2023-12-29T16:39:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
       "id": 1344131495,
       "dt": "2023-12-29T00:09:07+01:00",
       "venue_name": "Pivní ambasáda",
