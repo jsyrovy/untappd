@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1344943946,
+      "dt": "2023-12-30T21:37:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Stressmas",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-stressmas/5617208"
+    },
+    {
+      "id": 1344920654,
+      "dt": "2023-12-30T21:09:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kabel",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-kabel/4345337"
+    },
+    {
+      "id": 1344906276,
+      "dt": "2023-12-30T20:51:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1344853950,
+      "dt": "2023-12-30T19:39:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kabel",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-kabel/4345337"
+    },
+    {
+      "id": 1344852010,
+      "dt": "2023-12-30T19:36:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
       "id": 1344584442,
       "dt": "2023-12-30T00:42:51+01:00",
       "venue_name": "Pivní ambasáda",
