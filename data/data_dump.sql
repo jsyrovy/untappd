@@ -1069,6 +1069,8 @@ INSERT INTO "archive" VALUES(1345319890,'2023-12-31 17:47:50.000000','sejrik','B
 INSERT INTO "archive" VALUES(1345401241,'2023-12-31 19:35:17.000000','sejrik','One Star','Sibeeria','Untappd at Home');
 INSERT INTO "archive" VALUES(1345460522,'2023-12-31 20:40:27.000000','sejrik','Weihenstephaner Hefeweissbier','Bayerische Staatsbrauerei Weihenstephan','Untappd at Home');
 INSERT INTO "archive" VALUES(1345645598,'2024-01-01 00:24:58.000000','sejrik','I Love the Smell of Citra In the Morning','Sibeeria','Untappd at Home');
+INSERT INTO "archive" VALUES(1345798608,'2024-01-01 11:21:25.000000','sejrik','Světlé pivo Výčepní 10°','Hubertus','Untappd at Home');
+INSERT INTO "archive" VALUES(1345897545,'2024-01-01 20:46:48.000000','sejrik','Baby, All I Want For Christmas Is Double NEIPA (2023)','Falkon','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
