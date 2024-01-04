@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1346162275,
+      "dt": "2024-01-03T16:23:30+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Linecký Věneček",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-linecky-venecek/3553453"
+    },
+    {
+      "id": 1346161259,
+      "dt": "2024-01-03T16:11:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pardubickej Lajf #5",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-5/5637725"
+    },
+    {
       "id": 1344943946,
       "dt": "2023-12-30T21:37:59+01:00",
       "venue_name": "Pivní ambasáda",
