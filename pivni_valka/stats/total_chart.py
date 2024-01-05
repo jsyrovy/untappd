@@ -1,9 +1,11 @@
 import datetime
 from typing import Optional
 
-from sqlalchemy import text
+from sqlalchemy import select, func
+from sqlalchemy.orm import Session
 
 import utils.user
+from database.models import PivniValka
 from database.orm import engine
 from pivni_valka.stats.common import ChartData, ChartDataset, get_unique_beers_before
 
@@ -24,13 +26,21 @@ def _get_user_data(user_name: str, days: Optional[int] = None) -> list[int]:
 
 
 def _get_days() -> int:
-    with engine.connect() as conn:
-        return conn.execute(  # type: ignore
-            text("SELECT COUNT(`date`) FROM (SELECT DISTINCT `date` FROM pivni_valka)")
-        ).scalar_one()
+    inner_stmt = select(PivniValka.date).distinct()
+    subquery = inner_stmt.subquery()
+    stmt = select(func.count(subquery.c.date))  # pylint: disable=not-callable
+
+    with Session(engine) as session:
+        return session.execute(stmt).scalar_one()
 
 
 def _get_chart_labels(days: Optional[int] = None) -> list[str]:
-    sql = "SELECT DISTINCT `date` FROM pivni_valka ORDER BY `date` DESC"
-    with engine.connect() as conn:
-        return list(reversed(conn.execute(text(f"{sql} LIMIT {days};" if days else sql)).scalars().all()))
+    stmt = select(PivniValka.date).distinct().order_by(PivniValka.date.desc())
+
+    if days:
+        stmt = stmt.limit(days)
+
+    with Session(engine) as session:
+        dates = session.execute(stmt).scalars().all()
+
+    return [date.isoformat() for date in reversed(dates)]

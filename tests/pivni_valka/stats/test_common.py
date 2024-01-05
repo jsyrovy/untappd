@@ -1,7 +1,9 @@
 import datetime
 
-from sqlalchemy import text
+from sqlalchemy import select, func
+from sqlalchemy.orm import Session
 
+from database.models import PivniValka
 from database.orm import engine
 from pivni_valka.stats.common import (
     get_total_unique_beers,
@@ -37,12 +39,9 @@ def test_get_unique_beers_before():
 
 def test_save_daily_stats():
     def _get_count(_date, _user_name):
-        with engine.connect() as conn:
-            return conn.execute(
-                text(
-                    "SELECT SUM(unique_beers) FROM pivni_valka WHERE `date` = :date and user = :user;",
-                ).bindparams(date=_date, user=_user_name)
-            ).scalar_one()
+        stmt = select(func.sum(PivniValka.unique_beers)).where(PivniValka.date == _date, PivniValka.user == _user_name)
+        with Session(engine) as session:
+            return session.execute(stmt).scalar_one()
 
     date = datetime.date.today()
     user_name = "tester"

@@ -2,7 +2,7 @@ import datetime
 from dataclasses import dataclass
 from typing import Optional
 
-from sqlalchemy import text, func, select
+from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 from database.models import PivniValka
@@ -29,9 +29,13 @@ def get_total_unique_beers() -> dict[str, int]:
 
 
 def get_unique_beers(user_name: str, days: Optional[int] = None, formatted: bool = False) -> str:
-    sql = "SELECT unique_beers FROM pivni_valka WHERE user = :user ORDER BY `date` DESC"
-    with engine.connect() as conn:
-        values = conn.execute(text(f"{sql} LIMIT {days};" if days else sql).bindparams(user=user_name)).scalars().all()
+    stmt = select(PivniValka.unique_beers).where(PivniValka.user == user_name).order_by(PivniValka.date.desc())
+
+    if days:
+        stmt = stmt.limit(days)
+
+    with Session(engine) as session:
+        values = session.execute(stmt).scalars().all()
 
     beers = sum(values)
 
