@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1346398936,
+      "dt": "2024-01-04T22:00:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold's Cool",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cold-s-cool/5517522"
+    },
+    {
+      "id": 1346398739,
+      "dt": "2024-01-04T22:00:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold's Cool",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-cold-s-cool/5517522"
+    },
+    {
       "id": 1346162275,
       "dt": "2024-01-03T16:23:30+01:00",
       "venue_name": "U Toulavé pípy",
@@ -176,6 +194,15 @@
       "dt": "2023-12-27T20:17:46+01:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Delirium Noel/ Christmas (2023)",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-noel-christmas-2023/5588781"
+    },
+    {
+      "id": 1343659596,
+      "dt": "2023-12-27T20:17:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Noël / Christmas (2023)",
       "brewery": "Delirium - Huyghe Brewery",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-noel-christmas-2023/5588781"
