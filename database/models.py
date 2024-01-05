@@ -1,7 +1,7 @@
 import datetime
 from typing import Optional
 
-from sqlalchemy import String, DateTime, Integer
+from sqlalchemy import String, Date, DateTime, Integer
 from sqlalchemy.orm import DeclarativeBase, mapped_column, Mapped
 
 
@@ -13,7 +13,7 @@ class PivniValka(Base):
     __tablename__ = "pivni_valka"
 
     id: Mapped[int] = mapped_column(Integer(), primary_key=True)
-    date: Mapped[datetime.datetime] = mapped_column(DateTime())
+    date: Mapped[datetime.date] = mapped_column(Date())
     user: Mapped[str] = mapped_column(String())
     unique_beers: Mapped[int] = mapped_column(Integer())
 
