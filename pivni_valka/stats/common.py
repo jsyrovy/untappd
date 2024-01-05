@@ -23,11 +23,9 @@ class ChartData:
 
 
 def get_total_unique_beers() -> dict[str, int]:
-    with engine.connect() as conn:
-        return {
-            value[0]: value[1]
-            for value in conn.execute(text("SELECT user, SUM(unique_beers) FROM pivni_valka GROUP BY user;")).all()
-        }
+    stmt = select(PivniValka.user, func.sum(PivniValka.unique_beers)).group_by(PivniValka.user)
+    with Session(engine) as session:
+        return {user: count for user, count in session.execute(stmt).all()}  # pylint: disable=unnecessary-comprehension
 
 
 def get_unique_beers(user_name: str, days: Optional[int] = None, formatted: bool = False) -> str:
@@ -44,34 +42,19 @@ def get_unique_beers(user_name: str, days: Optional[int] = None, formatted: bool
 
 
 def get_unique_beers_before(user_name: str, before: datetime.date) -> int:
-    stmt = select(func.sum(PivniValka.unique_beers)).where(  # pylint: disable=not-callable
-        PivniValka.user == user_name, PivniValka.date < before
-    )
+    stmt = select(func.sum(PivniValka.unique_beers)).where(PivniValka.user == user_name, PivniValka.date < before)
     with Session(engine) as session:
-        return session.execute(stmt).scalar_one()  # type: ignore[no-any-return]
+        return session.execute(stmt).scalar_one()
 
 
 def save_daily_stats(date: datetime.date, user_name: str, count: int) -> None:
-    with engine.connect() as conn:
-        exists = bool(
-            conn.execute(
-                text(
-                    "SELECT 1 FROM pivni_valka WHERE `date` = :date and user = :user;",
-                ).bindparams(date=date, user=user_name)
-            ).first()
-        )
+    select_stmt = select(PivniValka).where(PivniValka.date == date, PivniValka.user == user_name)
+    with Session(engine) as session:
+        record = session.execute(select_stmt).scalar_one_or_none()
 
-        if exists:
-            conn.execute(
-                text(
-                    "UPDATE pivni_valka SET unique_beers = :unique_beers WHERE `date` = :date and user = :user;",
-                ).bindparams(date=date, user=user_name, unique_beers=count)
-            )
+        if record:
+            record.unique_beers = count
         else:
-            conn.execute(
-                text(
-                    "INSERT INTO pivni_valka (`date`, user, unique_beers) VALUES (:date, :user, :unique_beers);",
-                ).bindparams(date=date, user=user_name, unique_beers=count)
-            )
+            session.add(PivniValka(date=date, user=user_name, unique_beers=count))
 
-        conn.commit()
+        session.commit()
