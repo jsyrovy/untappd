@@ -76,7 +76,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init-dev
+        run: make init
       - name: Test pivni-valka
         run: |
           rm -f web/pivni_valka/index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html
@@ -97,7 +97,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init-dev
+        run: make init
       - name: Test hospody
         run: |
           rm -f web/hospody/index.html hospody/check_ins.json
@@ -116,7 +116,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Create venv
-        run: make init-dev
+        run: make init
       - name: Test notifier
         run: |
           rm -f notifier/ambasada.json
