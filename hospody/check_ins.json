@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1346720422,
+      "dt": "2024-01-06T00:41:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold's Cool",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cold-s-cool/5517522"
+    },
+    {
+      "id": 1346540740,
+      "dt": "2024-01-05T17:52:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pêche Mel Bush",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-peche-mel-bush/27604"
+    },
+    {
+      "id": 1346529889,
+      "dt": "2024-01-05T17:07:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Merry Stressmas",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-merry-stressmas/5617208"
+    },
+    {
       "id": 1346398936,
       "dt": "2024-01-04T22:00:52+01:00",
       "venue_name": "Pivní ambasáda",
