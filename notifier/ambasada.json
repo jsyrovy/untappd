@@ -9,10 +9,6 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Aldersbacher",
-      "description": "piv. Aldersbacher, Dolní Bavorsko, German Weizen"
-    },
-    {
       "name": "12° Boží Session IPA!",
       "description": "piv. Sibeeria, Praha, Session IPA"
     },
@@ -27,6 +23,10 @@
     {
       "name": "13° Colds Cool",
       "description": "piv. Sibeeria/Pinta, Cold IPA"
+    },
+    {
+      "name": "16° Samice Hrabáče",
+      "description": "piv. Crazy Clown, Praha, Dunkel Weizenbock"
     },
     {
       "name": "17° Zlatý Prasátko 2023",
