@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1347112123,
+      "dt": "2024-01-07T00:16:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pardubickej Lajf #5",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-5/5637725"
+    },
+    {
+      "id": 1346880946,
+      "dt": "2024-01-06T17:22:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý prasátko (2023)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2023/5615717"
+    },
+    {
       "id": 1346720422,
       "dt": "2024-01-06T00:41:59+01:00",
       "venue_name": "Pivní ambasáda",
