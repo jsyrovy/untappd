@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1347329522,
+      "dt": "2024-01-07T20:50:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatý prasátko (2023)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2023/5615717"
+    },
+    {
+      "id": 1347325269,
+      "dt": "2024-01-07T20:38:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samice Hrabáče",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-samice-hrabace/5633796"
+    },
+    {
       "id": 1347112123,
       "dt": "2024-01-07T00:16:52+01:00",
       "venue_name": "U Toulavé pípy",
