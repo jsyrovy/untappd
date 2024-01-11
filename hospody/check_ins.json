@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1347745432,
+      "dt": "2024-01-10T23:42:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Mango w/ Apricot",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-mango-w-apricot/4288742"
+    },
+    {
       "id": 1347492284,
       "dt": "2024-01-08T21:33:29+01:00",
       "venue_name": "Pivní ambasáda",
