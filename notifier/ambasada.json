@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Loki",
-      "description": "piv. Panaczech, Praha, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Mosaic",
+      "description": "piv. Zichovec, Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
