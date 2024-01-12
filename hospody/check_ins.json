@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1347891570,
+      "dt": "2024-01-11T23:12:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1347885816,
+      "dt": "2024-01-11T22:46:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána Maracuja",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-maracuja/4480229"
+    },
+    {
+      "id": 1347880707,
+      "dt": "2024-01-11T22:23:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mosaic Ale 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-mosaic-ale-12/1737004"
+    },
+    {
       "id": 1347745432,
       "dt": "2024-01-10T23:42:28+01:00",
       "venue_name": "Pivní ambasáda",
