@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1348003409,
+      "dt": "2024-01-12T17:21:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samice Hrabáče",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-samice-hrabace/5633796"
+    },
+    {
+      "id": 1347999434,
+      "dt": "2024-01-12T17:02:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1347993929,
+      "dt": "2024-01-12T16:29:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
       "id": 1347891570,
       "dt": "2024-01-11T23:12:31+01:00",
       "venue_name": "Pivní ambasáda",
