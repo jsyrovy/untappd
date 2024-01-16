@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1349042034,
+      "dt": "2024-01-15T20:39:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Smash APA – Cascade",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-smash-apa-cascade/4829095"
+    },
+    {
       "id": 1348003409,
       "dt": "2024-01-12T17:21:02+01:00",
       "venue_name": "Pivní ambasáda",
