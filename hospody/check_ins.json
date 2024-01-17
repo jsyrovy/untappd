@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1349166613,
+      "dt": "2024-01-16T20:17:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hoppy Diet",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-diet/5666768"
+    },
+    {
+      "id": 1349154981,
+      "dt": "2024-01-16T19:00:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Citravaganza",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-citravaganza/4979026"
+    },
+    {
+      "id": 1349154740,
+      "dt": "2024-01-16T18:59:04+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo Vidění Oat Wheat Sour Ale",
+      "brewery": "Psychovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/psychovar-jirikovo-videni-oat-wheat-sour-ale/5561008"
+    },
+    {
       "id": 1349042034,
       "dt": "2024-01-15T20:39:33+01:00",
       "venue_name": "Pivní ambasáda",
