@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1349291729,
+      "dt": "2024-01-17T20:43:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foam Climb",
+      "brewery": "Axiom Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/axiom-brewery-foam-climb/3335182"
+    },
+    {
+      "id": 1349286093,
+      "dt": "2024-01-17T20:15:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lime Gose",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-lime-gose/5607207"
+    },
+    {
+      "id": 1349258507,
+      "dt": "2024-01-17T17:10:58+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo Vidění Oat Wheat Sour Ale",
+      "brewery": "Psychovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/psychovar-jirikovo-videni-oat-wheat-sour-ale/5561008"
+    },
+    {
+      "id": 1349256455,
+      "dt": "2024-01-17T16:44:53+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo vidění",
+      "brewery": "Pivovar U Přeška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-preska-jirikovo-videni/5425605"
+    },
+    {
+      "id": 1349255298,
+      "dt": "2024-01-17T16:25:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo vidění",
+      "brewery": "Pivovar U Přeška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-preska-jirikovo-videni/5425605"
+    },
+    {
+      "id": 1349254784,
+      "dt": "2024-01-17T16:17:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo Vidění Oat Wheat Sour Ale",
+      "brewery": "Psychovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/psychovar-jirikovo-videni-oat-wheat-sour-ale/5561008"
+    },
+    {
+      "id": 1349254583,
+      "dt": "2024-01-17T16:13:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo Vidění Herbal ALE",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-jirikovo-videni-herbal-ale/5574425"
+    },
+    {
+      "id": 1349253815,
+      "dt": "2024-01-17T15:58:09+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jiříkovo Vidění Herbal ALE",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-jirikovo-videni-herbal-ale/5574425"
+    },
+    {
+      "id": 1349253274,
+      "dt": "2024-01-17T15:45:06+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka/2888047"
+    },
+    {
       "id": 1349166613,
       "dt": "2024-01-16T20:17:39+01:00",
       "venue_name": "U Toulavé pípy",
