@@ -1,16 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Lime Gose",
-      "description": "piv. Clock, Potštejn, Limetkové Gose"
-    },
-    {
       "name": "11° Victoria",
       "description": "piv. Loutkář, Chrudim, Single Hop Ale"
     },
     {
-      "name": "12° Everyday Life",
-      "description": "piv. Sibeeria, Praha, Czech Premium Pale Lager"
+      "name": "12° Boží Session IPA!",
+      "description": "piv. Sibeeria, Praha, Session IPA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Philadelphia Rybíz/Malina",
+      "description": "piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "13° Brundibár",
