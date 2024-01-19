@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Victoria",
       "description": "piv. Loutkář, Chrudim, Single Hop Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Philadelphia Rybíz/Malina",
       "description": "piv. Obora, Malšice, Fruit Sour Ale"
-    },
-    {
-      "name": "13° Brundibár",
-      "description": "piv. Mordýř, Dolní Ředice, IPL"
     },
     {
       "name": "16° Austin Powers",
