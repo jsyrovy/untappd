@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1349755004,
+      "dt": "2024-01-19T23:39:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží Session IPA!",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-session-ipa/5583865"
+    },
+    {
+      "id": 1349727826,
+      "dt": "2024-01-19T22:41:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží Session IPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-session-ipa/5583865"
+    },
+    {
+      "id": 1349725962,
+      "dt": "2024-01-19T22:37:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Victoria 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-victoria-11-single-hop/5675669"
+    },
+    {
       "id": 1349485740,
       "dt": "2024-01-19T00:20:49+01:00",
       "venue_name": "U Toulavé pípy",
