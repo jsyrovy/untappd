@@ -1088,6 +1088,11 @@ INSERT INTO "archive" VALUES(1349456535,'2024-01-18 21:08:43.000000','sejrik','B
 INSERT INTO "archive" VALUES(1349461597,'2024-01-18 21:30:47.000000','sejrik','Lime Gose','Pivovar Clock','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1349467201,'2024-01-18 21:55:55.000000','sejrik','Foam Climb','Axiom Brewery','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1349476173,'2024-01-18 22:37:27.000000','sejrik','Victoria 11 Single Hop','Pivovar Loutkář','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1350357687,'2024-01-21 13:14:17.000000','sejrik','Anežka','Pivovar Clock','Pivnice pivovaru Clock');
+INSERT INTO "archive" VALUES(1350365142,'2024-01-21 14:11:14.000000','sejrik','Clock APA','Pivovar Clock','Pivnice pivovaru Clock');
+INSERT INTO "archive" VALUES(1350369496,'2024-01-21 14:38:36.000000','sejrik','New England IPA 13 (Podzim)','Pivovar Clock','Pivnice pivovaru Clock');
+INSERT INTO "archive" VALUES(1350376965,'2024-01-21 15:19:06.000000','sejrik','Gramb 2022','Fenetra','Pivnice pivovaru Clock');
+INSERT INTO "archive" VALUES(1350382119,'2024-01-21 15:44:02.000000','sejrik','Charlotta 23','Fenetra','Pivnice pivovaru Clock');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
