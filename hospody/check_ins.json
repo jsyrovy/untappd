@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1350398719,
+      "dt": "2024-01-21T17:53:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Citrový Šprt",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-citrovy-sprt/3112329"
+    },
+    {
+      "id": 1350393691,
+      "dt": "2024-01-21T17:33:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Boží Session IPA!",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-bozi-session-ipa/5583865"
+    },
+    {
+      "id": 1350390355,
+      "dt": "2024-01-21T17:20:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Skotačivá veverka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-skotaciva-veverka/2700020"
+    },
+    {
+      "id": 1350387450,
+      "dt": "2024-01-21T17:08:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Austin Powers",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-austin-powers/3968807"
+    },
+    {
       "id": 1350091502,
       "dt": "2024-01-20T21:11:29+01:00",
       "venue_name": "Pivní ambasáda",
