@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1350625291,
+      "dt": "2024-01-22T21:45:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Austin Powers",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-austin-powers/3968807"
+    },
+    {
+      "id": 1350622673,
+      "dt": "2024-01-22T21:27:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Walter Raleigh",
+      "brewery": "Švabín Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/svabin-alchemical-brewery-walter-raleigh/5379669"
+    },
+    {
+      "id": 1350622173,
+      "dt": "2024-01-22T21:23:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Skotačivá veverka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-skotaciva-veverka/2700020"
+    },
+    {
+      "id": 1350593051,
+      "dt": "2024-01-22T17:23:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Austin Powers",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-austin-powers/3968807"
+    },
+    {
+      "id": 1350591400,
+      "dt": "2024-01-22T16:58:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Walter Raleigh",
+      "brewery": "Švabín Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/svabin-alchemical-brewery-walter-raleigh/5379669"
+    },
+    {
+      "id": 1350590301,
+      "dt": "2024-01-22T16:38:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Skotačivá veverka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-skotaciva-veverka/2700020"
+    },
+    {
       "id": 1350398719,
       "dt": "2024-01-21T17:53:42+01:00",
       "venue_name": "U Toulavé pípy",
