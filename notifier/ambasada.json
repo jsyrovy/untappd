@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Glee",
+      "description": "piv. Clock, Potštejn, Gluten-reduced Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Pojistka",
-      "description": "piv. Volt, Jablonec nad Nisou, APA"
     },
     {
       "name": "16° Austin Powers",
