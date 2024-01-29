@@ -9,10 +9,6 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Pineapple Sunshine",
-      "description": "Beskydský pivovárek, Ostravice, Ananasová Session IPA"
-    },
-    {
       "name": "11° WALTER RALEIGH",
       "description": "piv. Švabín, Praha, New England IPA"
     },
@@ -27,6 +23,10 @@
     {
       "name": "13° Detour",
       "description": "piv. Sibeeria/Wild East, Dry-Hopped Dark Lager"
+    },
+    {
+      "name": "15° Stella",
+      "description": "piv. Clock, Potštejn, Sour IPA"
     },
     {
       "name": "15° Sunny",
