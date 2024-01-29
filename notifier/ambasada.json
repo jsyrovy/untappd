@@ -9,10 +9,6 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° WALTER RALEIGH",
-      "description": "piv. Švabín, Praha, New England IPA"
-    },
-    {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Weizen"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° Sunny",
       "description": "piv. Vik, Praha, West Coast IPA"
+    },
+    {
+      "name": "18° Delirium Red",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Fruit Strong Ale, 0,25l"
     }
   ]
 }
