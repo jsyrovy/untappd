@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1352278859,
+      "dt": "2024-01-29T21:53:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Red",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-red/33040"
+    },
+    {
+      "id": 1352274019,
+      "dt": "2024-01-29T21:19:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-sunny/5681977"
+    },
+    {
+      "id": 1352273807,
+      "dt": "2024-01-29T21:17:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Detour",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-detour/5676911"
+    },
+    {
+      "id": 1352246658,
+      "dt": "2024-01-29T17:42:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-sunny/5681977"
+    },
+    {
+      "id": 1352242375,
+      "dt": "2024-01-29T16:41:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hoppy Diet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-diet/5666768"
+    },
+    {
       "id": 1352170586,
       "dt": "2024-01-29T00:15:12+01:00",
       "venue_name": "Pivní ambasáda",
