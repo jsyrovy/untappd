@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1352370071,
+      "dt": "2024-01-30T19:56:46+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "FORGOTTEN LANDS",
+      "brewery": "LETRA Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/letra-brewery-forgotten-lands/5616949"
+    },
+    {
+      "id": 1352369004,
+      "dt": "2024-01-30T19:50:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hoppy Diet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-diet/5666768"
+    },
+    {
+      "id": 1352353733,
+      "dt": "2024-01-30T18:02:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1352348316,
+      "dt": "2024-01-30T17:02:09+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-svetly-lezak/850661"
+    },
+    {
       "id": 1352278859,
       "dt": "2024-01-29T21:53:26+01:00",
       "venue_name": "Pivní ambasáda",
