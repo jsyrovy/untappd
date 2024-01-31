@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Glee",
-      "description": "piv. Clock, Potštejn, Gluten-reduced Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Aldersbacher",
       "description": "piv. Aldersbacher, Dolní Bavorsko, German Weizen"
+    },
+    {
+      "name": "12° Foxhound",
+      "description": "piv. HoppyDog, Ostrava, Hazy Session IPA"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
