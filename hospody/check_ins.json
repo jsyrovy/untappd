@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1352511304,
+      "dt": "2024-01-31T20:42:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound 13",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352503993,
+      "dt": "2024-01-31T20:09:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound 13",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352468136,
+      "dt": "2024-01-31T16:15:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hoppy Diet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hoppy-diet/5666768"
+    },
+    {
+      "id": 1352467668,
+      "dt": "2024-01-31T16:07:49+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
       "id": 1352370071,
       "dt": "2024-01-30T19:56:46+01:00",
       "venue_name": "U Toulavé pípy",
