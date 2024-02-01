@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Extra Hořká",
+      "description": "piv. Mazák, Dolní Bojanovice, Bohemian Pilsener"
+    },
+    {
       "name": "11° Galaxy",
       "description": "piv. Mazák, Dolní Bojanovice, Inida Pale Lager"
     },
@@ -11,10 +15,6 @@
     {
       "name": "12° Foxhound",
       "description": "piv. HoppyDog, Ostrava, Hazy Session IPA"
-    },
-    {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° Detour",
