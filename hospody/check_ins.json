@@ -1,8 +1,107 @@
 {
   "check_ins": [
     {
+      "id": 1352716585,
+      "dt": "2024-02-01T23:27:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny",
+      "brewery": "Pivovar Vik",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-vik-sunny/5681977"
+    },
+    {
+      "id": 1352710322,
+      "dt": "2024-02-01T23:01:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352709428,
+      "dt": "2024-02-01T22:58:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Extra hořká 11°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-extra-horka-110/792388"
+    },
+    {
+      "id": 1352706577,
+      "dt": "2024-02-01T22:45:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Detour",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-detour/5676911"
+    },
+    {
+      "id": 1352701963,
+      "dt": "2024-02-01T22:27:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352696787,
+      "dt": "2024-02-01T22:07:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Galaxy 11°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-galaxy-11/859858"
+    },
+    {
+      "id": 1352642981,
+      "dt": "2024-02-01T18:45:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Kloster Weisse Hell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-kloster-weisse/261765"
+    },
+    {
+      "id": 1352630210,
+      "dt": "2024-02-01T17:41:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352626252,
+      "dt": "2024-02-01T17:16:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-sunny/5681977"
+    },
+    {
       "id": 1352511304,
       "dt": "2024-01-31T20:42:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound 13",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352511304,
+      "dt": "2024-01-31T20:42:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foxhound",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
+    },
+    {
+      "id": 1352503993,
+      "dt": "2024-01-31T20:09:05+01:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Foxhound 13",
       "brewery": "Pivovar HoppyDog",
@@ -13,7 +112,7 @@
       "id": 1352503993,
       "dt": "2024-01-31T20:09:05+01:00",
       "venue_name": "Pivní ambasáda",
-      "beer_name": "Foxhound 13",
+      "beer_name": "Foxhound",
       "brewery": "Pivovar HoppyDog",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-hoppydog-foxhound-13/5691761"
