@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Extra Hořká",
-      "description": "piv. Mazák, Dolní Bojanovice, Bohemian Pilsener"
-    },
-    {
       "name": "11° Jantar",
       "description": "piv. Mazák, Dolní Bojanovice, Czech Amber Lager"
     },
@@ -13,8 +9,12 @@
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Pale Ale",
-      "description": "piv. Mazák, Dolní Bojanovice, American Pale Ale"
+      "name": "12° Foxhound",
+      "description": "piv. HoppyDog, Ostrava, Hazy Session IPA"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° Rose Sour Ale",
@@ -25,8 +25,8 @@
       "description": "piv. Mazák, Dolní Bojanovice, IPA"
     },
     {
-      "name": "14° Sabro Modern IPA",
-      "description": "piv. Mazák, Dolní Bojanovice, IPA"
+      "name": "14° Idaho",
+      "description": "Beskydský pivovárek, Ostravice, IPA"
     },
     {
       "name": "24° Imperial Stout 2024",
