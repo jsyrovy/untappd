@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Jantar",
-      "description": "piv. Mazák, Dolní Bojanovice, Czech Amber Lager"
-    },
-    {
       "name": "11° Kastelán",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Idaho",
       "description": "Beskydský pivovárek, Ostravice, IPA"
+    },
+    {
+      "name": "14° One Star",
+      "description": "piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "24° Imperial Stout 2024",
