@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1353734542,
+      "dt": "2024-02-04T19:05:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chipotle IPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-chipotle-ipa/5689710"
+    },
+    {
+      "id": 1353726301,
+      "dt": "2024-02-04T18:40:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stout Vanilka And Cocoa Imperial Stou2024",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-stout-vanilka-and-cocoa-imperial-stou2024/5696022"
+    },
+    {
+      "id": 1353717080,
+      "dt": "2024-02-04T18:11:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Polární Vlk 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-polarni-vlk-12/5537739"
+    },
+    {
+      "id": 1353716438,
+      "dt": "2024-02-04T18:08:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jantar 11°",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-jantar-110/664529"
+    },
+    {
       "id": 1353424731,
       "dt": "2024-02-03T21:56:38+01:00",
       "venue_name": "U Toulavé pípy",
