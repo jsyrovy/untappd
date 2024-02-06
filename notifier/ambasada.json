@@ -13,10 +13,6 @@
       "description": "piv. JungBerg, Hořice, Pale Ale"
     },
     {
-      "name": "13° Rose Sour Ale",
-      "description": "piv. Mazák, Dolní Bojanovice, Fruit Sour Ale"
-    },
-    {
       "name": "14° Chipotle IPA",
       "description": "piv. Mazák, Dolní Bojanovice, IPA"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° One Star",
       "description": "piv. Sibeeria, Praha, New England IPA"
+    },
+    {
+      "name": "15° Stella",
+      "description": "piv. Clock, Potštejn, Sour IPA"
     },
     {
       "name": "24° Imperial Stout 2024",
