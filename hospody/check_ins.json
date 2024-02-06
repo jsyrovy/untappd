@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1353941170,
+      "dt": "2024-02-05T20:52:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Idaho IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-idaho-ipa/3672151"
+    },
+    {
+      "id": 1353939657,
+      "dt": "2024-02-05T20:42:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chipotle IPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-chipotle-ipa/5689710"
+    },
+    {
+      "id": 1353939165,
+      "dt": "2024-02-05T20:39:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Polární Vlk 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-polarni-vlk-12/5537739"
+    },
+    {
       "id": 1353734542,
       "dt": "2024-02-04T19:05:49+01:00",
       "venue_name": "Pivní ambasáda",
