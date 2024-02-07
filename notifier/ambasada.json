@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° American Pale Ale",
+      "description": "piv. Malešov, APA"
+    },
+    {
       "name": "11° Kastelán",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Polární Vlk",
-      "description": "piv. JungBerg, Hořice, Pale Ale"
     },
     {
       "name": "14° Chipotle IPA",
@@ -29,8 +29,8 @@
       "description": "piv. Clock, Potštejn, Sour IPA"
     },
     {
-      "name": "24° Imperial Stout 2024",
-      "description": "piv. Mazák, Dolní Bojanovice, Imperial Stout"
+      "name": "18° Delirium Red",
+      "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Fruit Strong Ale, 0,25l"
     }
   ]
 }
