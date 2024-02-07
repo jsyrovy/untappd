@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1354022218,
+      "dt": "2024-02-06T16:42:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1354022174,
+      "dt": "2024-02-06T16:41:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Polární Vlk 12",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-polarni-vlk-12/5537739"
+    },
+    {
+      "id": 1354020913,
+      "dt": "2024-02-06T16:20:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chipotle IPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-chipotle-ipa/5689710"
+    },
+    {
       "id": 1353941170,
       "dt": "2024-02-05T20:52:11+01:00",
       "venue_name": "Pivní ambasáda",
