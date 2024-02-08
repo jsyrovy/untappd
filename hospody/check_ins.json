@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1354191119,
+      "dt": "2024-02-07T20:42:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VI. Aluance P.I.V.",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-vi-aluance-p-i-v/5705398"
+    },
+    {
+      "id": 1354190170,
+      "dt": "2024-02-07T20:38:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "15° Alianční",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-150-aliancni/5705432"
+    },
+    {
+      "id": 1354186868,
+      "dt": "2024-02-07T20:22:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brūstok: Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-candy/5685990"
+    },
+    {
+      "id": 1354182880,
+      "dt": "2024-02-07T20:04:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brūstok: Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-candy/5685990"
+    },
+    {
+      "id": 1354182223,
+      "dt": "2024-02-07T20:01:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brūstok: Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-candy/5685990"
+    },
+    {
+      "id": 1354178187,
+      "dt": "2024-02-07T19:40:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chipotle IPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-chipotle-ipa/5689710"
+    },
+    {
+      "id": 1354177964,
+      "dt": "2024-02-07T19:39:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Star",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-star/5625213"
+    },
+    {
+      "id": 1354151677,
+      "dt": "2024-02-07T16:25:00+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Down Under",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-down-under/5522512"
+    },
+    {
+      "id": 1354150608,
+      "dt": "2024-02-07T16:07:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bohdaneč 13°",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-bohdanec-130/4963661"
+    },
+    {
       "id": 1354022218,
       "dt": "2024-02-06T16:42:15+01:00",
       "venue_name": "Pivní ambasáda",
