@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° American Pale Ale 4,7% alc",
-      "description": "piv. Malešov, APA"
-    },
-    {
       "name": "11° Kastelán 4,8% alc.",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Clock 5,2% alc.",
+      "description": "piv. Clock, Potštejn, American Pale Ale"
     },
     {
       "name": "12° Maisels Weisse 5,1% alc.",
