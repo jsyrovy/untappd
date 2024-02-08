@@ -1,19 +1,19 @@
 {
   "beers": [
     {
-      "name": "11° American Pale Ale",
+      "name": "11° American Pale Ale 4,7% alc",
       "description": "piv. Malešov, APA"
     },
     {
-      "name": "11° Kastelán",
+      "name": "11° Kastelán 4,8% alc.",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Maisels Weisse",
+      "name": "12° Maisels Weisse 5,1% alc.",
       "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
+      "name": "12° PP (Pořádné Pivo) 4,9% alc.",
       "description": "piv. JungBerg, Hořice, světlý ležák"
     },
     {
@@ -21,15 +21,15 @@
       "description": "piv. Crazy Clown/Aleš Dvořák, Marshmallow Sour NEIPA s lízátky"
     },
     {
-      "name": "14° One Star",
-      "description": "piv. Sibeeria, Praha, New England IPA"
-    },
-    {
-      "name": "15° Alianční",
+      "name": "15° Alianční 6,4% alc.",
       "description": "piv. Rampušák, Dobruška, Milkshake IPA"
     },
     {
-      "name": "18° Delirium Red",
+      "name": "17° One Love 6,4% alc.",
+      "description": "Sibeeria, Prah, Stout w/Raspberry & Vanilla"
+    },
+    {
+      "name": "18° Delirium Red 8% alc.",
       "description": "piv. Huyghe, Melle, Východní Flandry, Belgian Fruit Strong Ale, 0,25l"
     }
   ]
