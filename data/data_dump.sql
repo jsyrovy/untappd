@@ -1108,6 +1108,12 @@ INSERT INTO "archive" VALUES(1352933024,'2024-02-02 20:05:21.000000','sejrik','T
 INSERT INTO "archive" VALUES(1353020486,'2024-02-02 22:46:03.000000','sejrik','Budweiser Budvar B:SPECIAL Kroužek','Budějovický Budvar','Beer Bar');
 INSERT INTO "archive" VALUES(1353721437,'2024-02-04 17:25:30.000000','sejrik','Like A Svařák 14','Rodinný pivovar Zichovec','Untappd at Home');
 INSERT INTO "archive" VALUES(1353808424,'2024-02-04 21:22:00.000000','sejrik','Triple Join, or Die.','Sibeeria','Untappd at Home');
+INSERT INTO "archive" VALUES(1354306019,'2024-02-08 15:47:08.000000','sejrik','Vinohradská 11','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1354308771,'2024-02-08 16:16:15.000000','sejrik','Hazy Galaxy','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1354310435,'2024-02-08 16:30:16.000000','sejrik','Less Sugars More Fun','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1354312251,'2024-02-08 16:43:20.000000','sejrik','Mr. White','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1354315577,'2024-02-08 17:06:22.000000','sejrik','Aleien IPA','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1354332154,'2024-02-08 18:28:56.000000','sejrik','Nectar of Happiness 17','Rodinný pivovar Zichovec',NULL);
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
