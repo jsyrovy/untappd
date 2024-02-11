@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Mango-pina-coco-sour 4% alc.",
+      "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
+    },
+    {
       "name": "11° Mordýř 4,6% alc.",
       "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Správná Dvojka 5% alc.",
       "description": "piv. Valášek, Vsetín, Red Ale"
-    },
-    {
-      "name": "14° Brustok Candy 5,2% alc.",
-      "description": "piv. Crazy Clown/Aleš Dvořák, Marshmallow Sour NEIPA s lízátky"
     },
     {
       "name": "14° Vannihilator 6,4%",
