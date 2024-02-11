@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1355199344,
+      "dt": "2024-02-11T01:04:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vannihilator",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vannihilator/5677334"
+    },
+    {
+      "id": 1355197525,
+      "dt": "2024-02-11T01:00:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Správná Dvojka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-spravna-dvojka/5225952"
+    },
+    {
+      "id": 1355196723,
+      "dt": "2024-02-11T00:59:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
+      "id": 1355195882,
+      "dt": "2024-02-11T00:57:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brūstok: Candy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-candy/5685990"
+    },
+    {
+      "id": 1355181186,
+      "dt": "2024-02-11T00:29:33+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Victoria 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-victoria-11-single-hop/5675669"
+    },
+    {
+      "id": 1354950238,
+      "dt": "2024-02-10T18:54:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Delirium Red",
+      "brewery": "Delirium - Huyghe Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/delirium-huyghe-brewery-delirium-red/33040"
+    },
+    {
       "id": 1354677298,
       "dt": "2024-02-09T23:17:16+01:00",
       "venue_name": "Pivní ambasáda",
