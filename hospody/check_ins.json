@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1355370990,
+      "dt": "2024-02-11T18:23:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango-Piña-Coco-Sourus",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-mango-pina-coco-sourus/2990679"
+    },
+    {
+      "id": 1355367165,
+      "dt": "2024-02-11T18:10:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Siostra Bożenka",
+      "brewery": "Podgórz",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/podgorz-siostra-bozenka/770879"
+    },
+    {
+      "id": 1355355274,
+      "dt": "2024-02-11T17:25:35+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1355355124,
+      "dt": "2024-02-11T17:25:00+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1355354706,
+      "dt": "2024-02-11T17:23:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fox vs. Dragon",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fox-vs-dragon/5688421"
+    },
+    {
+      "id": 1355354449,
+      "dt": "2024-02-11T17:22:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
       "id": 1355199344,
       "dt": "2024-02-11T01:04:32+01:00",
       "venue_name": "Pivní ambasáda",
