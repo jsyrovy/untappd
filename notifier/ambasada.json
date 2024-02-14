@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "10° Mango-pina-coco-sour 4% alc.",
-      "description": "piv. MadCat, Kamenice, Fruit Sour Ale"
+      "name": "10° Mango-pina-coco-sour",
+      "description": "4% alc. piv. MadCat, Kamenice, Fruit Sour Ale"
     },
     {
-      "name": "11° Mordýř 4,6% alc.",
-      "description": "piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Maisels Weisse 5,1% alc.",
-      "description": "piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° PP (Pořádné Pivo) 4,9% alc.",
-      "description": "piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Správná Dvojka 5% alc.",
-      "description": "piv. Valášek, Vsetín, Red Ale"
+      "name": "12° Správná Dvojka",
+      "description": "5% alc. piv. Valášek, Vsetín, Red Ale"
     },
     {
-      "name": "14° Vannihilator 6,4%",
-      "description": "piv. Crazy Clown, Praha, West Coast IPA"
+      "name": "14° Vannihilator",
+      "description": "6,4% piv. Crazy Clown, Praha, West Coast IPA"
     },
     {
-      "name": "15° Siostra Bozenka 6% alc.",
-      "description": "piv. Podgorz, Polsko, American India Pale Ale"
+      "name": "15° Siostra Bozenka",
+      "description": "6% alc. piv. Podgorz, Polsko, American India Pale Ale"
     },
     {
-      "name": "17° One Love 6,4% alc.",
-      "description": "Sibeeria, Prah, Stout w/Raspberry & Vanilla"
+      "name": "17° One Love",
+      "description": "6,4% alc. Sibeeria, Prah, Stout w/Raspberry & Vanilla"
     }
   ]
 }
