@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Mango-pina-coco-sour",
-      "description": "4% alc. piv. MadCat, Kamenice, Fruit Sour Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Evolution #006",
+      "description": "5,4% alc. piv. Sibeeria, Praha, Pale Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -21,16 +21,16 @@
       "description": "5% alc. piv. Valášek, Vsetín, Red Ale"
     },
     {
+      "name": "13° Mango",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Fruit Ale"
+    },
+    {
       "name": "14° Vannihilator",
       "description": "6,4% piv. Crazy Clown, Praha, West Coast IPA"
     },
     {
       "name": "15° Siostra Bozenka",
       "description": "6% alc. piv. Podgorz, Polsko, American India Pale Ale"
-    },
-    {
-      "name": "17° One Love",
-      "description": "6,4% alc. Sibeeria, Prah, Stout w/Raspberry & Vanilla"
     }
   ]
 }
