@@ -5,8 +5,7 @@ from sqlalchemy import String, Date, DateTime, Integer
 from sqlalchemy.orm import DeclarativeBase, mapped_column, Mapped
 
 
-class Base(DeclarativeBase):
-    ...
+class Base(DeclarativeBase): ...
 
 
 class PivniValka(Base):

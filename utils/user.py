@@ -22,8 +22,7 @@ VISIBLE_USERS = tuple(user for user in USERS if not user.hidden)
 VISIBLE_USER_NAMES = tuple(user.user_name for user in VISIBLE_USERS)
 
 
-class UserNotFound(Exception):
-    ...
+class UserNotFound(Exception): ...
 
 
 def get(user_name: str) -> User:
