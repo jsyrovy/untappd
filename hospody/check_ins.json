@@ -1,12 +1,102 @@
 {
   "check_ins": [
     {
+      "id": 1356157116,
+      "dt": "2024-02-16T00:40:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VI. Aluance P.I.V.",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-vi-aluance-p-i-v/5705398"
+    },
+    {
+      "id": 1356140372,
+      "dt": "2024-02-15T23:31:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Siostra Bożenka",
+      "brewery": "Podgórz",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/podgorz-siostra-bozenka/770879"
+    },
+    {
+      "id": 1356138763,
+      "dt": "2024-02-15T23:25:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Siostra Bożenka",
+      "brewery": "Podgórz",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/podgorz-siostra-bozenka/770879"
+    },
+    {
+      "id": 1356128165,
+      "dt": "2024-02-15T22:42:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1356126740,
+      "dt": "2024-02-15T22:36:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bloody Valentine /// 12.BLOODIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-bloody-valentine-12-bloodipa-i2/4708415"
+    },
+    {
+      "id": 1356115985,
+      "dt": "2024-02-15T21:57:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1356115587,
+      "dt": "2024-02-15T21:56:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bloody Valentine /// 12.BLOODIPA.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-bloody-valentine-12-bloodipa-i2/4708415"
+    },
+    {
+      "id": 1356075632,
+      "dt": "2024-02-15T19:35:19+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
+      "id": 1356069154,
+      "dt": "2024-02-15T19:09:01+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gunslinger",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-gunslinger/1614466"
+    },
+    {
       "id": 1355956563,
       "dt": "2024-02-14T23:17:23+01:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Pšeničné",
       "brewery": "Pivovar Bohdaneč ",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-psenicne/4942594"
+    },
+    {
+      "id": 1355956563,
+      "dt": "2024-02-14T23:17:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-bohdanec-psenicne/4942594"
     },
     {
