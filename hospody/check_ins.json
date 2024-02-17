@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1356310394,
+      "dt": "2024-02-16T19:28:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Milkshake IPA",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-milkshake-ipa/4716880"
+    },
+    {
+      "id": 1356286969,
+      "dt": "2024-02-16T18:35:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Siostra Bożenka",
+      "brewery": "Podgórz",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/podgorz-siostra-bozenka/770879"
+    },
+    {
+      "id": 1356281250,
+      "dt": "2024-02-16T18:21:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "15° Alianční",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-150-aliancni/5705432"
+    },
+    {
+      "id": 1356280312,
+      "dt": "2024-02-16T18:19:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-psenicne/4942594"
+    },
+    {
+      "id": 1356279185,
+      "dt": "2024-02-16T18:16:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1356252784,
+      "dt": "2024-02-16T16:46:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #006 (NŠH 29/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-006-nsh-29-18/5688489"
+    },
+    {
+      "id": 1356251867,
+      "dt": "2024-02-16T16:41:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "15° Alianční",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-150-aliancni/5705432"
+    },
+    {
       "id": 1356157116,
       "dt": "2024-02-16T00:40:48+01:00",
       "venue_name": "Pivní ambasáda",
