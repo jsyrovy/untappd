@@ -5,6 +5,10 @@
       "description": "piv. Agnes, Bohdaneč, Weizen"
     },
     {
+      "name": "12° Black Currant",
+      "description": "5,1% alc. piv. Clock, Potštejn, Fruit Sour Ale"
+    },
+    {
       "name": "12° Bloody Valentine",
       "description": "6,5% alc. piv. Záhora, Kněžičky, Brut IPA s Dračím Ovocem"
     },
@@ -17,20 +21,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° Mango",
-      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Fruit Ale"
-    },
-    {
       "name": "15° Alianční",
       "description": "6,4% alc. piv. Rampušák, Dobruška, Milkshake IPA"
     },
     {
-      "name": "15° Siostra Bozenka",
-      "description": "6% alc. piv. Podgorz, Polsko, American India Pale Ale"
-    },
-    {
       "name": "17° I Love the Smell of Nectaron in the Morning",
       "description": "7% alc. piv. Sibeeria, Praha, Single Hop NZ NEIPA"
+    },
+    {
+      "name": "18° Kasteel Rouge",
+      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
