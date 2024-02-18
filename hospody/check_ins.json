@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1356921684,
+      "dt": "2024-02-17T23:14:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aecht Schlenkerla Eiche – Doppelbock",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-eiche-doppelbock/19475"
+    },
+    {
+      "id": 1356894749,
+      "dt": "2024-02-17T22:38:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Strč Prst Skrz Krk IPA 16°",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-strc-prst-skrz-krk-ipa-160/3515436"
+    },
+    {
+      "id": 1356680167,
+      "dt": "2024-02-17T17:54:13+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Orange IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-orange-ipa/1676555"
+    },
+    {
+      "id": 1356667951,
+      "dt": "2024-02-17T17:26:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Strč Prst Skrz Krk IPA 16°",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-strc-prst-skrz-krk-ipa-160/3515436"
+    },
+    {
       "id": 1356310394,
       "dt": "2024-02-16T19:28:36+01:00",
       "venue_name": "Pivní ambasáda",
