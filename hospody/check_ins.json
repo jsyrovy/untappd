@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1357322249,
+      "dt": "2024-02-19T00:44:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Nectaron In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-nectaron-in-the-morning/5188341"
+    },
+    {
+      "id": 1357205292,
+      "dt": "2024-02-18T19:59:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-psenicne/4942594"
+    },
+    {
+      "id": 1357166568,
+      "dt": "2024-02-18T18:17:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Nectaron In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-nectaron-in-the-morning/5188341"
+    },
+    {
+      "id": 1357137898,
+      "dt": "2024-02-18T16:30:38+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1357136073,
+      "dt": "2024-02-18T16:22:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
       "id": 1356921684,
       "dt": "2024-02-17T23:14:07+01:00",
       "venue_name": "Pivní ambasáda",
