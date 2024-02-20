@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1357485770,
+      "dt": "2024-02-20T00:37:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Red Archer 15",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-red-archer-15/5720807"
+    },
+    {
       "id": 1357322249,
       "dt": "2024-02-19T00:44:09+01:00",
       "venue_name": "Pivní ambasáda",
