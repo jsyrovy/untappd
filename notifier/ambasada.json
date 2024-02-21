@@ -9,16 +9,16 @@
       "description": "5,1% alc. piv. Clock, Potštejn, Fruit Sour Ale"
     },
     {
-      "name": "12° Bloody Valentine",
-      "description": "6,5% alc. piv. Záhora, Kněžičky, Brut IPA s Dračím Ovocem"
-    },
-    {
       "name": "12° Masopustní",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Relaxed",
+      "description": "5% alc. piv. Antoš, Slaný, APA"
     },
     {
       "name": "15° Red Archer",
