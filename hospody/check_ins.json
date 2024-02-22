@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1357746903,
+      "dt": "2024-02-21T21:48:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Red Archer 15",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-red-archer-15/5720807"
+    },
+    {
+      "id": 1357685396,
+      "dt": "2024-02-21T16:13:18+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Saturn 12 IPL",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-saturn-12-single-hop-ipl/4703755"
+    },
+    {
       "id": 1357577069,
       "dt": "2024-02-20T20:19:47+01:00",
       "venue_name": "U Toulavé pípy",
