@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1357959122,
+      "dt": "2024-02-22T23:35:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Masopust",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-masopust/3687038"
+    },
+    {
+      "id": 1357944097,
+      "dt": "2024-02-22T22:37:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Red Archer 15",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-red-archer-15/5720807"
+    },
+    {
+      "id": 1357934071,
+      "dt": "2024-02-22T22:02:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Relaxed APA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-relaxed-apa/4402396"
+    },
+    {
+      "id": 1357933506,
+      "dt": "2024-02-22T22:00:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Relaxed APA",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-relaxed-apa/4402396"
+    },
+    {
+      "id": 1357859225,
+      "dt": "2024-02-22T17:06:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1357857249,
+      "dt": "2024-02-22T16:48:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Strč Prst Skrz Krk IPA 16°",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-strc-prst-skrz-krk-ipa-160/3515436"
+    },
+    {
+      "id": 1357843566,
+      "dt": "2024-02-22T13:17:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Nectaron In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-nectaron-in-the-morning/5188341"
+    },
+    {
+      "id": 1357843540,
+      "dt": "2024-02-22T13:16:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackcurrant Sour Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-blackcurrant-sour-ale/3397925"
+    },
+    {
+      "id": 1357843480,
+      "dt": "2024-02-22T13:15:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Red Archer 15",
+      "brewery": "Břevnovský klášterní pivovar sv. Vojtěcha",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brevnovsky-klasterni-pivovar-sv-vojtecha-red-archer-15/5720807"
+    },
+    {
       "id": 1357746903,
       "dt": "2024-02-21T21:48:04+01:00",
       "venue_name": "Pivní ambasáda",
