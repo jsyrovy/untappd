@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1358220142,
+      "dt": "2024-02-23T21:55:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá horečka",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-zlata-horecka/3077603"
+    },
+    {
+      "id": 1358150595,
+      "dt": "2024-02-23T19:58:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kouř 14",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-kour-14/3710007"
+    },
+    {
+      "id": 1358149856,
+      "dt": "2024-02-23T19:57:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Relax Blues",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-relax-blues/4379641"
+    },
+    {
+      "id": 1358081679,
+      "dt": "2024-02-23T17:12:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Straight Outta Midgard 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-straight-outta-midgard-15/5668171"
+    },
+    {
+      "id": 1358075275,
+      "dt": "2024-02-23T16:44:51+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pacific IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-pacific-ipa/4141003"
+    },
+    {
+      "id": 1358047337,
+      "dt": "2024-02-23T12:10:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Straight Outta Midgard 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-straight-outta-midgard-15/5668171"
+    },
+    {
+      "id": 1358047307,
+      "dt": "2024-02-23T12:09:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Strč Prst Skrz Krk IPA 16°",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-strc-prst-skrz-krk-ipa-160/3515436"
+    },
+    {
       "id": 1357959122,
       "dt": "2024-02-22T23:35:01+01:00",
       "venue_name": "Pivní ambasáda",
