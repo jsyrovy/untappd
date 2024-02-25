@@ -1,6 +1,159 @@
 {
   "check_ins": [
     {
+      "id": 1358651475,
+      "dt": "2024-02-24T20:54:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jefferson",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-jefferson/4183785"
+    },
+    {
+      "id": 1358650822,
+      "dt": "2024-02-24T20:53:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá horečka",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-zlata-horecka/3077603"
+    },
+    {
+      "id": 1358650022,
+      "dt": "2024-02-24T20:52:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nevada",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-nevada/2597167"
+    },
+    {
+      "id": 1358649272,
+      "dt": "2024-02-24T20:51:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Předák 10",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-predak-10/2722330"
+    },
+    {
+      "id": 1358532670,
+      "dt": "2024-02-24T18:12:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pesimista",
+      "brewery": "Pivovar Mazák",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-pesimista/5218763"
+    },
+    {
+      "id": 1358527826,
+      "dt": "2024-02-24T18:03:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Quirk",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-juicy-quirk/5706184"
+    },
+    {
+      "id": 1358501924,
+      "dt": "2024-02-24T17:06:30+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
+      "id": 1358481519,
+      "dt": "2024-02-24T16:11:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Straight Outta Midgard 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-straight-outta-midgard-15/5668171"
+    },
+    {
+      "id": 1358478621,
+      "dt": "2024-02-24T16:02:37+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nana",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nana/5683443"
+    },
+    {
+      "id": 1358469879,
+      "dt": "2024-02-24T15:33:48+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Quirk",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-juicy-quirk/5706184"
+    },
+    {
+      "id": 1358464632,
+      "dt": "2024-02-24T15:15:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pacific IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-pacific-ipa/4141003"
+    },
+    {
+      "id": 1358459991,
+      "dt": "2024-02-24T14:56:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Drink And Stay Sober Ø",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-stay-sober-o/5668173"
+    },
+    {
+      "id": 1358434994,
+      "dt": "2024-02-24T12:50:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nana",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nana/5683443"
+    },
+    {
+      "id": 1358434809,
+      "dt": "2024-02-24T12:49:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fox vs. Dragon",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fox-vs-dragon/5688421"
+    },
+    {
+      "id": 1358434393,
+      "dt": "2024-02-24T12:46:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá horečka",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-zlata-horecka/3077603"
+    },
+    {
+      "id": 1358434094,
+      "dt": "2024-02-24T12:44:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bavorský inkvizitor XIII",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-bavorsky-inkvizitor-xiii/2677336"
+    },
+    {
+      "id": 1358433979,
+      "dt": "2024-02-24T12:43:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kouř 14",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-kour-14/3710007"
+    },
+    {
       "id": 1358220142,
       "dt": "2024-02-23T21:55:33+01:00",
       "venue_name": "Pivní ambasáda",
