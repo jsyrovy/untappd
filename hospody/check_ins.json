@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1358940824,
+      "dt": "2024-02-25T11:07:00+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour Aronia Cherry 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-aronia-cherry-12/5674742"
+    },
+    {
+      "id": 1358940777,
+      "dt": "2024-02-25T11:05:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Straight Outta Midgard 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-straight-outta-midgard-15/5668171"
+    },
+    {
+      "id": 1358940749,
+      "dt": "2024-02-25T11:05:16+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Quirk",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-juicy-quirk/5706184"
+    },
+    {
       "id": 1358651475,
       "dt": "2024-02-24T20:54:17+01:00",
       "venue_name": "Pivní ambasáda",
