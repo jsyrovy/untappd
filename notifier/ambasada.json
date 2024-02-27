@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Předák",
-      "description": "3,8% alc. piv. Cobolis, Praha, Czech Pale Lager"
-    },
-    {
       "name": "11° Solár",
       "description": "4,6% alc. piv. Volt, Jablonec nad Nisou, African Pale Ale"
     },
@@ -25,16 +21,16 @@
       "description": "5,8% alc. piv. Cobolis, Praha, Saison"
     },
     {
-      "name": "13° Zlatá Horečka",
-      "description": "7,1% alc. piv. Cobolis, Praha, Brut IPA"
-    },
-    {
       "name": "14° Kouř",
       "description": "5,6% alc. piv. Cobolis, Praha, Rauchbier"
     },
     {
-      "name": "16° Jefferson",
-      "description": "7,3% alc. piv. Cobolis, Praha, New England IPA"
+      "name": "15° Red Archer",
+      "description": "6% alc. piv Břevnovský Klášter, Praha, NEIPA s červenou řepou"
+    },
+    {
+      "name": "18° Kasteel Rouge",
+      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
