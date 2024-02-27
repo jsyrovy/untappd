@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1359226680,
+      "dt": "2024-02-26T18:34:33+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Quirk",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-juicy-quirk/5706184"
+    },
+    {
       "id": 1358940824,
       "dt": "2024-02-25T11:07:00+01:00",
       "venue_name": "U Toulavé pípy",
