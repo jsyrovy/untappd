@@ -9,6 +9,10 @@
       "description": "5,1% alc. piv. Clock, Potštejn, Fruit Sour Ale"
     },
     {
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
       "name": "12° Masopustní",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
@@ -17,16 +21,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° Bavorský inkvizitor XIII",
-      "description": "5,4% alc. piv. Cobolis, Praha, Weizenbier"
-    },
-    {
-      "name": "14° Kouř",
-      "description": "5,6% alc. piv. Cobolis, Praha, Rauchbier"
-    },
-    {
       "name": "15° Red Archer",
       "description": "6% alc. piv Břevnovský Klášter, Praha, NEIPA s červenou řepou"
+    },
+    {
+      "name": "16° Starting Line",
+      "description": "6,7% alc. piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "18° Kasteel Rouge",
