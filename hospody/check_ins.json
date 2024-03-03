@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1360541367,
+      "dt": "2024-03-02T23:22:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Starting Line",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-starting-line/5668204"
+    },
+    {
+      "id": 1360540182,
+      "dt": "2024-03-02T23:20:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "15° Alianční",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-150-aliancni/5705432"
+    },
+    {
+      "id": 1360531868,
+      "dt": "2024-03-02T23:08:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pluto 12 IPL",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-pluto-12-ipl/5715767"
+    },
+    {
       "id": 1359859345,
       "dt": "2024-03-01T17:08:27+01:00",
       "venue_name": "Pivní ambasáda",
