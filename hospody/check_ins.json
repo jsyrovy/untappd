@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1360788721,
+      "dt": "2024-03-03T18:38:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Mango Citrus",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sour-mango-citrus/5736191"
+    },
+    {
       "id": 1360541367,
       "dt": "2024-03-02T23:22:39+01:00",
       "venue_name": "Pivní ambasáda",
