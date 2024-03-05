@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1361029700,
+      "dt": "2024-03-04T21:39:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
       "id": 1360788721,
       "dt": "2024-03-03T18:38:14+01:00",
       "venue_name": "Pivní ambasáda",
