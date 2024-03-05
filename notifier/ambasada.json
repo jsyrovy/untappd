@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Just Sour",
-      "description": "4,5% alc. piv. Crazy Clown, Praha, Mango/Citrus Sour Ale"
-    },
-    {
       "name": "12° Aldersbacher",
       "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Mango",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Fruit Ale"
     },
     {
       "name": "15° Alianční",
