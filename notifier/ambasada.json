@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "12° Aldersbacher",
-      "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
-    },
-    {
       "name": "12° Ka-Boom!",
       "description": "5,1% alc. piv. Crazy Clown, Praha, Vannila Milkshake APA"
     },
@@ -17,8 +13,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° Mango",
-      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Fruit Ale"
+      "name": "12° Philadelphia Rybíz/Malina",
+      "description": "4,3% alc. piv. Obora, Malšice, Fruit Sour Ale"
+    },
+    {
+      "name": "13° Kynšperk",
+      "description": "5,6% alc. piv. Kynšperský Zajíc, Weizen"
     },
     {
       "name": "17° One Love",
