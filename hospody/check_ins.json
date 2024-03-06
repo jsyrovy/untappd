@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1361133241,
+      "dt": "2024-03-05T19:37:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "15° Alianční",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-150-aliancni/5705432"
+    },
+    {
       "id": 1361029700,
       "dt": "2024-03-04T21:39:15+01:00",
       "venue_name": "Pivní ambasáda",
