@@ -1,6 +1,177 @@
 {
   "check_ins": [
     {
+      "id": 1361313381,
+      "dt": "2024-03-06T22:12:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Black Currant & Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-black-currant-and-raspberry/4726835"
+    },
+    {
+      "id": 1361302800,
+      "dt": "2024-03-06T21:23:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá Raketa 17°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-zlata-raketa-170/339181"
+    },
+    {
+      "id": 1361300239,
+      "dt": "2024-03-06T21:12:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné Pivo",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-psenicne-pivo/3984035"
+    },
+    {
+      "id": 1361298342,
+      "dt": "2024-03-06T21:04:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ka-boom!",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ka-boom/2660378"
+    },
+    {
+      "id": 1361295379,
+      "dt": "2024-03-06T20:52:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ka-boom!",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ka-boom/2660378"
+    },
+    {
+      "id": 1361295131,
+      "dt": "2024-03-06T20:51:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1361291261,
+      "dt": "2024-03-06T20:35:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá Raketa 17°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-zlata-raketa-170/339181"
+    },
+    {
+      "id": 1361291177,
+      "dt": "2024-03-06T20:35:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1361287258,
+      "dt": "2024-03-06T20:19:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
+      "id": 1361277188,
+      "dt": "2024-03-06T19:33:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1361274940,
+      "dt": "2024-03-06T19:23:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ka-boom!",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ka-boom/2660378"
+    },
+    {
+      "id": 1361271872,
+      "dt": "2024-03-06T19:08:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá Raketa 17°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-zlata-raketa-170/339181"
+    },
+    {
+      "id": 1361262986,
+      "dt": "2024-03-06T18:20:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1361258636,
+      "dt": "2024-03-06T17:51:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1361254615,
+      "dt": "2024-03-06T17:18:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Love",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-love/5698098"
+    },
+    {
+      "id": 1361253571,
+      "dt": "2024-03-06T17:08:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1361250634,
+      "dt": "2024-03-06T16:34:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zoro",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zoro/2524435"
+    },
+    {
+      "id": 1361249718,
+      "dt": "2024-03-06T16:22:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Late Winter",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-late-winter/5229318"
+    },
+    {
+      "id": 1361249677,
+      "dt": "2024-03-06T16:22:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Late Winter",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-late-winter/5229318"
+    },
+    {
       "id": 1361133241,
       "dt": "2024-03-05T19:37:07+01:00",
       "venue_name": "Pivní ambasáda",
