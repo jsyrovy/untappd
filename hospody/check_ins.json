@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1361472461,
+      "dt": "2024-03-07T20:46:14+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Belgický Mnich 15",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-belgicky-mnich-15/4123494"
+    },
+    {
+      "id": 1361442123,
+      "dt": "2024-03-07T19:05:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
+      "id": 1361441439,
+      "dt": "2024-03-07T19:02:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ka-boom!",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ka-boom/2660378"
+    },
+    {
+      "id": 1361441053,
+      "dt": "2024-03-07T19:01:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zlatá Raketa 17°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-zlata-raketa-170/339181"
+    },
+    {
+      "id": 1361396085,
+      "dt": "2024-03-07T09:29:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Mango Citrus",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sour-mango-citrus/5736191"
+    },
+    {
+      "id": 1361395930,
+      "dt": "2024-03-07T09:23:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA 11 – Magic",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-apa-11-magic/5247648"
+    },
+    {
       "id": 1361313381,
       "dt": "2024-03-06T22:12:15+01:00",
       "venue_name": "Pivní ambasáda",
