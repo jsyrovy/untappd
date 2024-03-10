@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1362109327,
+      "dt": "2024-03-09T18:11:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hop Elixir",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir/5736997"
+    },
+    {
+      "id": 1362093252,
+      "dt": "2024-03-09T17:40:52+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Single Hop NEIPA Riwaka",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-single-hop-neipa-riwaka/5725002"
+    },
+    {
       "id": 1361472461,
       "dt": "2024-03-07T20:46:14+01:00",
       "venue_name": "U Toulavé pípy",
