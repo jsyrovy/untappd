@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1362549182,
+      "dt": "2024-03-10T16:07:26+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Single Hop NEIPA Riwaka",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-single-hop-neipa-riwaka/5725002"
+    },
+    {
       "id": 1362109327,
       "dt": "2024-03-09T18:11:08+01:00",
       "venue_name": "U Toulavé pípy",
