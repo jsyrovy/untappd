@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1362830069,
+      "dt": "2024-03-11T21:17:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
+      "id": 1362823298,
+      "dt": "2024-03-11T20:40:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Papír",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-papir/3340863"
+    },
+    {
+      "id": 1362822865,
+      "dt": "2024-03-11T20:38:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Láska",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-laska/5226661"
+    },
+    {
       "id": 1362549182,
       "dt": "2024-03-10T16:07:26+01:00",
       "venue_name": "U Toulavé pípy",
