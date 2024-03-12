@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Fiction APA",
+      "description": "4,2% alc. piv. Čestmír, Brandýs nad Labem, APA"
     },
     {
-      "name": "11° Papír",
-      "description": "4,7% alc. piv. Zhůřák, Zhůř, Session IPA"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "11° Pšeničné",
