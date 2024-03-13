@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1362966203,
+      "dt": "2024-03-12T21:32:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Bloody Mary",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-2024/5698058"
+    },
+    {
       "id": 1362830069,
       "dt": "2024-03-11T21:17:31+01:00",
       "venue_name": "Pivní ambasáda",
