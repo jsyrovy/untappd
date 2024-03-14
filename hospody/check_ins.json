@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1363112243,
+      "dt": "2024-03-13T20:34:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Bloody Mary",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-bloody-mary/2931078"
+    },
+    {
+      "id": 1363109960,
+      "dt": "2024-03-13T20:25:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #008 (NŠH 11/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-008-nsh-11-18/5720305"
+    },
+    {
       "id": 1362966203,
       "dt": "2024-03-12T21:32:14+01:00",
       "venue_name": "Pivní ambasáda",
