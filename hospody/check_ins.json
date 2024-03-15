@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1363366338,
+      "dt": "2024-03-14T23:29:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zoro",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zoro/2524435"
+    },
+    {
+      "id": 1363359571,
+      "dt": "2024-03-14T23:10:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zoro",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zoro/2524435"
+    },
+    {
+      "id": 1363345264,
+      "dt": "2024-03-14T22:29:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #008 (NŠH 11/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-008-nsh-11-18/5720305"
+    },
+    {
+      "id": 1363340352,
+      "dt": "2024-03-14T22:16:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #008 (NŠH 11/18)",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-008-nsh-11-18/5720305"
+    },
+    {
+      "id": 1363334343,
+      "dt": "2024-03-14T21:59:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Bloody Mary",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-bloody-mary/2931078"
+    },
+    {
       "id": 1363112243,
       "dt": "2024-03-13T20:34:00+01:00",
       "venue_name": "Pivní ambasáda",
@@ -71,6 +116,15 @@
       "brewery": "Sibeeria",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/sibeeria-hop-elixir/5736997"
+    },
+    {
+      "id": 1362109327,
+      "dt": "2024-03-09T18:11:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hop Elixir: HBC 630, Rakau, Mosaic & Idaho 7",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-hbc-630-rakau-mosaic-and-idaho-7/5736997"
     },
     {
       "id": 1362093252,
