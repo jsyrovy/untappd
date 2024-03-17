@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1364229784,
+      "dt": "2024-03-16T23:32:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatý Patrik",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svaty-patrik/4223167"
+    },
+    {
+      "id": 1364006891,
+      "dt": "2024-03-16T19:03:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: HBC 630, Rakau, Mosaic & Idaho 7",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-hbc-630-rakau-mosaic-and-idaho-7/5736997"
+    },
+    {
+      "id": 1363939726,
+      "dt": "2024-03-16T17:22:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pêche Mel Bush",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-peche-mel-bush/27604"
+    },
+    {
+      "id": 1363938188,
+      "dt": "2024-03-16T17:20:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: HBC 630, Rakau, Mosaic & Idaho 7",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-hbc-630-rakau-mosaic-and-idaho-7/5736997"
+    },
+    {
+      "id": 1363926742,
+      "dt": "2024-03-16T16:57:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Knajp Rajdr",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-knajp-rajdr/2543959"
+    },
+    {
+      "id": 1363920221,
+      "dt": "2024-03-16T16:43:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1363907842,
+      "dt": "2024-03-16T16:13:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: HBC 630, Rakau, Mosaic & Idaho 7",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-hbc-630-rakau-mosaic-and-idaho-7/5736997"
+    },
+    {
+      "id": 1363850818,
+      "dt": "2024-03-16T11:48:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fox vs. Dragon",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-fox-vs-dragon/5688421"
+    },
+    {
+      "id": 1363850450,
+      "dt": "2024-03-16T11:44:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Bloody Mary",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-2024/5698058"
+    },
+    {
       "id": 1363366338,
       "dt": "2024-03-14T23:29:40+01:00",
       "venue_name": "Pivní ambasáda",
