@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1364724273,
+      "dt": "2024-03-18T20:42:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatý Patrik",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svaty-patrik/4223167"
+    },
+    {
+      "id": 1364723748,
+      "dt": "2024-03-18T20:39:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Highlander",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-highlander/4774569"
+    },
+    {
+      "id": 1364689918,
+      "dt": "2024-03-18T16:34:18+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Papír",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-papir/3340863"
+    },
+    {
+      "id": 1364688293,
+      "dt": "2024-03-18T16:11:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour Station (Raspberry)",
+      "brewery": "Axiom Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/axiom-brewery-sour-station-raspberry/3335186"
+    },
+    {
       "id": 1364610338,
       "dt": "2024-03-17T23:44:50+01:00",
       "venue_name": "Pivní ambasáda",
