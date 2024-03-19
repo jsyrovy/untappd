@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Helter Skelter Bloody Mary",
-      "description": "5,5% alc. piv. Crazy Clown, Praha, Bloody Mary Gose"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -31,6 +27,10 @@
     {
       "name": "22° Bush Peche Mel",
       "description": "8,5% alc. piv. Dubuisson, Pipaix, Belgie, Peach Strong Belgian Ale, 0,25l"
+    },
+    {
+      "name": "ZEST",
+      "description": "3,5% alc. piv. Lubrow, Polsko, Phantasm Berliner Weisse"
     }
   ]
 }
