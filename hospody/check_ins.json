@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1364891577,
+      "dt": "2024-03-19T23:37:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Highlander",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-highlander/4774569"
+    },
+    {
+      "id": 1364889047,
+      "dt": "2024-03-19T23:25:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Highlander",
+      "brewery": "Horác",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/horac-highlander/4774569"
+    },
+    {
+      "id": 1364885776,
+      "dt": "2024-03-19T23:10:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zest",
+      "brewery": "Lubrow Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lubrow-brewery-zest/5520135"
+    },
+    {
+      "id": 1364867577,
+      "dt": "2024-03-19T21:45:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cold's Cool",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-cold-s-cool/5517522"
+    },
+    {
+      "id": 1364867009,
+      "dt": "2024-03-19T21:42:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Triple Join, or Die.",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-triple-join-or-die/5632117"
+    },
+    {
+      "id": 1364853171,
+      "dt": "2024-03-19T20:38:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zest",
+      "brewery": "Lubrow Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/lubrow-brewery-zest/5520135"
+    },
+    {
       "id": 1364724273,
       "dt": "2024-03-18T20:42:08+01:00",
       "venue_name": "Pivní ambasáda",
