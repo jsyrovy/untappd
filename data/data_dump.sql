@@ -1144,6 +1144,12 @@ INSERT INTO "archive" VALUES(1364132752,'2024-03-16 20:32:37.000000','sejrik','I
 INSERT INTO "archive" VALUES(1364523762,'2024-03-17 19:32:49.000000','sejrik','Dvanácterák','Pivovar Kvilda','Untappd at Home');
 INSERT INTO "archive" VALUES(1364689918,'2024-03-18 15:34:18.000000','sejrik','Papír','Pivovar Zhůřák','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1364875299,'2024-03-19 21:21:36.000000','sejrik','Winter Affair Gossip: Les Intenables','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1364962685,'2024-03-20 15:49:11.000000','sejrik','Káranská 9','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1364963652,'2024-03-20 15:58:31.000000','sejrik','Liberator','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1364966014,'2024-03-20 16:18:11.000000','sejrik','Jantarová 13','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1364970357,'2024-03-20 16:47:29.000000','sejrik','Mellange','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1364975033,'2024-03-20 17:14:50.000000','sejrik','Vinohradská 12','Vinohradský pivovar','Vinohradský pivovar');
+INSERT INTO "archive" VALUES(1364978686,'2024-03-20 17:34:49.000000','sejrik','Dark Matter','Vinohradský pivovar','Vinohradský pivovar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
