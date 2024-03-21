@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1365064390,
+      "dt": "2024-03-21T00:18:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pêche Mel Bush",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-peche-mel-bush/27604"
+    },
+    {
+      "id": 1365063648,
+      "dt": "2024-03-21T00:15:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Raspberry Sorbet",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-raspberry-sorbet/3732902"
+    },
+    {
+      "id": 1365062546,
+      "dt": "2024-03-21T00:11:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Down Under",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-down-under/5522512"
+    },
+    {
+      "id": 1365010295,
+      "dt": "2024-03-20T20:48:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zest",
+      "brewery": "Lubrow Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lubrow-brewery-zest/5520135"
+    },
+    {
+      "id": 1364960930,
+      "dt": "2024-03-20T16:29:50+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Year ŠÁŇO",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-one-year-sano/5753895"
+    },
+    {
+      "id": 1364958691,
+      "dt": "2024-03-20T16:03:11+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelené",
+      "brewery": "Hubertus",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hubertus-zelene/2036664"
+    },
+    {
       "id": 1364891577,
       "dt": "2024-03-19T23:37:18+01:00",
       "venue_name": "Pivní ambasáda",
