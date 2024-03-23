@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1365573322,
+      "dt": "2024-03-22T22:35:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lager De Garde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lager-de-garde/5694351"
+    },
+    {
+      "id": 1365546658,
+      "dt": "2024-03-22T21:56:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Raj z Rajs (2024)",
+      "brewery": "PINTA",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pinta-raj-z-rajs-2024/5722817"
+    },
+    {
       "id": 1365237705,
       "dt": "2024-03-21T22:34:10+01:00",
       "venue_name": "Pivní ambasáda",
