@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1366179514,
+      "dt": "2024-03-24T01:13:29+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Madcat 11 Kraslice",
+      "brewery": "MadCat",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/madcat-madcat-11-kraslice/5761247"
+    },
+    {
+      "id": 1366174904,
+      "dt": "2024-03-24T01:03:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zest",
+      "brewery": "Lubrow Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lubrow-brewery-zest/5520135"
+    },
+    {
+      "id": 1366174182,
+      "dt": "2024-03-24T01:01:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lager De Garde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lager-de-garde/5694351"
+    },
+    {
+      "id": 1366043271,
+      "dt": "2024-03-23T21:48:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lager De Garde",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-lager-de-garde/5694351"
+    },
+    {
+      "id": 1365877972,
+      "dt": "2024-03-23T18:26:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
       "id": 1365573322,
       "dt": "2024-03-22T22:35:04+01:00",
       "venue_name": "Pivní ambasáda",
