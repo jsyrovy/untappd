@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1366580847,
+      "dt": "2024-03-25T18:40:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grapefruit-lollihop/2620360"
+    },
+    {
+      "id": 1366578822,
+      "dt": "2024-03-25T18:28:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1366578658,
+      "dt": "2024-03-25T18:27:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lager De Garde",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-lager-de-garde/5694351"
+    },
+    {
       "id": 1366393963,
       "dt": "2024-03-24T19:57:54+01:00",
       "venue_name": "U Toulavé pípy",
