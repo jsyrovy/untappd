@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1366754628,
+      "dt": "2024-03-26T20:35:08+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nectar of Happiness Strata",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-strata/5746320"
+    },
+    {
+      "id": 1366751758,
+      "dt": "2024-03-26T20:24:27+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1366751651,
+      "dt": "2024-03-26T20:24:04+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session NEIPA 12 – Cryo Pop / Idaho 7 / Talus",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-session-neipa-12-cryo-pop-idaho-7-talus/4989313"
+    },
+    {
+      "id": 1366744366,
+      "dt": "2024-03-26T19:56:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nectar of Happiness Strata",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-strata/5746320"
+    },
+    {
       "id": 1366580847,
       "dt": "2024-03-25T18:40:23+01:00",
       "venue_name": "Pivní ambasáda",
