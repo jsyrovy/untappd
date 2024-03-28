@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° Mordýř Zelený",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Ležák"
     },
     {
-      "name": "12° California",
-      "description": "5,3% alc. piv. Matuška, Broumy, APA"
+      "name": "11° Velikonoční Zelená",
+      "description": "4,5% alc. piv. Valášek, Vsetín, Ležák"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+      "name": "11° Zelený Ležák",
+      "description": "piv. Tambor, Dvůr Králové, Ležák"
     },
     {
-      "name": "13° Kynšperk",
-      "description": "5,6% alc. piv. Kynšperský Zajíc, Weizen"
+      "name": "12° Velikonoční Speciál",
+      "description": "5,2% alc. Beskýdský Pivovárek, Ale"
     },
     {
-      "name": "14° Strong Bitter",
-      "description": "6,4% alc. piv. Pivečka/Malt Worm, English Ale"
+      "name": "12° Vyšlehaná Kraslice",
+      "description": "5% alc. piv. Antoš, Slaný, APA"
     },
     {
-      "name": "15° Grapefruit Lollihop",
-      "description": "6,6% alc. piv. Sibeeria, Praha, Grapefruit IPA"
+      "name": "13° Kurtizána Zelená",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, IPA"
+    },
+    {
+      "name": "14° Green Easter",
+      "description": "4,5% alc., piv. Barn Beer Co., Druztová, Imperial Gose"
     },
     {
       "name": "18° Smoothie Bowl Green Morning",
       "description": "5,1% alc. piv. Nepomucen, Polsko, Kiwi, Pear, Banana, Pistachio Sour Ale, 0,25l"
-    },
-    {
-      "name": "ZEST",
-      "description": "3,5% alc. piv. Lubrow, Polsko, Phantasm Berliner Weisse"
     }
   ]
 }
