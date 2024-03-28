@@ -1,6 +1,150 @@
 {
   "check_ins": [
     {
+      "id": 1367006784,
+      "dt": "2024-03-28T00:32:25+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Verde",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-verde/5246744"
+    },
+    {
+      "id": 1367006453,
+      "dt": "2024-03-28T00:31:13+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelenej",
+      "brewery": "Měšťanský pivovar Kojetín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mestansky-pivovar-kojetin-zelenej/5277727"
+    },
+    {
+      "id": 1367006042,
+      "dt": "2024-03-28T00:29:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelené 11 – speciální ležák",
+      "brewery": "Pivovar Moravia",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-moravia-zelene-11-specialni-lezak/4224238"
+    },
+    {
+      "id": 1367005799,
+      "dt": "2024-03-28T00:28:46+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Litovel Patrik 11°",
+      "brewery": "Litovel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/litovel-litovel-patrik-110/1037856"
+    },
+    {
+      "id": 1366967729,
+      "dt": "2024-03-27T22:18:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Postmodern Strong Bitter",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-postmodern-strong-bitter/5710970"
+    },
+    {
+      "id": 1366937504,
+      "dt": "2024-03-27T20:44:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Smoothie Bowl - Green Morning",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-smoothie-bowl-green-morning/5749584"
+    },
+    {
+      "id": 1366929709,
+      "dt": "2024-03-27T20:20:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Smoothie Bowl - Green Morning",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-smoothie-bowl-green-morning/5749584"
+    },
+    {
+      "id": 1366929180,
+      "dt": "2024-03-27T20:18:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grapefruit-lollihop/2620360"
+    },
+    {
+      "id": 1366917573,
+      "dt": "2024-03-27T19:39:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Postmodern Strong Bitter",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-postmodern-strong-bitter/5710970"
+    },
+    {
+      "id": 1366916961,
+      "dt": "2024-03-27T19:37:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Smoothie Bowl - Green Morning",
+      "brewery": "Browar Nepomucen",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-smoothie-bowl-green-morning/5749584"
+    },
+    {
+      "id": 1366908933,
+      "dt": "2024-03-27T19:07:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Postmodern Strong Bitter",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-postmodern-strong-bitter/5710970"
+    },
+    {
+      "id": 1366907592,
+      "dt": "2024-03-27T19:02:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Lollihop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grapefruit-lollihop/2620360"
+    },
+    {
+      "id": 1366896935,
+      "dt": "2024-03-27T18:17:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zelená Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zelena-kurtizana/2041473"
+    },
+    {
+      "id": 1366884194,
+      "dt": "2024-03-27T17:09:48+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session NEIPA 12 – Cryo Pop / Idaho 7 / Talus",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-session-neipa-12-cryo-pop-idaho-7-talus/4989313"
+    },
+    {
+      "id": 1366880983,
+      "dt": "2024-03-27T16:45:02+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Verde",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-verde/5246744"
+    },
+    {
+      "id": 1366879398,
+      "dt": "2024-03-27T16:30:59+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Verde",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-verde/5246744"
+    },
+    {
       "id": 1366754628,
       "dt": "2024-03-26T20:35:08+01:00",
       "venue_name": "U Toulavé pípy",
