@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Just Sour",
+      "description": "4,5% alc. piv. Crazy Clown, Praha, Citrus Sour Ale"
+    },
+    {
       "name": "11° Mordýř Zelený",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Ležák"
     },
@@ -21,16 +25,12 @@
       "description": "5% alc. piv. Antoš, Slaný, APA"
     },
     {
-      "name": "13° Kurtizána Zelená",
-      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, IPA"
+      "name": "14° Strong Bitter",
+      "description": "6,4% alc. piv. Pivečka/Malt Worm, English Ale"
     },
     {
-      "name": "14° Green Easter",
-      "description": "4,5% alc., piv. Barn Beer Co., Druztová, Imperial Gose"
-    },
-    {
-      "name": "18° Smoothie Bowl Green Morning",
-      "description": "5,1% alc. piv. Nepomucen, Polsko, Kiwi, Pear, Banana, Pistachio Sour Ale, 0,25l"
+      "name": "18° Kasteel Rouge",
+      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
