@@ -9,8 +9,12 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Ležák"
     },
     {
-      "name": "12° California",
-      "description": "5,3% alc. piv. Matuška, Broumy, APA"
+      "name": "12° Appka",
+      "description": "5,4% alc. piv. Haksna, Ostrava, APA"
+    },
+    {
+      "name": "12° One Bunny",
+      "description": "5,4% alc. piv. Sibeeria, Praha, NZ West Coast Pilsner"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -23,10 +27,6 @@
     {
       "name": "14° Strong Bitter",
       "description": "6,4% alc. piv. Pivečka/Malt Worm, English Ale"
-    },
-    {
-      "name": "15° Grapefruit Lollihop",
-      "description": "6,6% alc. piv. Sibeeria, Praha, Grapefruit IPA"
     },
     {
       "name": "18° Kasteel Rouge",
