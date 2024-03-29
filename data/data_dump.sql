@@ -1152,6 +1152,7 @@ INSERT INTO "archive" VALUES(1364975033,'2024-03-20 17:14:50.000000','sejrik','V
 INSERT INTO "archive" VALUES(1364978686,'2024-03-20 17:34:49.000000','sejrik','Dark Matter','Vinohradský pivovar','Vinohradský pivovar');
 INSERT INTO "archive" VALUES(1365499751,'2024-03-22 19:51:17.000000','sejrik','Krasohled 16','Pivovar Lyer','Untappd at Home');
 INSERT INTO "archive" VALUES(1366751410,'2024-03-26 19:23:11.000000','sejrik','CREAM SOUR Apricot + Blackberry + Lemon','NOZIB Special Brews','Untappd at Home');
+INSERT INTO "archive" VALUES(1367212056,'2024-03-28 21:03:19.000000','sejrik','Evergreen','Primátor','Beer Bar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
