@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1367627724,
+      "dt": "2024-03-29T22:52:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kamenická Zelená 12 (2024)",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-kamenicka-zelena-12-2024/5766870"
+    },
+    {
+      "id": 1367622995,
+      "dt": "2024-03-29T22:45:38+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Year ŠÁŇO",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-one-year-sano/5753895"
+    },
+    {
+      "id": 1367577570,
+      "dt": "2024-03-29T21:42:09+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "RavenStern",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-ravenstern/5749506"
+    },
+    {
+      "id": 1367502885,
+      "dt": "2024-03-29T19:57:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Bunny",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-bunny/5766593"
+    },
+    {
+      "id": 1367481436,
+      "dt": "2024-03-29T19:21:57+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Šlehač",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-slehac/4240811"
+    },
+    {
+      "id": 1367457367,
+      "dt": "2024-03-29T18:39:27+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Drink And Stay Sober Ø",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-stay-sober-o/5668173"
+    },
+    {
+      "id": 1367454241,
+      "dt": "2024-03-29T18:33:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Postmodern Strong Bitter",
+      "brewery": "Malt Worm",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/malt-worm-postmodern-strong-bitter/5710970"
+    },
+    {
+      "id": 1367434576,
+      "dt": "2024-03-29T17:56:07+01:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Zelený ležák 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zeleny-lezak-11/4246778"
+    },
+    {
+      "id": 1367421534,
+      "dt": "2024-03-29T17:27:46+01:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Spring IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-spring-ipa/1527257"
+    },
+    {
+      "id": 1367418852,
+      "dt": "2024-03-29T17:21:32+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Techtle Mechtle – Kveik NEIPA ",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-techtle-mechtle-kveik-neipa/3947012"
+    },
+    {
+      "id": 1367402258,
+      "dt": "2024-03-29T16:36:34+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kamenická Zelená 12 (2024)",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-kamenicka-zelena-12-2024/5766870"
+    },
+    {
+      "id": 1367400542,
+      "dt": "2024-03-29T16:31:23+01:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Velikonoční Ležák 12 A Půl",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-velikonocni-lezak-12-a-pul/5766556"
+    },
+    {
       "id": 1367270480,
       "dt": "2024-03-29T00:15:40+01:00",
       "venue_name": "Pivní ambasáda",
