@@ -5,10 +5,6 @@
       "description": "4,5% alc. piv. Crazy Clown, Praha, Citrus Sour Ale"
     },
     {
-      "name": "11° Mordýř Zelený",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Ležák"
-    },
-    {
       "name": "12° Appka",
       "description": "5,4% alc. piv. Haksna, Ostrava, APA"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Spring IPA",
       "description": "? alc. Beskydský Pivovárek, Ostravice, IPA"
+    },
+    {
+      "name": "16° Double Mocnář",
+      "description": "?alc. piv. Mordýř, Dolní Ředice, Double Vídeňský Ležák"
     },
     {
       "name": "18° Kasteel Rouge",
