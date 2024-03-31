@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1368131321,
+      "dt": "2024-03-30T22:49:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-spring-ipa/621576"
+    },
+    {
+      "id": 1368120839,
+      "dt": "2024-03-30T22:35:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Bunny",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-bunny/5766593"
+    },
+    {
+      "id": 1367801264,
+      "dt": "2024-03-30T13:12:13+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Free Gelato: Bianco",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-free-gelato-bianco/5651123"
+    },
+    {
       "id": 1367627724,
       "dt": "2024-03-29T22:52:40+01:00",
       "venue_name": "U Toulavé pípy",
