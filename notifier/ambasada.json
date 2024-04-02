@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Just Sour",
-      "description": "4,5% alc. piv. Crazy Clown, Praha, Citrus Sour Ale"
-    },
-    {
       "name": "12° Appka",
       "description": "5,4% alc. piv. Haksna, Ostrava, APA"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Philadelphia Moruše",
+      "description": "4,2% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "12° Weizen",
