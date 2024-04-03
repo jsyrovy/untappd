@@ -5,6 +5,10 @@
       "description": "4,5% alc. piv. Clock, Potštejn, Pineapple Session IPA"
     },
     {
+      "name": "11° Pšeničné",
+      "description": "3,8% alc. piv. Agnes, Bohdaneč, Weizen"
+    },
+    {
       "name": "12° One Bunny",
       "description": "5,4% alc. piv. Sibeeria, Praha, NZ West Coast Pilsner"
     },
@@ -13,16 +17,8 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Philadelphia Moruše",
-      "description": "4,2% alc. piv. Obora, Malšice, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Weizen",
-      "description": "5,2% alc. piv. Pivečka, Rousínov, Weizen"
-    },
-    {
-      "name": "13° Iam Single Sabro",
-      "description": "5,5% alc. piv. Pivečka, Rousínov, Single Hop Ale"
+      "name": "14° Luc IPA",
+      "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "16° Double Mocnář",
