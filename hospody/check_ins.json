@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1369252362,
+      "dt": "2024-04-04T23:13:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vesna 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vesna-2024/5763738"
+    },
+    {
+      "id": 1369249077,
+      "dt": "2024-04-04T23:02:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rafan",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-rafan/2658169"
+    },
+    {
+      "id": 1369239797,
+      "dt": "2024-04-04T22:29:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vesna 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vesna-2024/5763738"
+    },
+    {
+      "id": 1369179819,
+      "dt": "2024-04-04T19:13:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-psenicne/4942594"
+    },
+    {
+      "id": 1369175420,
+      "dt": "2024-04-04T18:55:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vesna 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vesna-2024/5763738"
+    },
+    {
+      "id": 1369170475,
+      "dt": "2024-04-04T18:33:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rafan",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-rafan/2658169"
+    },
+    {
       "id": 1369045999,
       "dt": "2024-04-03T22:15:39+02:00",
       "venue_name": "Pivní ambasáda",
