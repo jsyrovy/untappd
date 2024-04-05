@@ -1,32 +1,36 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Bedi",
+      "description": "4,2% alc. piv. Na Kopečku, Svitavy, Světlý Ležák"
     },
     {
-      "name": "11° Pšeničné",
-      "description": "3,8% alc. piv. Agnes, Bohdaneč, Weizen"
+      "name": "11° Bedřichova",
+      "description": "4,5% alc. piv. Veselka, Litomyšl, Polotmavý Ležák"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+      "name": "11° Horymír",
+      "description": "4,5% alc. piv. Horymír, Praha, Světlý Ležák"
+    },
+    {
+      "name": "12° Brňenský Weiss",
+      "description": "5,2% alc. piv. Hauskrecht, Brno, Weissbier"
     },
     {
       "name": "12° Philadelphia Moruše",
       "description": "4,2% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
-      "name": "12° Rafan",
-      "description": "5,2% alc. piv. Hoppy Dog, Ostrava, APA"
+      "name": "12° Sun APA",
+      "description": "5,2% alc. piv. Nachmelená Opice, Krnov, APA"
     },
     {
-      "name": "12° Vesna 2024",
-      "description": "4,8% alc. piv. Sibeeria, Praha, New England Pale Ale"
+      "name": "15° Barney",
+      "description": "6% alc. piv. The Barn Beer Co., Druztová, NEIPA"
     },
     {
-      "name": "14° Luc IPA",
-      "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
+      "name": "16° Blackout",
+      "description": "6,5% alc. piv. Volt, Jablonec nad Nisou, Irish Stout"
     }
   ]
 }
