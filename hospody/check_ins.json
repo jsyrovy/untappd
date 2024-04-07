@@ -1,6 +1,177 @@
 {
   "check_ins": [
     {
+      "id": 1370144302,
+      "dt": "2024-04-07T00:14:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kisselá Máša",
+      "brewery": "Pivovar Máša",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-masa-kissela-masa/5422395"
+    },
+    {
+      "id": 1370136776,
+      "dt": "2024-04-07T00:01:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hauskrecht Brněnský Weiss",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-brnensky-weiss/3234580"
+    },
+    {
+      "id": 1370134813,
+      "dt": "2024-04-06T23:58:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Horymír 11°",
+      "brewery": "Pivovar Horymír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-horymir-horymir-110/3991504"
+    },
+    {
+      "id": 1370066934,
+      "dt": "2024-04-06T22:24:03+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Glee",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-glee/3101033"
+    },
+    {
+      "id": 1370019293,
+      "dt": "2024-04-06T21:26:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Prenzlauer 0",
+      "brewery": "Põhjala",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pohjala-prenzlauer-0/4187606"
+    },
+    {
+      "id": 1369960965,
+      "dt": "2024-04-06T20:17:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gunslinger",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-gunslinger/1614466"
+    },
+    {
+      "id": 1369936465,
+      "dt": "2024-04-06T19:46:00+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cape of Good Hops 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-cape-of-good-hops-17/5756937"
+    },
+    {
+      "id": 1369918275,
+      "dt": "2024-04-06T19:21:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Bunny",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-bunny/5766593"
+    },
+    {
+      "id": 1369914751,
+      "dt": "2024-04-06T19:16:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Anežka (Gluten Reduced Lager)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-anezka-gluten-reduced-lager/5777513"
+    },
+    {
+      "id": 1369898005,
+      "dt": "2024-04-06T18:53:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bayern Weisse 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bayern-weisse-12/5756941"
+    },
+    {
+      "id": 1369892621,
+      "dt": "2024-04-06T18:45:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Alma De La Vera 2024",
+      "brewery": "Fenetra",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/fenetra-alma-de-la-vera-2024/5771703"
+    },
+    {
+      "id": 1369887576,
+      "dt": "2024-04-06T18:38:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bayern Weisse 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bayern-weisse-12/5756941"
+    },
+    {
+      "id": 1369884372,
+      "dt": "2024-04-06T18:33:11+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Green Mint Gose",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-green-mint-gose/5774382"
+    },
+    {
+      "id": 1369862573,
+      "dt": "2024-04-06T17:58:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cape of Good Hops 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-cape-of-good-hops-17/5756937"
+    },
+    {
+      "id": 1369839527,
+      "dt": "2024-04-06T17:13:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Bunny",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-bunny/5766593"
+    },
+    {
+      "id": 1369836241,
+      "dt": "2024-04-06T17:07:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vesna 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vesna-2024/5763738"
+    },
+    {
+      "id": 1369836170,
+      "dt": "2024-04-06T17:07:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Green Mint Gose",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-green-mint-gose/5774382"
+    },
+    {
+      "id": 1369835623,
+      "dt": "2024-04-06T17:05:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Green Mint Gose",
+      "brewery": "Pivovar Raven",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-raven-green-mint-gose/5774382"
+    },
+    {
+      "id": 1369827185,
+      "dt": "2024-04-06T16:47:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Bunny",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-bunny/5766593"
+    },
+    {
       "id": 1369597203,
       "dt": "2024-04-05T23:41:48+02:00",
       "venue_name": "U Toulavé pípy",
