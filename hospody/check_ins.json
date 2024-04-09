@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1370661802,
+      "dt": "2024-04-08T20:55:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rafan",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-rafan/2658169"
+    },
+    {
+      "id": 1370660056,
+      "dt": "2024-04-08T20:48:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West Coast IPA 15% Vol.V.",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-west-coast-ipa-15-vol-v/5740830"
+    },
+    {
+      "id": 1370654852,
+      "dt": "2024-04-08T20:28:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bedi 10",
+      "brewery": "Svitavský pivovárek Na Kopečku",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/svitavsky-pivovarek-na-kopecku-bedi-10/3806154"
+    },
+    {
+      "id": 1370654191,
+      "dt": "2024-04-08T20:25:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Horymír 11°",
+      "brewery": "Pivovar Horymír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-horymir-horymir-110/3991504"
+    },
+    {
+      "id": 1370632243,
+      "dt": "2024-04-08T18:46:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hauskrecht Brněnský Weiss",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-brnensky-weiss/3234580"
+    },
+    {
       "id": 1370494766,
       "dt": "2024-04-07T22:47:06+02:00",
       "venue_name": "Pivní ambasáda",
