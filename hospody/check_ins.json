@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1371015172,
+      "dt": "2024-04-10T23:33:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stella",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-stella/3916311"
+    },
+    {
+      "id": 1371007454,
+      "dt": "2024-04-10T22:57:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-spring/5311449"
+    },
+    {
+      "id": 1370999251,
+      "dt": "2024-04-10T22:20:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West Coast IPA 15% Vol.V.",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-west-coast-ipa-15-vol-v/5740830"
+    },
+    {
+      "id": 1370995570,
+      "dt": "2024-04-10T22:05:34+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cape of Good Hops 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-cape-of-good-hops-17/5756937"
+    },
+    {
+      "id": 1370995270,
+      "dt": "2024-04-10T22:04:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West Coast IPA 15% Vol.V.",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-west-coast-ipa-15-vol-v/5740830"
+    },
+    {
+      "id": 1370992093,
+      "dt": "2024-04-10T21:51:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1370968012,
+      "dt": "2024-04-10T20:19:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vesna 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vesna-2024/5763738"
+    },
+    {
+      "id": 1370932207,
+      "dt": "2024-04-10T17:20:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackout",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-blackout/2922494"
+    },
+    {
+      "id": 1370927167,
+      "dt": "2024-04-10T16:32:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West Coast IPA 15% Vol.V.",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-west-coast-ipa-15-vol-v/5740830"
+    },
+    {
+      "id": 1370925492,
+      "dt": "2024-04-10T16:12:50+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mydlářova 13",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-mydlarova-13/4668220"
+    },
+    {
       "id": 1370661802,
       "dt": "2024-04-08T20:55:10+02:00",
       "venue_name": "Pivní ambasáda",
