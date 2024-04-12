@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1371215148,
+      "dt": "2024-04-11T23:47:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-spring/5311449"
+    },
+    {
+      "id": 1371101704,
+      "dt": "2024-04-11T16:19:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-spring/5311449"
+    },
+    {
       "id": 1371015172,
       "dt": "2024-04-10T23:33:54+02:00",
       "venue_name": "Pivní ambasáda",
