@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1371612386,
+      "dt": "2024-04-13T01:04:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy Superdelic",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-hazy-superdelic/5696836"
+    },
+    {
+      "id": 1371587689,
+      "dt": "2024-04-13T00:17:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fanda 12",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-fanda-12/4130048"
+    },
+    {
+      "id": 1371568411,
+      "dt": "2024-04-12T23:44:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Second Chance",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-second-chance/5756113"
+    },
+    {
+      "id": 1371542460,
+      "dt": "2024-04-12T23:02:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pinzga' Weizen",
+      "brewery": "Pinzgau Bräu",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pinzgau-brau-pinzga-weizen/1169788"
+    },
+    {
+      "id": 1371513851,
+      "dt": "2024-04-12T22:20:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-spring/5311449"
+    },
+    {
+      "id": 1371497093,
+      "dt": "2024-04-12T21:55:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lush Spring",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-lush-spring/5298335"
+    },
+    {
+      "id": 1371459065,
+      "dt": "2024-04-12T20:59:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lush Spring",
+      "brewery": "Pivovar Agent",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-agent-lush-spring/5298335"
+    },
+    {
+      "id": 1371443028,
+      "dt": "2024-04-12T20:34:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
+      "id": 1371439757,
+      "dt": "2024-04-12T20:28:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-spring/5311449"
+    },
+    {
+      "id": 1371420052,
+      "dt": "2024-04-12T19:56:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pinzga' Weizen",
+      "brewery": "Pinzgau Bräu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pinzgau-brau-pinzga-weizen/1169788"
+    },
+    {
       "id": 1371215148,
       "dt": "2024-04-11T23:47:54+02:00",
       "venue_name": "Pivní ambasáda",
