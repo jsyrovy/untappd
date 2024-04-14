@@ -1164,6 +1164,31 @@ INSERT INTO "archive" VALUES(1370999251,'2024-04-10 20:20:41.000000','sejrik','W
 INSERT INTO "archive" VALUES(1371007454,'2024-04-10 20:57:28.000000','sejrik','Spring','Sibeeria','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1371015172,'2024-04-10 21:33:54.000000','sejrik','Stella','Pivovar Clock','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1371449615,'2024-04-12 18:44:44.000000','sejrik','Ovečka 11','Pivovar Beránek','Monkey Pizza');
+INSERT INTO "archive" VALUES(1371737087,'2024-04-13 11:05:24.000000','sejrik','Lightbeam','Hopewell Brewing Co.','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371738235,'2024-04-13 11:11:39.000000','sejrik','Tyjátr (2024)','Falkon','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371740758,'2024-04-13 11:24:43.000000','sejrik','Fantasy Lager 11°','Chroust','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371744997,'2024-04-13 11:44:55.000000','sejrik','Wonders - Banana, Coconut & Pistachios','Magic Road','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371750681,'2024-04-13 12:09:21.000000','sejrik','London Black','Anspach & Hobday','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371758633,'2024-04-13 12:39:44.000000','sejrik','Octopils','Slowburn Brewing Co-op','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371762608,'2024-04-13 12:53:40.000000','sejrik','Zig Zag','Gamma Brewing Company','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371769943,'2024-04-13 13:18:17.000000','sejrik','Undulation','Gamma Brewing Company','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371777115,'2024-04-13 13:39:17.000000','sejrik','Dreams of Orgonon','Human Robot','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371788271,'2024-04-13 14:09:46.000000','sejrik','First Pils','Hopewell Brewing Co.','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371795491,'2024-04-13 14:27:45.000000','sejrik','Vivi La Tua Vita','Magic Road','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371815450,'2024-04-13 15:13:10.000000','sejrik','Mullet Hunter','Falkon','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371825736,'2024-04-13 15:32:38.000000','sejrik','Mister Scoob','Axiom Brewery','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371835191,'2024-04-13 15:49:50.000000','sejrik','Well Deserved','Stepping Stone Brewing Company','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371863334,'2024-04-13 16:32:08.000000','sejrik','Strawberry Bay','Mad Scientist','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371889772,'2024-04-13 17:07:04.000000','sejrik','Rogue Tidal Wave','Wild East Brewing Co.','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371908197,'2024-04-13 17:30:13.000000','sejrik','Antošovy koule','Pivovar Antoš','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371918588,'2024-04-13 17:42:54.000000','sejrik','Panic At the Disco','SQBRU [skjuːbru]','the Disco by  SQBRU [skjuːbru] at Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371947746,'2024-04-13 18:16:58.000000','sejrik','The Great Reset','Stepping Stone Brewing Company','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371972250,'2024-04-13 18:45:18.000000','sejrik','FEAT. Ziemia Obiecana - Diemenshion','Funky Fluid','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1371982476,'2024-04-13 18:56:07.000000','sejrik','5th Anniversary','Funky Fluid','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1372001614,'2024-04-13 19:23:49.000000','sejrik','Like A Strawberry Daiquiri 14','Rodinný pivovar Zichovec','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1372008990,'2024-04-13 19:31:13.000000','sejrik','Secret Probation','Alternate Ending Beer Co.','Prague Beer Fest');
+INSERT INTO "archive" VALUES(1372156324,'2024-04-13 22:45:20.000000','sejrik','Kartel Session Black IPA Kazbek Mimosa 11 (Březen 2024)','Rodinný pivovar Zichovec',NULL);
+INSERT INTO "archive" VALUES(1372157798,'2024-04-13 22:47:22.000000','sejrik','Mango Vanilla Orange Smoothie 15°','Chroust',NULL);
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
