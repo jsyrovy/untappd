@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Aldersbacher",
+      "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
+    },
+    {
       "name": "12° Jaro",
       "description": "5,1% alc. piv. Clock, Potštejn, DDH Wheat Ale"
     },
@@ -27,10 +31,6 @@
     {
       "name": "22° Second Chance",
       "description": "5,5% alc. piv. Antoš, Slaný, Triple Hazy IPA"
-    },
-    {
-      "name": "Pinzga Weizen",
-      "description": "5,2% alc. piv. Pinzga Brau, Salzburg, Hefeweizen"
     }
   ]
 }
