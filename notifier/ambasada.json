@@ -21,16 +21,16 @@
       "description": "5,3 alc. piv. Tambor, Dvůr Králové, Stout"
     },
     {
+      "name": "13° Maracuja",
+      "description": "5,3. alc. piv. Mordýř, Dolní Ředice, Maracuja Ale"
+    },
+    {
       "name": "15° Lollihop",
       "description": "6,6% alc. piv. Sibeeria, Praha,  West Coast IPA"
     },
     {
       "name": "15° Sweet Dreams",
       "description": "5% alc. piv. Crazy Clown, Praha, NEIPA"
-    },
-    {
-      "name": "16° Pornstar Cindy Shine",
-      "description": "6,1% alc. piv. Crazy Clown, Praha, Strawberry Cheesecake Imperial Sour Ale"
     }
   ]
 }
