@@ -1192,6 +1192,12 @@ INSERT INTO "archive" VALUES(1372157798,'2024-04-13 22:47:22.000000','sejrik','M
 INSERT INTO "archive" VALUES(1372913794,'2024-04-17 17:49:40.000000','sejrik','Gambrinus Originál 10','Plzeňský Prazdroj','Untappd at Home');
 INSERT INTO "archive" VALUES(1373141184,'2024-04-18 20:15:56.000000','sejrik','Elf','Pivovar Clock','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1373164636,'2024-04-18 21:39:05.000000','sejrik','Lollihop','Sibeeria','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1373336617,'2024-04-19 17:01:45.000000','sejrik','Winter Affair Gossip: Omnipollo','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1373341983,'2024-04-19 17:12:27.000000','sejrik','Winter Affair Gossip: Northern Monk','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1373354877,'2024-04-19 17:37:10.000000','sejrik','Space Tunnel','WeldWerks Brewing Co.','Untappd at Home');
+INSERT INTO "archive" VALUES(1373374526,'2024-04-19 18:12:13.000000','sejrik','Hazy Rabbit','Lakefront Brewery',NULL);
+INSERT INTO "archive" VALUES(1373396084,'2024-04-19 18:47:38.000000','sejrik','Nectar of Happiness Strata','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1373416760,'2024-04-19 19:18:58.000000','sejrik','DAMN! That''s Good! Double IPA','Explorium',NULL);
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
