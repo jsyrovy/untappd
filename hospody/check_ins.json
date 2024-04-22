@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1374324614,
+      "dt": "2024-04-21T20:16:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
+      "id": 1374289508,
+      "dt": "2024-04-21T18:49:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kazbek Cold IPA",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-kazbek-cold-ipa/5775232"
+    },
+    {
       "id": 1373278819,
       "dt": "2024-04-19T16:05:07+02:00",
       "venue_name": "U Toulavé pípy",
