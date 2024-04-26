@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1375073804,
+      "dt": "2024-04-25T23:28:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blitzkrieeg",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-blitzkrieeg/1579745"
+    },
+    {
+      "id": 1375072498,
+      "dt": "2024-04-25T23:23:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
+      "id": 1375067077,
+      "dt": "2024-04-25T23:04:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pêche Mel Bush",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-peche-mel-bush/27604"
+    },
+    {
+      "id": 1375064872,
+      "dt": "2024-04-25T22:56:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sea Buckthorn Sorbet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-sea-buckthorn-sorbet/3692458"
+    },
+    {
+      "id": 1375052669,
+      "dt": "2024-04-25T22:15:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
+      "id": 1375051347,
+      "dt": "2024-04-25T22:11:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Raspberry Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-raspberry-sour/3946220"
+    },
+    {
+      "id": 1375049818,
+      "dt": "2024-04-25T22:07:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blitzkrieeg",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-blitzkrieeg/1579745"
+    },
+    {
+      "id": 1375026757,
+      "dt": "2024-04-25T20:58:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
+      "id": 1374993671,
+      "dt": "2024-04-25T19:12:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sea Buckthorn Sorbet",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-sea-buckthorn-sorbet/3692458"
+    },
+    {
+      "id": 1374985669,
+      "dt": "2024-04-25T18:41:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
       "id": 1374879472,
       "dt": "2024-04-25T00:12:44+02:00",
       "venue_name": "Pivní ambasáda",
