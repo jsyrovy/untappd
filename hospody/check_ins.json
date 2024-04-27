@@ -1,6 +1,132 @@
 {
   "check_ins": [
     {
+      "id": 1375397676,
+      "dt": "2024-04-26T23:10:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1375381953,
+      "dt": "2024-04-26T22:41:01+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pšeničné",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-psenicne/4942594"
+    },
+    {
+      "id": 1375374998,
+      "dt": "2024-04-26T22:28:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pêche Mel Bush",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-peche-mel-bush/27604"
+    },
+    {
+      "id": 1375372367,
+      "dt": "2024-04-26T22:24:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nová Louka 14 IPA",
+      "brewery": "Pivovar Bohdaneč ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-bohdanec-nova-louka-14-ipa/4743611"
+    },
+    {
+      "id": 1375367710,
+      "dt": "2024-04-26T22:16:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Orion α",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-a/5045843"
+    },
+    {
+      "id": 1375364434,
+      "dt": "2024-04-26T22:11:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blitzkrieeg",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-blitzkrieeg/1579745"
+    },
+    {
+      "id": 1375323332,
+      "dt": "2024-04-26T21:06:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Orion ζ,",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-z/5689697"
+    },
+    {
+      "id": 1375321973,
+      "dt": "2024-04-26T21:04:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tři sestry",
+      "brewery": "Hubertus",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hubertus-tri-sestry/1194165"
+    },
+    {
+      "id": 1375317295,
+      "dt": "2024-04-26T20:57:07+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "ECLIPSE IT!",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-eclipse-it/5782345"
+    },
+    {
+      "id": 1375315967,
+      "dt": "2024-04-26T20:54:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fuji-san",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fuji-san/5794263"
+    },
+    {
+      "id": 1375311171,
+      "dt": "2024-04-26T20:47:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
+    },
+    {
+      "id": 1375304329,
+      "dt": "2024-04-26T20:36:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Čau šťávo!",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-cau-stavo/5780293"
+    },
+    {
+      "id": 1375301343,
+      "dt": "2024-04-26T20:31:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Orion η",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-h/5790783"
+    },
+    {
+      "id": 1375286055,
+      "dt": "2024-04-26T20:04:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ECLIPSE",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-eclipse/4421073"
+    },
+    {
       "id": 1375073804,
       "dt": "2024-04-25T23:28:45+02:00",
       "venue_name": "Pivní ambasáda",
