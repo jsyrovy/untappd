@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1376136224,
+      "dt": "2024-04-28T17:22:11+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cloudya",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-cloudya/3497121"
+    },
+    {
+      "id": 1376135669,
+      "dt": "2024-04-28T17:20:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Everything Everywhere All Sabro 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-everything-everywhere-all-sabro-17/5756947"
+    },
+    {
+      "id": 1376070123,
+      "dt": "2024-04-28T10:12:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
       "id": 1375791330,
       "dt": "2024-04-27T20:48:26+02:00",
       "venue_name": "U Toulavé pípy",
