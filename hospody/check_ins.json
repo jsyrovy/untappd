@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1376610756,
+      "dt": "2024-04-30T20:45:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Triglav",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-triglav/5784836"
+    },
+    {
       "id": 1376454466,
       "dt": "2024-04-29T22:44:34+02:00",
       "venue_name": "U Toulavé pípy",
