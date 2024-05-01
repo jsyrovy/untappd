@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Orange & Elderflower",
+      "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Sour Ale"
+    },
+    {
       "name": "11° Skotačivá Veverka",
       "description": "4,2% alc. piv. Valášek, Vsetín, APA"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Philadelphia Maracuja",
-      "description": "4,2% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "13° Apollo Galaxy",
