@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Elf",
-      "description": "4,8% alc. piv. JungBerg/Clock, German Pils"
-    },
-    {
       "name": "11° Skotačivá Veverka",
       "description": "4,2% alc. piv. Valášek, Vsetín, APA"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° Komplic",
       "description": "5% alc. piv. Agent, Olešnice, American Weizen"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Philadelphia Maracuja",
