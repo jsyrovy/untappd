@@ -1,20 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Orange & Elderflower",
       "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Sour Ale"
     },
     {
-      "name": "11° Skotačivá Veverka",
-      "description": "4,2% alc. piv. Valášek, Vsetín, APA"
-    },
-    {
       "name": "12,5° Alianční",
       "description": "5,2% alc. piv. Permon, Sokolov, India Pale Lager"
-    },
-    {
-      "name": "12° Everyday Life",
-      "description": "5,1% alc. piv. Sibeeria, Praha, Czech Premium Pale Lager"
     },
     {
       "name": "12° Komplic",
@@ -27,6 +23,10 @@
     {
       "name": "13° Apollo Galaxy",
       "description": "5,5% alc. piv. Matuška, Broumy, Pale Ale"
+    },
+    {
+      "name": "17° I Love the Smell of Nelson Sauvin in the Morning",
+      "description": "6,9% alc. piv. Sibeeria, Praha, Single Hop NZ NEIPA"
     },
     {
       "name": "22° Bush Peche Mel",
