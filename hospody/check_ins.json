@@ -1,6 +1,204 @@
 {
   "check_ins": [
     {
+      "id": 1377492807,
+      "dt": "2024-05-04T01:56:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mangolorian",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-mangolorian/5785691"
+    },
+    {
+      "id": 1377464562,
+      "dt": "2024-05-04T00:50:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zichbeeria New Wormy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-zichbeeria-new-wormy/5640124"
+    },
+    {
+      "id": 1377447371,
+      "dt": "2024-05-04T00:13:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zichbeeria New Wormy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-zichbeeria-new-wormy/5640124"
+    },
+    {
+      "id": 1377440896,
+      "dt": "2024-05-03T23:59:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SWEET DREAMS Are Made of Mosaic, Nelson Sauvin, Strata, Nectaron",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-mosaic-nelson-sauvin-strata-nectaron/5765418"
+    },
+    {
+      "id": 1377439871,
+      "dt": "2024-05-03T23:57:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1377439667,
+      "dt": "2024-05-03T23:57:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vienna Calling",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vienna-calling/5786051"
+    },
+    {
+      "id": 1377418599,
+      "dt": "2024-05-03T23:16:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "God Is Dead",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-god-is-dead/1506990"
+    },
+    {
+      "id": 1377414645,
+      "dt": "2024-05-03T23:09:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SWEET DREAMS Are Made of Mosaic, Nelson Sauvin, Strata, Nectaron",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-mosaic-nelson-sauvin-strata-nectaron/5765418"
+    },
+    {
+      "id": 1377401469,
+      "dt": "2024-05-03T22:45:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1377399879,
+      "dt": "2024-05-03T22:42:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Laura Craft",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-laura-craft/5722985"
+    },
+    {
+      "id": 1377398472,
+      "dt": "2024-05-03T22:40:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vienna Calling",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vienna-calling/5786051"
+    },
+    {
+      "id": 1377342049,
+      "dt": "2024-05-03T21:10:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SWEET DREAMS Are Made of Mosaic, Nelson Sauvin, Strata, Nectaron",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-mosaic-nelson-sauvin-strata-nectaron/5765418"
+    },
+    {
+      "id": 1377322418,
+      "dt": "2024-05-03T20:41:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SWEET DREAMS Are Made of Mosaic, Nelson Sauvin, Strata, Nectaron",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-mosaic-nelson-sauvin-strata-nectaron/5765418"
+    },
+    {
+      "id": 1377318671,
+      "dt": "2024-05-03T20:28:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mangolorian",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-mangolorian/5785691"
+    },
+    {
+      "id": 1377316730,
+      "dt": "2024-05-03T20:24:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1377316507,
+      "dt": "2024-05-03T20:24:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Cindy Shine Edition",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-cindy-shine-edition/5783357"
+    },
+    {
+      "id": 1377314935,
+      "dt": "2024-05-03T20:21:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar/3383982"
+    },
+    {
+      "id": 1377313305,
+      "dt": "2024-05-03T20:18:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "God Is Dead",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-god-is-dead/1506990"
+    },
+    {
+      "id": 1377312999,
+      "dt": "2024-05-03T20:18:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1377311443,
+      "dt": "2024-05-03T20:14:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zichbeeria New Wormy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-zichbeeria-new-wormy/5640124"
+    },
+    {
+      "id": 1377240215,
+      "dt": "2024-05-03T17:38:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Africana 12",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-africana-12/4319528"
+    },
+    {
+      "id": 1377237385,
+      "dt": "2024-05-03T17:29:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "American IPA 14",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-american-ipa-14/4237836"
+    },
+    {
       "id": 1377043698,
       "dt": "2024-05-02T20:42:50+02:00",
       "venue_name": "U Toulavé pípy",
