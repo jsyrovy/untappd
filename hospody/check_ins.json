@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1377713373,
+      "dt": "2024-05-04T18:40:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zichbeeria New Wormy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-zichbeeria-new-wormy/5640124"
+    },
+    {
+      "id": 1377670617,
+      "dt": "2024-05-04T17:22:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
       "id": 1377492807,
       "dt": "2024-05-04T01:56:15+02:00",
       "venue_name": "Pivní ambasáda",
