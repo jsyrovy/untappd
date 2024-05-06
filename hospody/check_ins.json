@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1378239170,
+      "dt": "2024-05-05T20:50:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "God Is Dead",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-god-is-dead/1506990"
+    },
+    {
+      "id": 1378238257,
+      "dt": "2024-05-05T20:48:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zichbeeria New Wormy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-zichbeeria-new-wormy/5640124"
+    },
+    {
+      "id": 1378237415,
+      "dt": "2024-05-05T20:46:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mangolorian",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-mangolorian/5785691"
+    },
+    {
+      "id": 1378236570,
+      "dt": "2024-05-05T20:44:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SWEET DREAMS Are Made of Mosaic, Nelson Sauvin, Strata, Nectaron",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-mosaic-nelson-sauvin-strata-nectaron/5765418"
+    },
+    {
+      "id": 1378235716,
+      "dt": "2024-05-05T20:42:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1378234630,
+      "dt": "2024-05-05T20:40:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vienna Calling",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vienna-calling/5786051"
+    },
+    {
+      "id": 1378234051,
+      "dt": "2024-05-05T20:38:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Laura Craft",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-laura-craft/5722985"
+    },
+    {
+      "id": 1378186584,
+      "dt": "2024-05-05T18:45:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mangolorian",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-mangolorian/5785691"
+    },
+    {
+      "id": 1378174512,
+      "dt": "2024-05-05T18:14:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1378173517,
+      "dt": "2024-05-05T18:11:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SWEET DREAMS Are Made of Mosaic, Nelson Sauvin, Strata, Nectaron",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-mosaic-nelson-sauvin-strata-nectaron/5765418"
+    },
+    {
       "id": 1377713373,
       "dt": "2024-05-04T18:40:48+02:00",
       "venue_name": "Pivní ambasáda",
