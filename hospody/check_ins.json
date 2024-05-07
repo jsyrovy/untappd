@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1378414712,
+      "dt": "2024-05-06T18:04:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
       "id": 1378239170,
       "dt": "2024-05-05T20:50:27+02:00",
       "venue_name": "Pivní ambasáda",
