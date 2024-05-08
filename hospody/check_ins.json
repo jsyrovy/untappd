@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1378625825,
+      "dt": "2024-05-07T22:54:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange & Elderflower Sour Ale",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-and-elderflower-sour-ale/4494744"
+    },
+    {
+      "id": 1378625303,
+      "dt": "2024-05-07T22:52:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zichbeeria New Wormy",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-zichbeeria-new-wormy/5640124"
+    },
+    {
+      "id": 1378624912,
+      "dt": "2024-05-07T22:50:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange & Elderflower Sour Ale",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-and-elderflower-sour-ale/4494744"
+    },
+    {
+      "id": 1378624432,
+      "dt": "2024-05-07T22:47:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ziggy Starhops",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-ziggy-starhops/5785942"
+    },
+    {
+      "id": 1378624190,
+      "dt": "2024-05-07T22:46:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mangolorian",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-mangolorian/5785691"
+    },
+    {
+      "id": 1378615655,
+      "dt": "2024-05-07T22:09:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "God Is Dead",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-god-is-dead/1506990"
+    },
+    {
       "id": 1378414712,
       "dt": "2024-05-06T18:04:08+02:00",
       "venue_name": "U Toulavé pípy",
