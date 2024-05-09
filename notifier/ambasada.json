@@ -13,6 +13,10 @@
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
+      "name": "13° Extra Brut",
+      "description": "7,3% alc. piv. Pivečka, Rousínov, Brut IPA"
+    },
+    {
       "name": "14° Zichbeeria New Wormy",
       "description": "6,3% alc. piv. Crazy Clown, Praha, New Broumy s Kokosem a Vanilkou"
     },
@@ -23,10 +27,6 @@
     {
       "name": "15° Ziggy Starhops",
       "description": "6% alc. piv. Crazy Clown, Praha, NEIPA s Dračím Ovocem a Opuncií"
-    },
-    {
-      "name": "18° Mangolorian",
-      "description": "6,1% alc. piv. Crazy Clown, Praha, Sour Milkshake NEIPA s Mangem"
     }
   ]
 }
