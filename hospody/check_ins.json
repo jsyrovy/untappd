@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1379419947,
+      "dt": "2024-05-10T18:04:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Red Baron",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-red-baron/5587509"
+    },
+    {
       "id": 1379171390,
       "dt": "2024-05-09T23:23:09+02:00",
       "venue_name": "Pivní ambasáda",
@@ -584,6 +593,15 @@
       "brewery": "Chroust",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/chroust-triglav/5784836"
+    },
+    {
+      "id": 1376535623,
+      "dt": "2024-04-30T15:48:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gelato: Kiwi, Pear & Lime",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-kiwi-pear-and-lime/3790613"
     },
     {
       "id": 1376454466,
