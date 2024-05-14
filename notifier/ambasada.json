@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Elf",
+      "description": "4,8% alc. piv. JungBerg/Clock, German Pils"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -11,10 +15,6 @@
     {
       "name": "12,5° Alianční",
       "description": "5,2% alc. piv. Permon, Sokolov, India Pale Lager"
-    },
-    {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° 23. Narozeniny Batalionu",
