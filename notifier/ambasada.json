@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Sametová",
+      "description": "3,6% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
+    },
+    {
       "name": "11° Elf",
       "description": "4,8% alc. piv. JungBerg/Clock, German Pils"
     },
