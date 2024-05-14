@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1380726408,
+      "dt": "2024-05-13T20:56:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dry",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-dry/2777911"
+    },
+    {
+      "id": 1380724846,
+      "dt": "2024-05-13T20:48:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Nelson Sauvin in the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-nelson-sauvin-in-the-morning/5775234"
+    },
+    {
+      "id": 1380724553,
+      "dt": "2024-05-13T20:47:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VIII. ALIANČNÍ",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-viii-aliancni/5782184"
+    },
+    {
       "id": 1380607363,
       "dt": "2024-05-13T00:06:36+02:00",
       "venue_name": "Pivní ambasáda",
