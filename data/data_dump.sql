@@ -1223,6 +1223,7 @@ INSERT INTO "archive" VALUES(1380671032,'2024-05-13 10:02:28.000000','sejrik','Z
 INSERT INTO "archive" VALUES(1380688200,'2024-05-13 14:43:33.000000','sejrik','Brzda','Old Cock Beer','Dobšice');
 INSERT INTO "archive" VALUES(1380712779,'2024-05-13 17:46:23.000000','sejrik','Punkevní 11','Pivovar Moravia','Dobšice');
 INSERT INTO "archive" VALUES(1380727752,'2024-05-13 19:02:41.000000','sejrik','Rocker','Lucky Bastard','Dobšice');
+INSERT INTO "archive" VALUES(1380846650,'2024-05-14 16:57:21.000000','sejrik','Seno','Old Cock Beer','Dobšice');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
