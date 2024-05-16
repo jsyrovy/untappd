@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1381044755,
+      "dt": "2024-05-15T21:32:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
+      "id": 1381018521,
+      "dt": "2024-05-15T19:50:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Agnes 11 Pšeničná",
+      "brewery": "Agnes",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/agnes-agnes-11-psenicna/5717761"
+    },
+    {
+      "id": 1380994771,
+      "dt": "2024-05-15T17:55:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Hradecký Klenot",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-neipa/3418145"
+    },
+    {
       "id": 1380829951,
       "dt": "2024-05-14T17:04:34+02:00",
       "venue_name": "U Toulavé pípy",
