@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1381279337,
+      "dt": "2024-05-16T23:44:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
+      "id": 1381279165,
+      "dt": "2024-05-16T23:43:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1381271669,
+      "dt": "2024-05-16T23:17:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stromboli",
+      "brewery": "Sibeeria",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/sibeeria-stromboli/4568266"
+    },
+    {
+      "id": 1381255601,
+      "dt": "2024-05-16T22:23:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mango-ale/4500799"
+    },
+    {
+      "id": 1381248265,
+      "dt": "2024-05-16T22:00:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VIII. ALIANČNÍ",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-viii-aliancni/5782184"
+    },
+    {
+      "id": 1381226484,
+      "dt": "2024-05-16T20:56:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pink Is New Kink",
+      "brewery": "Browar Nepomucen",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-nepomucen-pink-is-new-kink/5631845"
+    },
+    {
+      "id": 1381215082,
+      "dt": "2024-05-16T20:22:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA",
+      "brewery": "Hradecký Klenot",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-neipa/3418145"
+    },
+    {
+      "id": 1381189859,
+      "dt": "2024-05-16T18:52:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elf",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-elf/5784121"
+    },
+    {
+      "id": 1381173784,
+      "dt": "2024-05-16T17:34:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zářivka",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-zarivka/5264865"
+    },
+    {
       "id": 1381044755,
       "dt": "2024-05-15T21:32:12+02:00",
       "venue_name": "Pivní ambasáda",
