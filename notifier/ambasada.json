@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Mango Pina Coco Sourus",
+      "description": "4,2% alc. piv. MadCat, Kamenice, Fruit Berliner Weisse"
+    },
+    {
       "name": "11° Elf",
       "description": "4,8% alc. piv. JungBerg/Clock, German Pils"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Everyday Life",
       "description": "5,1% alc. piv. Sibeeria, Praha, Czech Premium Pale Lager"
-    },
-    {
-      "name": "13° Mango",
-      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Mangový Ale"
     },
     {
       "name": "14° New England IPA",
