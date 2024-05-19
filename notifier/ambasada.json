@@ -13,16 +13,16 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Pšeničné",
-      "description": "3,8% alc. piv. Agnes, Bohdaneč, Weizen"
-    },
-    {
       "name": "12,5° Alianční",
       "description": "5,2% alc. piv. Permon, Sokolov, India Pale Lager"
     },
     {
       "name": "12° Everyday Life",
       "description": "5,1% alc. piv. Sibeeria, Praha, Czech Premium Pale Lager"
+    },
+    {
+      "name": "13° Kynšperk",
+      "description": "5,6% alc. piv. Kynšperský Zajíc, Weizen"
     },
     {
       "name": "14° New England IPA",
