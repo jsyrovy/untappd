@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1382780756,
+      "dt": "2024-05-20T23:10:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1382774095,
+      "dt": "2024-05-20T22:35:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1382772184,
+      "dt": "2024-05-20T22:26:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1382771700,
+      "dt": "2024-05-20T22:23:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VIII. ALIANČNÍ",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-viii-aliancni/5782184"
+    },
+    {
+      "id": 1382767389,
+      "dt": "2024-05-20T22:03:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
+      "id": 1382754260,
+      "dt": "2024-05-20T21:07:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1382753670,
+      "dt": "2024-05-20T21:05:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1382751861,
+      "dt": "2024-05-20T20:57:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
+      "id": 1382745730,
+      "dt": "2024-05-20T20:32:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1382737780,
+      "dt": "2024-05-20T19:59:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "VIII. ALIANČNÍ",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-viii-aliancni/5782184"
+    },
+    {
+      "id": 1382729264,
+      "dt": "2024-05-20T19:24:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stín",
+      "brewery": "Stín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/stin-stin/5836044"
+    },
+    {
+      "id": 1382720887,
+      "dt": "2024-05-20T18:49:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
+      "id": 1382715147,
+      "dt": "2024-05-20T18:24:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elf",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-elf/5784121"
+    },
+    {
       "id": 1382538427,
       "dt": "2024-05-19T22:22:06+02:00",
       "venue_name": "U Toulavé pípy",
