@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1384054937,
+      "dt": "2024-05-25T19:46:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1384018510,
+      "dt": "2024-05-25T19:00:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elf",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-elf/5784121"
+    },
+    {
+      "id": 1383996871,
+      "dt": "2024-05-25T18:29:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aldersbacher Urhell",
+      "brewery": "Brauerei Aldersbach",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-aldersbach-aldersbacher-urhell/159860"
+    },
+    {
+      "id": 1383982134,
+      "dt": "2024-05-25T18:07:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1383976586,
+      "dt": "2024-05-25T17:57:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1383963112,
+      "dt": "2024-05-25T17:34:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lucipa",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010"
+    },
+    {
       "id": 1383580998,
       "dt": "2024-05-24T20:51:43+02:00",
       "venue_name": "U Toulavé pípy",
