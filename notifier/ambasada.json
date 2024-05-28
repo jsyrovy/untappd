@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Cool Bouncer",
-      "description": "4,9% alc. piv. Sibeeria/Bevog, Cold Pale Ale"
-    },
-    {
       "name": "11° Elf",
       "description": "4,8% alc. piv. JungBerg/Clock, German Pils"
+    },
+    {
+      "name": "11° Liquid Luck",
+      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
     },
     {
       "name": "11° Mordýř",
