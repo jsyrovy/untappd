@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1384883112,
+      "dt": "2024-05-27T22:57:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
+      "id": 1384873634,
+      "dt": "2024-05-27T22:28:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1384867771,
+      "dt": "2024-05-27T22:11:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1384842332,
+      "dt": "2024-05-27T20:59:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1384834014,
+      "dt": "2024-05-27T20:35:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1384831132,
+      "dt": "2024-05-27T20:26:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 11th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-11th-anniversary-ale/5836028"
+    },
+    {
       "id": 1384567929,
       "dt": "2024-05-26T21:02:36+02:00",
       "venue_name": "U Toulavé pípy",
