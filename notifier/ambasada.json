@@ -13,10 +13,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Sicilian Summer",
-      "description": "4,1% alc. piv. Chroust, Potštejn, Sour Ale s Červenými Pomeranči"
-    },
-    {
       "name": "12° Aldersbacher",
       "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
     },
@@ -31,6 +27,10 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "9° Elektrolít Černý Rybíz",
+      "description": "2,8% alc. piv. Volt, Jablonec nad Nisou, Fruit Berliner Weisse"
     }
   ]
 }
