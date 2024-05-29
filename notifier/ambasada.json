@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Elf",
-      "description": "4,8% alc. piv. JungBerg/Clock, German Pils"
-    },
-    {
       "name": "11° Liquid Luck",
       "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° Clock",
       "description": "5,2% alc. piv. Clock, Potštejn, APA"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "13° OP Anniversary",
