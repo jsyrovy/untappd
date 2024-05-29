@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1385060369,
+      "dt": "2024-05-28T23:33:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1385060163,
+      "dt": "2024-05-28T23:31:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elektro-lít – Černý Rybíz",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-elektro-lit-cerny-rybiz/5796842"
+    },
+    {
+      "id": 1385059972,
+      "dt": "2024-05-28T23:30:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
+      "id": 1385053563,
+      "dt": "2024-05-28T22:55:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1385048612,
+      "dt": "2024-05-28T22:30:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
+      "id": 1385046745,
+      "dt": "2024-05-28T22:21:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elektro-lít – Černý Rybíz",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-elektro-lit-cerny-rybiz/5796842"
+    },
+    {
       "id": 1384883112,
       "dt": "2024-05-27T22:57:29+02:00",
       "venue_name": "Pivní ambasáda",
