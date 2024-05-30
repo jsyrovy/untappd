@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Liquid Luck",
-      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "16°  I Love the Smell of Riwaka in the Morning",
+      "description": "6,8% alc. piv. Sibeeria, Praha, Single Hop NEIPA"
     },
     {
       "name": "9° Elektrolít Černý Rybíz",
