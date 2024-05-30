@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1385202205,
+      "dt": "2024-05-29T21:37:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Yummy Pineapple, Papaya & Coconut",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pineapple-papaya-and-coconut/5202144"
+    },
+    {
+      "id": 1385182465,
+      "dt": "2024-05-29T20:31:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bajka O Vlku A Lišce 16",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-bajka-o-vlku-a-lisce-16/5790601"
+    },
+    {
+      "id": 1385171805,
+      "dt": "2024-05-29T19:52:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fog or Smog",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-fog-or-smog/4895646"
+    },
+    {
+      "id": 1385171333,
+      "dt": "2024-05-29T19:51:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour - Strawberry & Lychee",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-strawberry-and-lychee/5458596"
+    },
+    {
       "id": 1385060369,
       "dt": "2024-05-28T23:33:00+02:00",
       "venue_name": "Pivní ambasáda",
