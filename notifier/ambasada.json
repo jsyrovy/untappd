@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Fresh APA",
+      "description": "4,5% alc. piv. Vik, Praha, APA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Aldersbacher",
       "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
-    },
-    {
-      "name": "12° Clock",
-      "description": "5,2% alc. piv. Clock, Potštejn, APA"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
