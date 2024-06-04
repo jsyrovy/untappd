@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1386807730,
+      "dt": "2024-06-03T21:18:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fiction APA 10",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-fiction-apa-10/5277126"
+    },
+    {
+      "id": 1386803091,
+      "dt": "2024-06-03T20:57:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange IPA",
+      "brewery": "Lucky Bastard",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lucky-bastard-orange-ipa/5782307"
+    },
+    {
+      "id": 1386801319,
+      "dt": "2024-06-03T20:48:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-fresh/5194791"
+    },
+    {
+      "id": 1386787214,
+      "dt": "2024-06-03T19:39:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange IPA",
+      "brewery": "Lucky Bastard",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lucky-bastard-orange-ipa/5782307"
+    },
+    {
+      "id": 1386785328,
+      "dt": "2024-06-03T19:30:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Wheater - American Wheat 12",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-wheater-american-wheat-12/5783120"
+    },
+    {
       "id": 1386637967,
       "dt": "2024-06-02T22:15:04+02:00",
       "venue_name": "Pivní ambasáda",
