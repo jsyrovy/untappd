@@ -5,6 +5,10 @@
       "description": "4,2% alc. piv. Čestmír, Brandýs nad Labem, APA"
     },
     {
+      "name": "11° Cool Bouncer",
+      "description": "4,9% alc. piv. Sibeeria/Bevog, Cold Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,16 +21,12 @@
       "description": "5,2% alc. piv. HoppyDog, Ostrava, American Wheat"
     },
     {
-      "name": "14° Ename Rouge",
-      "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
       "name": "15° Orange IPA",
       "description": "6,8% alc. piv. Lucky Bastard, Brno, Fruit IPA"
     },
     {
-      "name": "16°  I Love the Smell of Riwaka in the Morning",
-      "description": "6,8% alc. piv. Sibeeria, Praha, Single Hop NEIPA"
+      "name": "18° Kasteel Rouge",
+      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     },
     {
       "name": "9° Elektrolít Černý Rybíz",
