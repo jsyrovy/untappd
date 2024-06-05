@@ -1,16 +1,20 @@
 {
   "beers": [
     {
-      "name": "10° Fiction APA",
-      "description": "4,2% alc. piv. Čestmír, Brandýs nad Labem, APA"
-    },
-    {
       "name": "11° Cool Bouncer",
       "description": "4,9% alc. piv. Sibeeria/Bevog, Cold Pale Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Krásná Paní",
+      "description": "5% alc. piv. Valášek, Vsetín, Blond Ale"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -21,12 +25,8 @@
       "description": "4,1% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
-      "name": "12° Wheater",
-      "description": "5,2% alc. piv. HoppyDog, Ostrava, American Wheat"
-    },
-    {
-      "name": "15° Orange IPA",
-      "description": "6,8% alc. piv. Lucky Bastard, Brno, Fruit IPA"
+      "name": "17° Nectar of Happiness",
+      "description": "7% alc. piv. Zichovec, NEIPA"
     },
     {
       "name": "18° Kasteel Rouge",
