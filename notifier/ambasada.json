@@ -17,6 +17,10 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Philadelphia Jahoda",
+      "description": "4,1% alc. piv. Obora, Malšice, Fruit Sour Ale"
+    },
+    {
       "name": "12° Wheater",
       "description": "5,2% alc. piv. HoppyDog, Ostrava, American Wheat"
     },
@@ -27,10 +31,6 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "9° Elektrolít Černý Rybíz",
-      "description": "2,8% alc. piv. Volt, Jablonec nad Nisou, Fruit Berliner Weisse"
     }
   ]
 }
