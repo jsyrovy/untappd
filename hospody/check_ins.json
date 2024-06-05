@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1386989978,
+      "dt": "2024-06-04T23:48:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange IPA",
+      "brewery": "Lucky Bastard",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lucky-bastard-orange-ipa/5782307"
+    },
+    {
+      "id": 1386975215,
+      "dt": "2024-06-04T22:32:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1386968371,
+      "dt": "2024-06-04T22:02:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fiction APA 10",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-fiction-apa-10/5277126"
+    },
+    {
+      "id": 1386941322,
+      "dt": "2024-06-04T20:08:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1386937766,
+      "dt": "2024-06-04T19:52:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Philadelphia Sour Mix Rybízů - Red & Blackcurrant",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mix-rybizu-red-and-blackcurrant/5828224"
+    },
+    {
+      "id": 1386937390,
+      "dt": "2024-06-04T19:50:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
       "id": 1386807730,
       "dt": "2024-06-03T21:18:54+02:00",
       "venue_name": "Pivní ambasáda",
