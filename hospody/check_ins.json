@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1387176021,
+      "dt": "2024-06-05T23:32:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
+      "id": 1387109175,
+      "dt": "2024-06-05T19:35:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nectar of Happiness 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-nectar-of-happiness-17/3079153"
+    },
+    {
+      "id": 1387097449,
+      "dt": "2024-06-05T18:53:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1387077071,
+      "dt": "2024-06-05T17:13:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1387071453,
+      "dt": "2024-06-05T16:28:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange IPA",
+      "brewery": "Lucky Bastard",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/lucky-bastard-orange-ipa/5782307"
+    },
+    {
+      "id": 1387071386,
+      "dt": "2024-06-05T16:27:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cool Bouncer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cool-bouncer/5829296"
+    },
+    {
+      "id": 1387069398,
+      "dt": "2024-06-05T16:07:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fiction APA 10",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-fiction-apa-10/5277126"
+    },
+    {
+      "id": 1387069205,
+      "dt": "2024-06-05T16:05:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fiction APA 10",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-fiction-apa-10/5277126"
+    },
+    {
       "id": 1386989978,
       "dt": "2024-06-04T23:48:19+02:00",
       "venue_name": "Pivní ambasáda",
