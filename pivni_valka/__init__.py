@@ -118,7 +118,10 @@ class PivniValka(OrmRobot):
         total_unique_beers = common.get_total_unique_beers()
 
         values = [
-            f"{user.name} včera vypil {common.get_unique_beers(user.user_name, days=1)} 🍺."
+            (
+                f"{user.name} včera vypil{'a' if user.sex == 'female' else ''} "
+                f"{common.get_unique_beers(user.user_name, days=1)} 🍺."
+            )
             for user in utils.user.VISIBLE_USERS
             if user.user_name in users_with_new_beers
         ]
