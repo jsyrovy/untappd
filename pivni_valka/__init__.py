@@ -81,7 +81,8 @@ class PivniValka(OrmRobot):
 
         return data
 
-    def parse_unique_beers_count(self, user_profile: str) -> int:
+    @staticmethod
+    def parse_unique_beers_count(user_profile: str) -> int:
         soup = BeautifulSoup(user_profile, "html.parser")
 
         try:
@@ -91,10 +92,12 @@ class PivniValka(OrmRobot):
 
         return int(unique_beers_count.replace(",", ""))
 
-    def get_page(self, template: jinja2.Template, **kwargs: GetPageKwArgs) -> str:
+    @staticmethod
+    def get_page(template: jinja2.Template, **kwargs: GetPageKwArgs) -> str:
         return template.render(**kwargs)
 
-    def save_daily_stats_db(self, unique_beers_count: dict[str, int]) -> list[str]:
+    @staticmethod
+    def save_daily_stats_db(unique_beers_count: dict[str, int]) -> list[str]:
         users_with_new_beers: list[str] = []
 
         if not unique_beers_count:
@@ -111,7 +114,8 @@ class PivniValka(OrmRobot):
 
         return users_with_new_beers
 
-    def get_yesterday_status(self, users_with_new_beers: list[str]) -> str:
+    @staticmethod
+    def get_yesterday_status(users_with_new_beers: list[str]) -> str:
         if not users_with_new_beers:
             return ""
 
@@ -131,7 +135,8 @@ class PivniValka(OrmRobot):
 
         return " ".join(values)
 
-    def get_grid_template_areas(self) -> tuple[str, ...]:
+    @staticmethod
+    def get_grid_template_areas() -> tuple[str, ...]:
         user_items = [f"item-{user_name}" for user_name in utils.user.VISIBLE_USER_NAMES]
 
         return (
@@ -141,7 +146,8 @@ class PivniValka(OrmRobot):
             f'"{" ".join(["item-matej-chart"] * len(user_items))}"',
         )
 
-    def get_mobile_grid_template_areas(self) -> list[str]:
+    @staticmethod
+    def get_mobile_grid_template_areas() -> list[str]:
         user_items = [f'"item-{user_name}"' for user_name in utils.user.VISIBLE_USER_NAMES]
         user_items.extend(
             [
