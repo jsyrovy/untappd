@@ -1245,6 +1245,31 @@ INSERT INTO "archive" VALUES(1386968371,'2024-06-04 20:02:12.000000','sejrik','F
 INSERT INTO "archive" VALUES(1386975215,'2024-06-04 20:32:21.000000','sejrik','Cool Bouncer','Sibeeria','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1386989978,'2024-06-04 21:48:19.000000','sejrik','Orange IPA','Lucky Bastard','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1387335252,'2024-06-06 18:26:50.000000','sejrik','Kaše','Old Cock Beer','Untappd at Home');
+INSERT INTO "archive" VALUES(1387922068,'2024-06-08 10:23:34.000000','sejrik','Oatmeal Lager 8','Pivovar Řevnice','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387923122,'2024-06-08 10:31:10.000000','sejrik','Sour Ale 9% Malina','Pivovarský dům Poupě','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387923788,'2024-06-08 10:36:09.000000','sejrik','Mrazivá','Tahoun','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387925130,'2024-06-08 10:45:29.000000','sejrik','Grisette','Nanopivovar Automat Matuška','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387927015,'2024-06-08 10:57:01.000000','sejrik','IPL','Výzkumný ústav Pivovarský A Sladařský','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387928504,'2024-06-08 11:06:10.000000','sejrik','Únětické pivo 12° nefiltrované','Únětický pivovar','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387931585,'2024-06-08 11:21:10.000000','sejrik','Skippy Xpa','Únětický pivovar','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387934094,'2024-06-08 11:32:27.000000','sejrik','Hawai 11','Pivovar VŠCHT Praha','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387937641,'2024-06-08 11:48:14.000000','sejrik','Belgian Wit','Břevnovský klášterní pivovar sv. Vojtěcha','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387943438,'2024-06-08 12:12:48.000000','sejrik','Idaho Haze','Pivovar Zhůřák','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387947753,'2024-06-08 12:29:49.000000','sejrik','Cold IPA Saturn + Eris 14,5','Pokusný minipivovar ve Chmelařském institutu','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387950471,'2024-06-08 12:39:57.000000','sejrik','Kladenské černé 11°','Pivovar Kladno Kročehlavy','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387957389,'2024-06-08 13:04:16.000000','sejrik','Juicy Sabro 12°','Joe''s Garage Beer','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387961115,'2024-06-08 13:15:26.000000','sejrik','Pastry Sour - Carrot Cake - Mrkvový Dort','Pivovar Obora','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387964761,'2024-06-08 13:25:18.000000','sejrik','VtIPAlek 15°','Karlovský minipivovar Pod pralesem','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387985555,'2024-06-08 14:17:02.000000','sejrik','Domažlický Doppel','Městský pivovar Domažlice','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1387994697,'2024-06-08 14:37:24.000000','sejrik','Smash APA Mosaic','Pivovarský dům Poupě','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1388006921,'2024-06-08 15:03:26.000000','sejrik','Únětický speciál 8° Letní','Únětický pivovar','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1388013485,'2024-06-08 15:16:30.000000','sejrik','Domažlická 12°','Městský pivovar Domažlice','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1388024551,'2024-06-08 15:37:25.000000','sejrik','Podřipský Red Ale 12°','Podřipský rodinný minipivovar','Belveder | Královský letohrádek | Letohrádek královny Anny');
+INSERT INTO "archive" VALUES(1388040464,'2024-06-08 16:06:22.000000','sejrik','Apollo Galaxy 13°','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1388087374,'2024-06-08 17:17:41.000000','sejrik','I Love the Smell of Riwaka In the Morning','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1388103909,'2024-06-08 17:40:54.000000','sejrik','Beakbeat','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1388133233,'2024-06-08 18:19:11.000000','sejrik','One Love','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1388266283,'2024-06-08 21:05:35.000000','sejrik','Kasteel Rouge','Kasteel Brouwerij Vanhonsebrouck','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
