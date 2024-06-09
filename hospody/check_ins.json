@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1388315987,
+      "dt": "2024-06-09T00:23:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
+      "id": 1388270200,
+      "dt": "2024-06-08T23:11:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Like A Bloody Mary",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-like-a-bloody-mary/5217824"
+    },
+    {
+      "id": 1388266283,
+      "dt": "2024-06-08T23:05:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1388233579,
+      "dt": "2024-06-08T22:22:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
+      "id": 1388233228,
+      "dt": "2024-06-08T22:22:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stylish Girl – Blackcurrant Milkshake NEIPA",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-blackcurrant-milkshake-neipa/5268041"
+    },
+    {
+      "id": 1388157695,
+      "dt": "2024-06-08T20:49:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy Nectaron",
+      "brewery": "Pivovar Permon",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-permon-hazy-nectaron/5333161"
+    },
+    {
       "id": 1387176021,
       "dt": "2024-06-05T23:32:13+02:00",
       "venue_name": "Pivní ambasáda",
