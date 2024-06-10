@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1388611204,
+      "dt": "2024-06-09T21:32:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filthy Monk",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-filthy-monk/2641166"
+    },
+    {
+      "id": 1388610782,
+      "dt": "2024-06-09T21:32:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jiskra",
+      "brewery": "Jihlavský radniční minipivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/jihlavsky-radnicni-minipivovar-jiskra/465553"
+    },
+    {
+      "id": 1388590561,
+      "dt": "2024-06-09T20:47:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filthy Monk",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-filthy-monk/2641166"
+    },
+    {
+      "id": 1388590415,
+      "dt": "2024-06-09T20:47:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
+      "id": 1388584137,
+      "dt": "2024-06-09T20:33:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "OP 10th Anniversary Ale",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-op-10th-anniversary-ale/5368734"
+    },
+    {
       "id": 1388315987,
       "dt": "2024-06-09T00:23:27+02:00",
       "venue_name": "Pivní ambasáda",
@@ -44,6 +89,15 @@
       "brewery": "Pivovar Agent",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-blackcurrant-milkshake-neipa/5268041"
+    },
+    {
+      "id": 1388233228,
+      "dt": "2024-06-08T22:22:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filthy Monk",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-filthy-monk/2641166"
     },
     {
       "id": 1388157695,
