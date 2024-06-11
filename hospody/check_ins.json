@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1388801468,
+      "dt": "2024-06-10T21:08:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sokowirówka z Maliną i Aronią ",
+      "brewery": "Browar Zakładowy",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-zakladowy-sokowirowka-z-malina-i-aronia/5833924"
+    },
+    {
+      "id": 1388795601,
+      "dt": "2024-06-10T20:42:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Filthy Monk",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-filthy-monk/2641166"
+    },
+    {
+      "id": 1388794476,
+      "dt": "2024-06-10T20:37:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jiskra",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-jiskra/5509844"
+    },
+    {
+      "id": 1388778986,
+      "dt": "2024-06-10T19:17:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fifty -Fifty",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-fifty-fifty/5839435"
+    },
+    {
+      "id": 1388778212,
+      "dt": "2024-06-10T19:13:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sokowirówka z Maliną i Aronią ",
+      "brewery": "Browar Zakładowy",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-zakladowy-sokowirowka-z-malina-i-aronia/5833924"
+    },
+    {
+      "id": 1388772572,
+      "dt": "2024-06-10T18:40:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1388769500,
+      "dt": "2024-06-10T18:21:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Haka 12°",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-haka-120/4422305"
+    },
+    {
+      "id": 1388766591,
+      "dt": "2024-06-10T18:00:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Haka 12°",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-haka-120/4422305"
+    },
+    {
       "id": 1388611204,
       "dt": "2024-06-09T21:32:56+02:00",
       "venue_name": "Pivní ambasáda",
