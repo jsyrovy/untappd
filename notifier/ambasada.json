@@ -5,16 +5,12 @@
       "description": "4% alc. piv. MadCat, Kamenice, APA"
     },
     {
-      "name": "11° Filthy Monk",
-      "description": "4,5% alc. piv. Crazy Clown, Praha, Belgian Sour Ale with sour cherries, cherries and redcurrant"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Everyday Life",
-      "description": "5,1% alc. piv. Sibeeria, Praha, Czech Premium Pale Lager"
+      "name": "11° Stylish Girl",
+      "description": "4,2% alc. piv. Agent, Olešnice, Milkshake New England India Pale Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -23,6 +19,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Hop Elixir",
+      "description": "4,9% alc. piv. Sibeeria, Praha, Session NEIPA"
     },
     {
       "name": "13° Sokowirowka Malina a Aronia",
