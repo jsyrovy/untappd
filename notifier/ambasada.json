@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Jiskra",
-      "description": "4% alc. piv. MadCat, Kamenice, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -25,16 +21,16 @@
       "description": "4,9% alc. piv. Sibeeria, Praha, Session NEIPA"
     },
     {
-      "name": "13° Sokowirowka Malina a Aronia",
-      "description": "5,6% alc. Browar Zakladowy, Polsko, Fruit Sour Ale"
-    },
-    {
       "name": "14° South Africa",
       "description": "6,3% alc. piv. Beskydský, Ostravice, IPA"
     },
     {
       "name": "9° PaKa Summer Ale",
       "description": "3,9% alc. piv. Malešov, Ale"
+    },
+    {
+      "name": "Autochthon",
+      "description": "7,5% alc. Browar Gwarek, Polsko, Hazy DIPA"
     }
   ]
 }
