@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1389399720,
+      "dt": "2024-06-13T23:27:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sokowirówka – Kwaśne Malinowo-Wiśniowe Ale",
+      "brewery": "Browar Zakładowy",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-zakladowy-sokowirowka-kwasne-malinowo-wisniowe-ale/2091511"
+    },
+    {
+      "id": 1389389835,
+      "dt": "2024-06-13T22:54:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: Talus Cryo, Citra, Falconer's Flight & Chinook",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-talus-cryo-citra-falconer-s-flight-and-chinook/5859459"
+    },
+    {
+      "id": 1389381886,
+      "dt": "2024-06-13T22:28:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stylish Girl – Blackcurrant Milkshake NEIPA",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-blackcurrant-milkshake-neipa/5268041"
+    },
+    {
+      "id": 1389377719,
+      "dt": "2024-06-13T22:17:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1389341834,
+      "dt": "2024-06-13T20:37:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sokowirówka z Maliną i Aronią ",
+      "brewery": "Browar Zakładowy",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-zakladowy-sokowirowka-z-malina-i-aronia/5833924"
+    },
+    {
+      "id": 1389325130,
+      "dt": "2024-06-13T19:49:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: Talus Cryo, Citra, Falconer's Flight & Chinook",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-talus-cryo-citra-falconer-s-flight-and-chinook/5859459"
+    },
+    {
+      "id": 1389323951,
+      "dt": "2024-06-13T19:45:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stylish Girl – Blackcurrant Milkshake NEIPA",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-blackcurrant-milkshake-neipa/5268041"
+    },
+    {
+      "id": 1389301722,
+      "dt": "2024-06-13T18:30:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sokowirówka - Malinowo-Aroniowo",
+      "brewery": "Browar Zakładowy",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/browar-zakladowy-sokowirowka-malinowo-aroniowo/5844908"
+    },
+    {
+      "id": 1389299920,
+      "dt": "2024-06-13T18:23:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: Talus Cryo, Citra, Falconer's Flight & Chinook",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-talus-cryo-citra-falconer-s-flight-and-chinook/5859459"
+    },
+    {
+      "id": 1389285839,
+      "dt": "2024-06-13T17:15:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One European",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-european/5839714"
+    },
+    {
+      "id": 1389277744,
+      "dt": "2024-06-13T16:19:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fifty -Fifty",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-fifty-fifty/5839435"
+    },
+    {
+      "id": 1389277324,
+      "dt": "2024-06-13T16:15:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mosaic Ale 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-mosaic-ale-12/1737004"
+    },
+    {
       "id": 1389101582,
       "dt": "2024-06-12T18:46:24+02:00",
       "venue_name": "Pivní ambasáda",
