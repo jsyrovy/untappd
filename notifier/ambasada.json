@@ -5,6 +5,10 @@
       "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Stylish Girl",
       "description": "4,2% alc. piv. Agent, Olešnice, Milkshake New England India Pale Ale"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Nelson Sauvin",
       "description": "4,8% alc. piv. JungBerg, Hořice, Single Hop Ale"
-    },
-    {
-      "name": "13° Brundibár",
-      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, IPL"
     },
     {
       "name": "14° Luc IPA",
