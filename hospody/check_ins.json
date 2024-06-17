@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1390605088,
+      "dt": "2024-06-16T19:29:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Joyride 2",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-joyride-2/5859465"
+    },
+    {
+      "id": 1390604951,
+      "dt": "2024-06-16T19:28:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Joyride 2",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-joyride-2/5859465"
+    },
+    {
+      "id": 1390600592,
+      "dt": "2024-06-16T19:20:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PaKa Summer Ale 9",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-paka-summer-ale-9/2131017"
+    },
+    {
       "id": 1389993075,
       "dt": "2024-06-15T15:56:21+02:00",
       "venue_name": "U Toulavé pípy",
