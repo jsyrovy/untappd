@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1391294093,
+      "dt": "2024-06-19T22:15:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "LAGUNA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-laguna/5411609"
+    },
+    {
+      "id": 1391281527,
+      "dt": "2024-06-19T21:40:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West To West",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-west-to-west/5803268"
+    },
+    {
+      "id": 1391272790,
+      "dt": "2024-06-19T21:17:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Autochthon",
+      "brewery": "Browar Gwarek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-gwarek-autochthon/5820205"
+    },
+    {
+      "id": 1391265081,
+      "dt": "2024-06-19T20:58:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nelson 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-nelson-12/5847075"
+    },
+    {
+      "id": 1391265023,
+      "dt": "2024-06-19T20:57:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Joyride 2",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-joyride-2/5859465"
+    },
+    {
+      "id": 1391263749,
+      "dt": "2024-06-19T20:54:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "300 Kurven 10%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-300-kurven-10/3144726"
+    },
+    {
+      "id": 1391225470,
+      "dt": "2024-06-19T19:04:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nezbeda",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-nezbeda/5464397"
+    },
+    {
+      "id": 1391222710,
+      "dt": "2024-06-19T18:55:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pastry Sour - Carrot Cake - Mrkvový Dort",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-pastry-sour-carrot-cake-mrkvovy-dort/5730214"
+    },
+    {
+      "id": 1391217075,
+      "dt": "2024-06-19T18:38:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Freeky APA",
+      "brewery": "Maryensztadt",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/maryensztadt-freeky-apa/3410295"
+    },
+    {
+      "id": 1391214829,
+      "dt": "2024-06-19T18:30:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hektor",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-hektor/740151"
+    },
+    {
+      "id": 1391197249,
+      "dt": "2024-06-19T17:18:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nezbeda",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-nezbeda/5464397"
+    },
+    {
+      "id": 1391195095,
+      "dt": "2024-06-19T17:05:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "LAGUNA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-laguna/5411609"
+    },
+    {
+      "id": 1391192312,
+      "dt": "2024-06-19T16:44:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pastry Sour - Carrot Cake - Mrkvový Dort",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-pastry-sour-carrot-cake-mrkvovy-dort/5730214"
+    },
+    {
       "id": 1391005213,
       "dt": "2024-06-18T16:50:09+02:00",
       "venue_name": "Pivní ambasáda",
