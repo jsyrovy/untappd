@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1391943513,
+      "dt": "2024-06-21T23:27:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beakbeat",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-beakbeat/5843130"
+    },
+    {
+      "id": 1391921745,
+      "dt": "2024-06-21T22:48:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West To West",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-west-to-west/5803268"
+    },
+    {
+      "id": 1391919707,
+      "dt": "2024-06-21T22:45:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackcurrant Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-blackcurrant-sour/4352710"
+    },
+    {
+      "id": 1391767021,
+      "dt": "2024-06-21T18:39:44+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-svetly-lezak/850661"
+    },
+    {
+      "id": 1391764695,
+      "dt": "2024-06-21T18:34:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beakbeat",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-beakbeat/5843130"
+    },
+    {
+      "id": 1391757405,
+      "dt": "2024-06-21T18:19:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blackcurrant Sour",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-blackcurrant-sour/4352710"
+    },
+    {
+      "id": 1391756448,
+      "dt": "2024-06-21T18:16:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West To West",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-west-to-west/5803268"
+    },
+    {
       "id": 1391606798,
       "dt": "2024-06-21T01:25:03+02:00",
       "venue_name": "U Toulavé pípy",
