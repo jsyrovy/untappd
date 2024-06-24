@@ -5,6 +5,10 @@
       "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
+      "name": "10° Beskydská Desítka",
+      "description": "4,2% alc. piv. Beskydský, Ostravice, Ale"
+    },
+    {
       "name": "11° Blackcurrant",
       "description": "4,6% alc. piv. Čestmír, Brandýs nad Labem, Fruit Sour Ale"
     },
@@ -13,12 +17,8 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Maisels Weisse",
-      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
-      "name": "12° Milkshake",
-      "description": "5,1% alc. piv. Mordýř, Dolní Ředice, Milkshake APA"
+      "name": "12° Hopfenweizen",
+      "description": "5,2% alc. piv. Weiherer, Bavorsko, German Hopfenweizen"
     },
     {
       "name": "18° West to West",
