@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1392952077,
+      "dt": "2024-06-24T19:22:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love the Smell of Riwaka In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-riwaka-in-the-morning/5829425"
+    },
+    {
       "id": 1392690002,
       "dt": "2024-06-23T18:40:20+02:00",
       "venue_name": "U Toulavé pípy",
