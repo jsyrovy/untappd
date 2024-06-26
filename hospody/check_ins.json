@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1393218026,
+      "dt": "2024-06-26T00:06:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "West To West",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-west-to-west/5803268"
+    },
+    {
+      "id": 1393217485,
+      "dt": "2024-06-25T09:03:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/5382720"
+    },
+    {
       "id": 1392952077,
       "dt": "2024-06-24T19:22:43+02:00",
       "venue_name": "U Toulavé pípy",
