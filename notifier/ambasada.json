@@ -13,16 +13,16 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Hopfenweizen",
-      "description": "5,2% alc. piv. Weiherer, Bavorsko, German Hopfenweizen"
-    },
-    {
       "name": "12° Mango",
       "description": "4,7% alc. piv. Pivovsky, Polsko, Mango Weizen"
     },
     {
       "name": "12° One European",
       "description": "4,2% piv. Sibeeria, Praha, Sour Ale"
+    },
+    {
+      "name": "12° Wheater",
+      "description": "5,2% alc. piv. HoppyDog, Ostrava, American Wheat"
     },
     {
       "name": "14° Alianční",
