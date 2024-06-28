@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1393637359,
+      "dt": "2024-06-27T22:47:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Autochthon",
+      "brewery": "Browar Gwarek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-gwarek-autochthon/5820205"
+    },
+    {
+      "id": 1393635918,
+      "dt": "2024-06-27T22:42:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydska desítka Ale",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydska-desitka-ale/2721053"
+    },
+    {
+      "id": 1393618424,
+      "dt": "2024-06-27T21:53:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V.",
+      "brewery": "Pivovar Dejf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dejf-aliance-p-i-v/5848664"
+    },
+    {
       "id": 1393218026,
       "dt": "2024-06-26T00:06:12+02:00",
       "venue_name": "Pivní ambasáda",
