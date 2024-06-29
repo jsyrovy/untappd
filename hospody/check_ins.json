@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1394005458,
+      "dt": "2024-06-28T23:35:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V.",
+      "brewery": "Pivovar Dejf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dejf-aliance-p-i-v/5848664"
+    },
+    {
+      "id": 1393983338,
+      "dt": "2024-06-28T22:55:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ara",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-ara/5865294"
+    },
+    {
       "id": 1393637359,
       "dt": "2024-06-27T22:47:16+02:00",
       "venue_name": "Pivní ambasáda",
