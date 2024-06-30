@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1394563486,
+      "dt": "2024-06-30T00:15:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Raspberry, Blackberry & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-raspberry-blackberry-and-vanilla/5335080"
+    },
+    {
+      "id": 1394561733,
+      "dt": "2024-06-30T00:12:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose Yuzu & Pineapple",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-gose-yuzu-and-pineapple/5882455"
+    },
+    {
+      "id": 1394553909,
+      "dt": "2024-06-29T23:58:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Weizen",
+      "brewery": "Pivovsky",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovsky-pivovski-mango-weizen/5861319"
+    },
+    {
+      "id": 1394550396,
+      "dt": "2024-06-29T23:52:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V.",
+      "brewery": "Pivovar Dejf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dejf-aliance-p-i-v/5848664"
+    },
+    {
+      "id": 1394548954,
+      "dt": "2024-06-29T23:50:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One European",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-european/5839714"
+    },
+    {
+      "id": 1394360179,
+      "dt": "2024-06-29T19:44:56+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Letní den",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-letni-den/2666945"
+    },
+    {
+      "id": 1394351290,
+      "dt": "2024-06-29T19:33:11+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Idaho Haze",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-idaho-haze/5279487"
+    },
+    {
       "id": 1394005458,
       "dt": "2024-06-28T23:35:41+02:00",
       "venue_name": "Pivní ambasáda",
