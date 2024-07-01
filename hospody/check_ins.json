@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1394808571,
+      "dt": "2024-06-30T19:41:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Idaho Haze",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-idaho-haze/5279487"
+    },
+    {
+      "id": 1394807182,
+      "dt": "2024-06-30T19:38:28+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Blood Orange Gose",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-blood-orange-gose/5369752"
+    },
+    {
+      "id": 1394786013,
+      "dt": "2024-06-30T18:49:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Letní den",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-letni-den/2666945"
+    },
+    {
+      "id": 1394784506,
+      "dt": "2024-06-30T18:46:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Letní den",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-letni-den/2666945"
+    },
+    {
+      "id": 1394783310,
+      "dt": "2024-06-30T18:43:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour Yuzu Coconut 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-yuzu-coconut-12/5864880"
+    },
+    {
       "id": 1394563486,
       "dt": "2024-06-30T00:15:35+02:00",
       "venue_name": "Pivní ambasáda",
