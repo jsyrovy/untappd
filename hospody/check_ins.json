@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1395098133,
+      "dt": "2024-07-01T22:52:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anglosas",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-anglosas/2402361"
+    },
+    {
+      "id": 1395091144,
+      "dt": "2024-07-01T22:23:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anglosas",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-anglosas/2402361"
+    },
+    {
+      "id": 1395088819,
+      "dt": "2024-07-01T22:14:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Weizen",
+      "brewery": "Pivovsky",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovsky-pivovski-mango-weizen/5861319"
+    },
+    {
+      "id": 1395088376,
+      "dt": "2024-07-01T22:13:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Karate Cow",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-karate-cow/5833175"
+    },
+    {
+      "id": 1395087725,
+      "dt": "2024-07-01T22:11:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Karate Cow",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-karate-cow/5833175"
+    },
+    {
+      "id": 1395080530,
+      "dt": "2024-07-01T21:44:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One European",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-european/5839714"
+    },
+    {
+      "id": 1395036792,
+      "dt": "2024-07-01T18:48:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anglosas",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-anglosas/2402361"
+    },
+    {
+      "id": 1395036385,
+      "dt": "2024-07-01T18:46:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Karate Cow",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-karate-cow/5833175"
+    },
+    {
+      "id": 1395031283,
+      "dt": "2024-07-01T18:21:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V.",
+      "brewery": "Pivovar Dejf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-dejf-aliance-p-i-v/5848664"
+    },
+    {
+      "id": 1395022713,
+      "dt": "2024-07-01T17:30:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Karate Cow",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-karate-cow/5833175"
+    },
+    {
       "id": 1394808571,
       "dt": "2024-06-30T19:41:49+02:00",
       "venue_name": "U Toulavé pípy",
@@ -62,6 +152,15 @@
       "brewery": "Sibeeria",
       "serving": "Plechovkové",
       "beer_link": "https://untappd.com/b/sibeeria-gose-yuzu-and-pineapple/5882455"
+    },
+    {
+      "id": 1394561733,
+      "dt": "2024-06-30T00:12:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yuzu & Pineapple Gose",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yuzu-and-pineapple-gose/5882455"
     },
     {
       "id": 1394553909,
