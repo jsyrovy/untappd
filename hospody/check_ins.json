@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1395199266,
+      "dt": "2024-07-02T17:15:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1395199106,
+      "dt": "2024-07-02T17:14:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
       "id": 1395098133,
       "dt": "2024-07-01T22:52:18+02:00",
       "venue_name": "Pivní ambasáda",
