@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1395500796,
+      "dt": "2024-07-03T22:44:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vodomérka",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-vodomerka/5893427"
+    },
+    {
+      "id": 1395428991,
+      "dt": "2024-07-03T19:12:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anglosas",
+      "brewery": "Browar Łańcut",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-lancut-anglosas/2402361"
+    },
+    {
+      "id": 1395425101,
+      "dt": "2024-07-03T18:58:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vodomérka",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-vodomerka/5893427"
+    },
+    {
+      "id": 1395409037,
+      "dt": "2024-07-03T17:59:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Wheater - American Wheat 12",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-wheater-american-wheat-12/5783120"
+    },
+    {
       "id": 1395199266,
       "dt": "2024-07-02T17:15:20+02:00",
       "venue_name": "U Toulavé pípy",
