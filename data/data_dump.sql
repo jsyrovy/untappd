@@ -1290,6 +1290,11 @@ INSERT INTO "archive" VALUES(1394786013,'2024-06-30 16:49:59.000000','sejrik','L
 INSERT INTO "archive" VALUES(1394808571,'2024-06-30 17:41:49.000000','sejrik','Idaho Haze','Pivovar Zhůřák','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1395087725,'2024-07-01 20:11:09.000000','sejrik','Karate Cow','Chroust','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1395091144,'2024-07-01 20:23:44.000000','sejrik','Anglosas','Browar Łańcut','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1395383521,'2024-07-03 12:07:32.000000','sejrik','Nectar of Happiness 17','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1395396881,'2024-07-03 14:47:00.000000','sejrik','Bumbal 11°','Pivovar Lípák','Pivovar Lípák');
+INSERT INTO "archive" VALUES(1395398295,'2024-07-03 14:58:35.000000','sejrik','Prófa 12°','Pivovar Lípák','Pivovar Lípák');
+INSERT INTO "archive" VALUES(1395401554,'2024-07-03 15:21:26.000000','sejrik','Šmudla - Černé','Pivovar Lípák','Pivovar Lípák');
+INSERT INTO "archive" VALUES(1395478661,'2024-07-03 19:40:14.000000','sejrik','Chmelda 13°','Pivovar Lípák','Skalický vrch');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
