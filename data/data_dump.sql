@@ -1295,6 +1295,12 @@ INSERT INTO "archive" VALUES(1395396881,'2024-07-03 14:47:00.000000','sejrik','B
 INSERT INTO "archive" VALUES(1395398295,'2024-07-03 14:58:35.000000','sejrik','Prófa 12°','Pivovar Lípák','Pivovar Lípák');
 INSERT INTO "archive" VALUES(1395401554,'2024-07-03 15:21:26.000000','sejrik','Šmudla - Černé','Pivovar Lípák','Pivovar Lípák');
 INSERT INTO "archive" VALUES(1395478661,'2024-07-03 19:40:14.000000','sejrik','Chmelda 13°','Pivovar Lípák','Skalický vrch');
+INSERT INTO "archive" VALUES(1395628451,'2024-07-04 09:12:50.000000','sejrik','Sklářská osma','Pivovar Born','Pivovar Born');
+INSERT INTO "archive" VALUES(1395629181,'2024-07-04 09:33:39.000000','sejrik','Jezdec','Pivovar Born','Pivovar Born');
+INSERT INTO "archive" VALUES(1395630402,'2024-07-04 10:03:39.000000','sejrik','Věž','Pivovar Born','Pivovar Born');
+INSERT INTO "archive" VALUES(1395656638,'2024-07-04 14:49:41.000000','sejrik','Adonis 12°','Kytlický minipivovar Helene','Penzion a minipivovar Helene');
+INSERT INTO "archive" VALUES(1395663774,'2024-07-04 15:24:48.000000','sejrik','Grácie 12°','Kytlický minipivovar Helene','Penzion a minipivovar Helene');
+INSERT INTO "archive" VALUES(1395678007,'2024-07-04 16:13:51.000000','sejrik','APA 11°','Kytlický minipivovar Helene','Penzion a minipivovar Helene');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
