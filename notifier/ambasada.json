@@ -5,6 +5,10 @@
       "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
+      "name": "11° Essence of Summer",
+      "description": "4,5% alc. piv. Agent, Olešnice, APA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -27,10 +31,6 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
-    },
-    {
-      "name": "8° Vodoměrka",
-      "description": "3,4% alc. piv. Pivečka, Rousínov, APA"
     }
   ]
 }
