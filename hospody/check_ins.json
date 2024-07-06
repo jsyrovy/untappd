@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1396009078,
+      "dt": "2024-07-05T17:29:30+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Citra",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-citra/2191517"
+    },
+    {
       "id": 1395877438,
       "dt": "2024-07-05T01:02:38+02:00",
       "venue_name": "Pivní ambasáda",
