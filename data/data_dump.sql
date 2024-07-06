@@ -1301,6 +1301,15 @@ INSERT INTO "archive" VALUES(1395630402,'2024-07-04 10:03:39.000000','sejrik','V
 INSERT INTO "archive" VALUES(1395656638,'2024-07-04 14:49:41.000000','sejrik','Adonis 12°','Kytlický minipivovar Helene','Penzion a minipivovar Helene');
 INSERT INTO "archive" VALUES(1395663774,'2024-07-04 15:24:48.000000','sejrik','Grácie 12°','Kytlický minipivovar Helene','Penzion a minipivovar Helene');
 INSERT INTO "archive" VALUES(1395678007,'2024-07-04 16:13:51.000000','sejrik','APA 11°','Kytlický minipivovar Helene','Penzion a minipivovar Helene');
+INSERT INTO "archive" VALUES(1395953017,'2024-07-05 07:46:31.000000','sejrik','Konrad 11° / Vratislavický ležák','Pivovar Liberec Vratislavice','Nádražní restaurace Jedlová');
+INSERT INTO "archive" VALUES(1395957106,'2024-07-05 09:35:03.000000','sejrik','Klíč 12°','Pivovar Cvikov','Jedlová hora');
+INSERT INTO "archive" VALUES(1395965359,'2024-07-05 11:26:35.000000','sejrik','Summer ALE','Pivovar Cvikov','Jedlová hora');
+INSERT INTO "archive" VALUES(1395979527,'2024-07-05 13:20:14.000000','sejrik','Svižnej Emil','Pivovar Falkenštejn / Brauhaus Falkenstein','Pivovar Falkenštejn');
+INSERT INTO "archive" VALUES(1395984339,'2024-07-05 13:49:23.000000','sejrik','Světák','Pivovar Falkenštejn / Brauhaus Falkenstein','Pivovar Falkenštejn');
+INSERT INTO "archive" VALUES(1395991537,'2024-07-05 14:25:15.000000','sejrik','Ostroff','Pivovar Falkenštejn / Brauhaus Falkenstein','Pivovar Falkenštejn');
+INSERT INTO "archive" VALUES(1396015614,'2024-07-05 15:47:09.000000','sejrik','Rudoch','Pivovar Falkenštejn / Brauhaus Falkenstein','Untappd at Home');
+INSERT INTO "archive" VALUES(1396065116,'2024-07-05 17:16:51.000000','sejrik','Dittrich','Pivovar Falkenštejn / Brauhaus Falkenstein','Untappd at Home');
+INSERT INTO "archive" VALUES(1396115718,'2024-07-05 18:35:27.000000','sejrik','11 - Union Raspberry Sour JLV','Chroust','Rj Brněnský Drak Ex 3');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
