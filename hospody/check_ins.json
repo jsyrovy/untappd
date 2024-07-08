@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1397045098,
+      "dt": "2024-07-07T21:26:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-infused-extra-brut-ipa/5783109"
+    },
+    {
+      "id": 1397044645,
+      "dt": "2024-07-07T21:25:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Dark Temptation By Barbara Bieber",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-dark-temptation-by-barbara-bieber/5877828"
+    },
+    {
       "id": 1396380627,
       "dt": "2024-07-06T10:27:33+02:00",
       "venue_name": "U Toulavé pípy",
