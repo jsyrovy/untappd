@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1397467218,
+      "dt": "2024-07-09T22:33:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Sabro",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-sabro/3855424"
+    },
+    {
+      "id": 1397448066,
+      "dt": "2024-07-09T21:40:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "FranCeco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-franceco/5829430"
+    },
+    {
       "id": 1397045098,
       "dt": "2024-07-07T21:26:22+02:00",
       "venue_name": "Pivní ambasáda",
