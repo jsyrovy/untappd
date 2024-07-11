@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1397703365,
+      "dt": "2024-07-10T23:03:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Sabro",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-sabro/3855424"
+    },
+    {
+      "id": 1397642828,
+      "dt": "2024-07-10T20:47:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Milkshake 12",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-milkshake-12/5856674"
+    },
+    {
+      "id": 1397642528,
+      "dt": "2024-07-10T20:47:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour 12 Passion Fruit",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-passion-fruit/2499801"
+    },
+    {
+      "id": 1397642096,
+      "dt": "2024-07-10T20:46:17+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Sabro",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-sabro/3855424"
+    },
+    {
+      "id": 1397639742,
+      "dt": "2024-07-10T20:40:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Dark Temptation By Barbara Bieber",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-dark-temptation-by-barbara-bieber/5877828"
+    },
+    {
+      "id": 1397579751,
+      "dt": "2024-07-10T17:01:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stín",
+      "brewery": "Stín",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/stin-stin/5836044"
+    },
+    {
       "id": 1397467218,
       "dt": "2024-07-09T22:33:16+02:00",
       "venue_name": "U Toulavé pípy",
