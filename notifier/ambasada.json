@@ -17,10 +17,6 @@
       "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen Hell"
     },
     {
-      "name": "12° Pornstar - Dark Temptation by Barbara Bieber",
-      "description": "4,8% piv. Crazy Clown, Praha, Sour Ale s Kiwi a Kokosem"
-    },
-    {
       "name": "13° Hop Elixir: Talus Cryo, Citra, Falconers Flight & Chinook",
       "description": "4,9% alc. piv. Sibeeria, Praha, Session NEIPA"
     },
@@ -31,6 +27,10 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "9° Elektrolít Aronie",
+      "description": "2,8% alc. piv. Volt, Jablonec nad Nisou, Fruit Sour Ale"
     }
   ]
 }
