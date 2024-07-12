@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1397915610,
+      "dt": "2024-07-11T21:50:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1397814368,
+      "dt": "2024-07-11T15:51:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "FranCeco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-franceco/5829430"
+    },
+    {
+      "id": 1397811296,
+      "dt": "2024-07-11T15:24:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hektor",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-hektor/740151"
+    },
+    {
+      "id": 1397810998,
+      "dt": "2024-07-11T15:21:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "FranCeco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-franceco/5829430"
+    },
+    {
       "id": 1397703365,
       "dt": "2024-07-10T23:03:49+02:00",
       "venue_name": "U Toulavé pípy",
