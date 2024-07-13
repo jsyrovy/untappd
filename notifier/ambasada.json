@@ -13,10 +13,6 @@
       "description": "3,8% alc. piv. Agnes, Bohdaneč, Weizen"
     },
     {
-      "name": "11° Skotačivá Veverka",
-      "description": "4,2% alc. piv. Valášek, Vsetín, APA"
-    },
-    {
       "name": "12° One American",
       "description": "4,5% alc. piv. Sibeeria, Praha, Dry-Hopped Sour Ale"
     },
@@ -27,6 +23,10 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "8° IONŤÁK",
+      "description": "3,2% alc. piv. JungBerg, Hořice, Red Ale"
     },
     {
       "name": "9° Elektrolít Aronie",
