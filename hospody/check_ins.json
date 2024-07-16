@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1399395606,
+      "dt": "2024-07-15T23:11:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Idaho 7 In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-idaho-7-in-the-morning/5217845"
+    },
+    {
+      "id": 1399395128,
+      "dt": "2024-07-15T23:09:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Idaho 7 In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-idaho-7-in-the-morning/5217845"
+    },
+    {
+      "id": 1399380012,
+      "dt": "2024-07-15T22:05:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One American",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-american/5839717"
+    },
+    {
+      "id": 1399379421,
+      "dt": "2024-07-15T22:03:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "300 Kurven 10%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-300-kurven-10/3144726"
+    },
+    {
+      "id": 1399313177,
+      "dt": "2024-07-15T17:37:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ionťák",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-iontak/5900200"
+    },
+    {
+      "id": 1399305691,
+      "dt": "2024-07-15T16:43:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ODYSSEIA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-odysseia/5902618"
+    },
+    {
+      "id": 1399302911,
+      "dt": "2024-07-15T16:20:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Papír",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-papir/3340863"
+    },
+    {
       "id": 1399072313,
       "dt": "2024-07-14T19:50:52+02:00",
       "venue_name": "Loď Otava",
