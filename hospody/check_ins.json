@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1399703698,
+      "dt": "2024-07-17T17:08:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1399699336,
+      "dt": "2024-07-17T16:43:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Postmodern Lager",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-postmodern-lager/5882400"
+    },
+    {
       "id": 1399395606,
       "dt": "2024-07-15T23:11:28+02:00",
       "venue_name": "Pivní ambasáda",
