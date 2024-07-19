@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1400109304,
+      "dt": "2024-07-19T00:37:02+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session Hellion",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-session-hellion/5412736"
+    },
+    {
       "id": 1399703698,
       "dt": "2024-07-17T17:08:58+02:00",
       "venue_name": "U Toulavé pípy",
