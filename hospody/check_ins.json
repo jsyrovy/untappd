@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1400465090,
+      "dt": "2024-07-19T23:47:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Shark Attack",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-shark-attack/4963617"
+    },
+    {
+      "id": 1400406683,
+      "dt": "2024-07-19T22:08:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny Ale",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-sunny-ale/4371763"
+    },
+    {
+      "id": 1400406581,
+      "dt": "2024-07-19T22:08:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – White Grapes and Strawberries",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-white-grapes-and-strawberries/4836340"
+    },
+    {
+      "id": 1400405999,
+      "dt": "2024-07-19T22:07:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – White Grapes and Strawberries",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-white-grapes-and-strawberries/4836340"
+    },
+    {
+      "id": 1400286453,
+      "dt": "2024-07-19T18:57:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA 52",
+      "brewery": "Fabrika Bire",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/fabrika-bire-ipa-52/3595335"
+    },
+    {
+      "id": 1400227239,
+      "dt": "2024-07-19T16:15:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session Hellion",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-session-hellion/5412736"
+    },
+    {
+      "id": 1400223012,
+      "dt": "2024-07-19T15:55:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Smetanka Cream Ale",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-smetanka-cream-ale/5399104"
+    },
+    {
       "id": 1400109304,
       "dt": "2024-07-19T00:37:02+02:00",
       "venue_name": "U Toulavé pípy",
