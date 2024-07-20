@@ -5,16 +5,16 @@
       "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
+      "name": "10° Léto 2024",
+      "description": "4,1% alc. piv. Sibeeria, Praha, Session IPA"
+    },
+    {
       "name": "10° Sunny Ale",
       "description": "4,5% alc. piv. Antoš, Slané, Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° Maisels Weisse",
-      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° Philadelphia Bezinka & Limetka",
@@ -25,12 +25,12 @@
       "description": "5,5% alc. piv. Matuška, Broumy, Pale Ale"
     },
     {
-      "name": "17° I Love the Smell of Idaho 7 in the Morning",
-      "description": "7,1% alc. piv. Sibeeria, Praha, Single Hop NEIPA"
+      "name": "14° Ename Rouge",
+      "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "IPA 52",
-      "description": "6,4% alc. piv. Fabrika Bire, Vodnjan, Chorvatsko, IPA"
+      "name": "A° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     }
   ]
 }
