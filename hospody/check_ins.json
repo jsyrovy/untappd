@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1401222837,
+      "dt": "2024-07-21T18:51:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Léto 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2024/5888376"
+    },
+    {
+      "id": 1401222247,
+      "dt": "2024-07-21T18:49:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hektor",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-hektor/740151"
+    },
+    {
       "id": 1400827927,
       "dt": "2024-07-20T20:36:18+02:00",
       "venue_name": "Loď Otava",
