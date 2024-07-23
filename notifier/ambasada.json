@@ -9,8 +9,8 @@
       "description": "4,1% alc. piv. Sibeeria, Praha, Session IPA"
     },
     {
-      "name": "10° Sunny Ale",
-      "description": "4,5% alc. piv. Antoš, Slané, Ale"
+      "name": "10° Summer Ale",
+      "description": "4,1% alc. piv. Krušnohor, Kraslice, Ale"
     },
     {
       "name": "11° Mordýř",
@@ -27,6 +27,10 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "A° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     }
   ]
 }
