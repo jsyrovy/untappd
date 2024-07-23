@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1401479695,
+      "dt": "2024-07-22T18:21:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny Ale",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-sunny-ale/4371763"
+    },
+    {
+      "id": 1401478984,
+      "dt": "2024-07-22T18:18:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Léto 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2024/5888376"
+    },
+    {
+      "id": 1401478697,
+      "dt": "2024-07-22T18:16:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Léto 2024",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-leto-2024/5888376"
+    },
+    {
+      "id": 1401478459,
+      "dt": "2024-07-22T18:15:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunny Ale",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-sunny-ale/4371763"
+    },
+    {
       "id": 1401222837,
       "dt": "2024-07-21T18:51:15+02:00",
       "venue_name": "Pivní ambasáda",
