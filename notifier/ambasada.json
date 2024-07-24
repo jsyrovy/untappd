@@ -17,20 +17,20 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Aldersbacher",
+      "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
+    },
+    {
       "name": "12° Philadelphia Bezinka & Limetka",
       "description": "4,2% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
-      "name": "13° Apollo Galaxy",
-      "description": "5,5% alc. piv. Matuška, Broumy, Pale Ale"
+      "name": "14,7° West Coast",
+      "description": "6,6% alc. piv. Maisel & Friends, Bayeruth, West Coast IPA"
     },
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "A° Maisels Weisse",
-      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     }
   ]
 }
