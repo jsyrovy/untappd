@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1401910561,
+      "dt": "2024-07-24T18:19:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour - Elderflower & Lime",
+      "brewery": "Pivovar Obora",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-elderflower-and-lime/5895439"
+    },
+    {
+      "id": 1401910507,
+      "dt": "2024-07-24T18:19:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mountain Summer Ale 10°",
+      "brewery": "Krušnohor ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krusnohor-mountain-summer-ale-100/1488751"
+    },
+    {
+      "id": 1401909970,
+      "dt": "2024-07-24T18:17:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour - Elderflower & Lime",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-elderflower-and-lime/5895439"
+    },
+    {
+      "id": 1401909920,
+      "dt": "2024-07-24T18:17:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mountain Summer Ale 10°",
+      "brewery": "Krušnohor ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krusnohor-mountain-summer-ale-100/1488751"
+    },
+    {
       "id": 1401790046,
       "dt": "2024-07-24T00:07:53+02:00",
       "venue_name": "U Toulavé pípy",
