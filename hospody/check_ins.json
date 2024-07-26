@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1402233814,
+      "dt": "2024-07-25T21:08:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mountain Summer Ale 10°",
+      "brewery": "Krušnohor ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krusnohor-mountain-summer-ale-100/1488751"
+    },
+    {
+      "id": 1402196600,
+      "dt": "2024-07-25T19:44:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Age of Galaxy",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-age-of-galaxy/3936559"
+    },
+    {
+      "id": 1402189801,
+      "dt": "2024-07-25T19:28:00+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Uroboros 8",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-uroboros-8/4411357"
+    },
+    {
+      "id": 1402147623,
+      "dt": "2024-07-25T17:18:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends West Coast IPA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-west-coast-ipa/5256734"
+    },
+    {
+      "id": 1402142009,
+      "dt": "2024-07-25T16:51:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mountain Summer Ale 10°",
+      "brewery": "Krušnohor ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krusnohor-mountain-summer-ale-100/1488751"
+    },
+    {
+      "id": 1402140467,
+      "dt": "2024-07-25T16:42:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Ale",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-summer-ale/5866248"
+    },
+    {
       "id": 1401910561,
       "dt": "2024-07-24T18:19:47+02:00",
       "venue_name": "Pivní ambasáda",
