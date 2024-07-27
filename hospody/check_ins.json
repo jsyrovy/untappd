@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1402397422,
+      "dt": "2024-07-26T11:54:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oude Gueuze Cuvée René",
+      "brewery": "Brouwerij Lindemans",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brouwerij-lindemans-oude-gueuze-cuvee-rene/37623"
+    },
+    {
+      "id": 1402397286,
+      "dt": "2024-07-26T11:52:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Idaho 7 In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-idaho-7-in-the-morning/5217845"
+    },
+    {
+      "id": 1402397181,
+      "dt": "2024-07-26T11:51:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Frajer 12° Světlý Ležák",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-frajer-120-svetly-lezak/5793337"
+    },
+    {
       "id": 1402233814,
       "dt": "2024-07-25T21:08:53+02:00",
       "venue_name": "Pivní ambasáda",
