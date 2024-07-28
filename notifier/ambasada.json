@@ -5,6 +5,10 @@
       "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
+      "name": "10° Rybíz",
+      "description": "3,8% alc. piv. Mordýř, Dolní Řečice, Fruit Sour Ale"
+    },
+    {
       "name": "10° Summer Ale",
       "description": "4,1% alc. piv. Krušnohor, Kraslice, Ale"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Aldersbacher",
       "description": "5,3% alc. piv. Aldersbacher, Dolní Bavorsko, German Weizen"
-    },
-    {
-      "name": "12° Philadelphia Bezinka & Limetka",
-      "description": "4,2% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "14,7° West Coast",
