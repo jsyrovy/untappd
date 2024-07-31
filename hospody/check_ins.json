@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1403884064,
+      "dt": "2024-07-30T14:15:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oude Gueuze Cuvée René",
+      "brewery": "Brouwerij Lindemans",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brouwerij-lindemans-oude-gueuze-cuvee-rene/37623"
+    },
+    {
       "id": 1403823086,
       "dt": "2024-07-30T00:38:53+02:00",
       "venue_name": "U Toulavé pípy",
