@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1404142996,
+      "dt": "2024-07-31T17:43:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Oasis of Passion 11",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-oasis-of-passion-11/5528252"
+    },
+    {
+      "id": 1404142698,
+      "dt": "2024-07-31T17:41:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Day 10",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-summer-day-10/3948423"
+    },
+    {
       "id": 1403884064,
       "dt": "2024-07-30T14:15:01+02:00",
       "venue_name": "Pivní ambasáda",
@@ -32,6 +50,15 @@
       "dt": "2024-07-29T17:20:14+02:00",
       "venue_name": "Pivní ambasáda",
       "beer_name": "Kyseláč Rybiz",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kyselac-rybiz/5926550"
+    },
+    {
+      "id": 1403705730,
+      "dt": "2024-07-29T17:20:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč Rybíz",
       "brewery": "Pivovar Mordýř",
       "serving": "Taster",
       "beer_link": "https://untappd.com/b/pivovar-mordyr-kyselac-rybiz/5926550"
