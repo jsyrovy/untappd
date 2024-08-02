@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1404527841,
+      "dt": "2024-08-01T23:08:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "GROOVY STORM / East Coast IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-groovy-storm-east-coast-ipa/5400553"
+    },
+    {
+      "id": 1404520158,
+      "dt": "2024-08-01T22:48:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1404520137,
+      "dt": "2024-08-01T22:48:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berliner Weisse Passion Fruit /// 9.BW.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-berliner-weisse-passion-fruit-9-bw-i2/4572138"
+    },
+    {
+      "id": 1404512801,
+      "dt": "2024-08-01T22:29:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Strata In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-strata-in-the-morning/5902698"
+    },
+    {
+      "id": 1404503134,
+      "dt": "2024-08-01T22:06:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "GROOVY STORM / East Coast IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-groovy-storm-east-coast-ipa/5400553"
+    },
+    {
+      "id": 1404495471,
+      "dt": "2024-08-01T21:48:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Strata In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-strata-in-the-morning/5902698"
+    },
+    {
+      "id": 1404494672,
+      "dt": "2024-08-01T21:46:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sundown",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-sundow/5894419"
+    },
+    {
       "id": 1404142996,
       "dt": "2024-07-31T17:43:07+02:00",
       "venue_name": "U Toulavé pípy",
