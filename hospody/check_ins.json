@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1405791424,
+      "dt": "2024-08-04T22:07:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Session IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-session-ipa/4860143"
+    },
+    {
+      "id": 1405791096,
+      "dt": "2024-08-04T22:06:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berliner Weisse Passion Fruit /// 9.BW.I2",
+      "brewery": "Pivovar Záhora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zahora-berliner-weisse-passion-fruit-9-bw-i2/4572138"
+    },
+    {
+      "id": 1405697043,
+      "dt": "2024-08-04T18:51:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "300 Kurven 10%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-300-kurven-10/3144726"
+    },
+    {
+      "id": 1405655111,
+      "dt": "2024-08-04T16:53:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-session-ipa/4860143"
+    },
+    {
+      "id": 1405650945,
+      "dt": "2024-08-04T16:38:34+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "14 CZ NEIPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-14-cz-neipa/5921303"
+    },
+    {
+      "id": 1405648622,
+      "dt": "2024-08-04T16:29:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nina – Raspberry Berliner Weisse",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-nina-raspberry-berliner-weisse/1696685"
+    },
+    {
+      "id": 1405646427,
+      "dt": "2024-08-04T16:21:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "14 CZ NEIPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-14-cz-neipa/5921303"
+    },
+    {
+      "id": 1405621821,
+      "dt": "2024-08-04T14:27:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session Hellion",
+      "brewery": "černý potoka",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/cerny-potoka-session-hellion/5412736"
+    },
+    {
+      "id": 1405621219,
+      "dt": "2024-08-04T14:24:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-session-ipa/4860143"
+    },
+    {
+      "id": 1405620834,
+      "dt": "2024-08-04T14:22:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "14 CZ NEIPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-14-cz-neipa/5921303"
+    },
+    {
       "id": 1405303154,
       "dt": "2024-08-03T20:30:50+02:00",
       "venue_name": "Pivní ambasáda",
