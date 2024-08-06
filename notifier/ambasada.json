@@ -9,10 +9,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Session IPA",
-      "description": "4,6% alc. piv. Beskydský, Ostravice, Session IPA"
-    },
-    {
       "name": "12° Pšenka",
       "description": "5,3% alc. piv. Horác, Jihlava, Weizen"
     },
@@ -21,12 +17,16 @@
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "15° Groovy Storm",
-      "description": "5,2% alc. piv. Vik, Praha, East Coast IPA"
+      "name": "14° Ostravická",
+      "description": "6,2% alc. Beskydský pivovárek, IPA"
     },
     {
       "name": "8° Wai-iti Beach Sunset",
       "description": "3,1% alc. piv. Sibeeria, Praha, New Zealand Pale Lager"
+    },
+    {
+      "name": "9° Trudi",
+      "description": "3,9% alc. piv. Clock, Potštejn, Gluten Reduced Session NEIPA"
     }
   ]
 }
