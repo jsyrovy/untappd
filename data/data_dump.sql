@@ -1332,6 +1332,7 @@ INSERT INTO "archive" VALUES(1403986764,'2024-07-30 19:28:40.000000','sejrik','A
 INSERT INTO "archive" VALUES(1404503134,'2024-08-01 20:06:22.000000','sejrik','GROOVY STORM / East Coast IPA','Pivovar Vik','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1404512801,'2024-08-01 20:29:37.000000','sejrik','I Love the Smell of Strata In the Morning','Sibeeria','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1405931073,'2024-08-05 14:02:01.000000','sejrik','Holba Horská 10','Holba','Lesní bar');
+INSERT INTO "archive" VALUES(1406133916,'2024-08-06 14:48:34.000000','sejrik','Radegast Rázná 10','Radegast','Rozhledna Zlatý Chlum');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
