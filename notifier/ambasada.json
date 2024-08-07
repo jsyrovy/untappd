@@ -13,10 +13,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Léto",
-      "description": "5,1% alc. piv. Clock, Potštejn, Peach Sour NEIPA"
-    },
-    {
       "name": "12° Weizen",
       "description": "5,2% alc. piv. Pivečka, Rousínov, Weizen"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Ostravická",
       "description": "6,2% alc. Beskydský pivovárek, IPA"
+    },
+    {
+      "name": "9° Les Peches",
+      "description": "4,4% piv. Jungberg/Libertas, Fruit Sour Ale Peach, Bloody Orange"
     },
     {
       "name": "9° Trudi",
