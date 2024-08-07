@@ -5,6 +5,10 @@
       "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
     },
     {
+      "name": "10° Mongozo Coconut",
+      "description": "3,6% alc. piv. Mongozo, Melle, Vlámsko, Fruit Ale, 0,25l"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -13,20 +17,16 @@
       "description": "5,1% alc. piv. Clock, Potštejn, Peach Sour NEIPA"
     },
     {
-      "name": "12° Pšenka",
-      "description": "5,3% alc. piv. Horác, Jihlava, Weizen"
+      "name": "12° Weizen",
+      "description": "5,2% alc. piv. Pivečka, Rousínov, Weizen"
     },
     {
-      "name": "14° Ename Rouge",
-      "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+      "name": "13° One Augustus",
+      "description": "6,1% alc. piv. Sibeeria, Praha, West Coast IPA"
     },
     {
       "name": "14° Ostravická",
       "description": "6,2% alc. Beskydský pivovárek, IPA"
-    },
-    {
-      "name": "8° Wai-iti Beach Sunset",
-      "description": "3,1% alc. piv. Sibeeria, Praha, New Zealand Pale Lager"
     },
     {
       "name": "9° Trudi",
