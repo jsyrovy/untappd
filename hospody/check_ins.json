@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1406460875,
+      "dt": "2024-08-07T22:59:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1406453725,
+      "dt": "2024-08-07T22:35:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Les Pêches 9%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-les-peches-9/5937357"
+    },
+    {
+      "id": 1406442356,
+      "dt": "2024-08-07T22:00:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Les Pêches 9%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-les-peches-9/5937357"
+    },
+    {
+      "id": 1406406119,
+      "dt": "2024-08-07T20:19:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Peach Sour NEIPA (Léto)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-peach-sour-neipa-leto/4941921"
+    },
+    {
+      "id": 1406379699,
+      "dt": "2024-08-07T18:59:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Wai-iti Beach Sunset",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-wai-iti-beach-sunset/5920637"
+    },
+    {
+      "id": 1406345362,
+      "dt": "2024-08-07T16:29:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Peach Sour NEIPA (Léto)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-peach-sour-neipa-leto/4941921"
+    },
+    {
+      "id": 1406342972,
+      "dt": "2024-08-07T16:12:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/5382720"
+    },
+    {
       "id": 1406196532,
       "dt": "2024-08-06T20:43:06+02:00",
       "venue_name": "U Toulavé pípy",
