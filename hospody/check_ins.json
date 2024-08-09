@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1406704488,
+      "dt": "2024-08-08T22:38:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1406702237,
+      "dt": "2024-08-08T22:32:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1406697822,
+      "dt": "2024-08-08T22:20:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Dark Temptation By Barbara Bieber",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-dark-temptation-by-barbara-bieber/5877828"
+    },
+    {
+      "id": 1406634586,
+      "dt": "2024-08-08T19:49:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helles Schlenkerla Lagerbier - Special Edition - Unfiltriert / Unfiltered",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-helles-schlenkerla-lagerbier-special-edition-unfiltriert-unfiltered/4184083"
+    },
+    {
+      "id": 1406600875,
+      "dt": "2024-08-08T18:10:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1406600621,
+      "dt": "2024-08-08T18:09:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weizen",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-weizen/3497180"
+    },
+    {
+      "id": 1406584067,
+      "dt": "2024-08-08T16:59:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1406581020,
+      "dt": "2024-08-08T16:42:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ostravická IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-ostravicka-ipa/4222574"
+    },
+    {
+      "id": 1406579330,
+      "dt": "2024-08-08T16:32:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Les Pêches 9%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-les-peches-9/5937357"
+    },
+    {
       "id": 1406460875,
       "dt": "2024-08-07T22:59:24+02:00",
       "venue_name": "Pivní ambasáda",
