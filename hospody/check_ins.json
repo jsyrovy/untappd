@@ -1,6 +1,105 @@
 {
   "check_ins": [
     {
+      "id": 1407119860,
+      "dt": "2024-08-10T00:30:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1407029242,
+      "dt": "2024-08-09T21:54:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1407028004,
+      "dt": "2024-08-09T21:52:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ostravická IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-ostravicka-ipa/4222574"
+    },
+    {
+      "id": 1406924405,
+      "dt": "2024-08-09T19:11:07+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Sour Mango Strawberry 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-mango-strawberry-12/5884322"
+    },
+    {
+      "id": 1406923445,
+      "dt": "2024-08-09T19:09:26+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Sour Mango Strawberry 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-mango-strawberry-12/5884322"
+    },
+    {
+      "id": 1406908143,
+      "dt": "2024-08-09T18:39:35+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Sour Mango Strawberry 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-mango-strawberry-12/5884322"
+    },
+    {
+      "id": 1406873927,
+      "dt": "2024-08-09T17:11:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Coconut",
+      "brewery": "Mongozo",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-coconut/30042"
+    },
+    {
+      "id": 1406872172,
+      "dt": "2024-08-09T17:05:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "California 12°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-california-120/201399"
+    },
+    {
+      "id": 1406868241,
+      "dt": "2024-08-09T16:51:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Dark Temptation By Barbara Bieber",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-dark-temptation-by-barbara-bieber/5877828"
+    },
+    {
+      "id": 1406856450,
+      "dt": "2024-08-09T16:05:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cotopaxi",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-cotopaxi/5928656"
+    },
+    {
+      "id": 1406848816,
+      "dt": "2024-08-09T15:27:32+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
       "id": 1406704488,
       "dt": "2024-08-08T22:38:06+02:00",
       "venue_name": "Pivní ambasáda",
