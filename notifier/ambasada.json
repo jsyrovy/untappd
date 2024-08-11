@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° 300 Kurven",
-      "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
-    },
-    {
       "name": "10° Mongozo Coconut",
       "description": "3,6% alc. piv. Mongozo, Melle, Vlámsko, Fruit Ale, 0,25l"
+    },
+    {
+      "name": "11° Elf",
+      "description": "4,8% alc. piv. Jungberg/Clock, Deutsches Pils"
     },
     {
       "name": "12° California",
