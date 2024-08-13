@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1408175364,
+      "dt": "2024-08-12T21:47:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr. Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/5866998"
+    },
+    {
+      "id": 1408149041,
+      "dt": "2024-08-12T20:14:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Superfly (2024-)",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-superfly-2024/5928849"
+    },
+    {
+      "id": 1408143200,
+      "dt": "2024-08-12T19:52:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1408110202,
+      "dt": "2024-08-12T17:24:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Superfly (2024-)",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-superfly-2024/5928849"
+    },
+    {
+      "id": 1408109796,
+      "dt": "2024-08-12T17:21:28+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Superfly (2024-)",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-superfly-2024/5928849"
+    },
+    {
+      "id": 1408105388,
+      "dt": "2024-08-12T16:49:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
       "id": 1407887899,
       "dt": "2024-08-11T19:30:52+02:00",
       "venue_name": "U Toulavé pípy",
