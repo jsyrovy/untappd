@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1408348955,
+      "dt": "2024-08-13T20:58:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Dark Temptation By Barbara Bieber",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-dark-temptation-by-barbara-bieber/5877828"
+    },
+    {
+      "id": 1408339898,
+      "dt": "2024-08-13T20:29:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr. Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/5866998"
+    },
+    {
+      "id": 1408338660,
+      "dt": "2024-08-13T20:25:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One American",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-american/5839717"
+    },
+    {
       "id": 1408175364,
       "dt": "2024-08-12T21:47:35+02:00",
       "venue_name": "Pivní ambasáda",
