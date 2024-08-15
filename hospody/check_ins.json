@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1408497164,
+      "dt": "2024-08-14T17:33:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "WIT WIT / Witbier",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-wit-wit-witbier/5899910"
+    },
+    {
+      "id": 1408496574,
+      "dt": "2024-08-14T17:30:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "WIT WIT / Witbier",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-wit-wit-witbier/5899910"
+    },
+    {
+      "id": 1408488673,
+      "dt": "2024-08-14T16:44:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr. Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/5866998"
+    },
+    {
       "id": 1408348955,
       "dt": "2024-08-13T20:58:04+02:00",
       "venue_name": "Pivní ambasáda",
