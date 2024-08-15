@@ -1337,6 +1337,11 @@ INSERT INTO "archive" VALUES(1406821373,'2024-08-09 10:04:02.000000','sejrik','S
 INSERT INTO "archive" VALUES(1406951646,'2024-08-09 17:57:31.000000','sejrik','Solveza Extra','Van Pur','Bělá pod Pradědem');
 INSERT INTO "archive" VALUES(1408108712,'2024-08-12 15:14:33.000000','sejrik','Volba Sládků: Le Piveau','Plzeňský Prazdroj','Nemošická hospoda');
 INSERT INTO "archive" VALUES(1408381497,'2024-08-13 20:47:38.000000','sejrik','Mangolada','Axiom Brewery','Untappd at Home');
+INSERT INTO "archive" VALUES(1408475181,'2024-08-14 12:41:09.000000','sejrik','Boží Dar 12°','Pivovar Ryžovna','Kavárna U Sněhuláka');
+INSERT INTO "archive" VALUES(1408476456,'2024-08-14 12:55:46.000000','sejrik','Rapl 13°','Pivovar Ryžovna','Kavárna U Sněhuláka');
+INSERT INTO "archive" VALUES(1408531791,'2024-08-14 17:43:42.000000','sejrik','Lehký Střízlík','Pivovar Červený vlk','Pivovar Červený vlk');
+INSERT INTO "archive" VALUES(1408542340,'2024-08-14 18:15:46.000000','sejrik','Svatovavřinecký IPL','Pivovar Červený vlk','Pivovar Červený vlk');
+INSERT INTO "archive" VALUES(1408550246,'2024-08-14 18:38:40.000000','sejrik','Červený Vlk','Pivovar Červený vlk','Pivovar Červený vlk');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
