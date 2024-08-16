@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Mango & Maracuja",
+      "description": "4% alc. piv. Rampušák, Dobruška, Tropical Sour Ale"
+    },
+    {
       "name": "10° Mongozo Coconut",
       "description": "3,6% alc. piv. Mongozo, Melle, Vlámsko, Fruit Ale, 0,25l"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Dr. Feelgood",
       "description": "4,8% alc. piv. Crazy Clown, Praha, Rye APA"
-    },
-    {
-      "name": "12° Pornstar Dark Temptation by Barbara Bieber",
-      "description": "4,5% alc. piv. Crazy Clown, Praha, Sour Ale s kokosem a kiwi"
     },
     {
       "name": "12° Spasitel",
