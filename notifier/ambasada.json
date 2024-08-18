@@ -9,6 +9,10 @@
       "description": "3,6% alc. piv. Mongozo, Melle, Vlámsko, Fruit Ale, 0,25l"
     },
     {
+      "name": "10° PetrAle",
+      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
+    },
+    {
       "name": "11° Elf",
       "description": "4,8% alc. piv. Jungberg/Clock, Deutsches Pils"
     },
@@ -19,10 +23,6 @@
     {
       "name": "11° Wit Wit",
       "description": "5% alc. piv. Vik, Praha, Witbier"
-    },
-    {
-      "name": "12° Dr. Feelgood",
-      "description": "4,8% alc. piv. Crazy Clown, Praha, Rye APA"
     },
     {
       "name": "13° One Augustus",
