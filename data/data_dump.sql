@@ -1349,6 +1349,7 @@ INSERT INTO "archive" VALUES(1408802014,'2024-08-15 19:05:32.000000','sejrik','N
 INSERT INTO "archive" VALUES(1408953589,'2024-08-16 09:31:01.000000','sejrik','Kartel SMASH Maris Otter Moutere 11 (Srpen 2024)','Rodinný pivovar Zichovec','Penzion Zichovec');
 INSERT INTO "archive" VALUES(1408955175,'2024-08-16 10:00:17.000000','sejrik','Juicy Lucy 15','Rodinný pivovar Zichovec','Penzion Zichovec');
 INSERT INTO "archive" VALUES(1408993926,'2024-08-16 14:43:47.000000','sejrik','East Coast IPA 14','Perron','Perron Garden');
+INSERT INTO "archive" VALUES(1409597714,'2024-08-17 18:43:42.000000','sejrik','Galaxy Trip Ale 12°','Krušnohor','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
