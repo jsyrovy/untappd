@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1410278536,
+      "dt": "2024-08-19T23:43:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "African Big Five",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-african-big-five/5846268"
+    },
+    {
+      "id": 1410228360,
+      "dt": "2024-08-19T20:01:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "African Big Five",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-african-big-five/5846268"
+    },
+    {
+      "id": 1410217103,
+      "dt": "2024-08-19T19:12:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Augustus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-augustus/5927235"
+    },
+    {
+      "id": 1410211886,
+      "dt": "2024-08-19T18:47:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
+      "id": 1410205898,
+      "dt": "2024-08-19T18:16:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango & Maracuja",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-mango-and-maracuja/5952425"
+    },
+    {
+      "id": 1410201698,
+      "dt": "2024-08-19T17:52:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mongozo Coconut",
+      "brewery": "Mongozo",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/mongozo-mongozo-coconut/30042"
+    },
+    {
+      "id": 1410191622,
+      "dt": "2024-08-19T16:32:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fresh'n'Up",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-fresh-n-up/5354439"
+    },
+    {
+      "id": 1410189459,
+      "dt": "2024-08-19T16:11:36+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "ETAPA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-etapa/5392812"
+    },
+    {
       "id": 1409958656,
       "dt": "2024-08-18T18:06:00+02:00",
       "venue_name": "U Toulavé pípy",
