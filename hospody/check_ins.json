@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1410420012,
+      "dt": "2024-08-20T21:38:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango & Maracuja",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-mango-and-maracuja/5952425"
+    },
+    {
+      "id": 1410411135,
+      "dt": "2024-08-20T21:04:56+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fresh'n'Up",
+      "brewery": "Pivovar Raven",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-raven-fresh-n-up/5354439"
+    },
+    {
+      "id": 1410354591,
+      "dt": "2024-08-20T16:34:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango & Maracuja",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-mango-and-maracuja/5952425"
+    },
+    {
+      "id": 1410354344,
+      "dt": "2024-08-20T16:32:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
       "id": 1410278536,
       "dt": "2024-08-19T23:43:36+02:00",
       "venue_name": "Pivní ambasáda",
