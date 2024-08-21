@@ -5,10 +5,6 @@
       "description": "4,2% alc. piv. Sibeeria/dell Eremo (Itálie), Session NEIPA,"
     },
     {
-      "name": "10° PetrAle",
-      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
-    },
-    {
       "name": "11° Elf",
       "description": "4,8% alc. piv. Jungberg/Clock, Deutsches Pils"
     },
@@ -31,6 +27,10 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "9° Trudi",
+      "description": "3,9% alc. piv. Clock, Potštejn, Gluten Reduced Session NEIPA"
     }
   ]
 }
