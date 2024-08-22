@@ -1351,6 +1351,10 @@ INSERT INTO "archive" VALUES(1408955175,'2024-08-16 10:00:17.000000','sejrik','J
 INSERT INTO "archive" VALUES(1408993926,'2024-08-16 14:43:47.000000','sejrik','East Coast IPA 14','Perron','Perron Garden');
 INSERT INTO "archive" VALUES(1409597714,'2024-08-17 18:43:42.000000','sejrik','Galaxy Trip Ale 12°','Krušnohor','Untappd at Home');
 INSERT INTO "archive" VALUES(1410259437,'2024-08-19 20:06:16.000000','sejrik','WestCoast IPA','Pivovar Permon','Untappd at Home');
+INSERT INTO "archive" VALUES(1410593613,'2024-08-21 18:48:04.000000','sejrik','Taumata','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1410598585,'2024-08-21 19:04:30.000000','sejrik','Cotopaxi','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1410607929,'2024-08-21 19:35:29.000000','sejrik','Hypnokitten','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1410616830,'2024-08-21 20:06:17.000000','sejrik','I Love the Smell of HBC 1019 In the Morning','Sibeeria','Sibeeria Tap Room');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
