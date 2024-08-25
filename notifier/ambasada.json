@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Juicy Session Mango",
+      "description": "4,5% alc. Beskydský Pivovárek, Ostravice, Mango Session IPA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "18° Plum Reaper",
       "description": "6,2% alc. piv. Crazy Clown, Praha, Imperial sour ale se švestkami, bergamotem a kardamomem"
-    },
-    {
-      "name": "9° Trudi",
-      "description": "3,9% alc. piv. Clock, Potštejn, Gluten Reduced Session NEIPA"
     }
   ]
 }
