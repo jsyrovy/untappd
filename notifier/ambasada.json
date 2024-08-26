@@ -13,10 +13,6 @@
       "description": "5% alc. piv. Vik, Praha, Witbier"
     },
     {
-      "name": "12 Philadelphia Sour Jahoda",
-      "description": "4,1% alc. piv. Obora, Malšice, Fruit Sour Ale"
-    },
-    {
       "name": "14° Twist",
       "description": "5,8% alc. piv. Clock, Potštejn, American Red IPA"
     },
@@ -27,6 +23,10 @@
     {
       "name": "18° Plum Reaper",
       "description": "6,2% alc. piv. Crazy Clown, Praha, Imperial sour ale se švestkami, bergamotem a kardamomem"
+    },
+    {
+      "name": "9° Les Peches",
+      "description": "4,4% piv. Jungberg/Libertas, Fruit Sour Ale Peach, Bloody Orange"
     }
   ]
 }
