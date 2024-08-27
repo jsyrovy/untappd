@@ -1355,6 +1355,9 @@ INSERT INTO "archive" VALUES(1410593613,'2024-08-21 18:48:04.000000','sejrik','T
 INSERT INTO "archive" VALUES(1410598585,'2024-08-21 19:04:30.000000','sejrik','Cotopaxi','Sibeeria','Sibeeria Tap Room');
 INSERT INTO "archive" VALUES(1410607929,'2024-08-21 19:35:29.000000','sejrik','Hypnokitten','Sibeeria','Sibeeria Tap Room');
 INSERT INTO "archive" VALUES(1410616830,'2024-08-21 20:06:17.000000','sejrik','I Love the Smell of HBC 1019 In the Morning','Sibeeria','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1412271789,'2024-08-26 17:13:28.000000','sejrik','Bzučoun','Pivovar Mordýř','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1412280264,'2024-08-26 17:50:29.000000','sejrik','Twist','Pivovar Clock','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1412296819,'2024-08-26 19:00:37.000000','sejrik','Plum Reaper','Crazy Clown Brewery','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
