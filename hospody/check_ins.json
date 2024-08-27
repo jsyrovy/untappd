@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1412297939,
+      "dt": "2024-08-26T21:05:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Les Pêches 9%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-les-peches-9/5937357"
+    },
+    {
+      "id": 1412297708,
+      "dt": "2024-08-26T21:04:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mini IPA: Rakau, Mosaic & Cryo Pop (2024)",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-mini-ipa-rakau-mosaic-and-cryo-pop-2024/5927241"
+    },
+    {
+      "id": 1412280264,
+      "dt": "2024-08-26T19:50:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Twist",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-twist/753375"
+    },
+    {
+      "id": 1412271789,
+      "dt": "2024-08-26T19:13:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Bzučoun",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-bzucoun/3914139"
+    },
+    {
+      "id": 1412269740,
+      "dt": "2024-08-26T19:04:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Joe In the Garden Fruit Edition – Sea Buckthorn, Gooseberry",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-joe-in-the-garden-fruit-edition-sea-buckthorn-gooseberry/5191415"
+    },
+    {
+      "id": 1412269159,
+      "dt": "2024-08-26T19:01:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Muhehe 10",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-muhehe-10/5953102"
+    },
+    {
+      "id": 1412268625,
+      "dt": "2024-08-26T18:58:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clown Plum Reaper 2024",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-clown-plum-reaper-2024/5842754"
+    },
+    {
+      "id": 1412267880,
+      "dt": "2024-08-26T18:55:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "WIT WIT / Witbier",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-wit-wit-witbier/5899910"
+    },
+    {
+      "id": 1412267562,
+      "dt": "2024-08-26T18:53:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Trudi",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-trudi/5382720"
+    },
+    {
       "id": 1412093604,
       "dt": "2024-08-25T21:22:43+02:00",
       "venue_name": "Pivní ambasáda",
