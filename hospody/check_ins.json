@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1412576026,
+      "dt": "2024-08-28T17:18:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lemon Grass",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-lemon-grass/5769038"
+    },
+    {
+      "id": 1412575919,
+      "dt": "2024-08-28T17:18:17+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lemon Grass",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-lemon-grass/5769038"
+    },
+    {
+      "id": 1412575772,
+      "dt": "2024-08-28T17:17:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Joe In the Garden Fruit Edition – Sea Buckthorn, Gooseberry",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-joe-in-the-garden-fruit-edition-sea-buckthorn-gooseberry/5191415"
+    },
+    {
+      "id": 1412575682,
+      "dt": "2024-08-28T17:16:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hop Elixir Sabro & Idaho 7",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-sabro-and-idaho-7/5952587"
+    },
+    {
+      "id": 1412573954,
+      "dt": "2024-08-28T17:05:02+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hop Elixir Sabro & Idaho 7",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-sabro-and-idaho-7/5952587"
+    },
+    {
+      "id": 1412573602,
+      "dt": "2024-08-28T17:02:28+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Joe In the Garden Fruit Edition – Sea Buckthorn, Gooseberry",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-joe-in-the-garden-fruit-edition-sea-buckthorn-gooseberry/5191415"
+    },
+    {
+      "id": 1412567737,
+      "dt": "2024-08-28T16:13:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lookin' Pine",
+      "brewery": "Haksna Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/haksna-brewery-lookin-pine/4908038"
+    },
+    {
       "id": 1412297939,
       "dt": "2024-08-26T21:05:21+02:00",
       "venue_name": "Pivní ambasáda",
