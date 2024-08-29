@@ -1,12 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Bzučoun",
-      "description": "3,5% alc. piv. Mordýř, Dolní Ředice, Ale"
+      "name": "11° Juicy Session Mango",
+      "description": "4,5% alc. Beskydský Pivovárek, Ostravice, Mango Session IPA"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Sour Cherry & Hibiscus",
+      "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Sour Ale"
     },
     {
       "name": "12° Beskydská Pšenka",
