@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1412881289,
+      "dt": "2024-08-29T23:02:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango Juicy",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-mango-juicy/4860569"
+    },
+    {
+      "id": 1412863495,
+      "dt": "2024-08-29T22:07:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Cherry & Hibiscus",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-sour-cherry-and-hibiscus/4987929"
+    },
+    {
+      "id": 1412856728,
+      "dt": "2024-08-29T21:47:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1412837534,
+      "dt": "2024-08-29T20:55:54+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Cherry & Hibiscus",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-sour-cherry-and-hibiscus/4987929"
+    },
+    {
+      "id": 1412787809,
+      "dt": "2024-08-29T18:19:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
       "id": 1412576026,
       "dt": "2024-08-28T17:18:55+02:00",
       "venue_name": "U Toulavé pípy",
