@@ -1360,6 +1360,13 @@ INSERT INTO "archive" VALUES(1412280264,'2024-08-26 17:50:29.000000','sejrik','T
 INSERT INTO "archive" VALUES(1412296819,'2024-08-26 19:00:37.000000','sejrik','Plum Reaper','Crazy Clown Brewery','Untappd at Home');
 INSERT INTO "archive" VALUES(1412856728,'2024-08-29 19:47:59.000000','sejrik','PP 12%','Pivovar JungBerg','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1412881289,'2024-08-29 21:02:50.000000','sejrik','Mango Juicy','Beskydský pivovárek','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1413415823,'2024-08-31 12:54:21.000000','sejrik','Mini IPA: Rakau, Mosaic & Cryo Pop (2024)','Sibeeria','Náměstí Osvoboditelů');
+INSERT INTO "archive" VALUES(1413425266,'2024-08-31 13:24:54.000000','sejrik','Nectaron²','Chroust','Náměstí Osvoboditelů');
+INSERT INTO "archive" VALUES(1413426169,'2024-08-31 13:27:38.000000','sejrik','Magický motýl IPA','Pivovar Radouš','Náměstí Osvoboditelů');
+INSERT INTO "archive" VALUES(1413426657,'2024-08-31 13:29:04.000000','sejrik','Exotic Orchard','Sibeeria','Náměstí Osvoboditelů');
+INSERT INTO "archive" VALUES(1413441346,'2024-08-31 14:10:03.000000','sejrik','Tropical Ale','Hradecký Klenot','Náměstí Osvoboditelů');
+INSERT INTO "archive" VALUES(1413458664,'2024-08-31 14:51:40.000000','sejrik','Revolution 12°','Pivovar Matuška','Náměstí Osvoboditelů');
+INSERT INTO "archive" VALUES(1413506423,'2024-08-31 16:24:29.000000','sejrik','Extinction Is Forever!: Philippine Crocodile','Brauhaus Bevog','Náměstí Osvoboditelů');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
