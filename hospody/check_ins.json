@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1414002273,
+      "dt": "2024-09-01T19:46:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Clash of the Beers NEIPA (brewed by NOZIB)",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-clash-of-the-beers-neipa-brewed-by-nozib/5791181"
+    },
+    {
+      "id": 1414001991,
+      "dt": "2024-09-01T19:45:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "2 Hops",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-2-hops/5905309"
+    },
+    {
+      "id": 1414001759,
+      "dt": "2024-09-01T19:45:28+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Clash of the Beers NEIPA (brewed by NOZIB)",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-clash-of-the-beers-neipa-brewed-by-nozib/5791181"
+    },
+    {
+      "id": 1413975975,
+      "dt": "2024-09-01T18:47:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "2 Hops",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-2-hops/5905309"
+    },
+    {
       "id": 1413498792,
       "dt": "2024-08-31T18:12:05+02:00",
       "venue_name": "U Toulavé pípy",
