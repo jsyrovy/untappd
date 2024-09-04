@@ -9,8 +9,8 @@
       "description": "4,6% alc. piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
-      "name": "12° Knajp Rajdr",
-      "description": "5,3% alc. piv. Valášek, Vsetín, APA"
+      "name": "12° Kurnik Šopa Výročák",
+      "description": "piv. Vik, Praha, APA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -23,6 +23,10 @@
     {
       "name": "14° Luc IPA",
       "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
+    },
+    {
+      "name": "14° Reichstag Višeň",
+      "description": "6,5% alc. piv. Cobolis, Praha, Fruit Sour Ale"
     },
     {
       "name": "18° Kasteel Rouge",
