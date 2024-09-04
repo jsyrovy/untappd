@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1414450594,
+      "dt": "2024-09-03T18:22:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Cherry & Hibiscus",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-sour-cherry-and-hibiscus/4987929"
+    },
+    {
+      "id": 1414441891,
+      "dt": "2024-09-03T17:25:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1414438664,
+      "dt": "2024-09-03T16:58:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
       "id": 1414343790,
       "dt": "2024-09-02T23:01:42+02:00",
       "venue_name": "Pivní ambasáda",
