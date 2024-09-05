@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Sibeeria Mint & Lime Gose",
+      "description": "3,9% alc. piv. Sibeeria, Praha, Gose w/ Mint & Lime"
     },
     {
-      "name": "12° Fogtown",
-      "description": "4,6% alc. piv. Sibeeria, Praha, New England Pale Ale"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Kurnik Šopa Výročák",
@@ -21,8 +21,8 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "14° Luc IPA",
-      "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
+      "name": "14° Alora",
+      "description": "6,3% alc. piv. Vik, Praha, Single Hop American IPA"
     },
     {
       "name": "14° Reichstag Višeň",
