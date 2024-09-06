@@ -1369,6 +1369,7 @@ INSERT INTO "archive" VALUES(1413458664,'2024-08-31 14:51:40.000000','sejrik','R
 INSERT INTO "archive" VALUES(1413506423,'2024-08-31 16:24:29.000000','sejrik','Extinction Is Forever!: Philippine Crocodile','Brauhaus Bevog','Náměstí Osvoboditelů');
 INSERT INTO "archive" VALUES(1414332065,'2024-09-02 20:24:52.000000','sejrik','Knajp Rajdr','Valášek','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1414343790,'2024-09-02 21:01:42.000000','sejrik','Lucipa','Pivovar JungBerg','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1414792068,'2024-09-05 16:52:34.000000','sejrik','Vopičák 10°','Němý Medvěd','ATC Kokořín');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
