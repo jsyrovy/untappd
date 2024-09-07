@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1415006666,
+      "dt": "2024-09-06T17:01:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pale Lager",
+      "brewery": "Kobzuv Pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/kobzuv-pivovar-pale-lager/5712731"
+    },
+    {
+      "id": 1415003011,
+      "dt": "2024-09-06T16:48:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "El Dorado",
+      "brewery": "Kobzuv Pivovar",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/kobzuv-pivovar-el-dorado/5758281"
+    },
+    {
+      "id": 1415002683,
+      "dt": "2024-09-06T16:46:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reichstag Sauerkirsche",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-reichstag-sauerkirsche/2982492"
+    },
+    {
       "id": 1414879518,
       "dt": "2024-09-05T23:40:04+02:00",
       "venue_name": "Pivní ambasáda",
