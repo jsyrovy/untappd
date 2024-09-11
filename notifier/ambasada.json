@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Sibeeria Mint & Lime Gose",
-      "description": "3,9% alc. piv. Sibeeria, Praha, Gose w/ Mint & Lime"
+      "name": "11° Exotic Orchard",
+      "description": "4,6% alc. piv. Sibeeria, Praha, Session IPA"
     },
     {
       "name": "11° Mordýř",
@@ -25,8 +25,8 @@
       "description": "3,8% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
-      "name": "14° Alora",
-      "description": "6,3% alc. piv. Vik, Praha, Single Hop American IPA"
+      "name": "18,8° Hopfenreiter 2024",
+      "description": "8,5% alc. piv. Maisel & Friends, Bayeruth, Bavorsko, Double IPA"
     },
     {
       "name": "19° I Love the Smell of HBC 1019 in the Morning",
