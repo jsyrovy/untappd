@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1416336999,
+      "dt": "2024-09-10T19:46:30+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Malý Cecil",
+      "brewery": "Bad Flash",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bad-flash-maly-cecil/5952702"
+    },
+    {
+      "id": 1416336575,
+      "dt": "2024-09-10T19:44:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Down Under",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-down-under/5522512"
+    },
+    {
+      "id": 1416329717,
+      "dt": "2024-09-10T19:13:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "ALORA / Single hop India Pale Ale",
+      "brewery": "Pivovar Vik",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-vik-alora-single-hop-india-pale-ale/5947090"
+    },
+    {
+      "id": 1416312430,
+      "dt": "2024-09-10T17:32:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mint & Lime Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-mint-and-lime-gose/5865649"
+    },
+    {
       "id": 1416130427,
       "dt": "2024-09-09T03:27:53+02:00",
       "venue_name": "U Toulavé pípy",
