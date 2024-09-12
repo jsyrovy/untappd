@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1416467609,
+      "dt": "2024-09-11T17:00:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Black Currant & Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-black-currant-and-raspberry/4726835"
+    },
+    {
       "id": 1416336999,
       "dt": "2024-09-10T19:46:30+02:00",
       "venue_name": "U Toulavé pípy",
