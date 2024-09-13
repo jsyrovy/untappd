@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1416763199,
+      "dt": "2024-09-13T00:21:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "New Dog On the Hop Riwaka Galaxy",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-riwaka-galaxy/5640322"
+    },
+    {
+      "id": 1416762820,
+      "dt": "2024-09-13T00:19:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "New Dog On the Hop Riwaka Galaxy",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-riwaka-galaxy/5640322"
+    },
+    {
+      "id": 1416748882,
+      "dt": "2024-09-12T23:24:30+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cloud Scanner (Motueka / Riwaka / Citra)",
+      "brewery": "černý potoka",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/cerny-potoka-cloud-scanner-motueka-riwaka-citra/5945775"
+    },
+    {
+      "id": 1416745644,
+      "dt": "2024-09-12T23:11:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cloud Scanner (Motueka / Riwaka / Citra)",
+      "brewery": "černý potoka",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/cerny-potoka-cloud-scanner-motueka-riwaka-citra/5945775"
+    },
+    {
+      "id": 1416739473,
+      "dt": "2024-09-12T22:49:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Gunslinger",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-gunslinger/1614466"
+    },
+    {
+      "id": 1416738554,
+      "dt": "2024-09-12T22:45:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Down Under",
+      "brewery": "Pivovar Raven",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-raven-down-under/5522512"
+    },
+    {
+      "id": 1416736224,
+      "dt": "2024-09-12T22:37:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I'm Waiting Here",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-i-m-waiting-here/4347425"
+    },
+    {
+      "id": 1416704568,
+      "dt": "2024-09-12T20:59:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Piwo Musujące 7",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-piwo-musujace-7/5944811"
+    },
+    {
+      "id": 1416703562,
+      "dt": "2024-09-12T20:56:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sweet Joy: Jahodový Koláč",
+      "brewery": "Upside Down",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/upside-down-sweet-joy-jahodovy-kolac/5928553"
+    },
+    {
+      "id": 1416703533,
+      "dt": "2024-09-12T20:56:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sweet Joy: Jahodový Koláč",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sweet-joy-jahodovy-kolac/5928553"
+    },
+    {
+      "id": 1416687241,
+      "dt": "2024-09-12T20:07:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-svetly-lezak/850661"
+    },
+    {
+      "id": 1416634373,
+      "dt": "2024-09-12T15:42:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopfenreiter 2024 - Double IPA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-hopfenreiter-2024-double-ipa/5952968"
+    },
+    {
+      "id": 1416634217,
+      "dt": "2024-09-12T15:40:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Šlechtič",
+      "brewery": "Pivovar Ovipistán",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-ovipistan-slechtic/5958716"
+    },
+    {
       "id": 1416467609,
       "dt": "2024-09-11T17:00:32+02:00",
       "venue_name": "Pivní ambasáda",
