@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1417898494,
+      "dt": "2024-09-15T20:44:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lubor",
+      "brewery": "Beer Poets",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/beer-poets-lubor/5981956"
+    },
+    {
+      "id": 1417808673,
+      "dt": "2024-09-15T16:45:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Švihák",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-svihak/4911049"
+    },
+    {
+      "id": 1417801729,
+      "dt": "2024-09-15T16:19:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Višňový ležák",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-visnovy-lezak/650714"
+    },
+    {
       "id": 1417570149,
       "dt": "2024-09-14T22:42:26+02:00",
       "venue_name": "U Toulavé pípy",
