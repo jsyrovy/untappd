@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1418044041,
+      "dt": "2024-09-16T15:11:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1418038868,
+      "dt": "2024-09-16T13:53:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopfenreiter 2024 - Double IPA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-hopfenreiter-2024-double-ipa/5952968"
+    },
+    {
+      "id": 1418038746,
+      "dt": "2024-09-16T13:51:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tourist Triangle",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-tourist-triangle/5953221"
+    },
+    {
+      "id": 1418038665,
+      "dt": "2024-09-16T13:49:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Peach Sour NEIPA (Léto)",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-peach-sour-neipa-leto/4941921"
+    },
+    {
+      "id": 1418038566,
+      "dt": "2024-09-16T13:48:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kyseláč Višeň",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kyselac-visen/5951342"
+    },
+    {
       "id": 1417898494,
       "dt": "2024-09-15T20:44:43+02:00",
       "venue_name": "U Toulavé pípy",
