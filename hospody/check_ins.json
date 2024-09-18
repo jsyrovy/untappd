@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1418185966,
+      "dt": "2024-09-17T15:22:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Spicy Sour",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-spicy-sour/5981933"
+    },
+    {
       "id": 1418044041,
       "dt": "2024-09-16T15:11:02+02:00",
       "venue_name": "Pivní ambasáda",
