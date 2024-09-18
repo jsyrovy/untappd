@@ -1,16 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° Kyseláč Višeň",
-      "description": "3,8% alc. piv. Mordýř, Dolní Ředice, Fruit Sour Ale"
-    },
-    {
       "name": "11,5° GrischBEERla",
       "description": "4,5% alc. piv. Kundmuller, Horní Franky, Session IPA"
-    },
-    {
-      "name": "11° Mango, Pineapple & Blood Orange Sorbet",
-      "description": "4,4% alc. piv. Sibeeria, Praha, Fruit Sour Ale"
     },
     {
       "name": "11° Mordýř",
@@ -25,12 +17,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "13° Stylish Girl",
+      "description": "5,3% alc. Blackberry Milkshake NEIPA"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "18,8° Hopfenreiter 2024",
-      "description": "8,5% alc. piv. Maisel & Friends, Bayeruth, Bavorsko, Double IPA"
+      "name": "15° Lollihop",
+      "description": "6,6% alc. piv. Sibeeria, Praha, West Coast IPA"
     }
   ]
 }
