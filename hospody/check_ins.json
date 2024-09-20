@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1418666411,
+      "dt": "2024-09-20T00:21:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Exotic Orchard",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-exotic-orchard/5953178"
+    },
+    {
+      "id": 1418665419,
+      "dt": "2024-09-20T00:17:12+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Korálek 13",
+      "brewery": "Pivovar Kristýna",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kristyna-koralek-13/5935500"
+    },
+    {
+      "id": 1418653097,
+      "dt": "2024-09-19T23:29:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "12 Years of Innovation",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-12-years-of-innovation/5971822"
+    },
+    {
+      "id": 1418639851,
+      "dt": "2024-09-19T22:41:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "12 Years of Innovation",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-12-years-of-innovation/5971822"
+    },
+    {
+      "id": 1418638526,
+      "dt": "2024-09-19T22:36:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pumpkin Ale",
+      "brewery": "MadCat",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/madcat-pumpkin-ale/4549126"
+    },
+    {
+      "id": 1418637850,
+      "dt": "2024-09-19T22:34:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Botanic Gose",
+      "brewery": "Falkon",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/falkon-botanic-gose/3038596"
+    },
+    {
+      "id": 1418633844,
+      "dt": "2024-09-19T22:20:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "BAREVNÁ BUBLINA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-barevna-bublina/5973566"
+    },
+    {
+      "id": 1418535013,
+      "dt": "2024-09-19T15:58:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "BAREVNÁ BUBLINA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-barevna-bublina/5973566"
+    },
+    {
       "id": 1418428667,
       "dt": "2024-09-18T22:07:56+02:00",
       "venue_name": "Pivní ambasáda",
