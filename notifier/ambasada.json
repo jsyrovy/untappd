@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11,5° GrischBEERla",
-      "description": "4,5% alc. piv. Kundmuller, Horní Franky, Session IPA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Two Dogs",
+      "description": "4,7% alc. piv. HoppyDog, Ostrava, APA"
     },
     {
       "name": "12° Maisels Weisse",
