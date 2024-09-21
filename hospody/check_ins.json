@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1419030760,
+      "dt": "2024-09-21T00:23:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Prof! Lager",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-prof-lager/5991311"
+    },
+    {
+      "id": 1419017700,
+      "dt": "2024-09-20T23:55:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stylish Girl - Milkshake NEIPA 13° - Blackberry",
+      "brewery": "Pivovar Agent",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-milkshake-neipa-130-blackberry/5988268"
+    },
+    {
       "id": 1418666411,
       "dt": "2024-09-20T00:21:10+02:00",
       "venue_name": "U Toulavé pípy",
