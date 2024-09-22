@@ -1381,6 +1381,19 @@ INSERT INTO "archive" VALUES(1416483243,'2024-09-11 16:38:20.000000','sejrik','B
 INSERT INTO "archive" VALUES(1417422664,'2024-09-14 17:35:29.000000','sejrik','Summer Citra','Pivovar Raven','Loď Otava');
 INSERT INTO "archive" VALUES(1417485363,'2024-09-14 18:53:55.000000','sejrik','Year 9 IPA','Pivovar Raven','Loď Otava');
 INSERT INTO "archive" VALUES(1417570149,'2024-09-14 20:42:26.000000','sejrik','Never Again! Vol. 1 - CRYO HBC630 & Talus','Pivovar Raven','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1419195534,'2024-09-21 12:57:28.000000','sejrik','Tourist Triangle','Sibeeria','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419205539,'2024-09-21 13:25:40.000000','sejrik','MadCat Ležák / Kamenický světlý ležák','MadCat','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419210614,'2024-09-21 13:39:05.000000','sejrik','Femme Fanale','Wild Creatures','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419242521,'2024-09-21 14:50:46.000000','sejrik','Vopičák','Pivovar U Vojtěchů','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419248698,'2024-09-21 15:03:21.000000','sejrik','Rákosník','Psychovar','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419260630,'2024-09-21 15:25:29.000000','sejrik','Hazy 2 Hops','MadCat','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419321108,'2024-09-21 17:00:25.000000','sejrik','HBC 1019 12','Pivovar Louka','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419321513,'2024-09-21 17:00:59.000000','sejrik','HBC 630','Pivovar Louka','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419345608,'2024-09-21 17:33:23.000000','sejrik','BAREVNÁ BUBLINA','Pioneer Beer','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1419375981,'2024-09-21 18:12:07.000000','sejrik','American IPA','Pivovar Opatovický Poklad','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419408005,'2024-09-21 18:50:53.000000','sejrik','Klenot Cold IPA','Hradecký Klenot','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419448780,'2024-09-21 19:39:00.000000','sejrik','Pumpkin Ale','MadCat','Automatické mlýny');
+INSERT INTO "archive" VALUES(1419482422,'2024-09-21 20:21:49.000000','sejrik','Prof! Lager','Beer Poets','U Toulavé pípy');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
