@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1419537154,
+      "dt": "2024-09-21T23:41:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sweet Joy: Jahodový Koláč",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sweet-joy-jahodovy-kolac/5928553"
+    },
+    {
+      "id": 1419491565,
+      "dt": "2024-09-21T22:34:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "BAREVNÁ BUBLINA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-barevna-bublina/5973566"
+    },
+    {
+      "id": 1419487634,
+      "dt": "2024-09-21T22:28:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lubor",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-lubor/5981956"
+    },
+    {
+      "id": 1419482422,
+      "dt": "2024-09-21T22:21:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Prof! Lager",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-prof-lager/5991311"
+    },
+    {
+      "id": 1419468436,
+      "dt": "2024-09-21T22:03:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Glee",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-glee/3101033"
+    },
+    {
+      "id": 1419406544,
+      "dt": "2024-09-21T20:49:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love the Smell of Superdelic in the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-sibeeria-i-love-the-smell-of-superdelic-in-the-morning/5979976"
+    },
+    {
+      "id": 1419348646,
+      "dt": "2024-09-21T19:37:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sweet Joy: Jahodový Koláč",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sweet-joy-jahodovy-kolac/5928553"
+    },
+    {
+      "id": 1419345608,
+      "dt": "2024-09-21T19:33:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "BAREVNÁ BUBLINA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-barevna-bublina/5973566"
+    },
+    {
       "id": 1419030760,
       "dt": "2024-09-21T00:23:47+02:00",
       "venue_name": "U Toulavé pípy",
@@ -16,6 +88,15 @@
       "beer_name": "Stylish Girl - Milkshake NEIPA 13° - Blackberry",
       "brewery": "Pivovar Agent",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-milkshake-neipa-130-blackberry/5988268"
+    },
+    {
+      "id": 1419017700,
+      "dt": "2024-09-20T23:55:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Stylish Girl - Milkshake NEIPA 13° - Blackberry",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-agent-stylish-girl-milkshake-neipa-130-blackberry/5988268"
     },
     {
