@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1419754929,
+      "dt": "2024-09-22T17:55:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E(h)rlich Imperial Porter 2024",
+      "brewery": "Erlich Bier",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/erlich-bier-e-h-rlich-imperial-porter-2024/5971699"
+    },
+    {
+      "id": 1419750076,
+      "dt": "2024-09-22T17:40:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E(h)rlich Imperial Porter 2024",
+      "brewery": "Erlich Bier",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/erlich-bier-e-h-rlich-imperial-porter-2024/5971699"
+    },
+    {
+      "id": 1419749661,
+      "dt": "2024-09-22T17:39:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisels Weisse Original 2024",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisels-weisse-original-2024/5929693"
+    },
+    {
+      "id": 1419741211,
+      "dt": "2024-09-22T17:11:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána Maracuja",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana-maracuja/4480229"
+    },
+    {
+      "id": 1419736415,
+      "dt": "2024-09-22T16:54:24+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 10° světlé výčepní",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-100-svetle-vycepni/815388"
+    },
+    {
+      "id": 1419736394,
+      "dt": "2024-09-22T16:54:19+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 10° světlé výčepní",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-100-svetle-vycepni/815388"
+    },
+    {
       "id": 1419537154,
       "dt": "2024-09-21T23:41:53+02:00",
       "venue_name": "U Toulavé pípy",
