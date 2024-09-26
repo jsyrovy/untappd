@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1420273093,
+      "dt": "2024-09-25T16:52:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E(h)rlich Imperial Porter 2024",
+      "brewery": "Erlich Bier",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/erlich-bier-e-h-rlich-imperial-porter-2024/5971699"
+    },
+    {
       "id": 1420163133,
       "dt": "2024-09-24T21:02:44+02:00",
       "venue_name": "U Toulavé pípy",
