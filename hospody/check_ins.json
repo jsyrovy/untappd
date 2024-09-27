@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1420540692,
+      "dt": "2024-09-26T22:23:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1420529253,
+      "dt": "2024-09-26T21:47:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1420528923,
+      "dt": "2024-09-26T21:46:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výtržník",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-vytrznik/4294495"
+    },
+    {
+      "id": 1420480141,
+      "dt": "2024-09-26T19:11:11+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "12 Years of Innovation",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-12-years-of-innovation/5971822"
+    },
+    {
+      "id": 1420463866,
+      "dt": "2024-09-26T18:04:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pyramid God",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-pyramid-god/5926526"
+    },
+    {
+      "id": 1420455555,
+      "dt": "2024-09-26T17:19:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Aura",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-aura/5926524"
+    },
+    {
       "id": 1420273093,
       "dt": "2024-09-25T16:52:53+02:00",
       "venue_name": "Pivní ambasáda",
