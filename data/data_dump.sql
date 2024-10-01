@@ -1399,6 +1399,7 @@ INSERT INTO "archive" VALUES(1420174541,'2024-09-24 19:53:03.000000','sejrik','K
 INSERT INTO "archive" VALUES(1420435707,'2024-09-26 11:23:02.000000','sejrik','Cruzcampo Especial','Cruzcampo','Untappd at Home');
 INSERT INTO "archive" VALUES(1421311719,'2024-09-28 19:57:01.000000','sejrik','Tropical','Compañía Cervecera de Canarias','Untappd at Home');
 INSERT INTO "archive" VALUES(1421553467,'2024-09-29 12:42:42.000000','sejrik','Bermeja','Malpeis Cerveza Artesana','Playa de los Pocillos');
+INSERT INTO "archive" VALUES(1421867855,'2024-09-30 20:01:24.000000','sejrik','Session IPA','Grupo Mahou-San Miguel','Hiperdino');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
