@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1421873801,
+      "dt": "2024-09-30T22:38:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E(h)rlich Imperial Porter 2024",
+      "brewery": "Erlich Bier",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/erlich-bier-e-h-rlich-imperial-porter-2024/5971699"
+    },
+    {
+      "id": 1421872675,
+      "dt": "2024-09-30T22:30:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cetus 11°",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-cetus-110/5980395"
+    },
+    {
+      "id": 1421839046,
+      "dt": "2024-09-30T19:28:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "E(h)rlich Imperial Porter 2024",
+      "brewery": "Erlich Bier",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/erlich-bier-e-h-rlich-imperial-porter-2024/5971699"
+    },
+    {
+      "id": 1421837816,
+      "dt": "2024-09-30T19:21:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cetus 11°",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-cetus-110/5980395"
+    },
+    {
+      "id": 1421831171,
+      "dt": "2024-09-30T18:40:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "California 12°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-california-120/201399"
+    },
+    {
+      "id": 1421830351,
+      "dt": "2024-09-30T18:35:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydské hořké",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydske-horke/361652"
+    },
+    {
       "id": 1421665997,
       "dt": "2024-09-29T20:39:16+02:00",
       "venue_name": "Pivní ambasáda",
