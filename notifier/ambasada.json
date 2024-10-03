@@ -1,28 +1,36 @@
 {
   "beers": [
     {
-      "name": "10° Tropical Sour",
-      "description": "4% alc. piv. Rampušák, Dobruška, Tropical Sour Ale"
+      "name": "10° Mango-Pina-Coco",
+      "description": "4% alc., piv. MadCat, Kamenice, Fruit Sour Ale"
     },
     {
       "name": "12° Franziskaner",
       "description": "5% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, German Hefeweizen"
     },
     {
-      "name": "12° Svatý Václav",
-      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
+      "name": "13,7° Hacker Pschorr",
+      "description": "6% alc. piv. Hacker-Pschorr, Mnichov, Festbier Marzen"
+    },
+    {
+      "name": "13,7° Hofbrau",
+      "description": "6,3% alc. piv. Staatliches Hofbrauhaus, Mnichov, Festbier Hell"
+    },
+    {
+      "name": "13,7° Lowenbrau",
+      "description": "6,1% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Hell"
+    },
+    {
+      "name": "13,7° Paulaner",
+      "description": "6% alc. piv. Paulaner, Mnichov, Festbier Hell"
+    },
+    {
+      "name": "13,7° Spaten",
+      "description": "5,9% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Ur-Marzen"
     },
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "14° No Idols! West Coast",
-      "description": "6,1% alc. piv. Clock, Potštejn, Gluten Reduced West Coast IPA"
-    },
-    {
-      "name": "14° Timeless",
-      "description": "5,6% alc. piv. Sibeeria, Praha, Oak Aged Pale Lager"
     }
   ]
 }
