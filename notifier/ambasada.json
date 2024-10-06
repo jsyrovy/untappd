@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° One Farmer",
+      "description": "5,7% alc. piv. Sibeeria, Praha, Fresh Hop Farmhouse Ale"
+    },
+    {
       "name": "12° Franziskaner",
       "description": "5% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, German Hefeweizen"
     },
