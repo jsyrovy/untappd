@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Hazy Lazy",
+      "description": "4% alc. piv. Louka, Session New England IPA"
+    },
+    {
       "name": "11° One Farmer",
       "description": "5,7% alc. piv. Sibeeria, Praha, Fresh Hop Farmhouse Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "13,7° Lowenbrau",
       "description": "6,1% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Hell"
-    },
-    {
-      "name": "13,7° Spaten",
-      "description": "5,9% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Marzen"
     },
     {
       "name": "15° Elektra",
