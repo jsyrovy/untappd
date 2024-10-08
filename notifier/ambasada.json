@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° 300 Kurven",
+      "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
+    },
+    {
       "name": "11° Adaptér",
       "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, APA"
     },
@@ -11,10 +15,6 @@
     {
       "name": "12° Franziskaner",
       "description": "5% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, German Hefeweizen"
-    },
-    {
-      "name": "13,7° Hacker Pschorr",
-      "description": "6% alc. piv. Hacker-Pschorr, Mnichov, Festbier Marzen"
     },
     {
       "name": "13,7° Hofbrau",
