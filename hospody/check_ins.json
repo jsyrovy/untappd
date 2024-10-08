@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1423727094,
+      "dt": "2024-10-07T22:14:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Farmer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-farmer/6003724"
+    },
+    {
+      "id": 1423711492,
+      "dt": "2024-10-07T20:52:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hofbräu Oktoberfestbier",
+      "brewery": "Staatliches Hofbräuhaus München",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/staatliches-hofbrauhaus-munchen-hofbrau-oktoberfestbier/40139"
+    },
+    {
+      "id": 1423708443,
+      "dt": "2024-10-07T20:37:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hazy Lazy",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-hazy-lazy/5352539"
+    },
+    {
+      "id": 1423707919,
+      "dt": "2024-10-07T20:34:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Märzen",
+      "brewery": "Hacker-Pschorr",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hacker-pschorr-oktoberfest-marzen/1827"
+    },
+    {
       "id": 1423509376,
       "dt": "2024-10-06T20:18:09+02:00",
       "venue_name": "Pivní ambasáda",
