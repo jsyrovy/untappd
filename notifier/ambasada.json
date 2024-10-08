@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Hazy Lazy",
-      "description": "4% alc. piv. Louka, Session New England IPA"
+      "name": "11° Adaptér",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, APA"
     },
     {
       "name": "11° One Farmer",
@@ -27,6 +27,10 @@
     {
       "name": "15° Elektra",
       "description": "6,5% alc. piv. Volt, Jablonec nad Nisou, Višňové Gose"
+    },
+    {
+      "name": "15° The Barn Barney",
+      "description": "6,5% alc. piv. The Barn Beer Co., Druztová, NEIPA"
     }
   ]
 }
