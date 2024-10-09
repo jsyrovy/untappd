@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° 300 Kurven",
-      "description": "4,1% alc. piv. JungBerg, Hořice, Světlý Ležák"
-    },
-    {
       "name": "10° PetrAle",
       "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
     },
@@ -17,6 +13,10 @@
       "description": "5% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, German Hefeweizen"
     },
     {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
       "name": "12° Svatý Václav",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
@@ -27,10 +27,6 @@
     {
       "name": "13,7° Lowenbrau",
       "description": "6,1% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Hell"
-    },
-    {
-      "name": "15° The Barn Barney",
-      "description": "6,5% alc. piv. The Barn Beer Co., Druztová, NEIPA"
     }
   ]
 }
