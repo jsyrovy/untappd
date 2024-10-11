@@ -1403,6 +1403,7 @@ INSERT INTO "archive" VALUES(1421867855,'2024-09-30 20:01:24.000000','sejrik','S
 INSERT INTO "archive" VALUES(1422003573,'2024-10-01 19:43:53.000000','sejrik','Hop Rider Session IPA','Privatbrauerei Eichbaum','Hiperdino');
 INSERT INTO "archive" VALUES(1422018418,'2024-10-01 20:57:42.000000','sejrik','Capitán','NAO Lanzarote','Hiperdino');
 INSERT INTO "archive" VALUES(1422184367,'2024-10-02 21:00:51.000000','sejrik','Hoppy Lager 2','NAO Lanzarote','Hiperdino');
+INSERT INTO "archive" VALUES(1424215727,'2024-10-10 19:58:41.000000','sejrik','San Miguel Premium Especial (5.4%)','Grupo Mahou-San Miguel','Hiperdino');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
