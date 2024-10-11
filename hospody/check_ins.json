@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1424242905,
+      "dt": "2024-10-10T23:29:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1424225637,
+      "dt": "2024-10-10T22:30:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1424225196,
+      "dt": "2024-10-10T22:28:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Farmer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-farmer/6003724"
+    },
+    {
+      "id": 1424213217,
+      "dt": "2024-10-10T21:51:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yuzu & Pineapple Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-yuzu-and-pineapple-gose/5882455"
+    },
+    {
+      "id": 1424211889,
+      "dt": "2024-10-10T21:47:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yuzu & Pineapple Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-yuzu-and-pineapple-gose/5882455"
+    },
+    {
+      "id": 1424209936,
+      "dt": "2024-10-10T21:41:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yuzu & Pineapple Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-yuzu-and-pineapple-gose/5882455"
+    },
+    {
+      "id": 1424209660,
+      "dt": "2024-10-10T21:40:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1424145623,
+      "dt": "2024-10-10T18:01:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Farmer",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-one-farmer/6003724"
+    },
+    {
+      "id": 1424144069,
+      "dt": "2024-10-10T17:53:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yuzu & Pineapple Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-yuzu-and-pineapple-gose/5882455"
+    },
+    {
+      "id": 1424140769,
+      "dt": "2024-10-10T17:34:08+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "I Love the Smell of Krush In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-krush-in-the-morning/6003718"
+    },
+    {
+      "id": 1424138652,
+      "dt": "2024-10-10T17:20:07+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cetus 11°",
+      "brewery": "černý potoka",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/cerny-potoka-cetus-110/5980395"
+    },
+    {
+      "id": 1424137730,
+      "dt": "2024-10-10T17:13:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Farmer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-farmer/6003724"
+    },
+    {
       "id": 1424063559,
       "dt": "2024-10-10T01:04:03+02:00",
       "venue_name": "Pivní ambasáda",
