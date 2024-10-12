@@ -1,6 +1,186 @@
 {
   "check_ins": [
     {
+      "id": 1424626404,
+      "dt": "2024-10-12T00:37:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Blueberry, Raspberry, Chocolate & Maple Syrup",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-blueberry-raspberry-chocolate-and-maple-syrup/4597701"
+    },
+    {
+      "id": 1424626089,
+      "dt": "2024-10-12T00:37:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pompano",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-pompano/2597089"
+    },
+    {
+      "id": 1424618601,
+      "dt": "2024-10-12T00:21:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pompano",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-pompano/2597089"
+    },
+    {
+      "id": 1424568109,
+      "dt": "2024-10-11T22:47:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pompano",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-pompano/2597089"
+    },
+    {
+      "id": 1424567175,
+      "dt": "2024-10-11T22:45:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pompano",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-pompano/2597089"
+    },
+    {
+      "id": 1424563397,
+      "dt": "2024-10-11T22:39:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "James Cook IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-james-cook-ipa/739233"
+    },
+    {
+      "id": 1424562180,
+      "dt": "2024-10-11T22:37:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "James Cook IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-james-cook-ipa/739233"
+    },
+    {
+      "id": 1424549092,
+      "dt": "2024-10-11T22:15:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Are Made of Barbe Rouge, Talus And Nelson Sauvin",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-barbe-rouge-talus-and-nelson-sauvin/5979963"
+    },
+    {
+      "id": 1424546854,
+      "dt": "2024-10-11T22:12:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Just 3 Fingers",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-just-3-fingers/6004067"
+    },
+    {
+      "id": 1424533551,
+      "dt": "2024-10-11T21:52:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sweet Dreams Are Made of Barbe Rouge, Talus And Nelson Sauvin",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-sweet-dreams-are-made-of-barbe-rouge-talus-and-nelson-sauvin/5979963"
+    },
+    {
+      "id": 1424524534,
+      "dt": "2024-10-11T21:39:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1424506454,
+      "dt": "2024-10-11T21:13:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Löwenbräu Oktoberfestbier",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-oktoberfestbier/65549"
+    },
+    {
+      "id": 1424474537,
+      "dt": "2024-10-11T20:26:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Just 3 Fingers",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-just-3-fingers/6004067"
+    },
+    {
+      "id": 1424461548,
+      "dt": "2024-10-11T20:06:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PUFFY / Fruit NEIPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-puffy-fruit-neipa/5952323"
+    },
+    {
+      "id": 1424458363,
+      "dt": "2024-10-11T20:00:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1424438871,
+      "dt": "2024-10-11T19:26:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PUFFY / Fruit NEIPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-puffy-fruit-neipa/5952323"
+    },
+    {
+      "id": 1424423151,
+      "dt": "2024-10-11T18:57:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vik Pretzel Kölsch",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-vik-pretzel-kolsch/6013283"
+    },
+    {
+      "id": 1424392794,
+      "dt": "2024-10-11T17:49:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vik Pretzel Kölsch",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-vik-pretzel-kolsch/6013283"
+    },
+    {
+      "id": 1424375701,
+      "dt": "2024-10-11T16:54:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1424369894,
+      "dt": "2024-10-11T16:30:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yuzu & Pineapple Gose",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-yuzu-and-pineapple-gose/5882455"
+    },
+    {
       "id": 1424242905,
       "dt": "2024-10-10T23:29:55+02:00",
       "venue_name": "Pivní ambasáda",
