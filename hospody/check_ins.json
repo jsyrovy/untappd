@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1425614523,
+      "dt": "2024-10-14T20:59:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samotář 13 (single Hop) Aloha",
+      "brewery": "Pivovar U Vojtěchů",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-u-vojtechu-samotar-13-single-hop-aloha/5992493"
+    },
+    {
+      "id": 1425613023,
+      "dt": "2024-10-14T20:53:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Wagner Weisse",
+      "brewery": "Brauerei Wagner Merkendorf",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-wagner-merkendorf-wagner-weisse/170390"
+    },
+    {
+      "id": 1425608566,
+      "dt": "2024-10-14T20:35:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Löwenbräu Oktoberfestbier",
+      "brewery": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/spaten-franziskaner-lowenbrau-gruppe-lowenbrau-oktoberfestbier/65549"
+    },
+    {
+      "id": 1425583745,
+      "dt": "2024-10-14T18:35:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Farmer",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-farmer/6003724"
+    },
+    {
+      "id": 1425572770,
+      "dt": "2024-10-14T17:15:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pretty - Banana & White Guava",
+      "brewery": "Magic Road",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/magic-road-pretty-banana-and-white-guava/5918394"
+    },
+    {
       "id": 1425441884,
       "dt": "2024-10-13T22:19:54+02:00",
       "venue_name": "Pivní ambasáda",
