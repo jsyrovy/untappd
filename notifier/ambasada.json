@@ -25,12 +25,12 @@
       "description": "5,3% alc. piv. Wagner, Merkendorf, Horní Franky, German Hefeweizen"
     },
     {
-      "name": "13 Samotář \"Aloha\"",
-      "description": "5,4% alc. piv. U Vojtěchů, Pardubice, Single Hop Ale"
-    },
-    {
       "name": "14° Chateau Drakula",
       "description": "8% alc. piv. Agent, Olešnice, Red Brut IPA Fruity"
+    },
+    {
+      "name": "14° IPA Valášek",
+      "description": "5,8% alc. piv. Valášek, Vsetín, IPA"
     }
   ]
 }
