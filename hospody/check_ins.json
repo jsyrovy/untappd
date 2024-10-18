@@ -1,6 +1,132 @@
 {
   "check_ins": [
     {
+      "id": 1426210584,
+      "dt": "2024-10-18T02:49:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session NEIPA 12° (Talus & Galaxy & Azaca)",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-session-neipa-120-talus-and-galaxy-and-azaca/4375544"
+    },
+    {
+      "id": 1426210414,
+      "dt": "2024-10-18T02:48:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tapawera",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-tapawera/4486680"
+    },
+    {
+      "id": 1426205964,
+      "dt": "2024-10-18T02:28:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Lavender Gose 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-lavender-gose-12/5986757"
+    },
+    {
+      "id": 1426181297,
+      "dt": "2024-10-18T00:51:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Open Craft 2024",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-open-craft-2024/5938346"
+    },
+    {
+      "id": 1426117270,
+      "dt": "2024-10-17T21:14:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Breakfast #004",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-fresh-breakfast-004/5643488"
+    },
+    {
+      "id": 1426117071,
+      "dt": "2024-10-17T21:13:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babí léto 11°",
+      "brewery": "Křikloun",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krikloun-babi-leto-110/3473881"
+    },
+    {
+      "id": 1426116963,
+      "dt": "2024-10-17T21:13:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Babí léto 11°",
+      "brewery": "Křikloun",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krikloun-babi-leto-110/3473881"
+    },
+    {
+      "id": 1426111488,
+      "dt": "2024-10-17T20:57:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Breakfast #004",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-fresh-breakfast-004/5643488"
+    },
+    {
+      "id": 1426074723,
+      "dt": "2024-10-17T19:03:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Breakfast #004",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-fresh-breakfast-004/5643488"
+    },
+    {
+      "id": 1426053168,
+      "dt": "2024-10-17T17:31:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tapawera",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-tapawera/4486680"
+    },
+    {
+      "id": 1426022131,
+      "dt": "2024-10-17T09:08:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pretty - Banana & White Guava",
+      "brewery": "Magic Road",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/magic-road-pretty-banana-and-white-guava/5918394"
+    },
+    {
+      "id": 1426022091,
+      "dt": "2024-10-17T09:07:22+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1426022072,
+      "dt": "2024-10-17T09:06:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "JunOtter",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-junotter/5990236"
+    },
+    {
+      "id": 1426022052,
+      "dt": "2024-10-17T09:05:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Smash APA 12° - Krush",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-smash-apa-120-krush/6005857"
+    },
+    {
       "id": 1425973625,
       "dt": "2024-10-17T00:48:14+02:00",
       "venue_name": "U Toulavé pípy",
