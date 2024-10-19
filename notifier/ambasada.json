@@ -5,16 +5,12 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Sea Buckthorn Sorbet",
-      "description": "4,4% alc. piv. Sibeeria, Praha, Sour Ale w/ Sea Buckthorn & Mango"
-    },
-    {
-      "name": "12° Beskydská Dvanáctka",
-      "description": "5,2% alc. Beskýdský Pivovárek, Ale"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Výtržník",
+      "description": "4,8% alc. piv. Valášek, Vsetín, NEIPA"
     },
     {
       "name": "13° Pšeničné",
@@ -31,6 +27,10 @@
     {
       "name": "15° High Five",
       "description": "6,6% alc. piv. Antoš, Slané, DDH NEIPA"
+    },
+    {
+      "name": "17° Tapawera",
+      "description": "7,1% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
