@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1427359442,
+      "dt": "2024-10-20T22:31:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Camp",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-summer-camp/5919979"
+    },
+    {
+      "id": 1427314942,
+      "dt": "2024-10-20T20:48:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tapawera",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-tapawera/4486680"
+    },
+    {
+      "id": 1427308667,
+      "dt": "2024-10-20T20:34:45+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Camp",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-summer-camp/5919979"
+    },
+    {
+      "id": 1427225155,
+      "dt": "2024-10-20T16:51:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Prof! Lager",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-prof-lager/5991311"
+    },
+    {
       "id": 1426732400,
       "dt": "2024-10-19T16:59:21+02:00",
       "venue_name": "U Toulavé pípy",
