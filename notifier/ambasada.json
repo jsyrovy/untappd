@@ -17,20 +17,16 @@
       "description": "5,6% alc. piv. Kynšperský Zajíc, Weizen"
     },
     {
+      "name": "14° Brustok Beerberry",
+      "description": "5,4% alc. piv. Crazy Clown, Praha, Imperial Gose s angreštem, pomerančem, zázvorem a koriandrem"
+    },
+    {
       "name": "14° Chateau Drakula",
       "description": "8% alc. piv. Agent, Olešnice, Red Brut IPA Fruity"
     },
     {
-      "name": "14° Fresh Breakfast 004",
-      "description": "5,8% alc. piv. Louka, Pastry Sour Ale (Borůvka, Švestka, Ostružina)"
-    },
-    {
       "name": "15° High Five",
       "description": "6,6% alc. piv. Antoš, Slané, DDH NEIPA"
-    },
-    {
-      "name": "17° Tapawera",
-      "description": "7,1% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
