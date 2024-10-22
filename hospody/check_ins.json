@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1427515386,
+      "dt": "2024-10-21T21:29:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Breakfast #004",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-fresh-breakfast-004/5643488"
+    },
+    {
+      "id": 1427501114,
+      "dt": "2024-10-21T20:18:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "High Five",
+      "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-high-five/5721114"
+    },
+    {
+      "id": 1427500263,
+      "dt": "2024-10-21T20:14:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tapawera",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-tapawera/4486680"
+    },
+    {
+      "id": 1427490478,
+      "dt": "2024-10-21T19:22:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "David: Triple Gelato: Papaya, White Guava & Mango",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-david-triple-gelato-papaya-white-guava-and-mango/5827375"
+    },
+    {
       "id": 1427359442,
       "dt": "2024-10-20T22:31:23+02:00",
       "venue_name": "Pivní ambasáda",
