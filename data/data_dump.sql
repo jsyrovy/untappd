@@ -1418,6 +1418,7 @@ INSERT INTO "archive" VALUES(1426036716,'2024-10-17 12:58:27.000000','sejrik','L
 INSERT INTO "archive" VALUES(1426137581,'2024-10-17 20:13:56.000000','sejrik','Amstel Oro','Heineken España','Hiperdino');
 INSERT INTO "archive" VALUES(1426427841,'2024-10-18 19:23:45.000000','sejrik','Cerveza La Sal','Janubio','Hiperdino');
 INSERT INTO "archive" VALUES(1426484476,'2024-10-18 20:53:22.000000','sejrik','Chiasss','Malpeis Cerveza Artesana','Hiperdino');
+INSERT INTO "archive" VALUES(1427533196,'2024-10-21 21:10:01.000000','sejrik','Voll-Damm','Damm','Hiperdino');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
