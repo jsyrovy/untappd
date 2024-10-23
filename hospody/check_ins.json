@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1427698485,
+      "dt": "2024-10-23T00:47:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kulajda Gose 12",
+      "brewery": "Pivo Václav",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivo-vaclav-kulajda-gose-12/5541640"
+    },
+    {
       "id": 1427515386,
       "dt": "2024-10-21T21:29:10+02:00",
       "venue_name": "Pivní ambasáda",
