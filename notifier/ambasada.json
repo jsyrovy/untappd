@@ -21,12 +21,16 @@
       "description": "5,4% alc. piv. Crazy Clown, Praha, Imperial Gose s angreštem, pomerančem, zázvorem a koriandrem"
     },
     {
-      "name": "15° High Five",
-      "description": "6,6% alc. piv. Antoš, Slané, DDH NEIPA"
+      "name": "15° New Dog on the Hop: Crush",
+      "description": "6,2% alc. piv. HoppyDog, Ostrava, NEIPA"
     },
     {
       "name": "16° Gothard",
       "description": "6,5% alc. piv. JungBerg, Hořice, Amber Strong Lager"
+    },
+    {
+      "name": "18° Gelato Mango Sticky Rice",
+      "description": "5,5% alc. piv. Funky Fluid, Varšava, Ice Cream Sour Ale, 0,25l"
     }
   ]
 }
