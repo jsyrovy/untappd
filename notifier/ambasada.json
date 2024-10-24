@@ -9,16 +9,12 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Hopfenweizen",
+      "description": "5,2% alc. piv. Weiherer, Bavorsko, German Hopfenweizen"
     },
     {
       "name": "13° Fresh Hop Tango-Fieber",
       "description": "5,5% alc. piv. Sibeeria, Praha, Fresh Hop Pale Ale"
-    },
-    {
-      "name": "13° Pšeničné",
-      "description": "5,6% alc. piv. Kynšperský Zajíc, Weizen"
     },
     {
       "name": "14° Brustok Beerberry",
@@ -31,6 +27,10 @@
     {
       "name": "15° High Five",
       "description": "6,6% alc. piv. Antoš, Slané, DDH NEIPA"
+    },
+    {
+      "name": "16° Gothard",
+      "description": "6,5% alc. piv. JungBerg, Hořice, Amber Strong Lager"
     }
   ]
 }
