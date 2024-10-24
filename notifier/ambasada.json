@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Fresh APA",
-      "description": "4,5% alc. piv. Vik, Praha, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Session Trip",
+      "description": "4,7% alc. piv. Vik, Praha, Session IPA"
     },
     {
       "name": "12° Hopfenweizen",
@@ -19,10 +19,6 @@
     {
       "name": "14° Brustok Beerberry",
       "description": "5,4% alc. piv. Crazy Clown, Praha, Imperial Gose s angreštem, pomerančem, zázvorem a koriandrem"
-    },
-    {
-      "name": "14° Chateau Drakula",
-      "description": "8% alc. piv. Agent, Olešnice, Red Brut IPA Fruity"
     },
     {
       "name": "15° High Five",
