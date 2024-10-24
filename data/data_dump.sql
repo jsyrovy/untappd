@@ -1421,6 +1421,7 @@ INSERT INTO "archive" VALUES(1426484476,'2024-10-18 20:53:22.000000','sejrik','C
 INSERT INTO "archive" VALUES(1427533196,'2024-10-21 21:10:01.000000','sejrik','Voll-Damm','Damm','Hiperdino');
 INSERT INTO "archive" VALUES(1427641355,'2024-10-22 18:16:53.000000','sejrik','Nuestra Ipa','Galotia Brewing','Rosco’s beer house');
 INSERT INTO "archive" VALUES(1427649196,'2024-10-22 18:50:27.000000','sejrik','Cherry Chouffe','Brasserie d''Achouffe','Rosco’s beer house');
+INSERT INTO "archive" VALUES(1427821251,'2024-10-23 19:25:08.000000','sejrik','IPA Series No. 1','Vagamundo Craft Beers','Hiperdino');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
