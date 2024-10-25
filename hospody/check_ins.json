@@ -1,6 +1,150 @@
 {
   "check_ins": [
     {
+      "id": 1428023351,
+      "dt": "2024-10-24T22:07:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brústok.BeerBerry 14°",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-beerberry-140/5624398"
+    },
+    {
+      "id": 1428022754,
+      "dt": "2024-10-24T22:05:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Mango Sticky Rice",
+      "brewery": "Funky Fluid",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-mango-sticky-rice/5411042"
+    },
+    {
+      "id": 1428019933,
+      "dt": "2024-10-24T21:57:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New England IPA 13 (Podzim)",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-new-england-ipa-13-podzim/5046833"
+    },
+    {
+      "id": 1428018098,
+      "dt": "2024-10-24T21:51:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pumpkin Ale",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-pumpkin-ale/847202"
+    },
+    {
+      "id": 1428016969,
+      "dt": "2024-10-24T21:47:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brústok.BeerBerry 14°",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-brustok-beerberry-140/5624398"
+    },
+    {
+      "id": 1428013618,
+      "dt": "2024-10-24T21:36:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gothard",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-gothard/2462199"
+    },
+    {
+      "id": 1428010447,
+      "dt": "2024-10-24T21:27:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SESSION TRIP #1 / Kveik Yest Blend IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-session-trip-1-kveik-yest-blend-ipa/5952334"
+    },
+    {
+      "id": 1427964584,
+      "dt": "2024-10-24T18:58:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weiherer Hopfenweizen",
+      "brewery": "Brauerei Kundmüller",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-kundmuller-weiherer-hopfenweizen/3480392"
+    },
+    {
+      "id": 1427957761,
+      "dt": "2024-10-24T18:31:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gothard",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-gothard/2462199"
+    },
+    {
+      "id": 1427951545,
+      "dt": "2024-10-24T18:04:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pšeničné Pivo",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-psenicne-pivo/3984035"
+    },
+    {
+      "id": 1427947882,
+      "dt": "2024-10-24T17:45:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "FRESH / America Pale Ale",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-fresh-america-pale-ale/5194791"
+    },
+    {
+      "id": 1427947554,
+      "dt": "2024-10-24T17:43:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Hop Tango-Fieber",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-fresh-hop-tango-fieber/6017106"
+    },
+    {
+      "id": 1427947340,
+      "dt": "2024-10-24T17:42:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PRETZEL KÖLSCH",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pretzel-kolsch/6013283"
+    },
+    {
+      "id": 1427919155,
+      "dt": "2024-10-24T11:53:57+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Orion θ",
+      "brewery": "černý potoka",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/cerny-potoka-orion-8/5996987"
+    },
+    {
+      "id": 1427916000,
+      "dt": "2024-10-24T10:04:39+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Silky / Milᶠky",
+      "brewery": "MadCat",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/madcat-silky-mil-ky/5999259"
+    },
+    {
+      "id": 1427915972,
+      "dt": "2024-10-24T10:03:23+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Prof! Lager",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-prof-lager/5991311"
+    },
+    {
       "id": 1427812619,
       "dt": "2024-10-23T20:53:16+02:00",
       "venue_name": "Pivní ambasáda",
@@ -51,6 +195,15 @@
       "venue_name": "Pivní ambasáda",
       "beer_name": "High Five",
       "brewery": "Pivovar Antoš ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-high-five/5721114"
+    },
+    {
+      "id": 1427501114,
+      "dt": "2024-10-21T20:18:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "High Five",
+      "brewery": "Pivovar Antoš  ",
       "serving": "Čepované",
       "beer_link": "https://untappd.com/b/pivovar-antos-high-five/5721114"
     },
