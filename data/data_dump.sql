@@ -1422,6 +1422,11 @@ INSERT INTO "archive" VALUES(1427533196,'2024-10-21 21:10:01.000000','sejrik','V
 INSERT INTO "archive" VALUES(1427641355,'2024-10-22 18:16:53.000000','sejrik','Nuestra Ipa','Galotia Brewing','Rosco’s beer house');
 INSERT INTO "archive" VALUES(1427649196,'2024-10-22 18:50:27.000000','sejrik','Cherry Chouffe','Brasserie d''Achouffe','Rosco’s beer house');
 INSERT INTO "archive" VALUES(1427821251,'2024-10-23 19:25:08.000000','sejrik','IPA Series No. 1','Vagamundo Craft Beers','Hiperdino');
+INSERT INTO "archive" VALUES(1428211958,'2024-10-25 16:43:59.000000','sejrik','Kynšperský Zajíc 10° světlé výčepní','Kynšperský pivovar','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1428223664,'2024-10-25 17:08:46.000000','sejrik','Pumpkin Time 13','Rodinný pivovar Zichovec','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1428240518,'2024-10-25 17:41:20.000000','sejrik','Idaholic','Pivovar Raven','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1428287660,'2024-10-25 19:01:09.000000','sejrik','Turbo Farmer','Pivovar Mazák',NULL);
+INSERT INTO "archive" VALUES(1428320222,'2024-10-25 19:52:06.000000','sejrik','Red Eagle','Pivovar Mordýř','U Toulavé pípy');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
