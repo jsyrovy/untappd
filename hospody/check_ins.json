@@ -1,6 +1,177 @@
 {
   "check_ins": [
     {
+      "id": 1428400062,
+      "dt": "2024-10-26T00:20:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Just Three Fingers",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-just-three-fingers/6021317"
+    },
+    {
+      "id": 1428399108,
+      "dt": "2024-10-26T00:17:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Hop Ale Most",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-fresh-hop-ale-most/3991928"
+    },
+    {
+      "id": 1428398046,
+      "dt": "2024-10-26T00:15:32+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pumpkin Ale",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-pumpkin-ale/847202"
+    },
+    {
+      "id": 1428393541,
+      "dt": "2024-10-26T00:05:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Camp",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-summer-camp/5919979"
+    },
+    {
+      "id": 1428390452,
+      "dt": "2024-10-25T23:59:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PRETZEL KÖLSCH",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pretzel-kolsch/6013283"
+    },
+    {
+      "id": 1428389430,
+      "dt": "2024-10-25T23:57:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gothard",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-gothard/2462199"
+    },
+    {
+      "id": 1428388309,
+      "dt": "2024-10-25T23:55:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Freya's Arch",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-freya-s-arch/6023060"
+    },
+    {
+      "id": 1428320222,
+      "dt": "2024-10-25T21:52:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Red Eagle",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-red-eagle/1625534"
+    },
+    {
+      "id": 1428300706,
+      "dt": "2024-10-25T21:21:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SESSION TRIP #1 / Kveik Yest Blend IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-session-trip-1-kveik-yest-blend-ipa/5952334"
+    },
+    {
+      "id": 1428294869,
+      "dt": "2024-10-25T21:12:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Misty Skywalker",
+      "brewery": "MadCat",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/madcat-misty-skywalker/4468663"
+    },
+    {
+      "id": 1428240518,
+      "dt": "2024-10-25T19:41:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Idaholic",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-idaholic/5979152"
+    },
+    {
+      "id": 1428223664,
+      "dt": "2024-10-25T19:08:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pumpkin Time 13",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-pumpkin-time-13/6004862"
+    },
+    {
+      "id": 1428222979,
+      "dt": "2024-10-25T19:07:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pumpkin Time 13",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-pumpkin-time-13/6004862"
+    },
+    {
+      "id": 1428211958,
+      "dt": "2024-10-25T18:43:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 10° světlé výčepní",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-100-svetle-vycepni/815388"
+    },
+    {
+      "id": 1428207776,
+      "dt": "2024-10-25T18:34:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Podzimní IPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-podzimni-ipa/4539128"
+    },
+    {
+      "id": 1428177148,
+      "dt": "2024-10-25T17:13:33+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Krush+Citra",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-krush-citra/5996099"
+    },
+    {
+      "id": 1428170303,
+      "dt": "2024-10-25T16:48:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SESSION TRIP #1 / Kveik Yest Blend IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-session-trip-1-kveik-yest-blend-ipa/5952334"
+    },
+    {
+      "id": 1428166363,
+      "dt": "2024-10-25T16:30:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Mango Sticky Rice",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-mango-sticky-rice/5411042"
+    },
+    {
+      "id": 1428131582,
+      "dt": "2024-10-25T11:11:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Mango Sticky Rice",
+      "brewery": "Funky Fluid",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-mango-sticky-rice/5411042"
+    },
+    {
       "id": 1428023351,
       "dt": "2024-10-24T22:07:50+02:00",
       "venue_name": "Pivní ambasáda",
