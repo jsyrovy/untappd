@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1428635608,
+      "dt": "2024-10-26T18:13:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Krush+Citra",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-krush-citra/5996099"
+    },
+    {
+      "id": 1428603554,
+      "dt": "2024-10-26T17:11:15+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Turbo Farmer",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-turbo-farmer/4715903"
+    },
+    {
+      "id": 1428598875,
+      "dt": "2024-10-26T17:00:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SESSION TRIP #1 / Kveik Yest Blend IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-session-trip-1-kveik-yest-blend-ipa/5952334"
+    },
+    {
+      "id": 1428593784,
+      "dt": "2024-10-26T16:49:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pumpkin Time 13",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-pumpkin-time-13/6004862"
+    },
+    {
       "id": 1428400062,
       "dt": "2024-10-26T00:20:02+02:00",
       "venue_name": "Pivní ambasáda",
