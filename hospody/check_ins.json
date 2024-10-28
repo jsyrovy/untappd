@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1429200091,
+      "dt": "2024-10-27T21:43:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cristiano: Gelato: Poncha",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-cristiano-gelato-poncha/5829398"
+    },
+    {
+      "id": 1429200003,
+      "dt": "2024-10-27T21:43:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Cristiano: Gelato: Poncha",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-cristiano-gelato-poncha/5829398"
+    },
+    {
+      "id": 1429196503,
+      "dt": "2024-10-27T21:35:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunshine",
+      "brewery": "Pivovar Matuška",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-sunshine/4685934"
+    },
+    {
+      "id": 1429185277,
+      "dt": "2024-10-27T21:08:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Castle Party 2024",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-castle-party-2024/5830620"
+    },
+    {
+      "id": 1429179227,
+      "dt": "2024-10-27T20:54:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Castle Party 2024",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-castle-party-2024/5830620"
+    },
+    {
+      "id": 1429160032,
+      "dt": "2024-10-27T20:10:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Joe In the Garden – Fruit Edition (Sour Cherry, Lime, Salt)",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-joe-in-the-garden-fruit-edition-sour-cherry-lime-salt/3977242"
+    },
+    {
+      "id": 1429155144,
+      "dt": "2024-10-27T19:59:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Do Brasil",
+      "brewery": "MadCat",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/madcat-do-brasil/5969163"
+    },
+    {
       "id": 1428635608,
       "dt": "2024-10-26T18:13:09+02:00",
       "venue_name": "Pivní ambasáda",
