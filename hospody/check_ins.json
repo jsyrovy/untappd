@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1429340579,
+      "dt": "2024-10-28T19:55:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Growler Sour Ale: Raspberry, Lingonberry, Chocolate & Mint",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-growler-sour-ale-raspberry-lingonberry-chocolate-and-mint/5315032"
+    },
+    {
+      "id": 1429312381,
+      "dt": "2024-10-28T16:58:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Passion Fruit, Mango & Peach",
+      "brewery": "Funky Fluid",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-passion-fruit-mango-and-peach/4088544"
+    },
+    {
+      "id": 1429312125,
+      "dt": "2024-10-28T16:56:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Krush+Citra",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-krush-citra/5996099"
+    },
+    {
+      "id": 1429309893,
+      "dt": "2024-10-28T16:33:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Freya's Arch",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-freya-s-arch/6023060"
+    },
+    {
+      "id": 1429308050,
+      "dt": "2024-10-28T16:09:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gothard",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-gothard/2462199"
+    },
+    {
+      "id": 1429292437,
+      "dt": "2024-10-28T11:23:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Mango Sticky Rice",
+      "brewery": "Funky Fluid",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-mango-sticky-rice/5411042"
+    },
+    {
+      "id": 1429292379,
+      "dt": "2024-10-28T11:21:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Krush+Citra",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-krush-citra/5996099"
+    },
+    {
       "id": 1429200091,
       "dt": "2024-10-27T21:43:55+01:00",
       "venue_name": "Pivní ambasáda",
