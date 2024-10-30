@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1429511927,
+      "dt": "2024-10-29T22:35:14+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Freya's Arch",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-freya-s-arch/6023060"
+    },
+    {
       "id": 1429340579,
       "dt": "2024-10-28T19:55:18+01:00",
       "venue_name": "Pivní ambasáda",
