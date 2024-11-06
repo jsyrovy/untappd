@@ -5,10 +5,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Growler Sour Ale",
-      "description": "4,2% alc. piv. Sibeeria/Beer Station, Sour Ale: Raspberry, Lingonberry, Chocolate & Mint"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° West Coast IPA",
       "description": "6,6% alc. piv. Maisel & Friends, Bayreuth, West Coast IPA"
+    },
+    {
+      "name": "15° Grapefruit Lollihop",
+      "description": "6,6% alc. piv. Sibeeria, Praha, IPA w/ Grapefruit"
     },
     {
       "name": "18° Kasteel Rouge",
