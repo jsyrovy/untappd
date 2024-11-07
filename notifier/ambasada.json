@@ -9,16 +9,20 @@
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° Milionář",
-      "description": "4,9% alc. Přátelský Pivovar Malešov, Pale Ale"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Philadelphia Mango & Maracuja",
       "description": "3,8% alc. piv. Obora, Malšice, Fruit Sour Ale"
+    },
+    {
+      "name": "12° Sabro",
+      "description": "5,5% alc. piv. Loutkář, Chrudim, Single Hop Ale"
+    },
+    {
+      "name": "13° Kurtizána",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
     },
     {
       "name": "18° Hopnotic",
