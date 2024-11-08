@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1431645557,
+      "dt": "2024-11-07T23:29:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopnotic",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hopnotic/3124817"
+    },
+    {
+      "id": 1431645190,
+      "dt": "2024-11-07T23:27:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svatomartinsky-special/2380628"
+    },
+    {
+      "id": 1431645121,
+      "dt": "2024-11-07T23:27:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sabro 12 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-12-sabro-single-hop/4798619"
+    },
+    {
+      "id": 1431628371,
+      "dt": "2024-11-07T22:25:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopnotic",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hopnotic/3124817"
+    },
+    {
+      "id": 1431617953,
+      "dt": "2024-11-07T21:51:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatomartinský speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svatomartinsky-special/2380628"
+    },
+    {
+      "id": 1431544457,
+      "dt": "2024-11-07T16:57:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopnotic",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-hopnotic/3124817"
+    },
+    {
+      "id": 1431542249,
+      "dt": "2024-11-07T16:38:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1431540209,
+      "dt": "2024-11-07T16:17:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopnotic",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hopnotic/3124817"
+    },
+    {
       "id": 1431475522,
       "dt": "2024-11-07T00:35:55+01:00",
       "venue_name": "U Toulavé pípy",
