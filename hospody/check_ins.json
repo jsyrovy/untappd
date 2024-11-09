@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1431979523,
+      "dt": "2024-11-08T22:49:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Meow Beer",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-meow-beer/6025410"
+    },
+    {
+      "id": 1431966411,
+      "dt": "2024-11-08T22:26:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Meow Beer",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-meow-beer/6025410"
+    },
+    {
       "id": 1431645557,
       "dt": "2024-11-07T23:29:08+01:00",
       "venue_name": "Pivní ambasáda",
