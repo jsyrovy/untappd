@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1432689050,
+      "dt": "2024-11-10T13:30:14+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Erdbeer Porter",
+      "brewery": "Bergquell Brauerei Löbau",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bergquell-brauerei-lobau-erdbeer-porter/46157"
+    },
+    {
+      "id": 1432688943,
+      "dt": "2024-11-10T13:29:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Upside Down Cake",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-upside-down-cake/4116844"
+    },
+    {
       "id": 1432513128,
       "dt": "2024-11-09T23:03:42+01:00",
       "venue_name": "Pivní ambasáda",
