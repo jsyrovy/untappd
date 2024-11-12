@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Blonde",
+      "description": "4,5% alc. piv. Vik, Praha, American Blonde Ale"
     },
     {
-      "name": "12° Azacca",
-      "description": "4,9% alc. piv. Jungberg, Hořice, Single Hop Ale"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
