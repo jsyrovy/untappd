@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1432998897,
+      "dt": "2024-11-11T20:31:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Azacca SH Ale 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-azacca-sh-ale-12/6048669"
+    },
+    {
+      "id": 1432998440,
+      "dt": "2024-11-11T20:29:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hopnotic",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hopnotic/3124817"
+    },
+    {
+      "id": 1432966210,
+      "dt": "2024-11-11T17:01:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Azacca SH Ale 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-azacca-sh-ale-12/6048669"
+    },
+    {
       "id": 1432689050,
       "dt": "2024-11-10T13:30:14+01:00",
       "venue_name": "U Toulavé pípy",
