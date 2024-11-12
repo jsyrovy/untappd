@@ -1439,6 +1439,13 @@ INSERT INTO "archive" VALUES(1431617953,'2024-11-07 20:51:11.000000','sejrik','S
 INSERT INTO "archive" VALUES(1431628371,'2024-11-07 21:25:55.000000','sejrik','Hopnotic','Sibeeria','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1431645121,'2024-11-07 22:27:28.000000','sejrik','Sabro 12 Single Hop','Pivovar Loutkář','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1431867180,'2024-11-08 18:57:24.000000','sejrik','Březňák 11','Velké Březno','Nádražní pivnice Zámecká');
+INSERT INTO "archive" VALUES(1432964287,'2024-11-11 15:38:03.000000','sejrik','Výčepní 10%','Pivovarský dům Poupě','Pivovarský dům Poupě');
+INSERT INTO "archive" VALUES(1432967160,'2024-11-11 16:12:52.000000','sejrik','Poupětův Američan 11°','Pivovarský dům Poupě','Pivovarský dům Poupě');
+INSERT INTO "archive" VALUES(1432969820,'2024-11-11 16:38:05.000000','sejrik','West Coast IPA','Pivovarský dům Poupě','Pivovarský dům Poupě');
+INSERT INTO "archive" VALUES(1432972232,'2024-11-11 16:57:53.000000','sejrik','Poupětův Stout 12°','Pivovarský dům Poupě','Pivovarský dům Poupě');
+INSERT INTO "archive" VALUES(1432974971,'2024-11-11 17:18:14.000000','sejrik','Gose','Pivovarský dům Poupě','Pivovarský dům Poupě');
+INSERT INTO "archive" VALUES(1432978638,'2024-11-11 17:41:33.000000','sejrik','Dalešické májové 13%','Akciový pivovar Dalešice','Pivovarský dům Poupě');
+INSERT INTO "archive" VALUES(1432996498,'2024-11-11 19:19:51.000000','sejrik','Zababa','Pivovar Clock',NULL);
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
