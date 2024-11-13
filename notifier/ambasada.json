@@ -13,24 +13,24 @@
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
+      "name": "12° Ohmmm",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "14° Meow",
-      "description": "5,8% alc. piv. Crazy Clown, Praha, Sour Ale s Broskvemi, Yuzu a Ibiškem"
+      "name": "13° Heart to Heart to Heart",
+      "description": "6,5% alc. piv. Sibeeria/Demory/Moor, West Coast IPA"
+    },
+    {
+      "name": "13° Punk IPA",
+      "description": "5,4% alc. piv. BrewDog, Fraserburgh, Skotsko, IPA"
     },
     {
       "name": "14° Sabres of Paradise",
       "description": "5,7% alc. piv. Agent, Olešnice, New England IPA"
-    },
-    {
-      "name": "18° Hopnotic",
-      "description": "7,9% alc. piv. Sibeeria, Praha, DDH Double IPA"
-    },
-    {
-      "name": "18° Kasteel Rouge",
-      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
