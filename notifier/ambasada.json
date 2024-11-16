@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Blonde",
-      "description": "4,5% alc. piv. Vik, Praha, American Blonde Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Elektron",
+      "description": "5% alc. piv. Volt, Jablonec nad Nisou, New Zeland Pale Ale"
     },
     {
       "name": "12° Maisels Weisse",
