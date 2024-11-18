@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1434534827,
+      "dt": "2024-11-17T20:32:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oktoberfest Märzen / Original Oktoberfest (2024)",
+      "brewery": "Hacker-Pschorr",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/hacker-pschorr-oktoberfest-marzen-original-oktoberfest-2024/5942681"
+    },
+    {
+      "id": 1434526318,
+      "dt": "2024-11-17T20:11:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Autumn Tactics",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-autumn-tactics/2906506"
+    },
+    {
       "id": 1433786617,
       "dt": "2024-11-15T23:12:47+01:00",
       "venue_name": "Pivní ambasáda",
