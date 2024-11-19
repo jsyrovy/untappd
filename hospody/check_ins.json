@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1434716156,
+      "dt": "2024-11-18T22:11:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1434715962,
+      "dt": "2024-11-18T22:09:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr.Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/6049988"
+    },
+    {
       "id": 1434534827,
       "dt": "2024-11-17T20:32:17+01:00",
       "venue_name": "Pivní ambasáda",
