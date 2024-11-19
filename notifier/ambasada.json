@@ -9,6 +9,10 @@
       "description": "4,8% alc. piv. Crazy Clown, Praha, Rice APA"
     },
     {
+      "name": "12° Everyday Life",
+      "description": "5,1% alc. piv. Sibeeria, Praha, Czech Premium Pale Lager"
+    },
+    {
       "name": "12° Ohmmm",
       "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
     },
@@ -27,10 +31,6 @@
     {
       "name": "14° Pomona",
       "description": "5,6% alc. piv. Vik, Praha, Hazy Pale Ale"
-    },
-    {
-      "name": "15° Autumn Tactics",
-      "description": "6,4% alc. piv. Sibeeria, Praha, NEIPA"
     }
   ]
 }
