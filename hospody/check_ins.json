@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1434915866,
+      "dt": "2024-11-20T16:26:50+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kulajda Gose 12",
+      "brewery": "Pivo Václav",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivo-vaclav-kulajda-gose-12/5541640"
+    },
+    {
+      "id": 1434915746,
+      "dt": "2024-11-20T16:25:12+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Oblaka",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-oblaka/3976342"
+    },
+    {
+      "id": 1434914528,
+      "dt": "2024-11-20T16:06:22+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Flash",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-flash/2515817"
+    },
+    {
       "id": 1434801824,
       "dt": "2024-11-19T19:02:45+01:00",
       "venue_name": "Pivní ambasáda",
