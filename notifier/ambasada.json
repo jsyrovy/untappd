@@ -5,10 +5,6 @@
       "description": "4,8% alc. piv. Crazy Clown, Praha, Rice APA"
     },
     {
-      "name": "12° Everyday Life",
-      "description": "5,1% alc. piv. Sibeeria, Praha, Czech Premium Pale Lager"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -23,6 +19,10 @@
     {
       "name": "13,7° Hacker-Pschorr Oktoberfest",
       "description": "6% alc. piv. Hacker-Pschorr, Mnichov, Festbier Hell"
+    },
+    {
+      "name": "13° Coco",
+      "description": "4,7% alc. piv. Sibeeria, Praha, Porter w/ Coconut & Vanilla"
     },
     {
       "name": "13° Punk IPA",
