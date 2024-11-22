@@ -152,7 +152,7 @@ def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:  # pylint: disabl
         beer_name = links[1].text
         brewery = links[2].text
         serving_section = checkin_comment.find("p", class_="serving") if checkin_comment else None
-        serving = get_czech_serving(serving_section.find("span").text if serving_section else None)
+        serving = get_czech_serving(serving_section.find("span").text if serving_section else "")
         beer_link = f'{common.BASE_URL}{links[1]["href"]}'
 
         beers.append(CheckIn(id_, dt, venue.name, beer_name, brewery, serving, beer_link, venue.url))
