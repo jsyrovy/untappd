@@ -1,6 +1,213 @@
 {
   "check_ins": [
     {
+      "id": 1435165370,
+      "dt": "2024-11-21T23:44:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Punk IPA",
+      "brewery": "BrewDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brewdog-punk-ipa/5702"
+    },
+    {
+      "id": 1435159157,
+      "dt": "2024-11-21T23:17:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Coco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-coco/4146249"
+    },
+    {
+      "id": 1435156098,
+      "dt": "2024-11-21T23:04:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1435155770,
+      "dt": "2024-11-21T23:03:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1435154830,
+      "dt": "2024-11-21T22:59:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1435151924,
+      "dt": "2024-11-21T22:47:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1435147170,
+      "dt": "2024-11-21T22:28:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aussie",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-aussie/6038472"
+    },
+    {
+      "id": 1435141450,
+      "dt": "2024-11-21T22:07:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Coco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-coco/4146249"
+    },
+    {
+      "id": 1435139939,
+      "dt": "2024-11-21T22:01:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aussie",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-aussie/6038472"
+    },
+    {
+      "id": 1435137895,
+      "dt": "2024-11-21T21:54:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aussie",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-aussie/6038472"
+    },
+    {
+      "id": 1435137635,
+      "dt": "2024-11-21T21:53:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Fruit Ale",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-vanocni-fruit-ale/6057444"
+    },
+    {
+      "id": 1435135583,
+      "dt": "2024-11-21T21:46:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr. Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/6056436"
+    },
+    {
+      "id": 1435134318,
+      "dt": "2024-11-21T21:41:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aussie",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-aussie/6038472"
+    },
+    {
+      "id": 1435121205,
+      "dt": "2024-11-21T20:56:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1435089856,
+      "dt": "2024-11-21T18:54:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Coco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-coco/4146249"
+    },
+    {
+      "id": 1435082924,
+      "dt": "2024-11-21T18:21:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr. Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/5866998"
+    },
+    {
+      "id": 1435082513,
+      "dt": "2024-11-21T18:19:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Everyday Life",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-everyday-life/3563969"
+    },
+    {
+      "id": 1435082290,
+      "dt": "2024-11-21T18:18:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1435079653,
+      "dt": "2024-11-21T18:03:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dr. Feelgood",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-dr-feelgood/5866998"
+    },
+    {
+      "id": 1435071849,
+      "dt": "2024-11-21T17:09:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1435067490,
+      "dt": "2024-11-21T16:25:01+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Oblaka",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-oblaka/3976342"
+    },
+    {
+      "id": 1435067310,
+      "dt": "2024-11-21T16:22:50+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Misty Skywalker",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-misty-skywalker/4468663"
+    },
+    {
+      "id": 1435067108,
+      "dt": "2024-11-21T16:20:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Flash",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-flash/2515817"
+    },
+    {
       "id": 1434915866,
       "dt": "2024-11-20T16:26:50+01:00",
       "venue_name": "U Toulavé pípy",
