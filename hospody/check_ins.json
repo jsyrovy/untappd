@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1435512268,
+      "dt": "2024-11-23T01:26:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Coco",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-coco/4146249"
+    },
+    {
+      "id": 1435460983,
+      "dt": "2024-11-22T23:27:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Fruit Ale",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-vanocni-fruit-ale/6057444"
+    },
+    {
+      "id": 1435422087,
+      "dt": "2024-11-22T22:12:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HOPPY AUSSIE / APA",
+      "brewery": "Hopalaa",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hopalaa-hoppy-ausie-apa/4898786"
+    },
+    {
       "id": 1435165370,
       "dt": "2024-11-21T23:44:10+01:00",
       "venue_name": "Pivní ambasáda",
@@ -52,6 +79,15 @@
       "beer_name": "POMONA",
       "brewery": "Pivovar Vik",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
+    },
+    {
+      "id": 1435151924,
+      "dt": "2024-11-21T22:47:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "POMONA",
+      "brewery": "Pivovar Vik",
+      "serving": "",
       "beer_link": "https://untappd.com/b/pivovar-vik-pomona/6046300"
     },
     {
@@ -439,6 +475,15 @@
       "beer_name": "P.A.P.A",
       "brewery": "Pivovar Permon",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-permon-p-a-p-a/647780"
+    },
+    {
+      "id": 1433405690,
+      "dt": "2024-11-14T18:58:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "P.A.P.A",
+      "brewery": "Pivovar Permon",
+      "serving": "",
       "beer_link": "https://untappd.com/b/pivovar-permon-p-a-p-a/647780"
     },
     {
@@ -3382,6 +3427,15 @@
       "beer_name": "Kurtizána",
       "brewery": "Pivovar Mordýř",
       "serving": "Nezadáno",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1421031267,
+      "dt": "2024-09-28T11:36:35+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "",
       "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
     },
     {
