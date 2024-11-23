@@ -1450,6 +1450,9 @@ INSERT INTO "archive" VALUES(1433423861,'2024-11-14 19:09:21.000000','sejrik','S
 INSERT INTO "archive" VALUES(1435139939,'2024-11-21 21:01:38.000000','sejrik','Aussie','Pivovar HoppyDog','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1435151924,'2024-11-21 21:47:25.000000','sejrik','POMONA','Pivovar Vik','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1435159157,'2024-11-21 22:17:40.000000','sejrik','Coco','Sibeeria','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1435314005,'2024-11-22 17:56:53.000000','sejrik','Piękny Sen','Browar Za Miastem','Szklarska Poręba');
+INSERT INTO "archive" VALUES(1435346338,'2024-11-22 19:03:42.000000','sejrik','Salto Mortale','Browar Zakładowy','Szklarska Poręba');
+INSERT INTO "archive" VALUES(1435386166,'2024-11-22 20:12:12.000000','sejrik','Floccus Sour IPA','Browar Stu Mostów','Szklarska Poręba');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
