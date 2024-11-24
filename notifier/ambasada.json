@@ -5,10 +5,6 @@
       "description": "4,7% alc. piv. HoppyDog, Ostrava, Hazy APA"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
       "name": "12° Spasitel",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
@@ -21,16 +17,16 @@
       "description": "4,7% alc. piv. Sibeeria, Praha, Porter w/ Coconut & Vanilla"
     },
     {
+      "name": "13° Tekutý kapřík 2024",
+      "description": "5,4% alc. piv. Clock, Potštejn, Oak Aged Pilsner"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
       "name": "14° Twist",
       "description": "5,8% alc. piv. Clock, Potštejn, American Red IPA"
-    },
-    {
-      "name": "9° Les Peches",
-      "description": "4,4% alc. piv. JungBerg, Hořice, Fruit Sour Ale"
     }
   ]
 }
