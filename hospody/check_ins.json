@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1436122341,
+      "dt": "2024-11-24T18:14:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HOPPY AUSSIE / APA",
+      "brewery": "Hopalaa",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/hopalaa-hoppy-ausie-apa/4898786"
+    },
+    {
+      "id": 1436120825,
+      "dt": "2024-11-24T18:09:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý Kapřík (2024)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2024/6018417"
+    },
+    {
       "id": 1435752469,
       "dt": "2024-11-23T19:43:37+01:00",
       "venue_name": "U Toulavé pípy",
