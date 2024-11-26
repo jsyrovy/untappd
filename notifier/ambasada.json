@@ -1,16 +1,12 @@
 {
   "beers": [
     {
-      "name": "12° American Dream",
-      "description": "5% alc. piv. Duck & Dog, Rajhrad, Pale Ale"
+      "name": "11° Skotačivá Veverka",
+      "description": "4,2% alc. piv. Valášek, Vsetín, APA"
     },
     {
       "name": "13,7° Hacker-Pschorr Oktoberfest",
       "description": "6% alc. piv. Hacker-Pschorr, Mnichov, Festbier Hell"
-    },
-    {
-      "name": "13° Tekutý kapřík 2024",
-      "description": "5,4% alc. piv. Clock, Potštejn, Oak Aged Pilsner"
     },
     {
       "name": "14° Ename Rouge",
@@ -21,8 +17,8 @@
       "description": "6% alc. piv. Zichovec, Fruit Sour Ale"
     },
     {
-      "name": "14° Twist",
-      "description": "5,8% alc. piv. Clock, Potštejn, American Red IPA"
+      "name": "15° Zlatý prasátko 2024",
+      "description": "6,2% alc. piv. Clock, Potštejn, NEIPA"
     }
   ]
 }
