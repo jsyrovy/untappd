@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1436487836,
+      "dt": "2024-11-26T22:12:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Punč 14",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-punc-14/6049564"
+    },
+    {
+      "id": 1436484499,
+      "dt": "2024-11-26T21:57:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Duck & Dog American Dream",
+      "brewery": "Pivovar Beerserker",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-beerserker-american-dream/4419312"
+    },
+    {
+      "id": 1436447840,
+      "dt": "2024-11-26T18:56:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tekutý Kapřík (2024)",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-tekuty-kaprik-2024/6018417"
+    },
+    {
+      "id": 1436447745,
+      "dt": "2024-11-26T18:56:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Punč 14",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-punc-14/6049564"
+    },
+    {
+      "id": 1436432622,
+      "dt": "2024-11-26T16:53:27+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Rainbow of Death",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-rainbow-of-death/2852216"
+    },
+    {
+      "id": 1436431108,
+      "dt": "2024-11-26T16:33:05+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Queen IPA",
+      "brewery": "Pivovar Trilobit",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-trilobit-queen-ipa/3943585"
+    },
+    {
       "id": 1436387619,
       "dt": "2024-11-26T01:49:04+01:00",
       "venue_name": "U Toulavé pípy",
