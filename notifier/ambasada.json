@@ -25,12 +25,12 @@
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "14° Punč",
-      "description": "6% alc. piv. Zichovec, Fruit Sour Ale"
-    },
-    {
       "name": "15° New Year Milkshake",
       "description": "6,2% alc. piv. Agent, Olešnice, Milkshake New England IPA"
+    },
+    {
+      "name": "20° Mrkvový Dort",
+      "description": "6,8% alc. piv. Obora, Malšice, Fruit Pastry Sour Ale"
     }
   ]
 }
