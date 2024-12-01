@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1437589645,
+      "dt": "2024-11-30T18:58:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1437572892,
+      "dt": "2024-11-30T18:30:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pastry Sour - Carrot Cake - Mrkvový Dort",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-pastry-sour-carrot-cake-mrkvovy-dort/5730214"
+    },
+    {
+      "id": 1437571238,
+      "dt": "2024-11-30T18:28:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weizen",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-weizen/3497180"
+    },
+    {
+      "id": 1437555215,
+      "dt": "2024-11-30T17:59:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Weizen",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-weizen/3497180"
+    },
+    {
+      "id": 1437553183,
+      "dt": "2024-11-30T17:55:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zabaleno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zabaleno/6066556"
+    },
+    {
+      "id": 1437550116,
+      "dt": "2024-11-30T17:48:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zabaleno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zabaleno/6066556"
+    },
+    {
+      "id": 1437540628,
+      "dt": "2024-11-30T17:28:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zabaleno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zabaleno/6066556"
+    },
+    {
+      "id": 1437530462,
+      "dt": "2024-11-30T17:05:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Year Milkshake",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-new-year-milkshake/4619954"
+    },
+    {
+      "id": 1437527524,
+      "dt": "2024-11-30T16:58:44+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SEPIE",
+      "brewery": "Pioneer Beer",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pioneer-beer-sepie/6023898"
+    },
+    {
+      "id": 1437525453,
+      "dt": "2024-11-30T16:53:36+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SEPIE",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-sepie/6023898"
+    },
+    {
+      "id": 1437522844,
+      "dt": "2024-11-30T16:47:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mocnář",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar/540835"
+    },
+    {
+      "id": 1437518935,
+      "dt": "2024-11-30T16:36:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zabaleno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zabaleno/6066556"
+    },
+    {
       "id": 1437398021,
       "dt": "2024-11-30T02:18:35+01:00",
       "venue_name": "U Toulavé pípy",
