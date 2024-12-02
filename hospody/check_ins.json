@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1438001221,
+      "dt": "2024-12-01T19:20:31+01:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Vánoční Kometa 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-vanocni-kometa-17/6049570"
+    },
+    {
+      "id": 1438000247,
+      "dt": "2024-12-01T19:17:53+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SEPIE",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-sepie/6023898"
+    },
+    {
+      "id": 1437996831,
+      "dt": "2024-12-01T19:08:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1437978118,
+      "dt": "2024-12-01T18:12:27+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-juicy-lucy-15/2428666"
+    },
+    {
+      "id": 1437977374,
+      "dt": "2024-12-01T18:10:17+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SEPIE",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-sepie/6023898"
+    },
+    {
+      "id": 1437932341,
+      "dt": "2024-12-01T15:14:53+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Waves of Pleasure",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-waves-of-pleasure/6064348"
+    },
+    {
+      "id": 1437927495,
+      "dt": "2024-12-01T14:43:56+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Malý Ježíšek 10",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-maly-jezisek-10/5578077"
+    },
+    {
       "id": 1437589645,
       "dt": "2024-11-30T18:58:43+01:00",
       "venue_name": "Pivní ambasáda",
