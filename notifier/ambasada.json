@@ -9,8 +9,16 @@
       "description": "5,3% alc. piv. Hauskrecht, Brno, Weizen"
     },
     {
+      "name": "12° Lookin Pine",
+      "description": "6,5% alc. piv. Haksna, Ostrava, Pineapple Sour Ale"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Kurtizána",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
     },
     {
       "name": "13° Mocnář",
@@ -23,14 +31,6 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "15° New Year Milkshake",
-      "description": "6,2% alc. piv. Agent, Olešnice, Milkshake New England IPA"
-    },
-    {
-      "name": "20° Mrkvový Dort",
-      "description": "6,8% alc. piv. Obora, Malšice, Fruit Pastry Sour Ale"
     }
   ]
 }
