@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "12° California",
-      "description": "5,3% alc. piv. Matuška, Broumy, APA"
+      "name": "10° PetrAle",
+      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
+    },
+    {
+      "name": "12° Brněnský Weiss",
+      "description": "5,3% alc. piv. Hauskrecht, Brno, Weizen"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Weizen",
-      "description": "5,2% alc. piv. Pivečka, Rousínov, Weizen"
     },
     {
       "name": "13° Mocnář",
