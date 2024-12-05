@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1438536655,
+      "dt": "2024-12-04T22:00:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lookin' Pine",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-lookin-pine/4908038"
+    },
+    {
+      "id": 1438517028,
+      "dt": "2024-12-04T20:54:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lookin' Pine",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-lookin-pine/4908038"
+    },
+    {
+      "id": 1438516476,
+      "dt": "2024-12-04T20:53:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lookin' Pine",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-lookin-pine/4908038"
+    },
+    {
+      "id": 1438507332,
+      "dt": "2024-12-04T20:23:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zabaleno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-zabaleno/6066556"
+    },
+    {
+      "id": 1438503979,
+      "dt": "2024-12-04T20:11:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1438491034,
+      "dt": "2024-12-04T19:23:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
+      "id": 1438490792,
+      "dt": "2024-12-04T19:22:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vychlazeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vychlazeno/6066435"
+    },
+    {
+      "id": 1438460798,
+      "dt": "2024-12-04T16:26:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční Vídeňský Speciál",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-vanocni-vidensky-special/4061297"
+    },
+    {
       "id": 1438161554,
       "dt": "2024-12-02T15:25:22+01:00",
       "venue_name": "U Toulavé pípy",
