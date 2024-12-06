@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1438742732,
+      "dt": "2024-12-05T22:12:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční Kometa 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-vanocni-kometa-17/6049570"
+    },
+    {
+      "id": 1438733814,
+      "dt": "2024-12-05T21:46:00+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční Kometa 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-vanocni-kometa-17/6049570"
+    },
+    {
+      "id": 1438732079,
+      "dt": "2024-12-05T21:41:20+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SMASH APA MOTUEKA",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-smash-apa-motueka/5571022"
+    },
+    {
+      "id": 1438731946,
+      "dt": "2024-12-05T21:40:55+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SMASH APA MOTUEKA",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-smash-apa-motueka/5571022"
+    },
+    {
+      "id": 1438708089,
+      "dt": "2024-12-05T20:37:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1438653955,
+      "dt": "2024-12-05T17:33:26+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Drink and Chill Ø",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-drink-and-chill-o/6030135"
+    },
+    {
+      "id": 1438653178,
+      "dt": "2024-12-05T17:29:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
+      "id": 1438645526,
+      "dt": "2024-12-05T16:40:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lookin' Pine",
+      "brewery": "Haksna Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/haksna-brewery-lookin-pine/4908038"
+    },
+    {
+      "id": 1438645145,
+      "dt": "2024-12-05T16:37:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vychlazeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vychlazeno/6066435"
+    },
+    {
+      "id": 1438644848,
+      "dt": "2024-12-05T16:35:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vychlazeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vychlazeno/6066435"
+    },
+    {
+      "id": 1438643742,
+      "dt": "2024-12-05T16:25:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1438642201,
+      "dt": "2024-12-05T16:08:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mocnář",
+      "brewery": "Pivovar Mordýř",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar/540835"
+    },
+    {
       "id": 1438536655,
       "dt": "2024-12-04T22:00:30+01:00",
       "venue_name": "Pivní ambasáda",
