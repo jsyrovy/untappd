@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° PetrAle",
-      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° Lookin Pine",
       "description": "6,5% alc. piv. Haksna, Ostrava, Pineapple Sour Ale"
+    },
+    {
+      "name": "12° Motueka",
+      "description": "5,2% alc. piv. Čestmír, Brandýs n. L., SMASH APA"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
