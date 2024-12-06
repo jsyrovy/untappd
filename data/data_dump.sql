@@ -1461,6 +1461,8 @@ INSERT INTO "archive" VALUES(1438037640,'2024-12-01 19:54:49.000000','sejrik','T
 INSERT INTO "archive" VALUES(1438205782,'2024-12-02 20:01:26.000000','sejrik','IPA To Go: Deck','PINTA','Untappd at Home');
 INSERT INTO "archive" VALUES(1438330379,'2024-12-03 19:07:24.000000','sejrik','IPA To GO: Bunch','PINTA','Untappd at Home');
 INSERT INTO "archive" VALUES(1438526104,'2024-12-04 20:24:10.000000','sejrik','Bohém','Krušovice','EPIC');
+INSERT INTO "archive" VALUES(1438622076,'2024-12-05 07:56:26.000000','sejrik','Heineken','Heineken','EPIC');
+INSERT INTO "archive" VALUES(1438714238,'2024-12-05 19:53:42.000000','sejrik','Polish Hazy IPA: Zula x Vermelho','ReCraft','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
