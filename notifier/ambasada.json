@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Adaptér",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, APA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Brněnský Weiss",
       "description": "5,3% alc. piv. Hauskrecht, Brno, Weizen"
-    },
-    {
-      "name": "12° Motueka",
-      "description": "5,2% alc. piv. Čestmír, Brandýs n. L., SMASH APA"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
