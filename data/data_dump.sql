@@ -1463,6 +1463,10 @@ INSERT INTO "archive" VALUES(1438330379,'2024-12-03 19:07:24.000000','sejrik','I
 INSERT INTO "archive" VALUES(1438526104,'2024-12-04 20:24:10.000000','sejrik','Bohém','Krušovice','EPIC');
 INSERT INTO "archive" VALUES(1438622076,'2024-12-05 07:56:26.000000','sejrik','Heineken','Heineken','EPIC');
 INSERT INTO "archive" VALUES(1438714238,'2024-12-05 19:53:42.000000','sejrik','Polish Hazy IPA: Zula x Vermelho','ReCraft','Untappd at Home');
+INSERT INTO "archive" VALUES(1438994878,'2024-12-06 19:40:38.000000','sejrik','Crazy Lines #63: The New Wave','Nepo Brewing','Untappd at Home');
+INSERT INTO "archive" VALUES(1439041086,'2024-12-06 20:51:46.000000','sejrik','EAST KENT GOLDING WEST COAST IPA','Nepo Brewing','Untappd at Home');
+INSERT INTO "archive" VALUES(1439061432,'2024-12-06 21:24:50.000000','sejrik','Smoothie Bowl - Soft & Fruity','Nepo Brewing','Untappd at Home');
+INSERT INTO "archive" VALUES(1439100187,'2024-12-06 22:36:38.000000','sejrik','304','Browar Birbant','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
