@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1439148654,
+      "dt": "2024-12-07T01:25:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krvavý Pomeranč Gose",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-krvavy-pomeranc-gose/6083415"
+    },
+    {
+      "id": 1439145825,
+      "dt": "2024-12-07T01:18:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nakoupeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-nakoupeno/6066555"
+    },
+    {
+      "id": 1439074990,
+      "dt": "2024-12-06T22:48:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SMASH APA MOTUEKA",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-smash-apa-motueka/5571022"
+    },
+    {
+      "id": 1439040311,
+      "dt": "2024-12-06T21:50:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krvavý Pomeranč Gose",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-krvavy-pomeranc-gose/6083415"
+    },
+    {
+      "id": 1438933715,
+      "dt": "2024-12-06T18:49:38+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Drunk Reindeer",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-drunk-reindeer/4663491"
+    },
+    {
+      "id": 1438932791,
+      "dt": "2024-12-06T18:47:49+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "MadCat Ležák / Kamenický světlý ležák ",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-madcat-lezak-kamenicky-svetly-lezak/3619166"
+    },
+    {
+      "id": 1438932425,
+      "dt": "2024-12-06T18:47:03+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Wet Cat",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-wet-cat/3995682"
+    },
+    {
+      "id": 1438916696,
+      "dt": "2024-12-06T18:12:34+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jedenáctka",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-jedenactka/5604401"
+    },
+    {
       "id": 1438742732,
       "dt": "2024-12-05T22:12:10+01:00",
       "venue_name": "U Toulavé pípy",
