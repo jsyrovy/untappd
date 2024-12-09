@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1439806162,
+      "dt": "2024-12-08T18:40:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hauskrecht Brněnský Weiss",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-brnensky-weiss/3234580"
+    },
+    {
+      "id": 1439776856,
+      "dt": "2024-12-08T17:14:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Wild Kitty",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-wild-kitty/5158653"
+    },
+    {
+      "id": 1439769703,
+      "dt": "2024-12-08T16:50:11+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Drunk Reindeer",
+      "brewery": "MadCat",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/madcat-drunk-reindeer/4663491"
+    },
+    {
+      "id": 1439768067,
+      "dt": "2024-12-08T16:44:19+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční Kometa 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-vanocni-kometa-17/6049570"
+    },
+    {
+      "id": 1439768023,
+      "dt": "2024-12-08T16:44:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cherry Poppyns",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-cherry-poppyns/6046893"
+    },
+    {
+      "id": 1439737539,
+      "dt": "2024-12-08T14:24:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční Kometa 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-vanocni-kometa-17/6049570"
+    },
+    {
       "id": 1439148654,
       "dt": "2024-12-07T01:25:28+01:00",
       "venue_name": "Pivní ambasáda",
