@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1440047433,
+      "dt": "2024-12-09T20:59:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční IPA",
+      "brewery": "Pivovar Louka",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-louka-vanocni-ipa-14/6063775"
+    },
+    {
+      "id": 1440046589,
+      "dt": "2024-12-09T20:55:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Emily",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-emily/6013032"
+    },
+    {
+      "id": 1440046316,
+      "dt": "2024-12-09T20:54:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční IPA",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-vanocni-ipa-14/6063775"
+    },
+    {
+      "id": 1440035420,
+      "dt": "2024-12-09T20:01:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Emily",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-emily/6013032"
+    },
+    {
+      "id": 1440027955,
+      "dt": "2024-12-09T19:22:59+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Raven 12",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-raven-12/2531564"
+    },
+    {
+      "id": 1440025388,
+      "dt": "2024-12-09T19:09:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-svetly-lezak/850661"
+    },
+    {
+      "id": 1440023313,
+      "dt": "2024-12-09T18:58:24+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-svetly-lezak/850661"
+    },
+    {
+      "id": 1440005330,
+      "dt": "2024-12-09T16:37:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Adaptér",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-adapter/3760260"
+    },
+    {
+      "id": 1440004593,
+      "dt": "2024-12-09T16:26:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rye IPA 14 ",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-rye-ipa-14/4133042"
+    },
+    {
+      "id": 1440003690,
+      "dt": "2024-12-09T16:11:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nakoupeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-nakoupeno/6066555"
+    },
+    {
       "id": 1439806162,
       "dt": "2024-12-08T18:40:40+01:00",
       "venue_name": "Pivní ambasáda",
