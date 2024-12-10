@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Glee",
-      "description": "4,8% alc. piv. Clock, Potštejn, Gluten-reduced Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
