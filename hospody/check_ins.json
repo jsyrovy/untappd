@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1440123069,
+      "dt": "2024-12-10T06:54:36+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Raven 12",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-raven-12/2531564"
+    },
+    {
       "id": 1440047433,
       "dt": "2024-12-09T20:59:10+01:00",
       "venue_name": "Pivní ambasáda",
