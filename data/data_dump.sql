@@ -1470,6 +1470,7 @@ INSERT INTO "archive" VALUES(1439100187,'2024-12-06 22:36:38.000000','sejrik','3
 INSERT INTO "archive" VALUES(1439273798,'2024-12-07 14:15:38.000000','sejrik','BirGo Mango - Limetka','Budějovický Budvar','Hotel Jezerka');
 INSERT INTO "archive" VALUES(1439874709,'2024-12-08 20:22:56.000000','sejrik','Abracadabra','Funky Fluid','Untappd at Home');
 INSERT INTO "archive" VALUES(1440039004,'2024-12-09 19:19:51.000000','sejrik','Crazy Lines #62: Best Friends Forever','Nepo Brewing','Untappd at Home');
+INSERT INTO "archive" VALUES(1440312001,'2024-12-11 18:45:54.000000','sejrik','Budvar 33','Budějovický Budvar','Beer Bar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
