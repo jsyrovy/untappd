@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1440605513,
+      "dt": "2024-12-13T01:02:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Joy: Pineapple, Calamansi",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sour-joy-pineapple-calamansi/5932481"
+    },
+    {
+      "id": 1440569837,
+      "dt": "2024-12-12T22:46:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánočka 13",
+      "brewery": "Pivovar Louka",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-louka-vanocka-13/4113088"
+    },
+    {
+      "id": 1440523109,
+      "dt": "2024-12-12T20:27:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ozdobeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-ozdobeno/6066514"
+    },
+    {
+      "id": 1440471591,
+      "dt": "2024-12-12T17:01:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Hop 12%",
+      "brewery": "Nachmelená Opice",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-fresh-hop-12/2324174"
+    },
+    {
+      "id": 1440470827,
+      "dt": "2024-12-12T16:55:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Joy: Pineapple, Calamansi",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sour-joy-pineapple-calamansi/5932481"
+    },
+    {
+      "id": 1440470012,
+      "dt": "2024-12-12T16:49:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Castle Party 2024",
+      "brewery": "Nepo Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nepo-brewing-castle-party-2024/5830620"
+    },
+    {
+      "id": 1440469431,
+      "dt": "2024-12-12T16:44:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ozdobeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-ozdobeno/6066514"
+    },
+    {
       "id": 1440383729,
       "dt": "2024-12-12T00:03:03+01:00",
       "venue_name": "Pivní ambasáda",
