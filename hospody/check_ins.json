@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1440699690,
+      "dt": "2024-12-13T16:46:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Joy: Pineapple, Calamansi",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sour-joy-pineapple-calamansi/5932481"
+    },
+    {
+      "id": 1440682193,
+      "dt": "2024-12-13T14:58:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ozdobeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-ozdobeno/6066514"
+    },
+    {
+      "id": 1440682069,
+      "dt": "2024-12-13T14:57:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Joy: Pineapple, Calamansi",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sour-joy-pineapple-calamansi/5932481"
+    },
+    {
+      "id": 1440681731,
+      "dt": "2024-12-13T14:54:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Fresh Hop 12% HP - 201",
+      "brewery": "Nachmelená Opice",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nachmelena-opice-fresh-hop-12-hp-201/6047865"
+    },
+    {
+      "id": 1440681609,
+      "dt": "2024-12-13T14:52:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hauskrecht Brněnský Weiss",
+      "brewery": "Brněnská pivovarnická společnost",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brnenska-pivovarnicka-spolecnost-hauskrecht-brnensky-weiss/3234580"
+    },
+    {
       "id": 1440605513,
       "dt": "2024-12-13T01:02:15+01:00",
       "venue_name": "Pivní ambasáda",
