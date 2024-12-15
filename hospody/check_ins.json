@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1441203425,
+      "dt": "2024-12-14T19:45:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1441181612,
+      "dt": "2024-12-14T19:12:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1441095171,
+      "dt": "2024-12-14T16:17:48+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Art of Hop 2# Revolution Blend",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-art-of-hop-2-revolution-blend/6029895"
+    },
+    {
+      "id": 1441094398,
+      "dt": "2024-12-14T16:15:33+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Idaho Haze",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-idaho-haze/5279487"
+    },
+    {
+      "id": 1441085371,
+      "dt": "2024-12-14T15:47:50+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "FAT BIKE",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-fat-bike/5523772"
+    },
+    {
       "id": 1440699690,
       "dt": "2024-12-13T16:46:39+01:00",
       "venue_name": "Pivní ambasáda",
