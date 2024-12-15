@@ -13,6 +13,10 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Philadelphia Jahoda",
+      "description": "4,1% alc. piv. Obora, Malšice, Fruit Sour Ale"
+    },
+    {
       "name": "13° Mocnář",
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Vídeňský Ležák"
     },
@@ -27,10 +31,6 @@
     {
       "name": "22° Bush Peche Mel",
       "description": "8,5% alc. piv. Dubuisson, Pipaix, Belgie, Peach Strong Belgian Ale, 0,25l"
-    },
-    {
-      "name": "9° Sour Joy Gose",
-      "description": "3% alc. piv. Upside Down, piwa.cz (CZ/PL), Gose s Ananasem a Limetkou Calamansi"
     }
   ]
 }
