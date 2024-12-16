@@ -1,6 +1,213 @@
 {
   "check_ins": [
     {
+      "id": 1441701772,
+      "dt": "2024-12-15T22:46:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Ice Baby (2024)",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-ice-ice-baby-2024/6046894"
+    },
+    {
+      "id": 1441699808,
+      "dt": "2024-12-15T22:41:38+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Art of Hop 2# Revolution Blend",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-art-of-hop-2-revolution-blend/6029895"
+    },
+    {
+      "id": 1441690779,
+      "dt": "2024-12-15T22:18:39+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Narozeninový Pardubický Lajf 12",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-narozeninovy-pardubicky-lajf-12/6096874"
+    },
+    {
+      "id": 1441689876,
+      "dt": "2024-12-15T22:16:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Strawberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-strawberry/4161242"
+    },
+    {
+      "id": 1441689740,
+      "dt": "2024-12-15T22:15:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Napečeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-napeceno/6066553"
+    },
+    {
+      "id": 1441689428,
+      "dt": "2024-12-15T22:14:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Strawberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-strawberry/4161242"
+    },
+    {
+      "id": 1441687414,
+      "dt": "2024-12-15T22:09:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Idaho Haze",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-idaho-haze/5279487"
+    },
+    {
+      "id": 1441681798,
+      "dt": "2024-12-15T21:55:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatá Lucie",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-svata-lucie/4100840"
+    },
+    {
+      "id": 1441675316,
+      "dt": "2024-12-15T21:40:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatá Lucie",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-svata-lucie/4100840"
+    },
+    {
+      "id": 1441651021,
+      "dt": "2024-12-15T20:45:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Napečeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-napeceno/6066553"
+    },
+    {
+      "id": 1441643177,
+      "dt": "2024-12-15T20:27:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatá Lucie",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-svata-lucie/4100840"
+    },
+    {
+      "id": 1441631851,
+      "dt": "2024-12-15T20:01:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pêche Mel Bush",
+      "brewery": "Brasserie Dubuisson",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brasserie-dubuisson-peche-mel-bush/27604"
+    },
+    {
+      "id": 1441623432,
+      "dt": "2024-12-15T19:41:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1441620149,
+      "dt": "2024-12-15T19:33:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Napečeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-napeceno/6066553"
+    },
+    {
+      "id": 1441620002,
+      "dt": "2024-12-15T19:33:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1441619635,
+      "dt": "2024-12-15T19:32:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mocnář",
+      "brewery": "Pivovar Mordýř",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar/540835"
+    },
+    {
+      "id": 1441614807,
+      "dt": "2024-12-15T19:20:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatá Lucie",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-svata-lucie/4100840"
+    },
+    {
+      "id": 1441606866,
+      "dt": "2024-12-15T18:59:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1441606706,
+      "dt": "2024-12-15T18:58:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Napečeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-napeceno/6066553"
+    },
+    {
+      "id": 1441603898,
+      "dt": "2024-12-15T18:51:10+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ice Ice Baby (2024)",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-ice-ice-baby-2024/6046894"
+    },
+    {
+      "id": 1441600250,
+      "dt": "2024-12-15T18:41:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1441589304,
+      "dt": "2024-12-15T18:11:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mocnář",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mocnar/540835"
+    },
+    {
+      "id": 1441573860,
+      "dt": "2024-12-15T17:24:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
       "id": 1441203425,
       "dt": "2024-12-14T19:45:08+01:00",
       "venue_name": "Pivní ambasáda",
