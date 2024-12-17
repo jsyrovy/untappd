@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1441838887,
+      "dt": "2024-12-16T20:31:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatá Lucie",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-svata-lucie/4100840"
+    },
+    {
+      "id": 1441837972,
+      "dt": "2024-12-16T20:27:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Napečeno",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-napeceno/6066553"
+    },
+    {
       "id": 1441701772,
       "dt": "2024-12-15T22:46:43+01:00",
       "venue_name": "U Toulavé pípy",
