@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "12° Knajp Rajdr",
-      "description": "5,3% alc, piv. Valášek, Vsetín, APA"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -19,6 +15,10 @@
     {
       "name": "13° Mocnář",
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Vídeňský Ležák"
+    },
+    {
+      "name": "13° Pohodová Mamča",
+      "description": "5,3% alc, piv. Valášek, Vsetín, Vánoční Ale"
     },
     {
       "name": "14° Svatá Lucie",
