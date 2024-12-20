@@ -6,12 +6,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init-dev
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test
         run: make test
   mypy:
@@ -19,12 +15,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init-dev
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test
         run: make mypy
   flake8:
@@ -32,12 +24,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init-dev
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test
         run: make flake8
   pylint:
@@ -45,12 +33,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init-dev
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test
         run: make pylint
   ruff:
@@ -58,12 +42,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init-dev
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test
         run: make ruff
   smoke-pivni-valka:
@@ -71,12 +51,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test pivni-valka
         run: |
           rm -f web/pivni_valka/index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html
@@ -92,12 +68,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test hospody
         run: |
           rm -f web/hospody/index.html hospody/check_ins.json
@@ -111,12 +83,8 @@ jobs:
     steps:
       - name: Check out
         uses: actions/checkout@v2
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Test notifier
         run: |
           rm -f notifier/ambasada.json

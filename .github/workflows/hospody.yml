@@ -13,12 +13,8 @@ jobs:
         uses: zcong1993/setup-timezone@master
         with:
           timezone: Europe/Prague
-      - name: Setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: Create venv
-        run: make init
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
       - name: Run
         run: make run-hospody
       - name: Save

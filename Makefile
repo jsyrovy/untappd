@@ -1,80 +1,70 @@
-PYTHON=venv/bin/python3
-
 .DEFAULT:
 	help
 
 help:
 	@echo "I don't know what you want me to do."
 
-init:
-	python3 -m venv venv
-	${PYTHON} -m pip install -r requirements.txt
-
-init-dev:
-	python3 -m venv venv
-	${PYTHON} -m pip install -r requirements_dev.txt
-
 run-pivni-valka:
-	${PYTHON} run_pivni_valka.py
+	uv run --no-dev run_pivni_valka.py
 
 run-pivni-valka-notificationless:
-	${PYTHON} run_pivni_valka.py --notificationless
+	uv run --no-dev run_pivni_valka.py --notificationless
 
 run-pivni-valka-local:
-	${PYTHON} run_pivni_valka.py --local
+	uv run --no-dev run_pivni_valka.py --local
 
 publish-pivni-valka:
-	${PYTHON} run_pivni_valka.py --publish
+	uv run --no-dev run_pivni_valka.py --publish
 
 test-pivni-valka:
-	${PYTHON} -m pytest tests/pivni_valka
+	uv run --dev pytest tests/pivni_valka
 
 run-hospody:
-	${PYTHON} run_hospody.py
+	uv run --no-dev run_hospody.py
 
 run-hospody-local:
-	${PYTHON} run_hospody.py --local
+	uv run --no-dev run_hospody.py --local
 
 test-hospody:
-	${PYTHON} -m pytest tests/hospody
+	uv run --dev -m pytest tests/hospody
 
 run-notifier:
-	${PYTHON} run_notifier.py
+	uv run --no-dev run_notifier.py
 
 run-notifier-notificationless:
-	${PYTHON} run_notifier.py --notificationless
+	uv run --no-dev run_notifier.py --notificationless
 
 run-notifier-ambasada:
-	${PYTHON} run_notifier.py --ambasada
+	uv run --no-dev run_notifier.py --ambasada
 
 run-archivist:
-	${PYTHON} run_archivist.py
+	uv run --no-dev run_archivist.py
 
 mypy:
-	${PYTHON} -m mypy --ignore-missing-imports --strict  --exclude tests .
-	${PYTHON} -m mypy --ignore-missing-imports  tests
+	uv run --dev -m mypy --ignore-missing-imports --strict  --exclude tests .
+	uv run --dev -m mypy --ignore-missing-imports  tests
 
 flake8:
-	${PYTHON} -m flake8 --color=always .
+	uv run --dev -m flake8 --color=always .
 
 pylint:
-	${PYTHON} -m pylint -j 0 --output-format=colorized --recursive=y .
+	uv run --dev -m pylint -j 0 --output-format=colorized --recursive=y .
 
 remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
 
 black:
-	${PYTHON} -m black --line-length 120 .
+	uv run --dev -m black --line-length 120 .
 
 test:
-	${PYTHON} -m pytest
+	uv run --dev -m pytest
 
 coverage:
-	${PYTHON} -m coverage run -m pytest
-	${PYTHON} -m coverage report -m
+	uv run --dev -m coverage run -m pytest
+	uv run --dev -m coverage report -m
 
 save-db-to-file:
-	${PYTHON} -m run_tool save-db-to-file
+	uv run --no-dev -m run_tool save-db-to-file
 
 before-commit:
 	make black
@@ -85,8 +75,8 @@ before-commit:
 	make pylint
 
 ipython:
-	${PYTHON} -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
+	uv run --dev python -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
 
 
 ruff:
-	${PYTHON} -m ruff check .
+	uv run --dev -m ruff check .
