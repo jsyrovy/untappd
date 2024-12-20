@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1442462937,
+      "dt": "2024-12-20T01:25:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "14 Union Hazy IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-14-union-hazy-ipa/6083432"
+    },
+    {
+      "id": 1442448391,
+      "dt": "2024-12-20T00:29:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "14 Union Hazy IPA",
+      "brewery": "Chroust",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/chroust-14-union-hazy-ipa/6083432"
+    },
+    {
+      "id": 1442447414,
+      "dt": "2024-12-20T00:26:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "14 Union Hazy IPA",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-14-union-hazy-ipa/6083432"
+    },
+    {
+      "id": 1442446954,
+      "dt": "2024-12-20T00:24:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Gose - hruška a zázvor",
+      "brewery": "Pivovar Mazák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-vanocni-gose-hruska-and-zazvor/6056536"
+    },
+    {
+      "id": 1442440701,
+      "dt": "2024-12-20T00:02:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Gose - hruška a zázvor",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-vanocni-gose-hruska-and-zazvor/6056536"
+    },
+    {
+      "id": 1442427425,
+      "dt": "2024-12-19T23:15:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1442425111,
+      "dt": "2024-12-19T23:08:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pardubickej Lajf #6",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-6/6099080"
+    },
+    {
+      "id": 1442394682,
+      "dt": "2024-12-19T21:40:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Winter Ale 16°",
+      "brewery": "Pivovar Matuška",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-matuska-winter-ale-160/962877"
+    },
+    {
+      "id": 1442333690,
+      "dt": "2024-12-19T18:40:57+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Vánoční 12.5",
+      "brewery": "Bratři v pivu",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bratri-v-pivu-vanocni-12-5/6100381"
+    },
+    {
+      "id": 1442327318,
+      "dt": "2024-12-19T18:16:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Merry Hazy Christmas",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-merry-hazy-christmas/5608487"
+    },
+    {
+      "id": 1442326675,
+      "dt": "2024-12-19T18:13:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Narozeninový Pardubický Lajf 12",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-narozeninovy-pardubicky-lajf-12/6096874"
+    },
+    {
+      "id": 1442314551,
+      "dt": "2024-12-19T17:12:18+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kopa +1 New Zealand Hazy IPA",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-kopa-1-new-zealand-hazy-ipa/5947588"
+    },
+    {
+      "id": 1442306861,
+      "dt": "2024-12-19T16:12:41+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Merry Hazy Christmas",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-merry-hazy-christmas/5608487"
+    },
+    {
       "id": 1442249076,
       "dt": "2024-12-19T02:01:09+01:00",
       "venue_name": "U Toulavé pípy",
