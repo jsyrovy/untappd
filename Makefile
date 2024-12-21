@@ -44,12 +44,6 @@ mypy:
 	uv run --dev -m mypy --ignore-missing-imports --strict  --exclude tests .
 	uv run --dev -m mypy --ignore-missing-imports  tests
 
-flake8:
-	uv run --dev -m flake8 --color=always .
-
-pylint:
-	uv run --dev -m pylint -j 0 --output-format=colorized --recursive=y .
-
 remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
 
@@ -71,8 +65,6 @@ before-commit:
 	make test
 	make ruff
 	make mypy
-	make flake8
-	make pylint
 
 ipython:
 	uv run --dev python -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
