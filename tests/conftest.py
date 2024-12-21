@@ -5,7 +5,7 @@ from database.orm import engine
 from database.utils import load_dump
 
 
-@pytest.fixture(scope="function", autouse=True)
+@pytest.fixture(autouse=True)
 def use_fresh_test_db():
     PivniValka.__table__.drop(engine)
     Archive.__table__.drop(engine)

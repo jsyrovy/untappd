@@ -1,7 +1,11 @@
 lint.select = ["ALL"]
 lint.ignore = [
+    "T201",
+
+    "DTZ",
     "D100",
     "D101",
+    "D102",
     "D103",
     "D104",
     "D107",
@@ -15,6 +19,9 @@ target-version = "py313"
 "tests/*" = [
     "ANN001",
     "ANN201",
+    "ANN202",
+    "PLR2004",
+    "PT011",
     "S101",
     "SLF001",
 ]

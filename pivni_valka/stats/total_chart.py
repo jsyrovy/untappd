@@ -10,11 +10,9 @@ from pivni_valka.stats.common import ChartData, ChartDataset, get_unique_beers_b
 
 
 def get_chart_data(days: int | None = None) -> ChartData:
-    datasets = []
-
-    for user in utils.user.VISIBLE_USERS:
-        datasets.append(ChartDataset(user.name, _get_user_data(user.user_name, days), user.color))
-
+    datasets = [
+        ChartDataset(user.name, _get_user_data(user.user_name, days), user.color) for user in utils.user.VISIBLE_USERS
+    ]
     return ChartData(_get_chart_labels(days), datasets)
 
 

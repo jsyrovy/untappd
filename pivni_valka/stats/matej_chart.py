@@ -4,11 +4,11 @@ from pivni_valka.stats.total_chart import _get_chart_labels, _get_user_data
 
 
 def get_chart_data(days: int) -> ChartData:
-    datasets = []
-
-    for user in utils.user.USERS:
-        if user.user_name in ("Mates511", "sejrik", "mencik2"):
-            datasets.append(ChartDataset(user.name, _get_user_data(user.user_name, days), user.color))
+    datasets = [
+        ChartDataset(user.name, _get_user_data(user.user_name, days), user.color)
+        for user in utils.user.USERS
+        if user.user_name in ("Mates511", "sejrik", "mencik2")
+    ]
 
     dataset_jirka = datasets[0]
     dataset_dan = datasets[1]

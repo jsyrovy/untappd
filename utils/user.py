@@ -31,6 +31,6 @@ class UserNotFoundError(Exception):
 
 def get(user_name: str) -> User:
     try:
-        return [user for user in USERS if user.user_name == user_name][0]
+        return [user for user in USERS if user.user_name == user_name][0]  # noqa: RUF015
     except IndexError as e:
         raise UserNotFoundError(user_name) from e
