@@ -53,8 +53,8 @@ pylint:
 remove-pivni-valka-stats-duplicates:
 	echo "$$(uniq pivni_valka/stats.csv)" > pivni_valka/stats.csv
 
-black:
-	uv run --dev -m black --line-length 120 .
+format:
+	uvx ruff format
 
 test:
 	uv run --dev -m pytest
@@ -67,7 +67,7 @@ save-db-to-file:
 	uv run --no-dev -m run_tool save-db-to-file
 
 before-commit:
-	make black
+	make format
 	make test
 	make ruff
 	make mypy
