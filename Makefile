@@ -63,12 +63,12 @@ save-db-to-file:
 before-commit:
 	make format
 	make test
-	make ruff
+	make lint
 	make mypy
 
 ipython:
 	uv run --dev python -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
 
 
-ruff:
-	uv run --dev -m ruff check .
+lint:
+	uvx ruff check
