@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1442800168,
+      "dt": "2024-12-21T01:06:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Christ Mass 2024",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-christ-mass-2024/6049994"
+    },
+    {
+      "id": 1442778953,
+      "dt": "2024-12-21T00:14:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Christ Mass 2024",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-christ-mass-2024/6049994"
+    },
+    {
+      "id": 1442757685,
+      "dt": "2024-12-20T23:29:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Donkey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-donkey/6076181"
+    },
+    {
+      "id": 1442751423,
+      "dt": "2024-12-20T23:16:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pohodová Mamča",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-pohodova-mamca/6074998"
+    },
+    {
+      "id": 1442708228,
+      "dt": "2024-12-20T21:59:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Elani",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-elani/6056573"
+    },
+    {
+      "id": 1442667968,
+      "dt": "2024-12-20T20:54:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Elani",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-elani/6056573"
+    },
+    {
+      "id": 1442667844,
+      "dt": "2024-12-20T20:54:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "New Dog On the Hop: Elani",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-new-dog-on-the-hop-elani/6056573"
+    },
+    {
+      "id": 1442632952,
+      "dt": "2024-12-20T19:54:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Donkey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-donkey/6076181"
+    },
+    {
+      "id": 1442628777,
+      "dt": "2024-12-20T19:46:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Narozeninový Pardubický Lajf 12",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-narozeninovy-pardubicky-lajf-12/6096874"
+    },
+    {
       "id": 1442462937,
       "dt": "2024-12-20T01:25:21+01:00",
       "venue_name": "Pivní ambasáda",
