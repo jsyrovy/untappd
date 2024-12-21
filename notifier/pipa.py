@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 
 from hospody import CHECK_INS_PATH
-from notifier.base import Offer, Beer
+from notifier.base import Beer, Offer
 from utils import common
 
 
@@ -53,7 +53,7 @@ class PipaOffer(Offer):
         now = datetime.now(tz=timezone(timedelta(seconds=7200)))
 
         self._previous_beers = list(
-            {beer for beer in beers if now - timedelta(days=3) < beer.dt < now - timedelta(days=1)}
+            {beer for beer in beers if now - timedelta(days=3) < beer.dt < now - timedelta(days=1)},
         )
         self._current_beers = list({beer for beer in beers if beer.dt > now - timedelta(days=1)})
         self.new_beers = [beer for beer in self._current_beers if beer not in self._previous_beers]

@@ -1,13 +1,13 @@
-import mock
+from unittest import mock
 
 from utils.common import (
-    get_random_user_agent,
     USER_AGENTS,
     download_page,
-    get_template,
-    random_sleep,
     get_profile_url,
+    get_random_user_agent,
+    get_template,
     is_test,
+    random_sleep,
 )
 
 

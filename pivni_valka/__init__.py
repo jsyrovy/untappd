@@ -5,12 +5,12 @@ import jinja2
 from bs4 import BeautifulSoup
 
 import utils.user
-from pivni_valka.stats import common, tiles, total_chart, weekly_chart, matej_chart
+from pivni_valka.stats import common, matej_chart, tiles, total_chart, weekly_chart
 from pivni_valka.stats.common import ChartData
 from pivni_valka.stats.tiles import TileData
 from robot.orm import OrmRobot
 from utils import pushover
-from utils.common import ENCODING, get_template, download_page, get_profile_url, random_sleep
+from utils.common import ENCODING, download_page, get_profile_url, get_template, random_sleep
 
 GetPageKwArgs = list[TileData] | ChartData | tuple[str, ...] | list[str] | str
 
@@ -154,7 +154,7 @@ class PivniValka(OrmRobot):
                 '"item-total-chart"',
                 '"item-weekly-chart"',
                 '"item-matej-chart"',
-            ]
+            ],
         )
 
         return user_items

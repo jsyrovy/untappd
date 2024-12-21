@@ -1,8 +1,7 @@
 import datetime
-from typing import Optional
 
-from sqlalchemy import String, Date, DateTime, Integer
-from sqlalchemy.orm import DeclarativeBase, mapped_column, Mapped
+from sqlalchemy import Date, DateTime, Integer, String
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 
 
 class Base(DeclarativeBase): ...
@@ -35,7 +34,7 @@ class Archive(Base):
     user: Mapped[str] = mapped_column(String())
     beer: Mapped[str] = mapped_column(String())
     brewery: Mapped[str] = mapped_column(String())
-    venue: Mapped[Optional[str]] = mapped_column(String())
+    venue: Mapped[str | None] = mapped_column(String())
 
     def __repr__(self) -> str:
         return (

@@ -11,6 +11,6 @@ def test_base_robot():
 
 def test_args():
     robot = BaseRobot()
-    assert robot._args.local is False  # pylint: disable=protected-access
-    assert robot._args.notificationless is False  # pylint: disable=protected-access
-    assert robot._args.publish is False  # pylint: disable=protected-access
+    assert robot._args.local is False
+    assert robot._args.notificationless is False
+    assert robot._args.publish is False

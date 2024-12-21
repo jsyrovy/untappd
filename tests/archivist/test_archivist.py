@@ -5,15 +5,15 @@ from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from archivist import (
+    create_record_in_db,
     get_beer,
     get_brewery,
     get_dt,
-    get_venue,
     get_id,
-    get_regex_group,
     get_optional_regex_group,
+    get_regex_group,
+    get_venue,
     is_record_in_db,
-    create_record_in_db,
 )
 from database.models import Archive
 from database.orm import engine
@@ -95,7 +95,7 @@ def test_create_record_in_db():
             beer=beer,
             brewery=brewery,
             venue=venue,
-        )
+        ),
     )
 
     stmt = select(Archive).where(

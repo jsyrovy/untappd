@@ -1,7 +1,7 @@
 import datetime
 from collections import OrderedDict
 
-from sqlalchemy import select, func
+from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 import utils.user
@@ -15,7 +15,7 @@ def _get_week_stats() -> dict[str, dict[str, int]]:
     result: dict[str, dict[str, int]] = {}
     stmt = (
         select(
-            func.strftime("%Y-%W", PivniValka.date).label("week"), PivniValka.user, func.sum(PivniValka.unique_beers)
+            func.strftime("%Y-%W", PivniValka.date).label("week"), PivniValka.user, func.sum(PivniValka.unique_beers),
         )
         .where(PivniValka.date >= since)
         .group_by("week", "user")

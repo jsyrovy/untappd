@@ -1,6 +1,6 @@
 import utils.user
 from pivni_valka.stats.common import ChartData, ChartDataset
-from pivni_valka.stats.total_chart import _get_user_data, _get_chart_labels
+from pivni_valka.stats.total_chart import _get_chart_labels, _get_user_data
 
 
 def get_chart_data(days: int) -> ChartData:

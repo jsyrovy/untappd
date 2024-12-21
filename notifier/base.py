@@ -64,7 +64,7 @@ def is_in_archive(beer: Beer) -> bool:
                     text(
                         "SELECT 1 FROM `archive` "
                         "WHERE `beer` = :beer COLLATE NOCASE AND `brewery` = :brewery COLLATE NOCASE;",
-                    ).bindparams(beer=_beer, brewery=_brewery)
+                    ).bindparams(beer=_beer, brewery=_brewery),
                 ).first(),
             )
 

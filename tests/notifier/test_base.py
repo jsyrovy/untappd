@@ -1,4 +1,4 @@
-from notifier.base import is_in_archive, Beer
+from notifier.base import Beer, is_in_archive
 
 
 def test_is_in_archive():

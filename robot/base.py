@@ -1,6 +1,5 @@
 import argparse
 from dataclasses import dataclass
-from typing import Optional
 
 
 @dataclass
@@ -12,7 +11,7 @@ class Args:
 
 
 class BaseRobot:
-    def __init__(self, args: Optional[Args] = None) -> None:
+    def __init__(self, args: Args | None = None) -> None:
         self._args = args or self._get_args()
 
     def run(self) -> None:

@@ -1,7 +1,6 @@
 import datetime
-from typing import Optional
 
-from sqlalchemy import select, func
+from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 import utils.user
@@ -10,7 +9,7 @@ from database.orm import engine
 from pivni_valka.stats.common import ChartData, ChartDataset, get_unique_beers_before
 
 
-def get_chart_data(days: Optional[int] = None) -> ChartData:
+def get_chart_data(days: int | None = None) -> ChartData:
     datasets = []
 
     for user in utils.user.VISIBLE_USERS:
@@ -19,7 +18,7 @@ def get_chart_data(days: Optional[int] = None) -> ChartData:
     return ChartData(_get_chart_labels(days), datasets)
 
 
-def _get_user_data(user_name: str, days: Optional[int] = None) -> list[int]:
+def _get_user_data(user_name: str, days: int | None = None) -> list[int]:
     days = days or _get_days()
     dates = reversed([datetime.date.today() - datetime.timedelta(days=i) for i in range(days)])
     return [get_unique_beers_before(user_name, before=date) for date in dates]
@@ -28,13 +27,13 @@ def _get_user_data(user_name: str, days: Optional[int] = None) -> list[int]:
 def _get_days() -> int:
     inner_stmt = select(PivniValka.date).distinct()
     subquery = inner_stmt.subquery()
-    stmt = select(func.count(subquery.c.date))  # pylint: disable=not-callable
+    stmt = select(func.count(subquery.c.date))
 
     with Session(engine) as session:
         return session.execute(stmt).scalar_one()
 
 
-def _get_chart_labels(days: Optional[int] = None) -> list[str]:
+def _get_chart_labels(days: int | None = None) -> list[str]:
     stmt = select(PivniValka.date).distinct().order_by(PivniValka.date.desc())
 
     if days:

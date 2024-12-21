@@ -3,7 +3,7 @@ import logging
 import pathlib
 import random
 from dataclasses import dataclass
-from datetime import datetime, timezone, timedelta
+from datetime import UTC, datetime, timedelta, timezone
 from typing import Any
 
 import jinja2
@@ -27,8 +27,8 @@ class Venue:
 
 
 @dataclass
-class CheckIn:  # pylint: disable=too-many-instance-attributes
-    id: int  # pylint: disable=invalid-name
+class CheckIn:
+    id: int
     dt: datetime
     venue_name: str
     beer_name: str
@@ -120,10 +120,10 @@ def get_new_check_ins(local: bool, venue: Venue, venues: tuple[Venue, ...]) -> l
     return parse_check_ins(page, venue)
 
 
-def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:  # pylint: disable=too-many-locals
+def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:
     def parse_dt(dt_as_string: str) -> datetime:
         utc_dt = datetime.strptime(dt_as_string, "%a, %d %b %Y %H:%M:%S %z")
-        return utc_dt.replace(tzinfo=timezone.utc).astimezone(tz=None)
+        return utc_dt.replace(tzinfo=UTC).astimezone(tz=None)
 
     def get_czech_serving(en_serving: str) -> str:
         return {

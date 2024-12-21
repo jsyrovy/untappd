@@ -1,6 +1,5 @@
 import datetime
 from dataclasses import dataclass
-from typing import Optional
 
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
@@ -25,10 +24,10 @@ class ChartData:
 def get_total_unique_beers() -> dict[str, int]:
     stmt = select(PivniValka.user, func.sum(PivniValka.unique_beers)).group_by(PivniValka.user)
     with Session(engine) as session:
-        return {user: count for user, count in session.execute(stmt).all()}  # pylint: disable=unnecessary-comprehension
+        return {user: count for user, count in session.execute(stmt).all()}
 
 
-def get_unique_beers(user_name: str, days: Optional[int] = None, formatted: bool = False) -> str:
+def get_unique_beers(user_name: str, days: int | None = None, formatted: bool = False) -> str:
     stmt = select(PivniValka.unique_beers).where(PivniValka.user == user_name).order_by(PivniValka.date.desc())
 
     if days:

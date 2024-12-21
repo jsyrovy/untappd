@@ -24,11 +24,13 @@ VISIBLE_USERS = tuple(user for user in USERS if not user.hidden)
 VISIBLE_USER_NAMES = tuple(user.user_name for user in VISIBLE_USERS)
 
 
-class UserNotFound(Exception): ...
+class UserNotFoundError(Exception):
+    def __init__(self, user_name: str) -> None:
+        super().__init__(f"User '{user_name}' not found.")
 
 
 def get(user_name: str) -> User:
     try:
         return [user for user in USERS if user.user_name == user_name][0]
     except IndexError as e:
-        raise UserNotFound(f"User '{user_name}' not found.") from e
+        raise UserNotFoundError(user_name) from e

@@ -1,6 +1,6 @@
 import datetime
 
-from sqlalchemy import select, func
+from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
 from database.models import PivniValka

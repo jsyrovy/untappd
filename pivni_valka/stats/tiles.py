@@ -7,7 +7,7 @@ from utils import common
 
 
 @dataclass
-class TileData:  # pylint: disable=too-many-instance-attributes
+class TileData:
     name: str
     user_name: str
     url: str
@@ -36,7 +36,7 @@ def get_tiles_data() -> list[TileData]:
                 get_unique_beers(user.user_name, days=7, formatted=True),
                 get_unique_beers(user.user_name, days=30, formatted=True),
                 user.user_name == user_with_crown,
-            )
+            ),
         )
 
     return tiles_data

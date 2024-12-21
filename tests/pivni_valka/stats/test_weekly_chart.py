@@ -15,7 +15,7 @@ def test_get_chart_data():
             text(
                 "INSERT INTO pivni_valka (date, user, unique_beers) "
                 "VALUES (:date, 'sejrik', 1), (:date, 'mencik2', 2), (:date, 'Mates511', 3), (:date, 'ominar', 4);",
-            ).bindparams(date=today)
+            ).bindparams(date=today),
         )
         conn.commit()
 

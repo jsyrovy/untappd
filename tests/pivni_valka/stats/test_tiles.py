@@ -1,4 +1,4 @@
-from pivni_valka.stats.tiles import get_tiles_data, TileData
+from pivni_valka.stats.tiles import TileData, get_tiles_data
 
 
 def test_get_tiles_data():

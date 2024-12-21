@@ -29,7 +29,7 @@ class Archivist(OrmRobot):
                     beer=get_beer(entry.title),
                     brewery=get_brewery(entry.title),
                     venue=get_venue(entry.title),
-                )
+                ),
             )
 
         for record in records:
@@ -53,7 +53,7 @@ def get_regex_group(regex: str, text: str) -> str:
     raise ValueError(f"Regex `{regex}` not found in `{text}`.")
 
 
-def get_optional_regex_group(regex: str, text: str) -> Optional[str]:
+def get_optional_regex_group(regex: str, text: str) -> str | None:
     try:
         return get_regex_group(regex, text)
     except ValueError:
@@ -77,7 +77,7 @@ def get_brewery(text: str) -> str:
     return get_regex_group(regex, text)
 
 
-def get_venue(text: str) -> Optional[str]:
+def get_venue(text: str) -> str | None:
     return get_optional_regex_group(r" at (.*)", text)
 
 

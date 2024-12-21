@@ -1,3 +1,20 @@
-lint.per-file-ignores = {"__init__.py" = ["F401"]}
+lint.select = ["ALL"]
+lint.ignore = [
+    "D100",
+    "D101",
+    "D103",
+    "D104",
+    "D107",
+    "EM102",
+]
 line-length = 120
 target-version = "py313"
+
+[lint.per-file-ignores]
+"__init__.py" = ["F401"]
+"tests/*" = [
+    "ANN001",
+    "ANN201",
+    "S101",
+    "SLF001",
+]

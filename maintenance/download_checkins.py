@@ -760,14 +760,14 @@ class DownloadCheckins(BaseRobot):
             common.random_sleep(max_=2)
 
         if self.errors:
-            raise Exception(f"{self.errors} error(s) occurred.")  # pylint: disable=broad-exception-raised
+            raise Exception(f"{self.errors} error(s) occurred.")
 
     def process(self, id_: int) -> None:
         page = get_page(id_)
 
         try:
             record = parse(page, id_)
-        except Exception as e:  # pylint: disable=broad-exception-caught
+        except Exception as e:
             print(f"Error while parsing check-in {id_}: {e}")
             self.errors += 1
             return

@@ -1,4 +1,4 @@
-import mock
+from unittest import mock
 
 from database.orm import engine
 from database.utils import DUMP_PATH, dump

@@ -1,6 +1,6 @@
 import pytest
 
-from utils.user import get, UserNotFound
+from utils.user import UserNotFoundError, get
 
 
 def test_get():
@@ -9,5 +9,5 @@ def test_get():
 
 
 def test_get_with_error():
-    with pytest.raises(UserNotFound):
+    with pytest.raises(UserNotFoundError):
         get("lol")
