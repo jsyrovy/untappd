@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1442944230,
+      "dt": "2024-12-21T16:04:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Christ Mass 2024",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-christ-mass-2024/6049994"
+    },
+    {
       "id": 1442800168,
       "dt": "2024-12-21T01:06:06+01:00",
       "venue_name": "Pivní ambasáda",
