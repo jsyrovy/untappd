@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1443609982,
+      "dt": "2024-12-22T23:57:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lavender Gose 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-lavender-gose-12/5986757"
+    },
+    {
+      "id": 1443607677,
+      "dt": "2024-12-22T23:51:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Botanic Gose",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-botanic-gose/3038596"
+    },
+    {
+      "id": 1443607388,
+      "dt": "2024-12-22T23:50:36+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Botanic Gose",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-botanic-gose/3038596"
+    },
+    {
+      "id": 1443584481,
+      "dt": "2024-12-22T22:55:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vannihilator",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vannihilator/5677334"
+    },
+    {
+      "id": 1443584322,
+      "dt": "2024-12-22T22:54:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hi Five",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-hi-five/6072643"
+    },
+    {
+      "id": 1443583303,
+      "dt": "2024-12-22T22:52:32+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Erdbeer Porter",
+      "brewery": "Bergquell Brauerei Löbau",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bergquell-brauerei-lobau-erdbeer-porter/46157"
+    },
+    {
+      "id": 1443564373,
+      "dt": "2024-12-22T22:13:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hi Five",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-hi-five/6072643"
+    },
+    {
+      "id": 1443545725,
+      "dt": "2024-12-22T21:37:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vannihilator",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vannihilator/5677334"
+    },
+    {
+      "id": 1443536888,
+      "dt": "2024-12-22T21:21:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Christ Mass 2024",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-christ-mass-2024/6049994"
+    },
+    {
+      "id": 1443536796,
+      "dt": "2024-12-22T21:21:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Christ Mass 2024",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-christ-mass-2024/6049994"
+    },
+    {
+      "id": 1443484553,
+      "dt": "2024-12-22T19:45:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Eliášův oheň",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-eliasuv-ohen/2521550"
+    },
+    {
+      "id": 1443478209,
+      "dt": "2024-12-22T19:33:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Baterka",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-baterka/2566025"
+    },
+    {
       "id": 1442944230,
       "dt": "2024-12-21T16:04:24+01:00",
       "venue_name": "Pivní ambasáda",
