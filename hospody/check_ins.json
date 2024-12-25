@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1444122974,
+      "dt": "2024-12-24T19:20:37+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "MadCat Desítka / Kamenické šenkovní",
+      "brewery": "MadCat",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/madcat-madcat-desitka-kamenicke-senkovni/3658805"
+    },
+    {
+      "id": 1444034554,
+      "dt": "2024-12-24T16:00:03+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Altfränkisch Klosterbier",
+      "brewery": "Klosterbrauerei Weissenohe",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/klosterbrauerei-weissenohe-altfrankisch-klosterbier/90124"
+    },
+    {
+      "id": 1444034252,
+      "dt": "2024-12-24T15:58:51+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zlatý Prasátko (2024)",
+      "brewery": "Pivovar Clock",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-clock-zlaty-prasatko-2024/6018401"
+    },
+    {
+      "id": 1444026066,
+      "dt": "2024-12-24T15:24:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Narozeninový Pardubický Lajf 12",
+      "brewery": "Beer Poets",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/beer-poets-narozeninovy-pardubicky-lajf-12/6096874"
+    },
+    {
       "id": 1443857967,
       "dt": "2024-12-23T22:23:54+01:00",
       "venue_name": "Pivní ambasáda",
