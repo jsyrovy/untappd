@@ -22,7 +22,7 @@ LOD_NAME = "Loď Otava"
 
 
 def get_random_user_agent() -> str:
-    return random.choice(USER_AGENTS)  # noqa: S311
+    return random.choice(USER_AGENTS)
 
 
 def download_page(url: str) -> str:
@@ -42,7 +42,7 @@ def get_template(file: str, templates_paths: tuple[str, ...] = ("templates",)) -
 
 
 def random_sleep(max_: int = 5) -> None:
-    time.sleep(random.randrange(max_))  # noqa: S311
+    time.sleep(random.randrange(max_))
 
 
 def get_profile_url(user_name: str) -> str:

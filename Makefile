@@ -69,6 +69,8 @@ before-commit:
 ipython:
 	uv run --dev python -c "import IPython;IPython.terminal.ipapp.launch_new_instance();"
 
-
 lint:
 	uvx ruff check
+
+lint-fix:
+	uvx ruff check --fix

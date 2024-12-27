@@ -1,5 +1,5 @@
 import json
-import pathlib
+from pathlib import Path
 
 from bs4 import BeautifulSoup
 
@@ -22,7 +22,7 @@ class AmbasadaOffer(Offer):
         self._save_beers()
 
     def _load_previous_beers(self) -> None:
-        path = pathlib.Path(self.BEERS_PATH)
+        path = Path(self.BEERS_PATH)
 
         if not path.exists():
             return
@@ -58,5 +58,5 @@ class AmbasadaOffer(Offer):
     def _save_beers(self) -> None:
         data = {"beers": [beer.to_json() for beer in self._current_beers]}
 
-        with open(self.BEERS_PATH, "w", encoding=common.ENCODING) as f:
+        with Path(self.BEERS_PATH).open("w") as f:
             f.write(json.dumps(data, indent=2, ensure_ascii=False))

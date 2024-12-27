@@ -17,20 +17,19 @@ class Archivist(OrmRobot):
     def _main(self) -> None:
         user = "sejrik"
         key = os.environ["FEED_KEY"]
-        records = []
         feed = feedparser.parse(f"https://untappd.com/rss/user/{user}?key={key}")
 
-        for entry in feed.entries:
-            records.append(
-                Archive(
-                    id=get_id(entry.id),
-                    dt_utc=get_dt(entry.published_parsed),
-                    user=user,
-                    beer=get_beer(entry.title),
-                    brewery=get_brewery(entry.title),
-                    venue=get_venue(entry.title),
-                ),
+        records = [
+            Archive(
+                id=get_id(entry.id),
+                dt_utc=get_dt(entry.published_parsed),
+                user=user,
+                beer=get_beer(entry.title),
+                brewery=get_brewery(entry.title),
+                venue=get_venue(entry.title),
             )
+            for entry in feed.entries
+        ]
 
         for record in records:
             if not is_record_in_db(record.id):

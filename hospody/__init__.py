@@ -1,9 +1,9 @@
 import json
 import logging
-import pathlib
 import random
 from dataclasses import dataclass
 from datetime import UTC, datetime, timedelta, timezone
+from pathlib import Path
 from typing import Any
 
 import jinja2
@@ -60,7 +60,7 @@ class CheckIn:
             json_["brewery"],
             json_["serving"],
             json_["beer_link"],
-            [venue.url for venue in venues if venue.name == json_["venue_name"]][0],
+            next(venue.url for venue in venues if venue.name == json_["venue_name"]),
         )
 
     def to_json(self) -> dict[str, Any]:
@@ -104,7 +104,7 @@ class Hospody(BaseRobot):
         unique_beers_check_ins = get_unique_beers_check_ins(check_ins)
         page = get_page(common.get_template("hospody.html"), unique_beers_check_ins)
 
-        with open("web/hospody/index.html", "w", encoding=common.ENCODING) as f:
+        with Path("web/hospody/index.html").open("w") as f:
             f.write(page)
 
 
@@ -161,7 +161,7 @@ def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:
 
 
 def load_check_ins(venues: tuple[Venue, ...]) -> list[CheckIn]:
-    path = pathlib.Path(CHECK_INS_PATH)
+    path = Path(CHECK_INS_PATH)
 
     if not path.exists():
         return []
@@ -179,7 +179,7 @@ def sort_check_ins(check_ins: list[CheckIn]) -> None:
 def save_check_ins(check_ins: list[CheckIn]) -> None:
     data = {"check_ins": [check_in.to_json() for check_in in check_ins]}
 
-    with open(CHECK_INS_PATH, "w", encoding=common.ENCODING) as f:
+    with Path(CHECK_INS_PATH).open("w") as f:
         f.write(json.dumps(data, indent=2, ensure_ascii=False))
 
 

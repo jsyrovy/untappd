@@ -24,7 +24,7 @@ class ChartData:
 def get_total_unique_beers() -> dict[str, int]:
     stmt = select(PivniValka.user, func.sum(PivniValka.unique_beers)).group_by(PivniValka.user)
     with Session(engine) as session:
-        return {user: count for user, count in session.execute(stmt).all()}
+        return {user: count for user, count in session.execute(stmt).all()}  # noqa: C416
 
 
 def get_unique_beers(user_name: str, days: int | None = None, formatted: bool = False) -> str:

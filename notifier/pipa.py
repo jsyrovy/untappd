@@ -1,6 +1,6 @@
 import json
 import pathlib
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 
 from hospody import CHECK_INS_PATH
@@ -10,7 +10,7 @@ from utils import common
 
 @dataclass
 class PipaBeer(Beer):
-    dt: datetime = datetime.now()
+    dt: datetime = field(default_factory=datetime.now)
 
     def __hash__(self) -> int:
         return hash(str(self))

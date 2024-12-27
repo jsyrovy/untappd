@@ -1,5 +1,6 @@
 import datetime
 import random
+from pathlib import Path
 
 import jinja2
 from bs4 import BeautifulSoup
@@ -29,7 +30,7 @@ class PivniValka(OrmRobot):
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
 
-        with open("web/pivni_valka/index.html", "w", encoding=ENCODING) as f:
+        with Path("web/pivni_valka/index.html").open("w") as f:
             f.write(page)
 
         page_month = self.get_page(
@@ -38,7 +39,7 @@ class PivniValka(OrmRobot):
             link="chart_year.html",
         )
 
-        with open("web/pivni_valka/chart_month.html", "w", encoding=ENCODING) as f:
+        with Path("web/pivni_valka/chart_month.html").open("w") as f:
             f.write(page_month)
 
         page_year = self.get_page(
@@ -47,7 +48,7 @@ class PivniValka(OrmRobot):
             link="chart_all.html",
         )
 
-        with open("web/pivni_valka/chart_year.html", "w", encoding=ENCODING) as f:
+        with Path("web/pivni_valka/chart_year.html").open("w") as f:
             f.write(page_year)
 
         page_all = self.get_page(
@@ -55,7 +56,7 @@ class PivniValka(OrmRobot):
             total_chart_data=total_chart.get_chart_data(),
         )
 
-        with open("web/pivni_valka/chart_all.html", "w", encoding=ENCODING) as f:
+        with Path("web/pivni_valka/chart_all.html").open("w") as f:
             f.write(page_all)
 
         if not self._args.local and not self._args.notificationless and users_with_new_beers:
