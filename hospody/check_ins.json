@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1445352993,
+      "dt": "2024-12-27T22:21:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Blackcurrant",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-blackcurrant/4307460"
+    },
+    {
+      "id": 1445332777,
+      "dt": "2024-12-27T21:50:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Blackcurrant",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-blackcurrant/4307460"
+    },
+    {
+      "id": 1445325172,
+      "dt": "2024-12-27T21:39:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jean-Pierre Lager",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-jean-pierre-lager/4772228"
+    },
+    {
+      "id": 1445221529,
+      "dt": "2024-12-27T18:45:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Blackcurrant",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-blackcurrant/4307460"
+    },
+    {
       "id": 1444122974,
       "dt": "2024-12-24T19:20:37+01:00",
       "venue_name": "U Toulavé pípy",
