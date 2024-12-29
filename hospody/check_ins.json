@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1445636426,
+      "dt": "2024-12-28T18:16:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pardubickej Lajf #6",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-pardubickej-lajf-6/6099080"
+    },
+    {
+      "id": 1445629389,
+      "dt": "2024-12-28T18:02:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jean-Pierre Lager",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-jean-pierre-lager/4772228"
+    },
+    {
+      "id": 1445625900,
+      "dt": "2024-12-28T17:55:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BLONDE / American Blond Ale",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-blonde-american-blond-ale/5681964"
+    },
+    {
       "id": 1445352993,
       "dt": "2024-12-27T22:21:12+01:00",
       "venue_name": "Pivní ambasáda",
