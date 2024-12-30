@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1446246701,
+      "dt": "2024-12-29T23:27:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Blackcurrant",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-blackcurrant/4307460"
+    },
+    {
+      "id": 1446245545,
+      "dt": "2024-12-29T23:24:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jean-Pierre Lager",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-jean-pierre-lager/4772228"
+    },
+    {
+      "id": 1446243593,
+      "dt": "2024-12-29T23:20:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1446241446,
+      "dt": "2024-12-29T23:15:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Donkey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-donkey/6076181"
+    },
+    {
+      "id": 1446160242,
+      "dt": "2024-12-29T20:46:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vannihilator",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-vannihilator/5677334"
+    },
+    {
+      "id": 1446102187,
+      "dt": "2024-12-29T18:54:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Jean-Pierre Lager",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-jean-pierre-lager/4772228"
+    },
+    {
+      "id": 1446100975,
+      "dt": "2024-12-29T18:52:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Blackcurrant",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-blackcurrant/4307460"
+    },
+    {
       "id": 1445636426,
       "dt": "2024-12-28T18:16:52+01:00",
       "venue_name": "Pivní ambasáda",
