@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1447075553,
+      "dt": "2025-01-01T02:19:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Sabro In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-sabro-in-the-morning/6076198"
+    },
+    {
+      "id": 1447066438,
+      "dt": "2025-01-01T02:02:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Černá Barbora",
+      "brewery": "Ostravar",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/ostravar-cerna-barbora/801857"
+    },
+    {
+      "id": 1447066144,
+      "dt": "2025-01-01T02:02:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Černá Barbora",
+      "brewery": "Ostravar",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/ostravar-cerna-barbora/801857"
+    },
+    {
+      "id": 1447064819,
+      "dt": "2025-01-01T01:59:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Černá Barbora",
+      "brewery": "Ostravar",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/ostravar-cerna-barbora/801857"
+    },
+    {
+      "id": 1447064144,
+      "dt": "2025-01-01T01:58:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Černá Barbora",
+      "brewery": "Ostravar",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/ostravar-cerna-barbora/801857"
+    },
+    {
+      "id": 1447057864,
+      "dt": "2025-01-01T01:48:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Stout - Vanilla & Cocoa",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-vanocni-stout-vanilla-and-cocoa/6056560"
+    },
+    {
+      "id": 1447042348,
+      "dt": "2025-01-01T01:22:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Sabro In the Morning",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-sabro-in-the-morning/6076198"
+    },
+    {
+      "id": 1446963411,
+      "dt": "2024-12-31T23:26:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lucipa",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010"
+    },
+    {
+      "id": 1446924881,
+      "dt": "2024-12-31T22:40:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BLONDE / American Blond Ale",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-blonde-american-blond-ale/5681964"
+    },
+    {
+      "id": 1446919451,
+      "dt": "2024-12-31T22:34:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mango-Piña-Coco",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-mango-pina-coco/2990679"
+    },
+    {
+      "id": 1446881320,
+      "dt": "2024-12-31T21:49:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Stout - Vanilla & Cocoa",
+      "brewery": "Pivovar Mazák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-vanocni-stout-vanilla-and-cocoa/6056560"
+    },
+    {
+      "id": 1446880688,
+      "dt": "2024-12-31T21:48:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vánoční Stout - Vanilla & Cocoa",
+      "brewery": "Pivovar Mazák",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-vanocni-stout-vanilla-and-cocoa/6056560"
+    },
+    {
       "id": 1446613141,
       "dt": "2024-12-31T04:42:15+01:00",
       "venue_name": "U Toulavé pípy",
