@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Blonde",
-      "description": "4,5%, piv. Vik, Praha, Blonde American Ale"
-    },
-    {
       "name": "10° Mango-Pina-Coco",
       "description": "4% alc., piv. MadCat, Kamenice, Fruit Sour Ale"
     },
@@ -21,16 +17,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "13° I am Single Nectaron",
+      "description": "5,5% alc. piv. Pivečka, Rousínov, SMASH IPA"
+    },
+    {
       "name": "14° Luc IPA",
       "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "16° I Love the Smell of Sabro in the Morning",
       "description": "6,5% alc. piv. Sibeeria, Single Hop NEIPA"
-    },
-    {
-      "name": "18° Kasteel Rouge",
-      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
