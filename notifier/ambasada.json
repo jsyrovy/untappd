@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Liquid Luck",
+      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "15° Lavender Blackberry",
       "description": "5% alc. piv. Vik, Praha, Lavender Blackberry Sour Ale"
-    },
-    {
-      "name": "16° I Love the Smell of Sabro in the Morning",
-      "description": "6,5% alc. piv. Sibeeria, Single Hop NEIPA"
     },
     {
       "name": "18° Down Under",
