@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1448380690,
+      "dt": "2025-01-06T00:11:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "LAVENDER BERRY SOUR / Sour",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-lavender-berry-sour-sour/6064367"
+    },
+    {
+      "id": 1448380174,
+      "dt": "2025-01-06T00:09:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Down Under",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-down-under/4963650"
+    },
+    {
+      "id": 1448336621,
+      "dt": "2025-01-05T21:25:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Down Under",
+      "brewery": "Lobster",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/lobster-down-under/4963650"
+    },
+    {
+      "id": 1448336219,
+      "dt": "2025-01-05T21:24:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Down Under",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-down-under/4963650"
+    },
+    {
+      "id": 1448283229,
+      "dt": "2025-01-05T18:33:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "18° Down Under",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-180-down-under/6120125"
+    },
+    {
+      "id": 1448264898,
+      "dt": "2025-01-05T17:19:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I'm Single Nectaron",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-i-m-single-nectaron/6103811"
+    },
+    {
       "id": 1447742806,
       "dt": "2025-01-03T23:09:20+01:00",
       "venue_name": "Pivní ambasáda",
