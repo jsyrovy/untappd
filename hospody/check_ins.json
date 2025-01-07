@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1448451141,
+      "dt": "2025-01-06T17:33:11+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1448449681,
+      "dt": "2025-01-06T17:15:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Down Under",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-down-under/4963650"
+    },
+    {
       "id": 1448380690,
       "dt": "2025-01-06T00:11:56+01:00",
       "venue_name": "Pivní ambasáda",
