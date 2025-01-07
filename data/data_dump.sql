@@ -1481,6 +1481,7 @@ INSERT INTO "archive" VALUES(1444906833,'2024-12-26 18:40:25.000000','sejrik','B
 INSERT INTO "archive" VALUES(1445327671,'2024-12-27 20:42:41.000000','sejrik','Guinness Draught','Guinness','Irská hospoda Svatojánská galerie');
 INSERT INTO "archive" VALUES(1446854917,'2024-12-31 20:18:26.000000','sejrik','Session NEIPA','Rodinný pivovar Rampušák','Untappd at Home');
 INSERT INTO "archive" VALUES(1447246683,'2025-01-01 18:47:10.000000','sejrik','F. L. Věk','Rodinný pivovar Rampušák','Untappd at Home');
+INSERT INTO "archive" VALUES(1448474323,'2025-01-06 19:40:57.000000','sejrik','Zabaleno','Sibeeria','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
