@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1448728701,
+      "dt": "2025-01-09T00:51:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragon Fruit & Red Orange",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-dragon-fruit-and-red-orange/5802309"
+    },
+    {
+      "id": 1448716856,
+      "dt": "2025-01-08T23:31:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
+      "id": 1448716841,
+      "dt": "2025-01-08T23:31:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
+      "id": 1448700949,
+      "dt": "2025-01-08T21:46:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragon Fruit & Red Orange",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-dragon-fruit-and-red-orange/5802309"
+    },
+    {
+      "id": 1448688880,
+      "dt": "2025-01-08T20:39:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "LAVENDER BERRY SOUR / Sour",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-lavender-berry-sour-sour/6064367"
+    },
+    {
+      "id": 1448688683,
+      "dt": "2025-01-08T20:38:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Twist",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-twist/753375"
+    },
+    {
+      "id": 1448656239,
+      "dt": "2025-01-08T15:57:27+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "New Zealand Pale Ale 12",
+      "brewery": "Pivovar Kamenice nad Lipou",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-kamenice-nad-lipou-new-zealand-pale-ale-12/2514889"
+    },
+    {
       "id": 1448451141,
       "dt": "2025-01-06T17:33:11+01:00",
       "venue_name": "Pivní ambasáda",
