@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1448859449,
+      "dt": "2025-01-09T23:48:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SOUR Fruit Show #10 Cherry + Peach + Lime",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-sour-fruit-show-10-cherry-peach-lime/5947582"
+    },
+    {
+      "id": 1448843765,
+      "dt": "2025-01-09T22:26:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SOUR Fruit Show #10 Cherry + Peach + Lime",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-sour-fruit-show-10-cherry-peach-lime/5947582"
+    },
+    {
+      "id": 1448838706,
+      "dt": "2025-01-09T22:01:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1448830913,
+      "dt": "2025-01-09T21:25:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1448801563,
+      "dt": "2025-01-09T19:08:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Samurai",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-samurai/4643508"
+    },
+    {
+      "id": 1448796738,
+      "dt": "2025-01-09T18:41:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Down Under",
+      "brewery": "Lobster",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/lobster-down-under/4963650"
+    },
+    {
+      "id": 1448792462,
+      "dt": "2025-01-09T18:14:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Twist",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-twist/753375"
+    },
+    {
+      "id": 1448792220,
+      "dt": "2025-01-09T18:13:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Donkey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-donkey/6076181"
+    },
+    {
       "id": 1448728701,
       "dt": "2025-01-09T00:51:55+01:00",
       "venue_name": "Pivní ambasáda",
