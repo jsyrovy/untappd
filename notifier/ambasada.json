@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Hop Stop",
+      "description": "5% alc. piv. Sibeeria, Praha, Session IPA"
+    },
+    {
       "name": "12° Just three Fingers",
       "description": "4,7% alc. piv. Crazy Clown, Praha, Sour Ale s Bezinkou, Fíky a Datlemi"
     },
@@ -25,12 +29,8 @@
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
     },
     {
-      "name": "17° One Donkey",
-      "description": "6,7% alc. piv. Sibeeria, Praha, New England IPA"
-    },
-    {
-      "name": "18° Down Under",
-      "description": "8% alc. piv. Lobster, Polsko, New Zeland Double IPA"
+      "name": "9° Sour Joy Gose",
+      "description": "3,5% alc. piv. Upside Down, Fruit Sour Ale"
     }
   ]
 }
