@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1449739782,
+      "dt": "2025-01-12T22:41:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Just Three Fingers",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-just-three-fingers/6004067"
+    },
+    {
+      "id": 1449727368,
+      "dt": "2025-01-12T21:59:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BeerLab Hop Stop",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-beerlab-hop-stop/952396"
+    },
+    {
+      "id": 1449721940,
+      "dt": "2025-01-12T21:41:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry Gose",
+      "brewery": "Pivovar Mazák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-strawberry-gose/6054666"
+    },
+    {
+      "id": 1449705738,
+      "dt": "2025-01-12T20:52:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry Gose",
+      "brewery": "Pivovar Mazák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-strawberry-gose/6054666"
+    },
+    {
+      "id": 1449703185,
+      "dt": "2025-01-12T20:44:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Strawberry Gose",
+      "brewery": "Pivovar Mazák",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-strawberry-gose/6054666"
+    },
+    {
+      "id": 1449666282,
+      "dt": "2025-01-12T18:44:25+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Donkey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-donkey/6076181"
+    },
+    {
       "id": 1449496400,
       "dt": "2025-01-12T00:10:32+01:00",
       "venue_name": "U Toulavé pípy",
