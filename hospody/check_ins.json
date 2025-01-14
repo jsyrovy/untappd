@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1449847914,
+      "dt": "2025-01-13T20:29:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BeerLab Hop Stop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-beerlab-hop-stop/952396"
+    },
+    {
+      "id": 1449847414,
+      "dt": "2025-01-13T20:25:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1449836245,
+      "dt": "2025-01-13T18:53:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BeerLab Hop Stop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-beerlab-hop-stop/952396"
+    },
+    {
       "id": 1449739782,
       "dt": "2025-01-12T22:41:46+01:00",
       "venue_name": "Pivní ambasáda",
