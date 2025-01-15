@@ -9,10 +9,6 @@
       "description": "5% alc. piv. Vik, Praha, Witbier"
     },
     {
-      "name": "12° Hop Stop",
-      "description": "5% alc. piv. Sibeeria, Praha, Session IPA"
-    },
-    {
       "name": "12° Just three Fingers",
       "description": "4,7% alc. piv. Crazy Clown, Praha, Sour Ale s Bezinkou, Fíky a Datlemi"
     },
@@ -23,6 +19,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Hop Elixir: Superdelic, HBC 1019 & Rakau",
+      "description": "4,9% alc., piv. Sibeeria, Praha, Session NEIPA"
     },
     {
       "name": "17° Tlustý Netopýr",
