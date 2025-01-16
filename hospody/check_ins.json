@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1450085895,
+      "dt": "2025-01-15T21:32:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sibeeria Hop Elixir: Superdelic, HBC 1019 & Rakau",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-sibeeria-hop-elixir-superdelic-hbc-1019-and-rakau/6103563"
+    },
+    {
+      "id": 1450085652,
+      "dt": "2025-01-15T21:31:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Just Three Fingers",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-just-three-fingers/6004067"
+    },
+    {
+      "id": 1450076022,
+      "dt": "2025-01-15T20:44:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "WIT WIT / Witbier",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-wit-wit-witbier/5899910"
+    },
+    {
+      "id": 1450072278,
+      "dt": "2025-01-15T20:26:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1450071109,
+      "dt": "2025-01-15T20:21:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tlustý netopýr",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-tlusty-netopyr/343589"
+    },
+    {
+      "id": 1450068465,
+      "dt": "2025-01-15T20:07:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "BeerLab Hop Stop",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-beerlab-hop-stop/952396"
+    },
+    {
+      "id": 1450067132,
+      "dt": "2025-01-15T20:00:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sibeeria Hop Elixir: Superdelic, HBC 1019 & Rakau",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-sibeeria-hop-elixir-superdelic-hbc-1019-and-rakau/6103563"
+    },
+    {
+      "id": 1450062613,
+      "dt": "2025-01-15T19:36:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1450062033,
+      "dt": "2025-01-15T19:33:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1450034649,
+      "dt": "2025-01-15T16:15:42+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hopolish IPA",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-hopolish-ipa/1872394"
+    },
+    {
       "id": 1449847914,
       "dt": "2025-01-13T20:29:07+01:00",
       "venue_name": "Pivní ambasáda",
