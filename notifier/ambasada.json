@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Jiskra",
-      "description": "4,3% alc. piv. Volt, Jablonec nad Nisou, Světlý Ležák"
-    },
-    {
       "name": "12° Dr. Feelgood",
       "description": "4,8% alc. piv. Crazy Clown, Praha, Rice APA"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Pozitron",
