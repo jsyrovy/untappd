@@ -1,6 +1,14 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° WitWit",
+      "description": "5% alc. piv. Vik, Praha, Witbier"
+    },
+    {
       "name": "12° Dr. Feelgood",
       "description": "4,8% alc. piv. Crazy Clown, Praha, Rice APA"
     },
@@ -9,16 +17,8 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Pozitron",
-      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Tmavý Ležák"
-    },
-    {
-      "name": "13° Reaktor",
-      "description": "7,3% alc. piv. Volt, Jablonec nad Nisou, DDH Brut IPA"
-    },
-    {
-      "name": "15° Kabel",
-      "description": "6,5% alc. piv. Volt, Jablonec nad Nisou, Wheat IPA"
+      "name": "13° Hop Elixir: Superdelic, HBC 1019 & Rakau",
+      "description": "4,9% alc., piv. Sibeeria, Praha, Session NEIPA"
     },
     {
       "name": "17° Anténa",
