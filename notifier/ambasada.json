@@ -17,16 +17,16 @@
       "description": "7,3% alc. piv. Volt, Jablonec nad Nisou, DDH Brut IPA"
     },
     {
-      "name": "15° Baterka",
-      "description": "6,2% alc. piv. Volt, Jablonec nad Nisou, IPA"
-    },
-    {
       "name": "15° Kabel",
       "description": "6,5% alc. piv. Volt, Jablonec nad Nisou, Wheat IPA"
     },
     {
       "name": "17° Anténa",
       "description": "5,8% alc. piv. Volt, Jablonec nad Nisou, Imperial Sour Ale (Angrešt)"
+    },
+    {
+      "name": "17° Tlustý Netopýr",
+      "description": "7,5% alc. piv. Antoš, Slaný, Rye IPA"
     },
     {
       "name": "9° Sour Joy Gose",
