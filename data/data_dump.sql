@@ -1486,6 +1486,12 @@ INSERT INTO "archive" VALUES(1448806979,'2025-01-09 18:36:12.000000','sejrik','P
 INSERT INTO "archive" VALUES(1449227841,'2025-01-11 12:33:53.000000','sejrik','Desítka','Ostravar','Turistická chata Švýcárna');
 INSERT INTO "archive" VALUES(1449733806,'2025-01-12 21:21:21.000000','sejrik','Zkrat','Pivovar Volt','Untappd at Home');
 INSERT INTO "archive" VALUES(1450659442,'2025-01-18 12:36:16.000000','sejrik','Dżordż','Ziemia Obiecana','Nowy Kraftowy');
+INSERT INTO "archive" VALUES(1451097729,'2025-01-19 12:48:16.000000','sejrik','Weizen','C.K. Browar','C.K. Browar');
+INSERT INTO "archive" VALUES(1451098150,'2025-01-19 12:52:27.000000','sejrik','Gruszkowe','C.K. Browar','C.K. Browar');
+INSERT INTO "archive" VALUES(1451098680,'2025-01-19 12:57:50.000000','sejrik','Miodowe','C.K. Browar','C.K. Browar');
+INSERT INTO "archive" VALUES(1451099630,'2025-01-19 13:06:46.000000','sejrik','Ingwer','C.K. Browar','C.K. Browar');
+INSERT INTO "archive" VALUES(1451100313,'2025-01-19 13:12:57.000000','sejrik','Piernik','C.K. Browar','C.K. Browar');
+INSERT INTO "archive" VALUES(1451101415,'2025-01-19 13:22:22.000000','sejrik','Kirschweizen','C.K. Browar','C.K. Browar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
