@@ -1,6 +1,177 @@
 {
   "check_ins": [
     {
+      "id": 1451483364,
+      "dt": "2025-01-21T21:39:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Forest Spirit",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-forest-spirit/5913749"
+    },
+    {
+      "id": 1451479506,
+      "dt": "2025-01-21T21:16:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anténa",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-antena/5774195"
+    },
+    {
+      "id": 1451479146,
+      "dt": "2025-01-21T21:14:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Reaktor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-reaktor/5625605"
+    },
+    {
+      "id": 1451462316,
+      "dt": "2025-01-21T19:36:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Troublemaker",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-troublemaker/5273227"
+    },
+    {
+      "id": 1451456282,
+      "dt": "2025-01-21T18:58:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Troublemaker",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-troublemaker/5273227"
+    },
+    {
+      "id": 1451451242,
+      "dt": "2025-01-21T18:23:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Chimichurri",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-chimichurri/6050014"
+    },
+    {
+      "id": 1451451117,
+      "dt": "2025-01-21T18:22:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Chimichurri",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-chimichurri/6050014"
+    },
+    {
+      "id": 1451450097,
+      "dt": "2025-01-21T18:15:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Helter Skelter Chimichurri",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-helter-skelter-chimichurri/6050014"
+    },
+    {
+      "id": 1451446359,
+      "dt": "2025-01-21T17:42:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose - Pineapple Coconut Chilli",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-pineapple-coconut-chilli/6071605"
+    },
+    {
+      "id": 1451446261,
+      "dt": "2025-01-21T17:41:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gose - Pineapple Coconut Chilli",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-gose-pineapple-coconut-chilli/6071605"
+    },
+    {
+      "id": 1451443695,
+      "dt": "2025-01-21T17:10:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MORAVIAN SOUR PIE / Apricot & Mirabelle Sour",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-moravian-sour-pie-apricot-and-mirabelle-sour/5936413"
+    },
+    {
+      "id": 1451443356,
+      "dt": "2025-01-21T17:05:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MORAVIAN SOUR PIE / Apricot & Mirabelle Sour",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-moravian-sour-pie-apricot-and-mirabelle-sour/5936413"
+    },
+    {
+      "id": 1451443342,
+      "dt": "2025-01-21T17:05:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MORAVIAN SOUR PIE / Apricot & Mirabelle Sour",
+      "brewery": "Pivovar Vik",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-vik-moravian-sour-pie-apricot-and-mirabelle-sour/5936413"
+    },
+    {
+      "id": 1451441968,
+      "dt": "2025-01-21T16:45:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pineapple, Papaya & Coconut",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pineapple-papaya-and-coconut/5202144"
+    },
+    {
+      "id": 1451441885,
+      "dt": "2025-01-21T16:44:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Anténa",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-antena/5774195"
+    },
+    {
+      "id": 1451441789,
+      "dt": "2025-01-21T16:42:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Forest Spirit",
+      "brewery": "Sibeeria",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-forest-spirit/5913749"
+    },
+    {
+      "id": 1451441561,
+      "dt": "2025-01-21T16:38:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Joy: Pineapple, Calamansi",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-sour-joy-pineapple-calamansi/5932481"
+    },
+    {
+      "id": 1451441289,
+      "dt": "2025-01-21T16:33:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pineapple, Papaya & Coconut",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pineapple-papaya-and-coconut/5202144"
+    },
+    {
+      "id": 1451441118,
+      "dt": "2025-01-21T16:30:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pineapple, Papaya & Coconut",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pineapple-papaya-and-coconut/5202144"
+    },
+    {
       "id": 1451167631,
       "dt": "2025-01-19T20:37:00+01:00",
       "venue_name": "Pivní ambasáda",
