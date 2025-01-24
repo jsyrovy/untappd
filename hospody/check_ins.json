@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1451762866,
+      "dt": "2025-01-23T23:14:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "JungBerg Eclipse",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-jungberg-eclipse/6132006"
+    },
+    {
+      "id": 1451719523,
+      "dt": "2025-01-23T20:05:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blitzkrieeg",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-blitzkrieeg/1579745"
+    },
+    {
+      "id": 1451713369,
+      "dt": "2025-01-23T19:37:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "WIT WIT / Witbier",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-wit-wit-witbier/5899910"
+    },
+    {
       "id": 1451615998,
       "dt": "2025-01-22T22:53:59+01:00",
       "venue_name": "U Toulavé pípy",
