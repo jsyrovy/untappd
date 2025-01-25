@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1452035938,
+      "dt": "2025-01-24T23:46:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DIRT DEVIL / Gose",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-dirt-devil-gose/5803586"
+    },
+    {
+      "id": 1451993330,
+      "dt": "2025-01-24T22:12:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "JungBerg Eclipse",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-jungberg-eclipse/6132006"
+    },
+    {
+      "id": 1451993289,
+      "dt": "2025-01-24T22:12:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "JungBerg Eclipse",
+      "brewery": "Pivovar JungBerg",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-jungberg-eclipse/6132006"
+    },
+    {
+      "id": 1451991819,
+      "dt": "2025-01-24T22:09:56+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mango-Piña-Coco",
+      "brewery": "MadCat",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/madcat-mango-pina-coco/2990679"
+    },
+    {
+      "id": 1451954904,
+      "dt": "2025-01-24T20:59:44+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mauna Loa",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-mauna-loa/5230564"
+    },
+    {
+      "id": 1451940681,
+      "dt": "2025-01-24T20:32:06+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1451899632,
+      "dt": "2025-01-24T19:02:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "15 Blitzkrieeg",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-15-blitzkrieeg/6137460"
+    },
+    {
+      "id": 1451897668,
+      "dt": "2025-01-24T18:57:13+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mauna Loa",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-mauna-loa/5230564"
+    },
+    {
+      "id": 1451896475,
+      "dt": "2025-01-24T18:54:14+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Bělehradská 11",
+      "brewery": "Pivovar Trilobit",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-trilobit-belehradska-11/6112154"
+    },
+    {
+      "id": 1451884315,
+      "dt": "2025-01-24T18:22:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Idaho IPA 15",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-idaho-ipa-15/5102498"
+    },
+    {
       "id": 1451762866,
       "dt": "2025-01-23T23:14:50+01:00",
       "venue_name": "Pivní ambasáda",
