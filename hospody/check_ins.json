@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1452557720,
+      "dt": "2025-01-26T04:41:21+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mauna Loa",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-mauna-loa/5230564"
+    },
+    {
+      "id": 1452335619,
+      "dt": "2025-01-25T20:40:35+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "TROPICKÁ MLHA",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-tropicka-mlha/5118913"
+    },
+    {
+      "id": 1452237084,
+      "dt": "2025-01-25T17:54:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mauna Loa",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-mauna-loa/5230564"
+    },
+    {
+      "id": 1452218070,
+      "dt": "2025-01-25T17:06:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "JungBerg Eclipse",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-jungberg-eclipse/6132006"
+    },
+    {
+      "id": 1452190601,
+      "dt": "2025-01-25T15:41:26+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1452167841,
+      "dt": "2025-01-25T13:54:12+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Forest Spirit",
+      "brewery": "Sibeeria",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/sibeeria-forest-spirit/5913749"
+    },
+    {
+      "id": 1452166846,
+      "dt": "2025-01-25T13:48:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "DIRT DEVIL / Gose",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-dirt-devil-gose/5803586"
+    },
+    {
+      "id": 1452166508,
+      "dt": "2025-01-25T13:46:43+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "JungBerg Eclipse",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-jungberg-eclipse/6132006"
+    },
+    {
       "id": 1452035938,
       "dt": "2025-01-24T23:46:57+01:00",
       "venue_name": "Pivní ambasáda",
