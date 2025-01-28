@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1452840688,
+      "dt": "2025-01-27T20:00:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! Session Rye IPA 11°",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-session-rye-ipa-110/5828731"
+    },
+    {
+      "id": 1452840392,
+      "dt": "2025-01-27T19:58:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mauna Loa",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-mauna-loa/5230564"
+    },
+    {
+      "id": 1452807492,
+      "dt": "2025-01-27T10:27:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "El Presidente",
+      "brewery": "Pivovar Agent",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-agent-el-presidente/4528654"
+    },
+    {
       "id": 1452767963,
       "dt": "2025-01-27T01:06:54+01:00",
       "venue_name": "U Toulavé pípy",
