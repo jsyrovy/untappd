@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° PetrAle",
+      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
+    },
+    {
       "name": "11° Anežka",
       "description": "4,8% alc. piv. Clock, Potštejn, Gluten Reduced Lager"
     },
@@ -11,10 +15,6 @@
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° No Idols! Rye IPA",
-      "description": "4,7% alc. piv. Clock, Potštejn, Session Rye IPA"
     },
     {
       "name": "12° Maisels Weisse",
