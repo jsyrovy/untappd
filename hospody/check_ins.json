@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1452940575,
+      "dt": "2025-01-28T19:47:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! Session Rye IPA 11°",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-session-rye-ipa-110/5828731"
+    },
+    {
       "id": 1452840688,
       "dt": "2025-01-27T20:00:50+01:00",
       "venue_name": "Pivní ambasáda",
