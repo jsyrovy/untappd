@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "10° PetrAle",
-      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
+      "name": "11° Denali",
+      "description": "4,5% alc. Beskydský Pivovárek, Ostravice, SMASH APA"
     },
     {
       "name": "11° Mordýř",
@@ -21,8 +21,8 @@
       "description": "3,8% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
-      "name": "17° Zlatá Raketa",
-      "description": "7% alc. piv. Matuška, Broumy, IPA"
+      "name": "15° Wheeepa",
+      "description": "7,2% alc. piv. Maisel & Friends, Bayeruth, Wheat IPA"
     },
     {
       "name": "18° Kasteel Rouge",
