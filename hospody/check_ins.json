@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1453244153,
+      "dt": "2025-01-30T22:31:42+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Mix Rybízů - Red & Blackcurrant",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mix-rybizu-red-and-blackcurrant/5828224"
+    },
+    {
+      "id": 1453207159,
+      "dt": "2025-01-30T20:05:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
+      "id": 1453180394,
+      "dt": "2025-01-30T17:55:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Mix Rybízů - Red & Blackcurrant",
+      "brewery": "Pivovar Obora",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mix-rybizu-red-and-blackcurrant/5828224"
+    },
+    {
+      "id": 1453179982,
+      "dt": "2025-01-30T17:52:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
       "id": 1453093871,
       "dt": "2025-01-29T22:34:12+01:00",
       "venue_name": "Pivní ambasáda",
