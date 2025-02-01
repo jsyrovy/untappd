@@ -1,6 +1,168 @@
 {
   "check_ins": [
     {
+      "id": 1453567911,
+      "dt": "2025-02-01T01:12:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1453524438,
+      "dt": "2025-01-31T23:23:53+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
+      "id": 1453523752,
+      "dt": "2025-01-31T23:22:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MILK YOUR WAY #1 HBC1019 + the Bruce + Mosaic",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-milk-your-way-1-hbc1019-the-bruce-mosaic/6080006"
+    },
+    {
+      "id": 1453523482,
+      "dt": "2025-01-31T23:21:38+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1453523378,
+      "dt": "2025-01-31T23:21:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Breed 2023 (Oatmeal Stout Kokos)",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-black-breed-2023-oatmeal-stout-kokos/5617210"
+    },
+    {
+      "id": 1453522985,
+      "dt": "2025-01-31T23:20:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Black Breed 2023 (Oatmeal Stout Kokos)",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-black-breed-2023-oatmeal-stout-kokos/5617210"
+    },
+    {
+      "id": 1453521893,
+      "dt": "2025-01-31T23:18:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Mix Rybízů - Red & Blackcurrant",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mix-rybizu-red-and-blackcurrant/5828224"
+    },
+    {
+      "id": 1453517246,
+      "dt": "2025-01-31T23:07:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1453515783,
+      "dt": "2025-01-31T23:04:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Yummy Pink Guava, Peach, Passion Fruit & Vanilla",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-yummy-pink-guava-peach-passion-fruit-and-vanilla/4693660"
+    },
+    {
+      "id": 1453513942,
+      "dt": "2025-01-31T23:00:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour - Mullbery - Kyselá Maruše",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mullbery-kysela-maruse/5714597"
+    },
+    {
+      "id": 1453504699,
+      "dt": "2025-01-31T22:40:36+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour - Mullbery - Kyselá Maruše",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mullbery-kysela-maruse/5714597"
+    },
+    {
+      "id": 1453493907,
+      "dt": "2025-01-31T22:18:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MILK YOUR WAY #1 HBC1019 + the Bruce + Mosaic",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-milk-your-way-1-hbc1019-the-bruce-mosaic/6080006"
+    },
+    {
+      "id": 1453491988,
+      "dt": "2025-01-31T22:15:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MILK YOUR WAY #1 HBC1019 + the Bruce + Mosaic",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-milk-your-way-1-hbc1019-the-bruce-mosaic/6080006"
+    },
+    {
+      "id": 1453484253,
+      "dt": "2025-01-31T22:00:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Denali 2024",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-denali-2024/6075080"
+    },
+    {
+      "id": 1453467978,
+      "dt": "2025-01-31T21:29:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
+      "id": 1453449604,
+      "dt": "2025-01-31T20:56:54+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Down Under",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-down-under/5522512"
+    },
+    {
+      "id": 1453442553,
+      "dt": "2025-01-31T20:43:57+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "SUSA - Salty Sumac Saison",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-susa-salty-sumac-saison/6132454"
+    },
+    {
+      "id": 1453412344,
+      "dt": "2025-01-31T19:44:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
       "id": 1453244153,
       "dt": "2025-01-30T22:31:42+01:00",
       "venue_name": "Pivní ambasáda",
