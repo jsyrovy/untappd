@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1453907178,
+      "dt": "2025-02-01T21:54:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Akira",
+      "brewery": "Falkon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/falkon-akira/5412908"
+    },
+    {
+      "id": 1453850461,
+      "dt": "2025-02-01T20:40:46+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Berry'd In Chocolate 18",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-berry-d-in-chocolate-18/6123868"
+    },
+    {
       "id": 1453567911,
       "dt": "2025-02-01T01:12:54+01:00",
       "venue_name": "Pivní ambasáda",
