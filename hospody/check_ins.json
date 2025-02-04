@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1454377148,
+      "dt": "2025-02-03T20:55:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Mix Rybízů - Red & Blackcurrant",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mix-rybizu-red-and-blackcurrant/5828224"
+    },
+    {
+      "id": 1454373209,
+      "dt": "2025-02-03T20:29:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends WHEEPA!",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-wheepa/6033395"
+    },
+    {
+      "id": 1454372606,
+      "dt": "2025-02-03T20:25:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
       "id": 1454242955,
       "dt": "2025-02-02T21:34:02+01:00",
       "venue_name": "Pivní ambasáda",
