@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1454527846,
+      "dt": "2025-02-05T01:38:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chill'n'sour",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-chill-n-sour/5874230"
+    },
+    {
+      "id": 1454476803,
+      "dt": "2025-02-04T20:00:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Chill'n'sour",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-chill-n-sour/5874230"
+    },
+    {
+      "id": 1454465644,
+      "dt": "2025-02-04T18:51:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Capon",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-capon/6132380"
+    },
+    {
       "id": 1454377148,
       "dt": "2025-02-03T20:55:41+01:00",
       "venue_name": "Pivní ambasáda",
