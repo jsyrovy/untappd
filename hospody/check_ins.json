@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1454654516,
+      "dt": "2025-02-06T00:53:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1454638155,
+      "dt": "2025-02-05T23:12:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-infused-extra-brut-ipa/5783109"
+    },
+    {
+      "id": 1454637304,
+      "dt": "2025-02-05T23:07:16+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-infused-extra-brut-ipa/5783109"
+    },
+    {
+      "id": 1454615418,
+      "dt": "2025-02-05T21:07:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Unpearable",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-unpearable/6063882"
+    },
+    {
+      "id": 1454614586,
+      "dt": "2025-02-05T21:03:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Unpearable",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-unpearable/6063882"
+    },
+    {
+      "id": 1454610139,
+      "dt": "2025-02-05T20:42:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
+      "id": 1454604865,
+      "dt": "2025-02-05T20:18:04+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gulden Draak 9000 Quadruple",
+      "brewery": "Brouwerij Van Steenberge",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-van-steenberge-gulden-draak-9000-quadruple/96597"
+    },
+    {
+      "id": 1454599927,
+      "dt": "2025-02-05T19:53:24+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends WHEEPA!",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-wheepa/6033395"
+    },
+    {
+      "id": 1454595389,
+      "dt": "2025-02-05T19:29:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Pale Ale 11",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-american-pale-ale-11/3551415"
+    },
+    {
+      "id": 1454576832,
+      "dt": "2025-02-05T17:28:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Terror",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-terror/4546521"
+    },
+    {
       "id": 1454527846,
       "dt": "2025-02-05T01:38:39+01:00",
       "venue_name": "Pivní ambasáda",
