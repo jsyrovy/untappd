@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1454765452,
+      "dt": "2025-02-06T21:21:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1454739394,
+      "dt": "2025-02-06T19:37:03+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-infused-extra-brut-ipa/5783109"
+    },
+    {
+      "id": 1454734452,
+      "dt": "2025-02-06T19:14:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Meruňkový Knedlík",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-merunkovy-knedlik/6140648"
+    },
+    {
+      "id": 1454732096,
+      "dt": "2025-02-06T19:03:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Orange Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-orange-infused-extra-brut-ipa/5783109"
+    },
+    {
+      "id": 1454725706,
+      "dt": "2025-02-06T18:32:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1454717068,
+      "dt": "2025-02-06T17:38:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Meruňkový Knedlík",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-merunkovy-knedlik/6140648"
+    },
+    {
       "id": 1454654516,
       "dt": "2025-02-06T00:53:10+01:00",
       "venue_name": "Pivní ambasáda",
