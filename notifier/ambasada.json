@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Dobrák Ale Pocta Žatci",
-      "description": "4,3% alc. piv. Dobrák, Praha, Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Clock",
+      "description": "5,2% alc. piv. Clock, Potštejn, APA"
     },
     {
       "name": "12° Maisels Weisse",
