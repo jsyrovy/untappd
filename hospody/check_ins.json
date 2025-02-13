@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1456208357,
+      "dt": "2025-02-12T23:36:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropic Edge",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-tropic-edge/3495180"
+    },
+    {
+      "id": 1456204363,
+      "dt": "2025-02-12T23:11:22+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical City",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-tropical-city/5013021"
+    },
+    {
+      "id": 1456202341,
+      "dt": "2025-02-12T22:59:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropic Edge",
+      "brewery": "Pivovar Raven",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/pivovar-raven-tropic-edge/3495180"
+    },
+    {
+      "id": 1456191836,
+      "dt": "2025-02-12T21:59:00+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical City",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-tropical-city/5013021"
+    },
+    {
+      "id": 1456180473,
+      "dt": "2025-02-12T21:04:46+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Tropical City",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-tropical-city/5013021"
+    },
+    {
+      "id": 1456154042,
+      "dt": "2025-02-12T18:52:33+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: Riwaka, Simcoe Cryo, HBC 586",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-riwaka-simcoe-cryo-hbc-586/5799308"
+    },
+    {
+      "id": 1456137031,
+      "dt": "2025-02-12T16:29:31+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "One Donkey",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-donkey/6076181"
+    },
+    {
+      "id": 1456135154,
+      "dt": "2025-02-12T15:59:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Jang & Punk",
+      "brewery": "Pivovar Genius noci",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-genius-noci-jang-and-punk/5931474"
+    },
+    {
       "id": 1455877545,
       "dt": "2025-02-10T03:24:35+01:00",
       "venue_name": "U Toulavé pípy",
