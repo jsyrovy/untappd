@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -19,6 +15,10 @@
     {
       "name": "13° Hop Elixir: Riwaka, Simcoe Cryo & HBC 586",
       "description": "4,9% alc. piv. Sibeeria, Praha, Session NEIPA"
+    },
+    {
+      "name": "14° In The arms of a Devil",
+      "description": "5,9% alc. piv. TamTam, Plzeň, SMASH Red IPA w/ Krush"
     },
     {
       "name": "16° Podivín",
