@@ -1,16 +1,12 @@
 {
   "beers": [
     {
-      "name": "12° Maisels Weisse",
-      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° Reason To Live",
+      "description": "5,2% alc. piv. TamTam, Plzeň, India Pale Lager"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Správná Dvojka",
-      "description": "5% alc. piv. Valášek, Vsetín, Belgian Ale"
+      "name": "14° Fantasy",
+      "description": "6% alc. piv. TamTam, Plzeň, NZ Hazy IPA"
     },
     {
       "name": "14° In The arms of a Devil",
@@ -21,12 +17,16 @@
       "description": "6,1% alc. piv. TamTam, Plzeň, Double Dry-hopped Dark NEIPA w/ Sabro & HBC 1019"
     },
     {
+      "name": "16° Devilry of Ecstasy",
+      "description": "5,5% alc. piv. TamTam, Plzeň, NZ Sour IPA w/ Pineapple & Passion Fruit"
+    },
+    {
       "name": "16° Morsmordre",
       "description": "6,3% alc. piv. TamTam, Plzeň, \"Salted Caramel\" Golden Milkstout w/ Almonds"
     },
     {
-      "name": "17° Tropical City",
-      "description": "6,5% piv. Haksna, Ostrava, Pastry Sour Ale"
+      "name": "16° Starlight",
+      "description": "6,4% alc. piv. TamTam, Plzeň, \"Baked Tea\" Sour Ale w/ Currant, Berries, Clove, Cinnamon, Vanilla & Lemon Peel"
     },
     {
       "name": "22° Gulden Draak 9000",
