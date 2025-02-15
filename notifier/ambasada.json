@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Knajp Rajdr",
       "description": "5% alc, piv. Valášek, Vsetín, APA"
     },
     {
-      "name": "12° Reason To Live",
-      "description": "5,2% alc. piv. TamTam, Plzeň, India Pale Lager"
-    },
-    {
-      "name": "14° In The arms of a Devil",
-      "description": "5,9% alc. piv. TamTam, Plzeň, SMASH Red IPA w/ Krush"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "15° Sunrise in Hell",
