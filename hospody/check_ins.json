@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1457390084,
+      "dt": "2025-02-17T00:29:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Presidente Light",
+      "brewery": "Cervecería Nacional Dominicana",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/cerveceria-nacional-dominicana-presidente-light/20700"
+    },
+    {
+      "id": 1457302550,
+      "dt": "2025-02-16T20:07:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Presidente Light",
+      "brewery": "Cervecería Nacional Dominicana",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/cerveceria-nacional-dominicana-presidente-light/20700"
+    },
+    {
+      "id": 1457259846,
+      "dt": "2025-02-16T17:56:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Morsmordre",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-morsmordre/6054749"
+    },
+    {
+      "id": 1457259187,
+      "dt": "2025-02-16T17:54:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devilry of Ecstasy",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-devilry-of-ecstasy/6134274"
+    },
+    {
+      "id": 1457253620,
+      "dt": "2025-02-16T17:34:06+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Devilry of Ecstasy",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-devilry-of-ecstasy/6134274"
+    },
+    {
+      "id": 1457247742,
+      "dt": "2025-02-16T17:11:37+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sunrise In Hell",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-sunrise-in-hell/6134282"
+    },
+    {
+      "id": 1457247128,
+      "dt": "2025-02-16T17:09:08+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Starlight",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-starlight/6054743"
+    },
+    {
       "id": 1457049565,
       "dt": "2025-02-15T23:04:02+01:00",
       "venue_name": "U Toulavé pípy",
