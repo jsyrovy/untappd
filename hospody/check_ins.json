@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1457683369,
+      "dt": "2025-02-19T03:00:40+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Loop Mood NEIPA",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-loop-mood-neipa/6134716"
+    },
+    {
+      "id": 1457682858,
+      "dt": "2025-02-19T02:55:43+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Láska",
+      "brewery": "Sibeeria",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-laska/5226661"
+    },
+    {
+      "id": 1457662794,
+      "dt": "2025-02-19T00:24:53+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kiwie",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-kiwie/6101763"
+    },
+    {
+      "id": 1457629353,
+      "dt": "2025-02-18T21:00:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Apač",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-apac/3902175"
+    },
+    {
+      "id": 1457629051,
+      "dt": "2025-02-18T20:59:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "NEIPA 14 Franklin",
+      "brewery": "Cobolis",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cobolis-neipa-14-franklin/3998446"
+    },
+    {
+      "id": 1457619802,
+      "dt": "2025-02-18T20:12:01+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kiwie",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-kiwie/6101763"
+    },
+    {
       "id": 1457390084,
       "dt": "2025-02-17T00:29:41+01:00",
       "venue_name": "Pivní ambasáda",
