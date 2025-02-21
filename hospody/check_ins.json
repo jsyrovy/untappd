@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1457931657,
+      "dt": "2025-02-20T21:24:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Alkoholfrei",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-alkoholfrei/78975"
+    },
+    {
+      "id": 1457928279,
+      "dt": "2025-02-20T21:12:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krystus",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-krystus/5058162"
+    },
+    {
+      "id": 1457909503,
+      "dt": "2025-02-20T20:06:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1457896878,
+      "dt": "2025-02-20T19:17:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Magus",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-magus/6120697"
+    },
+    {
+      "id": 1457894217,
+      "dt": "2025-02-20T19:06:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! Session Rye IPA 11°",
+      "brewery": "Pivovar Clock",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-session-rye-ipa-110/5828731"
+    },
+    {
+      "id": 1457886817,
+      "dt": "2025-02-20T18:34:27+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! Session Rye IPA 11°",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-session-rye-ipa-110/5828731"
+    },
+    {
+      "id": 1457886268,
+      "dt": "2025-02-20T18:31:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Masopust",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-masopust/3687038"
+    },
+    {
+      "id": 1457884896,
+      "dt": "2025-02-20T18:25:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! Session Rye IPA 11°",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-session-rye-ipa-110/5828731"
+    },
+    {
+      "id": 1457877952,
+      "dt": "2025-02-20T17:46:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "No Idols! Session Rye IPA 11°",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-no-idols-session-rye-ipa-110/5828731"
+    },
+    {
       "id": 1457763559,
       "dt": "2025-02-19T20:56:11+01:00",
       "venue_name": "Pivní ambasáda",
