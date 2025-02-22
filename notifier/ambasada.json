@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "12° Alianční",
+      "description": "5,3% alc. piv. Permon, Sokolov, Mango Gose"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° Czech It Out",
       "description": "5,7% alc. piv. Mazák, Dolní Bojanovice, Modern IPA"
-    },
-    {
-      "name": "17° Tropical City",
-      "description": "6,5% piv. Haksna, Ostrava, Pastry Sour Ale"
     },
     {
       "name": "22° Gulden Draak 9000",
