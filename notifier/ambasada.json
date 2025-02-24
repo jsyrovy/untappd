@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Cream Ale",
+      "description": "4,6% alc. piv. Obora, Malšice, Ale"
+    },
+    {
       "name": "12° Alianční",
       "description": "5,3% alc. piv. Permon, Sokolov, Mango Gose"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Flash Ale",
-      "description": "5,8% alc. piv. Volt, Jablonec nad Nisou, English IPA"
     },
     {
       "name": "13° One Magnus",
