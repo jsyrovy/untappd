@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Obora, Malšice, Ale"
     },
     {
+      "name": "11° Liquid Luck",
+      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
+    },
+    {
       "name": "12° Alianční",
       "description": "5,3% alc. piv. Permon, Sokolov, Mango Gose"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° One Magnus",
-      "description": "5,8% alc. piv. Sibeeria, Praha, West Coast Pilsner"
     },
     {
       "name": "14° Oregon",
