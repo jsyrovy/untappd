@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1459154325,
+      "dt": "2025-02-24T22:40:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V. Salt Mango",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-aliance-p-i-v-salt-mango/6154324"
+    },
+    {
+      "id": 1459137751,
+      "dt": "2025-02-24T20:43:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V. Salt Mango",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-aliance-p-i-v-salt-mango/6154324"
+    },
+    {
+      "id": 1459137049,
+      "dt": "2025-02-24T20:39:29+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Cream Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-cream-ale/5302872"
+    },
+    {
+      "id": 1459132427,
+      "dt": "2025-02-24T20:10:05+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1459131582,
+      "dt": "2025-02-24T20:04:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oregon IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-oregon-ipa/1006261"
+    },
+    {
+      "id": 1459034914,
+      "dt": "2025-02-23T23:38:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zero In On Vol. 3",
+      "brewery": "Browar Gwarek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-gwarek-zero-in-on-vol-3/6066162"
+    },
+    {
+      "id": 1458994566,
+      "dt": "2025-02-23T21:32:31+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zero In On Vol. 3",
+      "brewery": "Browar Gwarek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-gwarek-zero-in-on-vol-3/6066162"
+    },
+    {
       "id": 1458728515,
       "dt": "2025-02-22T23:59:19+01:00",
       "venue_name": "U Toulavé pípy",
