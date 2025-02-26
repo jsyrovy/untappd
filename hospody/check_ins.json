@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1459260170,
+      "dt": "2025-02-25T21:35:09+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Cream Ale",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-cream-ale/5302872"
+    },
+    {
+      "id": 1459251209,
+      "dt": "2025-02-25T20:47:07+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Bliss",
+      "brewery": "Hradecký Klenot",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-berry-bliss/6137536"
+    },
+    {
+      "id": 1459250792,
+      "dt": "2025-02-25T20:44:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Bliss",
+      "brewery": "Hradecký Klenot",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/hradecky-klenot-berry-bliss/6137536"
+    },
+    {
+      "id": 1459241469,
+      "dt": "2025-02-25T19:52:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V. Salt Mango",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-aliance-p-i-v-salt-mango/6154324"
+    },
+    {
       "id": 1459154325,
       "dt": "2025-02-24T22:40:09+01:00",
       "venue_name": "Pivní ambasáda",
