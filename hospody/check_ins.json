@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1459403263,
+      "dt": "2025-02-26T22:15:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Alkoholfrei",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-alkoholfrei/78975"
+    },
+    {
+      "id": 1459398345,
+      "dt": "2025-02-26T21:51:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Time",
+      "brewery": "Browar Stu Mostów",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/browar-stu-mostow-sour-time/6013686"
+    },
+    {
       "id": 1459260170,
       "dt": "2025-02-25T21:35:09+01:00",
       "venue_name": "Pivní ambasáda",
