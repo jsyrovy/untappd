@@ -1516,6 +1516,13 @@ INSERT INTO "archive" VALUES(1457886268,'2025-02-20 17:31:45.000000','sejrik','M
 INSERT INTO "archive" VALUES(1457894217,'2025-02-20 18:06:32.000000','sejrik','No Idols! Session Rye IPA 11°','Pivovar Clock','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1457909503,'2025-02-20 19:06:52.000000','sejrik','One Magus','Sibeeria','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1459242406,'2025-02-25 18:57:41.000000','sejrik','Crazy Lines #63: The New Wave','Nepo Brewing','Untappd at Home');
+INSERT INTO "archive" VALUES(1459476269,'2025-02-27 10:17:12.000000','sejrik','Volba Sládků: Nečekaný','Plzeňský Prazdroj','Smíchovská Formanka');
+INSERT INTO "archive" VALUES(1459504155,'2025-02-27 17:03:35.000000','sejrik','Nachmelený Benedict','Břevnovský klášterní pivovar sv. Vojtěcha','Pivovarský dům Benedict');
+INSERT INTO "archive" VALUES(1459507049,'2025-02-27 17:19:50.000000','sejrik','Brut IPA 12%','Pivovarský dům Benedict','Pivovarský dům Benedict');
+INSERT INTO "archive" VALUES(1459510822,'2025-02-27 17:38:27.000000','sejrik','Red Archer NEIPA 15','Pivovarský dům Benedict','Pivovarský dům Benedict');
+INSERT INTO "archive" VALUES(1459514390,'2025-02-27 17:54:55.000000','sejrik','Benedict Klášterní IPA','Břevnovský klášterní pivovar sv. Vojtěcha','Pivovarský dům Benedict');
+INSERT INTO "archive" VALUES(1459525322,'2025-02-27 18:40:54.000000','sejrik','New England IPA','Hákův parní pivovar','Hákovna');
+INSERT INTO "archive" VALUES(1459529653,'2025-02-27 18:58:24.000000','sejrik','Tropical Steam 16° - Kveik','Hákův parní pivovar','Hákovna');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
