@@ -13,10 +13,6 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "13° Hop Elixir: Riwaka, Simcoe Cryo & HBC 586",
-      "description": "4,9% alc, piv. Sibeeria, Praha, Session NEIPA"
-    },
-    {
       "name": "13° Silencio",
       "description": "5,1% alc. piv. Crazy Clown, Praha, IPA"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "15° Tubular Stout",
+      "description": "6% alc. piv. JungBerg/Černý Potoka, Stout s Hořickými Trubičky"
     },
     {
       "name": "15° Whore of Babylon",
