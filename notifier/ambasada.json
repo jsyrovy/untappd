@@ -1,8 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Hazy Lazy",
+      "description": "4% alc. piv. Louka, Session New England IPA"
+    },
+    {
       "name": "12° Alianční",
       "description": "5,3% alc. piv. Permon, Sokolov, Mango Gose"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° Masopustní",
@@ -11,14 +19,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Silencio",
-      "description": "5,1% alc. piv. Crazy Clown, Praha, IPA"
-    },
-    {
-      "name": "13° Wheat Session Ale",
-      "description": "5,6% alc. piv. Mordýř, Dolní Ředice, American Wheat Ale"
     },
     {
       "name": "14° Ename Rouge",
