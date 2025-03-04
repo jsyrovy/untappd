@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1460736567,
+      "dt": "2025-03-03T22:11:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Aliance P.I.V. Salt Mango",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-aliance-p-i-v-salt-mango/6154324"
+    },
+    {
+      "id": 1460736382,
+      "dt": "2025-03-03T22:10:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Silencio",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-silencio/6164298"
+    },
+    {
+      "id": 1460726268,
+      "dt": "2025-03-03T21:05:19+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Elixir: Riwaka, Simcoe Cryo, HBC 586",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-hop-elixir-riwaka-simcoe-cryo-hbc-586/5799308"
+    },
+    {
+      "id": 1460725770,
+      "dt": "2025-03-03T21:01:56+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Whore of Babylon Pineapple",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-whore-of-babylon-pineapple/5574568"
+    },
+    {
       "id": 1460554133,
       "dt": "2025-03-02T20:32:45+01:00",
       "venue_name": "Pivní ambasáda",
