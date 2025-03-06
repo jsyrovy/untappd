@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1460993499,
+      "dt": "2025-03-05T21:21:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1460951415,
+      "dt": "2025-03-05T17:58:21+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hazy Lazy",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-hazy-lazy/5352539"
+    },
+    {
+      "id": 1460948931,
+      "dt": "2025-03-05T17:40:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "TRB",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-trb/6152172"
+    },
+    {
+      "id": 1460947011,
+      "dt": "2025-03-05T17:26:10+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Silencio",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-silencio/6164298"
+    },
+    {
+      "id": 1460925762,
+      "dt": "2025-03-05T11:38:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "TRB",
+      "brewery": "černý potoka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/cerny-potoka-trb/6152172"
+    },
+    {
       "id": 1460863536,
       "dt": "2025-03-04T22:35:14+01:00",
       "venue_name": "Pivní ambasáda",
