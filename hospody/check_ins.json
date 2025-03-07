@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1461108535,
+      "dt": "2025-03-06T17:51:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Late Winter",
+      "brewery": "Pivovar Agent",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-agent-late-winter/5229318"
+    },
+    {
+      "id": 1461108296,
+      "dt": "2025-03-06T17:50:17+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Sprout",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-one-sprout/6162552"
+    },
+    {
       "id": 1460993499,
       "dt": "2025-03-05T21:21:54+01:00",
       "venue_name": "Pivní ambasáda",
