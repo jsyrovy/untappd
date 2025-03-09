@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1461972988,
+      "dt": "2025-03-08T23:49:13+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SOUR FRUIT SHOW #11 Pomegranate + Raspberry + Passion Fruit",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-sour-fruit-show-11-pomegranate-raspberry-passion-fruit/6142786"
+    },
+    {
+      "id": 1461968365,
+      "dt": "2025-03-08T23:40:45+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HOPSA HEJZA Vik & Valeč / NEIPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-hopsa-hejza-vik-and-valec-neipa/6171709"
+    },
+    {
+      "id": 1461964246,
+      "dt": "2025-03-08T23:33:26+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #009",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-009/6172857"
+    },
+    {
+      "id": 1461950645,
+      "dt": "2025-03-08T23:10:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HOPSA HEJZA Vik & Valeč / NEIPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-hopsa-hejza-vik-and-valec-neipa/6171709"
+    },
+    {
+      "id": 1461816155,
+      "dt": "2025-03-08T20:02:20+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #009",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-009/6172857"
+    },
+    {
+      "id": 1461803208,
+      "dt": "2025-03-08T19:43:34+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1461783771,
+      "dt": "2025-03-08T19:13:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nebulous Trail",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-nebulous-trail/6179320"
+    },
+    {
+      "id": 1461635722,
+      "dt": "2025-03-08T12:42:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nebulous Trail",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-nebulous-trail/6179320"
+    },
+    {
       "id": 1461504164,
       "dt": "2025-03-07T23:45:27+01:00",
       "venue_name": "U Toulavé pípy",
