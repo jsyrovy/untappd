@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1462215888,
+      "dt": "2025-03-09T19:26:33+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Rainbow of Death",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-rainbow-of-death/2852216"
+    },
+    {
+      "id": 1462206360,
+      "dt": "2025-03-09T19:00:30+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HOPSA HEJZA Vik & Valeč / NEIPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-hopsa-hejza-vik-and-valec-neipa/6171709"
+    },
+    {
+      "id": 1462202534,
+      "dt": "2025-03-09T18:49:48+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #009",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-009/6172857"
+    },
+    {
+      "id": 1462181294,
+      "dt": "2025-03-09T17:48:15+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SOUR FRUIT SHOW #11 Pomegranate + Raspberry + Passion Fruit",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-sour-fruit-show-11-pomegranate-raspberry-passion-fruit/6142786"
+    },
+    {
       "id": 1461972988,
       "dt": "2025-03-08T23:49:13+01:00",
       "venue_name": "Pivní ambasáda",
