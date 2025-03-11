@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1462374346,
+      "dt": "2025-03-10T17:05:50+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HOPSA HEJZA Vik & Valeč / NEIPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-vik-hopsa-hejza-vik-and-valec-neipa/6171709"
+    },
+    {
+      "id": 1462373489,
+      "dt": "2025-03-10T16:55:41+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Evolution #009",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-evolution-009/6172857"
+    },
+    {
       "id": 1462215888,
       "dt": "2025-03-09T19:26:33+01:00",
       "venue_name": "U Toulavé pípy",
