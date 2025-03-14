@@ -21,16 +21,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Sibeeria One Sprout",
-      "description": "5% alc. piv. Sibeeria, Praha, Session IPA"
-    },
-    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
       "name": "14° Hazy Nectaron 24",
       "description": "6% alc. piv. NOZIB, Plzeň, NZ Hazy IPA"
+    },
+    {
+      "name": "15° Grapefruit Lollihop",
+      "description": "6,6% alc. piv. Sibeeria, Praha, IPA w/ Grapefruit"
     }
   ]
 }
