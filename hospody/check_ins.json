@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1463138298,
+      "dt": "2025-03-14T21:46:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kapua Rua",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-kapua-rua/6175405"
+    },
+    {
+      "id": 1463124095,
+      "dt": "2025-03-14T21:24:49+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HAZY NECTARON '24 NZ Hazy IPA",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-hazy-nectaron-24-nz-hazy-ipa/6142772"
+    },
+    {
+      "id": 1463106148,
+      "dt": "2025-03-14T20:57:23+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Lollihop",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grapefruit-lollihop/2620360"
+    },
+    {
       "id": 1462895128,
       "dt": "2025-03-14T00:08:22+01:00",
       "venue_name": "U Toulavé pípy",
