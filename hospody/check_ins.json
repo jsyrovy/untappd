@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1463892181,
+      "dt": "2025-03-16T19:06:44+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Baterka",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-baterka/2566025"
+    },
+    {
+      "id": 1463882527,
+      "dt": "2025-03-16T18:40:39+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Svatý Patrik",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-svaty-patrik/4223167"
+    },
+    {
+      "id": 1463875742,
+      "dt": "2025-03-16T18:22:55+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grapefruit Lollihop",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grapefruit-lollihop/2620360"
+    },
+    {
+      "id": 1463864665,
+      "dt": "2025-03-16T17:52:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kapua Rua",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-kapua-rua/6175405"
+    },
+    {
+      "id": 1463863373,
+      "dt": "2025-03-16T17:49:18+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Granát 12",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-granat-12/474047"
+    },
+    {
       "id": 1463624153,
       "dt": "2025-03-15T22:18:17+01:00",
       "venue_name": "U Toulavé pípy",
