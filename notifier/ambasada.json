@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "12° Akumulátor",
-      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
+      "name": "11° Blaníkör",
+      "description": "4,6% alc. Sibeeria/Oerlikon, Czech Pale Lager"
     },
     {
-      "name": "12° Alianční",
-      "description": "5,3% alc. piv. Permon, Sokolov, Mango Gose"
+      "name": "12° Akumulátor",
+      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
     },
     {
       "name": "12° Granát",
@@ -21,16 +21,16 @@
       "description": "5,3% alc. Beskydský Pivovárek, Zelený Ale"
     },
     {
+      "name": "13° Pinkboots",
+      "description": "5,6% alc. piv. Vik, Praha, Raspberry Sour Ale"
+    },
+    {
+      "name": "14° Australian",
+      "description": "6,1% alc. piv. Louka, IPA"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "15° Baterka",
-      "description": "6,2% alc. piv. Volt, Jablonec nad Nisou, IPA"
-    },
-    {
-      "name": "15° Grapefruit Lollihop",
-      "description": "6,6% alc. piv. Sibeeria, Praha, IPA w/ Grapefruit"
     }
   ]
 }
