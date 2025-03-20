@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Blaníkör",
-      "description": "4,6% alc. Sibeeria/Oerlikon, Czech Pale Lager"
-    },
-    {
       "name": "12° Akumulátor",
       "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Muderlant",
+      "description": "5,2% alc. piv. Rampušák, Dobruška, Polotmavý Ležák"
     },
     {
       "name": "13° Pinkboots",
