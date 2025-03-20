@@ -1536,6 +1536,7 @@ INSERT INTO "archive" VALUES(1463547882,'2025-03-15 19:41:54.000000','sejrik','R
 INSERT INTO "archive" VALUES(1463864665,'2025-03-16 16:52:54.000000','sejrik','Kapua Rua','MadCat','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1463875742,'2025-03-16 17:22:55.000000','sejrik','Grapefruit Lollihop','Sibeeria Brewery','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1463892181,'2025-03-16 18:06:44.000000','sejrik','Baterka','Pivovar Volt','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1464398060,'2025-03-19 19:47:32.000000','sejrik','California 12°','Pivovar Matuška','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
