@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1464446662,
+      "dt": "2025-03-20T00:15:07+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy Krush",
+      "brewery": "Pivovar Permon",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-permon-hazy-krush/6181283"
+    },
+    {
+      "id": 1464441180,
+      "dt": "2025-03-19T23:49:20+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Neon",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-neon/3021224"
+    },
+    {
+      "id": 1464432081,
+      "dt": "2025-03-19T23:08:32+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pinkboots IPA",
+      "brewery": "Gorilla Brewing Company",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/gorilla-brewing-company-pinkboots-ipa/3936620"
+    },
+    {
+      "id": 1464419726,
+      "dt": "2025-03-19T22:16:01+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Australian IPA 14",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-australian-ipa-14/4194092"
+    },
+    {
+      "id": 1464396570,
+      "dt": "2025-03-19T20:41:40+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blaníkör",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-blanikor/6171133"
+    },
+    {
+      "id": 1464391092,
+      "dt": "2025-03-19T20:19:23+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Aecht Schlenkerla Weichsel – Rotbier",
+      "brewery": "Schlenkerla (\"Heller-Bräu\" Trum)",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/schlenkerla-heller-brau-trum-aecht-schlenkerla-weichsel-rotbier/5410148"
+    },
+    {
+      "id": 1464371273,
+      "dt": "2025-03-19T18:53:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Blaníkör",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-blanikor/6171133"
+    },
+    {
+      "id": 1464349934,
+      "dt": "2025-03-19T16:40:58+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MITZI SESSION IPA",
+      "brewery": "TEKTONIK ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/tektonik-mitzi-session-ipa/3538070"
+    },
+    {
+      "id": 1464348980,
+      "dt": "2025-03-19T16:31:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "MITZI SESSION IPA",
+      "brewery": "TEKTONIK ",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/tektonik-mitzi-session-ipa/3538070"
+    },
+    {
       "id": 1464270710,
       "dt": "2025-03-18T22:29:54+01:00",
       "venue_name": "Pivní ambasáda",
