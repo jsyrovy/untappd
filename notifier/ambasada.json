@@ -1,36 +1,36 @@
 {
   "beers": [
     {
-      "name": "12° Akumulátor",
-      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
-    },
-    {
-      "name": "12° Granát",
-      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Polotmavý Ležák"
+      "name": "11° Dobrušská",
+      "description": "4,4% alc. piv. Rampušák, Dobruška, Světlý Ležák"
     },
     {
       "name": "12° Moja Dáma Života",
       "description": "4,7% alc. piv. Valášek, Vsetín, New England Pale ALE"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Rampušák",
+      "description": "4,9% alc. piv. Rampušák, Dobruška, Světlý Ležák"
     },
     {
       "name": "13° Muderlant",
       "description": "5,2% alc. piv. Rampušák, Dobruška, Polotmavý Ležák"
     },
     {
-      "name": "13° Pinkboots",
-      "description": "5,6% alc. piv. Vik, Praha, Raspberry Sour Ale"
-    },
-    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "14° No Idols!",
-      "description": "6,1% alc. piv. Clock, Potštejn, West Coast IPA"
+      "name": "14° Prostě IPA",
+      "description": "6,1% alc. piv. Rampušák, Dobruška, IPA"
+    },
+    {
+      "name": "15° F. L. Věk",
+      "description": "6,1% alc. piv. Rampušák, Dobruška, Světlý Ležák"
+    },
+    {
+      "name": "15° Milkshake Jahoda a Vanilka",
+      "description": "6,2% alc. piv. Rampušák, Dobruška, Fruit Milkshake IPA"
     }
   ]
 }
