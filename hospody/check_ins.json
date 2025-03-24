@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1465785428,
+      "dt": "2025-03-24T03:33:15+01:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "KRUSH TEST",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-krush-test/6142988"
+    },
+    {
+      "id": 1465713203,
+      "dt": "2025-03-23T21:48:52+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dobrušská 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-dobrusska-11/654837"
+    },
+    {
+      "id": 1465654301,
+      "dt": "2025-03-23T19:23:28+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dobrušská 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-dobrusska-11/654837"
+    },
+    {
+      "id": 1465646155,
+      "dt": "2025-03-23T19:01:47+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Milkshake IPA",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-milkshake-ipa/4716880"
+    },
+    {
+      "id": 1465629046,
+      "dt": "2025-03-23T18:15:51+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1465621205,
+      "dt": "2025-03-23T17:54:02+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PROSTĚ IPA 14",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-proste-ipa-14/6198521"
+    },
+    {
+      "id": 1465618465,
+      "dt": "2025-03-23T17:45:57+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Krásná paní",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-krasna-pani/2415440"
+    },
+    {
+      "id": 1465609322,
+      "dt": "2025-03-23T17:18:59+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PROSTĚ IPA 14",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-proste-ipa-14/6198521"
+    },
+    {
       "id": 1465520323,
       "dt": "2025-03-23T04:02:49+01:00",
       "venue_name": "U Toulavé pípy",
