@@ -5,6 +5,10 @@
       "description": "8,7% alc. To Øl Brewery, Dánsko, Double IPA, 0,3l"
     },
     {
+      "name": "12° Akumulátor",
+      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
+    },
+    {
       "name": "12° Galaxy",
       "description": "5,1% alc. piv. Rampušák, Dobruška, IPL"
     },
@@ -21,16 +25,12 @@
       "description": "8,3% alc. piv. Pivečka, Rousínov, Fruit Brut IPA"
     },
     {
-      "name": "13° Muderlant",
-      "description": "5,2% alc. piv. Rampušák, Dobruška, Polotmavý Ležák"
-    },
-    {
       "name": "13° Pinkboots",
       "description": "5,6% alc. piv. Vik, Praha, Raspberry Sour Ale"
     },
     {
-      "name": "15° F. L. Věk",
-      "description": "6,1% alc. piv. Rampušák, Dobruška, Světlý Ležák"
+      "name": "14° Nebulous Trail",
+      "description": "6% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
