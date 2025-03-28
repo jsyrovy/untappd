@@ -5,10 +5,6 @@
       "description": "8,7% alc. To Øl Brewery, Dánsko, Double IPA, 0,3l"
     },
     {
-      "name": "12° Akumulátor",
-      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
-    },
-    {
       "name": "12° Galaxy",
       "description": "5,1% alc. piv. Rampušák, Dobruška, IPL"
     },
@@ -27,6 +23,10 @@
     {
       "name": "13° Ananas Extra Brut",
       "description": "8,3% alc. piv. Pivečka, Rousínov, Fruit Brut IPA"
+    },
+    {
+      "name": "13° Wheat Session Ale",
+      "description": "5,4% alc. piv. Mordýř, Dolní Ředice, American Pale Wheat"
     },
     {
       "name": "14° Nebulous Trail",
