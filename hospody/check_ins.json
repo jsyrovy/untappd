@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1466356756,
+      "dt": "2025-03-28T00:29:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pineapple Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-pineapple-infused-extra-brut-ipa/6136166"
+    },
+    {
+      "id": 1466355338,
+      "dt": "2025-03-28T00:23:35+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "#DIPA",
+      "brewery": "To Øl",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/to-ol-dipa/4028211"
+    },
+    {
+      "id": 1466249493,
+      "dt": "2025-03-27T18:32:54+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Nebulous Trail",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-nebulous-trail/6179320"
+    },
+    {
+      "id": 1466246719,
+      "dt": "2025-03-27T18:21:14+01:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pineapple Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-pineapple-infused-extra-brut-ipa/6136166"
+    },
+    {
       "id": 1466197598,
       "dt": "2025-03-27T04:23:20+01:00",
       "venue_name": "U Toulavé pípy",
