@@ -1543,6 +1543,7 @@ INSERT INTO "archive" VALUES(1465618465,'2025-03-23 16:45:57.000000','sejrik','K
 INSERT INTO "archive" VALUES(1465621205,'2025-03-23 16:54:02.000000','sejrik','PROSTĚ IPA 14','Rodinný pivovar Rampušák','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1465646155,'2025-03-23 18:01:47.000000','sejrik','Milkshake IPA','Rodinný pivovar Rampušák','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1465654301,'2025-03-23 18:23:28.000000','sejrik','Dobrušská 11','Rodinný pivovar Rampušák','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1467082896,'2025-03-29 21:14:14.000000','sejrik','Polish Hazy IPA: Amora Preta x Książęcy','ReCraft','Apartamenty pod Gondolą');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
