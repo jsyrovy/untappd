@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1467430598,
+      "dt": "2025-03-30T23:26:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Digger",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hop-digger/6179323"
+    },
+    {
+      "id": 1467327844,
+      "dt": "2025-03-30T18:30:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1467323406,
+      "dt": "2025-03-30T18:17:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Digger",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hop-digger/6179323"
+    },
+    {
+      "id": 1467314989,
+      "dt": "2025-03-30T17:48:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pineapple Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-pineapple-infused-extra-brut-ipa/6136166"
+    },
+    {
+      "id": 1467291811,
+      "dt": "2025-03-30T16:16:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Tropic Edge",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-tropic-edge/3495180"
+    },
+    {
+      "id": 1467287402,
+      "dt": "2025-03-30T15:57:45+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sabrotage!",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-sabrotage/5711598"
+    },
+    {
+      "id": 1467282280,
+      "dt": "2025-03-30T15:33:47+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-deg-svetly-lezak/850661"
+    },
+    {
+      "id": 1467249177,
+      "dt": "2025-03-30T10:20:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pineapple Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-pineapple-infused-extra-brut-ipa/6136166"
+    },
+    {
+      "id": 1467249085,
+      "dt": "2025-03-30T10:17:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Malinois",
+      "brewery": "Pivovar HoppyDog",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hoppydog-malinois/3651144"
+    },
+    {
       "id": 1466618306,
       "dt": "2025-03-28T22:25:17+01:00",
       "venue_name": "U Toulavé pípy",
