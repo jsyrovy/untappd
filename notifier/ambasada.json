@@ -9,16 +9,20 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Pocta Žatci",
-      "description": "4,3% alc. piv. Dobrák, Pale Ale"
-    },
-    {
       "name": "11° Sršeň v Černém Rybízu",
       "description": "3% alc. piv. Hangár, Praha, Fruit Sour Ale"
     },
     {
+      "name": "12° Eclipse",
+      "description": "4,9% alc. piv. Jungberg, Hořice, Single Hop Ale"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Výtržník",
+      "description": "5% alc. piv. Valášek, Vsetín, NEIPA"
     },
     {
       "name": "13° Mezipatro",
