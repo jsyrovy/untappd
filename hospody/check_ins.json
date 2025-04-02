@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1467649256,
+      "dt": "2025-04-01T19:34:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Digger",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hop-digger/6179323"
+    },
+    {
+      "id": 1467632601,
+      "dt": "2025-04-01T17:51:21+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pineapple Infused Extra Brut IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-pineapple-infused-extra-brut-ipa/6136166"
+    },
+    {
+      "id": 1467627402,
+      "dt": "2025-04-01T17:02:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Digger",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hop-digger/6179323"
+    },
+    {
+      "id": 1467624896,
+      "dt": "2025-04-01T16:31:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "#DIPA",
+      "brewery": "To Øl",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/to-ol-dipa/4028211"
+    },
+    {
       "id": 1467576712,
       "dt": "2025-04-01T00:42:12+02:00",
       "venue_name": "U Toulavé pípy",
