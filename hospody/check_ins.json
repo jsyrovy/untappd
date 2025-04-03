@@ -1,6 +1,105 @@
 {
   "check_ins": [
     {
+      "id": 1467840475,
+      "dt": "2025-04-02T23:17:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Happy Solitude",
+      "brewery": "Parník",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/parnik-happy-solitude/6075715"
+    },
+    {
+      "id": 1467838777,
+      "dt": "2025-04-02T23:08:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Happy Solitude",
+      "brewery": "Parník",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/parnik-happy-solitude/6075715"
+    },
+    {
+      "id": 1467832394,
+      "dt": "2025-04-02T22:34:51+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mezipatro",
+      "brewery": "Haksna Brewery",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/haksna-brewery-mezipatro/5652675"
+    },
+    {
+      "id": 1467831651,
+      "dt": "2025-04-02T22:31:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Výtržník",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-vytrznik/4294495"
+    },
+    {
+      "id": 1467826062,
+      "dt": "2025-04-02T22:05:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mezipatro",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-mezipatro/5652675"
+    },
+    {
+      "id": 1467803208,
+      "dt": "2025-04-02T20:30:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mezipatro",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-mezipatro/5652675"
+    },
+    {
+      "id": 1467795741,
+      "dt": "2025-04-02T19:58:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sršeň v černém rybízu",
+      "brewery": "Pivovar Hangár",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-hangar-srsen-v-cernem-rybizu/5471904"
+    },
+    {
+      "id": 1467789253,
+      "dt": "2025-04-02T19:29:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "We Are From Exit",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-we-are-from-exit/6179325"
+    },
+    {
+      "id": 1467785581,
+      "dt": "2025-04-02T19:12:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "We Are From Exit",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-we-are-from-exit/6179325"
+    },
+    {
+      "id": 1467782003,
+      "dt": "2025-04-02T18:55:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Druhé Mezipatro",
+      "brewery": "Falkon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/falkon-druhe-mezipatro/6197522"
+    },
+    {
+      "id": 1467762079,
+      "dt": "2025-04-02T16:43:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Alma De La Vera 2024",
+      "brewery": "Fenetra",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/fenetra-alma-de-la-vera-2024/5771703"
+    },
+    {
       "id": 1467649256,
       "dt": "2025-04-01T19:34:22+02:00",
       "venue_name": "Pivní ambasáda",
