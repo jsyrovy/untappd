@@ -5,16 +5,16 @@
       "description": "8,7% alc. To Øl Brewery, Dánsko, Double IPA, 0,3l"
     },
     {
+      "name": "11° All Horses are Beautiful",
+      "description": "4,5% alc. piv. Crazy Clown, Praha, Session NEIPA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Sršeň v Černém Rybízu",
-      "description": "3% alc. piv. Hangár, Praha, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Eclipse",
-      "description": "4,9% alc. piv. Jungberg, Hořice, Single Hop Ale"
+      "name": "11° Sour Cherry & Hibiscus",
+      "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Sour Ale"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -25,8 +25,8 @@
       "description": "5% alc. piv. Valášek, Vsetín, NEIPA"
     },
     {
-      "name": "13° Mezipatro",
-      "description": "5,6% alc. piv. Haksna/Falkon, DDH IPA"
+      "name": "15° God is Dead",
+      "description": "6,4% alc. piv. Crazy Clown, Praha, Belgian Vanilla Ale"
     },
     {
       "name": "19° We are from Exit",
