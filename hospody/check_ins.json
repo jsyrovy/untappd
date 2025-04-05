@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1468165532,
+      "dt": "2025-04-04T17:38:48+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-deg-svetly-lezak/850661"
+    },
+    {
+      "id": 1468148720,
+      "dt": "2025-04-04T16:50:21+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1468148190,
+      "dt": "2025-04-04T16:48:35+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Venuše & Kazbek",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-venuse-and-kazbek/6213932"
+    },
+    {
       "id": 1468020834,
       "dt": "2025-04-03T22:59:24+02:00",
       "venue_name": "Pivní ambasáda",
