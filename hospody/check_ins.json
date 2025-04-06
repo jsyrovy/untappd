@@ -1,6 +1,87 @@
 {
   "check_ins": [
     {
+      "id": 1468669617,
+      "dt": "2025-04-05T19:32:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "#DIPA",
+      "brewery": "To Øl",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/to-ol-dipa/4028211"
+    },
+    {
+      "id": 1468650005,
+      "dt": "2025-04-05T19:04:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Session Wheat Ale 13",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-session-wheat-ale-13/5425579"
+    },
+    {
+      "id": 1468649223,
+      "dt": "2025-04-05T19:03:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "All Horses Are Beautiful",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-all-horses-are-beautiful/6185334"
+    },
+    {
+      "id": 1468648885,
+      "dt": "2025-04-05T19:03:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "God Is Dead",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-god-is-dead/1506990"
+    },
+    {
+      "id": 1468625685,
+      "dt": "2025-04-05T18:27:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mordýř 11",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306"
+    },
+    {
+      "id": 1468565230,
+      "dt": "2025-04-05T16:31:09+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "APACHICHI",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-apachichi/6210704"
+    },
+    {
+      "id": 1468558506,
+      "dt": "2025-04-05T16:15:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° světlý ležák",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-deg-svetly-lezak/850661"
+    },
+    {
+      "id": 1468485890,
+      "dt": "2025-04-05T10:16:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "GWBC Best of Show By Radim Kuba 16",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-gwbc-best-of-show-by-radim-kuba-16/6030140"
+    },
+    {
+      "id": 1468485716,
+      "dt": "2025-04-05T10:13:25+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Alma De La Vera 2024",
+      "brewery": "Fenetra",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/fenetra-alma-de-la-vera-2024/5771703"
+    },
+    {
       "id": 1468165532,
       "dt": "2025-04-04T17:38:48+02:00",
       "venue_name": "Loď Otava",
