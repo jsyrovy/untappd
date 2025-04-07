@@ -1547,6 +1547,7 @@ INSERT INTO "archive" VALUES(1467082896,'2025-03-29 21:14:14.000000','sejrik','P
 INSERT INTO "archive" VALUES(1467554116,'2025-03-31 20:02:27.000000','sejrik','Polish Hazy IPA Pałacowy & Zibi','ReCraft','Apartamenty pod Gondolą');
 INSERT INTO "archive" VALUES(1468327873,'2025-04-04 20:33:59.000000','sejrik','IPA To GO: Formal','PINTA','Untappd at Home');
 INSERT INTO "archive" VALUES(1468357949,'2025-04-04 21:34:27.000000','sejrik','IPA to GO: Arrive','PINTA','Untappd at Home');
+INSERT INTO "archive" VALUES(1469124713,'2025-04-06 19:04:14.000000','sejrik','Protinožec','Pivovar Volt','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
