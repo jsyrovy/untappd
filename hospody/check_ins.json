@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1469435902,
+      "dt": "2025-04-08T22:17:13+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Alma De La Vera 2025",
+      "brewery": "Fenetra",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/fenetra-alma-de-la-vera-2025/6205424"
+    },
+    {
+      "id": 1469429926,
+      "dt": "2025-04-08T21:48:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Simcoe Session ALE 12",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-simcoe-session-ale-12/5946792"
+    },
+    {
+      "id": 1469429704,
+      "dt": "2025-04-08T21:47:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Cross Pacific Hopline 14",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-cross-pacific-hopline-14/6211284"
+    },
+    {
+      "id": 1469374307,
+      "dt": "2025-04-08T16:07:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Observing Owl",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-observing-owl/6199215"
+    },
+    {
       "id": 1469283023,
       "dt": "2025-04-07T20:35:19+02:00",
       "venue_name": "Pivní ambasáda",
