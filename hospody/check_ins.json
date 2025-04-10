@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1469549242,
+      "dt": "2025-04-09T19:45:06+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Observing Owl",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-observing-owl/6199215"
+    },
+    {
+      "id": 1469542455,
+      "dt": "2025-04-09T19:14:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Topaz 11 Single Hop",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-topaz-11-single-hop/5791593"
+    },
+    {
+      "id": 1469542271,
+      "dt": "2025-04-09T19:13:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Observing Owl",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-observing-owl/6199215"
+    },
+    {
+      "id": 1469505722,
+      "dt": "2025-04-09T13:35:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour Cherry & Hibiscus",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-sour-cherry-and-hibiscus/4987929"
+    },
+    {
       "id": 1469435902,
       "dt": "2025-04-08T22:17:13+02:00",
       "venue_name": "U Toulavé pípy",
