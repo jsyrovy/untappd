@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1469797976,
+      "dt": "2025-04-11T00:23:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juniper Dryad",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-juniper-dryad/6208875"
+    },
+    {
+      "id": 1469797566,
+      "dt": "2025-04-11T00:21:29+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Lady Dee",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-lady-dee/5988319"
+    },
+    {
+      "id": 1469762541,
+      "dt": "2025-04-10T22:00:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Alkoholfrei",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-alkoholfrei/78975"
+    },
+    {
+      "id": 1469756692,
+      "dt": "2025-04-10T21:41:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "FRESH / America Pale Ale",
+      "brewery": "Pivovar Vik",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-vik-fresh-america-pale-ale/5194791"
+    },
+    {
+      "id": 1469725652,
+      "dt": "2025-04-10T20:01:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Observing Owl",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-observing-owl/6199215"
+    },
+    {
+      "id": 1469701920,
+      "dt": "2025-04-10T18:32:05+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Lady Dee",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-lady-dee/5988319"
+    },
+    {
       "id": 1469549242,
       "dt": "2025-04-09T19:45:06+02:00",
       "venue_name": "Pivní ambasáda",
