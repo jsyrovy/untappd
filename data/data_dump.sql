@@ -1550,6 +1550,12 @@ INSERT INTO "archive" VALUES(1468357949,'2025-04-04 21:34:27.000000','sejrik','I
 INSERT INTO "archive" VALUES(1469124713,'2025-04-06 19:04:14.000000','sejrik','Protinožec','Pivovar Volt','Untappd at Home');
 INSERT INTO "archive" VALUES(1469411422,'2025-04-08 18:22:43.000000','sejrik','Jura','Chroust','Untappd at Home');
 INSERT INTO "archive" VALUES(1469740126,'2025-04-10 18:49:08.000000','sejrik','Brewstock Juice 15','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1469881248,'2025-04-11 12:52:40.000000','sejrik','Krahulík 10','Rodinný pivovar Zichovec','Pivovar a pivní bar Zichovec');
+INSERT INTO "archive" VALUES(1469881352,'2025-04-11 12:53:28.000000','sejrik','Birell Za Studena Chmelený','Plzeňský Prazdroj','Untappd at Home');
+INSERT INTO "archive" VALUES(1469900778,'2025-04-11 14:39:52.000000','sejrik','Černé 13','Rodinný pivovar Zichovec','Pivovar a pivní bar Zichovec');
+INSERT INTO "archive" VALUES(1469962791,'2025-04-11 17:14:26.000000','sejrik','Kartel West Coast Pilsner 12 (duben 2025)','Rodinný pivovar Zichovec','Penzion Zichovec');
+INSERT INTO "archive" VALUES(1469981834,'2025-04-11 17:49:19.000000','sejrik','Mosaic Ale 12','Rodinný pivovar Zichovec','Penzion Zichovec');
+INSERT INTO "archive" VALUES(1470030483,'2025-04-11 19:10:47.000000','sejrik','Magor 15','Rodinný pivovar Zichovec','Penzion Zichovec');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
