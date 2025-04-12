@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1469968605,
+      "dt": "2025-04-11T19:25:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "APACHICHI",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-apachichi/6210704"
+    },
+    {
+      "id": 1469953933,
+      "dt": "2025-04-11T18:57:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° zelený ležák s kopřivou",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-deg-zeleny-lezak-s-koprivou/1036772"
+    },
+    {
       "id": 1469797976,
       "dt": "2025-04-11T00:23:22+02:00",
       "venue_name": "Pivní ambasáda",
