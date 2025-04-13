@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1470654759,
+      "dt": "2025-04-13T01:38:47+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oud Brünn",
+      "brewery": "Wild Creatures",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/wild-creatures-oud-brunn/6197480"
+    },
+    {
+      "id": 1470567637,
+      "dt": "2025-04-12T22:48:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mount Taranaki",
+      "brewery": "Chroust",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/chroust-mount-taranaki/6195410"
+    },
+    {
+      "id": 1470506302,
+      "dt": "2025-04-12T21:24:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Coconut Juicy Lucy 15",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-coconut-juicy-lucy-15/3432277"
+    },
+    {
+      "id": 1470472990,
+      "dt": "2025-04-12T20:41:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hawaii 17",
+      "brewery": "Pivovar Louka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-louka-hawaii-17/5157931"
+    },
+    {
+      "id": 1470472119,
+      "dt": "2025-04-12T20:40:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juniper Dryad",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-juniper-dryad/6208875"
+    },
+    {
+      "id": 1470470526,
+      "dt": "2025-04-12T20:38:00+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "APA",
+      "brewery": "Tvarg ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tvarg-apa/4244138"
+    },
+    {
+      "id": 1470470174,
+      "dt": "2025-04-12T20:37:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pornstar Lady Dee",
+      "brewery": "Crazy Clown Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/crazy-clown-brewery-pornstar-lady-dee/5988319"
+    },
+    {
+      "id": 1470345777,
+      "dt": "2025-04-12T17:29:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fruit Ale",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-fruit-ale/6225102"
+    },
+    {
+      "id": 1470317937,
+      "dt": "2025-04-12T16:33:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "APACHICHI",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-apachichi/6210704"
+    },
+    {
+      "id": 1470316438,
+      "dt": "2025-04-12T16:30:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° zelený ležák s kopřivou",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-deg-zeleny-lezak-s-koprivou/1036772"
+    },
+    {
+      "id": 1470276134,
+      "dt": "2025-04-12T14:46:29+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fruit Ale",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-fruit-ale/6225102"
+    },
+    {
+      "id": 1470243951,
+      "dt": "2025-04-12T12:21:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Juniper Dryad",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-juniper-dryad/6208875"
+    },
+    {
       "id": 1469968605,
       "dt": "2025-04-11T19:25:21+02:00",
       "venue_name": "U Toulavé pípy",
