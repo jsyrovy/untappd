@@ -1556,6 +1556,13 @@ INSERT INTO "archive" VALUES(1469900778,'2025-04-11 14:39:52.000000','sejrik','�
 INSERT INTO "archive" VALUES(1469962791,'2025-04-11 17:14:26.000000','sejrik','Kartel West Coast Pilsner 12 (duben 2025)','Rodinný pivovar Zichovec','Penzion Zichovec');
 INSERT INTO "archive" VALUES(1469981834,'2025-04-11 17:49:19.000000','sejrik','Mosaic Ale 12','Rodinný pivovar Zichovec','Penzion Zichovec');
 INSERT INTO "archive" VALUES(1470030483,'2025-04-11 19:10:47.000000','sejrik','Magor 15','Rodinný pivovar Zichovec','Penzion Zichovec');
+INSERT INTO "archive" VALUES(1470246705,'2025-04-12 10:40:45.000000','sejrik','Lanýž Světlý Ležák 11°','Dvůr Perlová Voda','Dvůr Perlová voda');
+INSERT INTO "archive" VALUES(1470250319,'2025-04-12 11:02:47.000000','sejrik','Lanýž 14° IPA','Dvůr Perlová Voda','Dvůr Perlová voda');
+INSERT INTO "archive" VALUES(1470279404,'2025-04-12 12:57:18.000000','sejrik','Jarní Speciál 2025','Bernard Family Brewery','hostinec u helly - pátek');
+INSERT INTO "archive" VALUES(1470319867,'2025-04-12 14:37:52.000000','sejrik','Bayern Weisse 12','Rodinný pivovar Zichovec','Pivovar a pivní bar Zichovec');
+INSERT INTO "archive" VALUES(1470343724,'2025-04-12 15:25:56.000000','sejrik','GWBC Best of Show By Radim Kuba 16','Radim Kuba 16 by  Rodinný pivovar Zichovec','Pivovar a pivní bar Zichovec');
+INSERT INTO "archive" VALUES(1470506457,'2025-04-12 19:24:19.000000','sejrik','Krahulík 11','Rodinný pivovar Zichovec','Penzion Zichovec');
+INSERT INTO "archive" VALUES(1470624274,'2025-04-12 22:26:40.000000','sejrik','Cross Pacific Hopline 14','Rodinný pivovar Zichovec','Penzion Zichovec');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
