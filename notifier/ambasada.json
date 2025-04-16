@@ -1,12 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° Pornstar Lady Dee",
-      "description": "4,8% alc. piv. Crazy Clown, Praha, Fruit Sour Ale"
+      "name": "11° Zelený Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Zelený Ležák"
     },
     {
       "name": "12° American Pale Ale",
@@ -31,6 +27,10 @@
     {
       "name": "14° Oud Brünn",
       "description": "6,4% alc. piv. Wild Creatures/Malt Worm, Oude Bruin, 0,25l"
+    },
+    {
+      "name": "14° Zelený Růžek",
+      "description": "3,3% alc. piv. Upside Down, Pastry Sour s kiwi, angreštem, pistáciemi a bílou čokoládou"
     }
   ]
 }
