@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Zelený Ležák"
     },
     {
+      "name": "12° Philadelphia Mango & Maracuja",
+      "description": "4% alc. piv. Obora, Malšice, Fruit Sour Ale"
+    },
+    {
       "name": "12° Velikonoční",
       "description": "5% alc. piv. Malešov, Velikonoční Ležák"
     },
@@ -27,10 +31,6 @@
     {
       "name": "14° Oud Brünn",
       "description": "6,4% alc. piv. Wild Creatures/Malt Worm, Oude Bruin, 0,25l"
-    },
-    {
-      "name": "14° Zelený Růžek",
-      "description": "3,3% alc. piv. Upside Down, Pastry Sour s kiwi, angreštem, pistáciemi a bílou čokoládou"
     }
   ]
 }
