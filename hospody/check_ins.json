@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1471374404,
+      "dt": "2025-04-16T20:35:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kynšperský Zajíc 12° zelený ležák s kopřivou",
+      "brewery": "Kynšperský pivovar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kynspersky-pivovar-kynspersky-zajic-12-deg-zeleny-lezak-s-koprivou/1036772"
+    },
+    {
+      "id": 1471323683,
+      "dt": "2025-04-16T16:55:31+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Juicy IPA 14°",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-juicy-ipa-14-deg/6186498"
+    },
+    {
       "id": 1471211097,
       "dt": "2025-04-15T21:04:18+02:00",
       "venue_name": "Pivní ambasáda",
