@@ -5,20 +5,20 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Zelený Ležák"
     },
     {
-      "name": "12° American Pale Ale",
-      "description": "5,2% alc. piv. Pivečka, Rousínov, APA"
-    },
-    {
-      "name": "12° Maisels Weisse",
-      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
       "name": "12° Velikonoční",
       "description": "5% alc. piv. Malešov, Velikonoční Ležák"
     },
     {
+      "name": "12° Velikonoční Speciál",
+      "description": "5,2% alc. Beskydský Pivovárek, Ostravice, Zelený Ale"
+    },
+    {
       "name": "12° Vyšlehaná Kraslice",
       "description": "5% alc. piv. Antoš, Slaný, APA"
+    },
+    {
+      "name": "12° Zelená",
+      "description": "5,4% alc. piv. Křikloun, Hodonín, Ale"
     },
     {
       "name": "13° Kurtizána Zelená",
