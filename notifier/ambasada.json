@@ -1,8 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Zelený Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, Zelený Ležák"
+      "name": "11° Liquid Luck",
+      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
+    },
+    {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Milionář",
+      "description": "5,1% alc. piv. Malešov, Pale Ale"
     },
     {
       "name": "12° Philadelphia Mango & Maracuja",
@@ -11,14 +19,6 @@
     {
       "name": "12° Velikonoční",
       "description": "5% alc. piv. Malešov, Velikonoční Ležák"
-    },
-    {
-      "name": "12° Velikonoční Speciál",
-      "description": "5,2% alc. Beskydský Pivovárek, Ostravice, Zelený Ale"
-    },
-    {
-      "name": "12° Vyšlehaná Kraslice",
-      "description": "5% alc. piv. Antoš, Slaný, APA"
     },
     {
       "name": "12° Zelená",
