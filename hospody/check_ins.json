@@ -1,6 +1,204 @@
 {
   "check_ins": [
     {
+      "id": 1471674671,
+      "dt": "2025-04-17T23:46:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Erdbeer Porter",
+      "brewery": "Bergquell Brauerei Löbau",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/bergquell-brauerei-lobau-erdbeer-porter/46157"
+    },
+    {
+      "id": 1471673131,
+      "dt": "2025-04-17T23:41:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Liquid Luck",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-liquid-luck/5141491"
+    },
+    {
+      "id": 1471605317,
+      "dt": "2025-04-17T20:52:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vyšlehaná Kraslice",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-vyslehana-kraslice/4784735"
+    },
+    {
+      "id": 1471596039,
+      "dt": "2025-04-17T20:31:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelený Růžek",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-zeleny-ruzek/6225726"
+    },
+    {
+      "id": 1471591673,
+      "dt": "2025-04-17T20:21:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelená Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zelena-kurtizana/2041473"
+    },
+    {
+      "id": 1471585272,
+      "dt": "2025-04-17T20:05:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velikonoční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-velikonocni-special/2038814"
+    },
+    {
+      "id": 1471585039,
+      "dt": "2025-04-17T20:05:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oud Brünn",
+      "brewery": "Wild Creatures",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/wild-creatures-oud-brunn/6197480"
+    },
+    {
+      "id": 1471584384,
+      "dt": "2025-04-17T20:03:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Oud Brünn",
+      "brewery": "Wild Creatures",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/wild-creatures-oud-brunn/6197480"
+    },
+    {
+      "id": 1471583403,
+      "dt": "2025-04-17T20:01:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velikonoční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-velikonocni-special/2038814"
+    },
+    {
+      "id": 1471581110,
+      "dt": "2025-04-17T19:55:24+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelený Růžek",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-zeleny-ruzek/6225726"
+    },
+    {
+      "id": 1471577593,
+      "dt": "2025-04-17T19:46:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velikonoční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-velikonocni-special/2038814"
+    },
+    {
+      "id": 1471571600,
+      "dt": "2025-04-17T19:31:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelený Růžek",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-zeleny-ruzek/6225726"
+    },
+    {
+      "id": 1471569099,
+      "dt": "2025-04-17T19:24:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Velikonoční speciál",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-velikonocni-special/2038814"
+    },
+    {
+      "id": 1471563469,
+      "dt": "2025-04-17T19:09:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelená Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zelena-kurtizana/2041473"
+    },
+    {
+      "id": 1471550072,
+      "dt": "2025-04-17T18:31:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Křikloun Ale 12 Zelené Pivo 12",
+      "brewery": "Křikloun",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krikloun-krikloun-ale-12-zelene-pivo-12/4222654"
+    },
+    {
+      "id": 1471547507,
+      "dt": "2025-04-17T18:24:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelený Růžek",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-zeleny-ruzek/6225726"
+    },
+    {
+      "id": 1471541918,
+      "dt": "2025-04-17T18:05:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelený Růžek",
+      "brewery": "Magic Road",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/magic-road-zeleny-ruzek/5296097"
+    },
+    {
+      "id": 1471541789,
+      "dt": "2025-04-17T18:05:10+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Zelený Růžek",
+      "brewery": "Upside Down",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/upside-down-zeleny-ruzek/6225726"
+    },
+    {
+      "id": 1471541435,
+      "dt": "2025-04-17T18:03:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Velikonoční Speciál 2025",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-velikonocni-special-2025/6212449"
+    },
+    {
+      "id": 1471537554,
+      "dt": "2025-04-17T17:49:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vyšlehaná Kraslice",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-vyslehana-kraslice/4784735"
+    },
+    {
+      "id": 1471522523,
+      "dt": "2025-04-17T16:43:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Green Mint Gose",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-green-mint-gose/5774382"
+    },
+    {
+      "id": 1471521343,
+      "dt": "2025-04-17T16:36:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vyšlehaná Kraslice",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-vyslehana-kraslice/4784735"
+    },
+    {
       "id": 1471374404,
       "dt": "2025-04-16T20:35:03+02:00",
       "venue_name": "U Toulavé pípy",
