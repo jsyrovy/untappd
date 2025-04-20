@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1472330086,
+      "dt": "2025-04-19T19:29:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Milionář 12",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-milionar-12/5517646"
+    },
+    {
+      "id": 1472314314,
+      "dt": "2025-04-19T19:05:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour – Mango & Passion Fruit",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-mango-and-passion-fruit/4939956"
+    },
+    {
       "id": 1472045678,
       "dt": "2025-04-18T23:58:48+02:00",
       "venue_name": "U Toulavé pípy",
