@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Liquid Luck",
-      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -29,8 +25,8 @@
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
     },
     {
-      "name": "14° Oud Brünn",
-      "description": "6,4% alc. piv. Wild Creatures/Malt Worm, Oude Bruin, 0,25l"
+      "name": "18° Kasteel Rouge",
+      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
