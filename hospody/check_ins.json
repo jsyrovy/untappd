@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1472955802,
+      "dt": "2025-04-21T13:14:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Velikonoční Ale 13°",
+      "brewery": "Krušnohor ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/krusnohor-velikonocni-ale-13-deg/4226315"
+    },
+    {
       "id": 1472795431,
       "dt": "2025-04-20T20:29:55+02:00",
       "venue_name": "Pivní ambasáda",
