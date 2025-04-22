@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Hoppy Tree Friends",
+      "description": "4,3% alc. piv. Sibeeria, Praha, Hoppy Pale Lager"
+    },
+    {
       "name": "11° Summer Ale",
       "description": "4,3% alc. piv. Mordýř, Dolní Ředice, Ale"
     },
