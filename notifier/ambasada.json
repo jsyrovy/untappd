@@ -9,10 +9,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Summer Ale",
-      "description": "4,3% alc. piv. Mordýř, Dolní Ředice, Ale"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -31,6 +27,10 @@
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "9° Trudi",
+      "description": "3,9% alc. piv. Clock, Potštejn, Gluten Reduced Session NEIPA"
     }
   ]
 }
