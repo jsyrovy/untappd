@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1473744716,
+      "dt": "2025-04-25T18:30:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "GOSETERIA #2 Lemon + Pineapple + Lemongrass + Sea Salt",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-goseteria-2-lemon-pineapple-lemongrass-sea-salt/6204615"
+    },
+    {
+      "id": 1473702355,
+      "dt": "2025-04-25T16:34:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "CHINOOK / SMaSH West Coast IPA",
+      "brewery": "Pivovar Vik",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/pivovar-vik-chinook-smash-west-coast-ipa/6197339"
+    },
+    {
+      "id": 1473701236,
+      "dt": "2025-04-25T16:29:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "HAZY & DRY #3 Kazbek + Juno",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-hazy-and-dry-3-kazbek-juno/6204613"
+    },
+    {
       "id": 1473588004,
       "dt": "2025-04-24T23:57:46+02:00",
       "venue_name": "U Toulavé pípy",
