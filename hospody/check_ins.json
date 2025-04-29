@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1474914344,
+      "dt": "2025-04-28T22:50:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy IPA",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-hazy-ipa/4728107"
+    },
+    {
+      "id": 1474911680,
+      "dt": "2025-04-28T22:32:55+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Quest Brew Orange IPA",
+      "brewery": "Švabín Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/svabin-brewery-quest-brew-orange-ipa/5902028"
+    },
+    {
+      "id": 1474893250,
+      "dt": "2025-04-28T20:54:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Petrale",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-petrale/2199006"
+    },
+    {
+      "id": 1474889226,
+      "dt": "2025-04-28T20:34:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "COOL AS ICE Cold IPA Talus + Ekuanot",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-cool-as-ice-cold-ipa-talus-ekuanot/6204512"
+    },
+    {
+      "id": 1474867030,
+      "dt": "2025-04-28T18:32:27+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Protinožec",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-protinozec/2566012"
+    },
+    {
       "id": 1474680173,
       "dt": "2025-04-27T19:48:59+02:00",
       "venue_name": "U Toulavé pípy",
