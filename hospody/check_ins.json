@@ -1,6 +1,114 @@
 {
   "check_ins": [
     {
+      "id": 1475290189,
+      "dt": "2025-04-30T23:20:48+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Smoothie Beer Polish Fruits & White Chocolate",
+      "brewery": "Maryensztadt",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/maryensztadt-smoothie-beer-polish-fruits-and-white-chocolate/5722044"
+    },
+    {
+      "id": 1475289897,
+      "dt": "2025-04-30T23:19:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Smoothie Beer Polish Fruits & White Chocolate",
+      "brewery": "Maryensztadt",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/maryensztadt-smoothie-beer-polish-fruits-and-white-chocolate/5722044"
+    },
+    {
+      "id": 1475274389,
+      "dt": "2025-04-30T22:28:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – Exotic",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-exotic/4961829"
+    },
+    {
+      "id": 1475261384,
+      "dt": "2025-04-30T21:53:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – Exotic",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-exotic/4961829"
+    },
+    {
+      "id": 1475258904,
+      "dt": "2025-04-30T21:46:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clear It Out!",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-clear-it-out/5800734"
+    },
+    {
+      "id": 1475249043,
+      "dt": "2025-04-30T21:20:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "GOSETERIA #2 Lemon + Pineapple + Lemongrass + Sea Salt",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-goseteria-2-lemon-pineapple-lemongrass-sea-salt/6204615"
+    },
+    {
+      "id": 1475243801,
+      "dt": "2025-04-30T21:07:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "GOSETERIA #2 Lemon + Pineapple + Lemongrass + Sea Salt",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-goseteria-2-lemon-pineapple-lemongrass-sea-salt/6204615"
+    },
+    {
+      "id": 1475227213,
+      "dt": "2025-04-30T20:24:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "INNERSPHERE #1",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-innersphere-1/6188131"
+    },
+    {
+      "id": 1475225765,
+      "dt": "2025-04-30T20:21:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragonfly",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-dragonfly/6188118"
+    },
+    {
+      "id": 1475178722,
+      "dt": "2025-04-30T18:06:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clear It Out!",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-clear-it-out/5800734"
+    },
+    {
+      "id": 1475167339,
+      "dt": "2025-04-30T17:22:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dragonfly",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-dragonfly/6188118"
+    },
+    {
+      "id": 1475127756,
+      "dt": "2025-04-30T10:09:52+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Fruity Gose",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-fruity-gose/6240716"
+    },
+    {
       "id": 1474997354,
       "dt": "2025-04-29T17:29:04+02:00",
       "venue_name": "Pivní ambasáda",
