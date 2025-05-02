@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1475546949,
+      "dt": "2025-05-01T23:00:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "INNERSPHERE #1",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-innersphere-1/6188131"
+    },
+    {
+      "id": 1475540870,
+      "dt": "2025-05-01T22:39:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – Cherry & Banana",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-cherry-and-banana/4917970"
+    },
+    {
+      "id": 1475410134,
+      "dt": "2025-05-01T16:10:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "INNERSPHERE #1",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-innersphere-1/6188131"
+    },
+    {
       "id": 1475290189,
       "dt": "2025-04-30T23:20:48+02:00",
       "venue_name": "Pivní ambasáda",
