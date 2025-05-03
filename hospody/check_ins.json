@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1475915957,
+      "dt": "2025-05-03T00:34:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer ALE s broskví a rybízem 11",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-summer-ale-s-broskvi-a-rybizem-11/5814751"
+    },
+    {
+      "id": 1475779268,
+      "dt": "2025-05-02T20:14:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SPIRULINA ALE KRYSTAL Velikonočný Modrý Special 13",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-spirulina-ale-krystal-velikonocny-modry-special-13/6220860"
+    },
+    {
+      "id": 1475773801,
+      "dt": "2025-05-02T20:04:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "INNERSPHERE #1",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-innersphere-1/6188131"
+    },
+    {
+      "id": 1475772656,
+      "dt": "2025-05-02T20:02:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Double Lollihop",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-double-lollihop/4353980"
+    },
+    {
+      "id": 1475771572,
+      "dt": "2025-05-02T20:00:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "12 sv. Jana Nepomuckého",
+      "brewery": "Zlatá kráva",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zlata-krava-12-sv-jana-nepomuckeho/3271784"
+    },
+    {
+      "id": 1475713684,
+      "dt": "2025-05-02T18:03:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Riwaka Smash Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-riwaka-smash-ale/6109987"
+    },
+    {
+      "id": 1475702400,
+      "dt": "2025-05-02T17:34:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pineapple Session IPA",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-pineapple-session-ipa/2133656"
+    },
+    {
+      "id": 1475700743,
+      "dt": "2025-05-02T17:29:49+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer ALE s broskví a rybízem 11",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-summer-ale-s-broskvi-a-rybizem-11/5814751"
+    },
+    {
       "id": 1475546949,
       "dt": "2025-05-01T23:00:52+02:00",
       "venue_name": "Pivní ambasáda",
