@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1476262914,
+      "dt": "2025-05-03T21:21:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ježibaba",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-jezibaba/2811246"
+    },
+    {
+      "id": 1476243340,
+      "dt": "2025-05-03T20:54:17+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "INNERSPHERE #1",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-innersphere-1/6188131"
+    },
+    {
+      "id": 1476243000,
+      "dt": "2025-05-03T20:53:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "12 sv. Jana Nepomuckého",
+      "brewery": "Zlatá kráva",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zlata-krava-12-sv-jana-nepomuckeho/3271784"
+    },
+    {
+      "id": 1476205494,
+      "dt": "2025-05-03T20:00:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Clear It Out!",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-clear-it-out/5800734"
+    },
+    {
       "id": 1475915957,
       "dt": "2025-05-03T00:34:12+02:00",
       "venue_name": "U Toulavé pípy",
