@@ -1,12 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "11° Pineapple Session IPA",
-      "description": "4,5% alc. piv. Clock, Potštejn, Ananasová Session IPA"
+      "name": "11° Farm APA",
+      "description": "4% alc. piv. Zlatá Kráva, Nepomuk, APA"
     },
     {
       "name": "12° Lora",
@@ -19,6 +15,10 @@
     {
       "name": "12° Ohmmm",
       "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
+    },
+    {
+      "name": "12° Spasitel",
+      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "14° Brewstock Grapefruit IPA",
