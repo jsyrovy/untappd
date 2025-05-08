@@ -25,12 +25,12 @@
       "description": "4,8% alc. piv. Valášek, Vsetín, NEIPA"
     },
     {
-      "name": "14° Brewstock Grapefruit IPA",
-      "description": "6,6% alc. piv. Zhůřák, Zhůř, Grapefruit IPA"
-    },
-    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "14° Ledania",
+      "description": "6% alc. piv. Maisel & Friends, Bayreuth, Hazy IPA"
     }
   ]
 }
