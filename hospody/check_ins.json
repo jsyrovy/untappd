@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1477355647,
+      "dt": "2025-05-09T00:14:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "For Us",
+      "brewery": "Pivovar Thrills Brewing",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-thrills-brewing-for-us/6160196"
+    },
+    {
+      "id": 1477295687,
+      "dt": "2025-05-08T20:43:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zero Hero",
+      "brewery": "Pivovar Mazák",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-zero-hero/6249467"
+    },
+    {
+      "id": 1477243632,
+      "dt": "2025-05-08T17:03:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "NZ Pale Ale",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-nz-pale-ale/5814749"
+    },
+    {
       "id": 1477160621,
       "dt": "2025-05-08T00:11:39+02:00",
       "venue_name": "Pivní ambasáda",
@@ -14354,6 +14381,15 @@
       "brewery": "Falkon",
       "serving": "Lahvové",
       "beer_link": "https://untappd.com/b/falkon-botanic-gose/3038596"
+    },
+    {
+      "id": 1417344813,
+      "dt": "2024-09-14T17:39:36+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Botanik",
+      "brewery": "Falkon",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/falkon-botanik/3038596"
     },
     {
       "id": 1417281418,
