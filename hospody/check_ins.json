@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1477561345,
+      "dt": "2025-05-09T20:32:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
+      "id": 1477504669,
+      "dt": "2025-05-09T18:40:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
+      "id": 1477503837,
+      "dt": "2025-05-09T18:39:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Lora IPL 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-lora-ipl-12/6245582"
+    },
+    {
       "id": 1477355647,
       "dt": "2025-05-09T00:14:44+02:00",
       "venue_name": "U Toulavé pípy",
