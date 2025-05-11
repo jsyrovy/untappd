@@ -1,6 +1,123 @@
 {
   "check_ins": [
     {
+      "id": 1478117635,
+      "dt": "2025-05-10T22:53:46+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Royal Orange",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-royal-orange/6205589"
+    },
+    {
+      "id": 1478097670,
+      "dt": "2025-05-10T22:23:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Green Jelly",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-green-jelly/6188563"
+    },
+    {
+      "id": 1478096304,
+      "dt": "2025-05-10T22:22:01+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Gelato: Green Jelly",
+      "brewery": "Funky Fluid",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/funky-fluid-gelato-green-jelly/6188563"
+    },
+    {
+      "id": 1478094157,
+      "dt": "2025-05-10T22:19:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "SUPER KRUSH NEIPA Superdelic + Krush",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-super-krush-neipa-superdelic-krush/6204511"
+    },
+    {
+      "id": 1478052974,
+      "dt": "2025-05-10T21:23:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Skotačivá veverka",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-skotaciva-veverka/2700020"
+    },
+    {
+      "id": 1478052758,
+      "dt": "2025-05-10T21:23:19+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Foam Climb",
+      "brewery": "Axiom Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/axiom-brewery-foam-climb/3335182"
+    },
+    {
+      "id": 1478025001,
+      "dt": "2025-05-10T20:46:23+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
+      "id": 1478020822,
+      "dt": "2025-05-10T20:40:49+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Passion Fruit",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-passion-fruit/2499801"
+    },
+    {
+      "id": 1477953673,
+      "dt": "2025-05-10T19:04:56+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nebulous Trail",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-nebulous-trail/6179320"
+    },
+    {
+      "id": 1477934431,
+      "dt": "2025-05-10T18:35:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pool Party",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-pool-party/4373232"
+    },
+    {
+      "id": 1477896623,
+      "dt": "2025-05-10T17:30:52+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
+      "id": 1477873339,
+      "dt": "2025-05-10T16:43:18+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Nebulous Trail",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-nebulous-trail/6179320"
+    },
+    {
+      "id": 1477863479,
+      "dt": "2025-05-10T16:20:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Pool Party",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-pool-party/4373232"
+    },
+    {
       "id": 1477561345,
       "dt": "2025-05-09T20:32:09+02:00",
       "venue_name": "Pivní ambasáda",
