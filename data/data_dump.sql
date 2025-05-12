@@ -1583,6 +1583,7 @@ INSERT INTO "archive" VALUES(1476969945,'2025-05-06 19:19:03.000000','sejrik','T
 INSERT INTO "archive" VALUES(1477828965,'2025-05-10 12:46:51.000000','sejrik','NZ Lager /// 11.NZ.R1','Pivovar Záhora','Kolo Bistro');
 INSERT INTO "archive" VALUES(1477934431,'2025-05-10 16:35:26.000000','sejrik','Pool Party','Chroust','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1477953673,'2025-05-10 17:04:56.000000','sejrik','Nebulous Trail','Sibeeria Brewery','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1478425586,'2025-05-11 19:16:59.000000','sejrik','New Zealand Pale Ale 12','Pivovar Kamenice nad Lipou','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
