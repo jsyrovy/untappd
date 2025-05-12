@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1478460703,
+      "dt": "2025-05-11T22:54:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Sour 12 Passion Fruit",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-passion-fruit/2499801"
+    },
+    {
+      "id": 1478460300,
+      "dt": "2025-05-11T22:52:55+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
+      "id": 1478272799,
+      "dt": "2025-05-11T10:51:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
       "id": 1478117635,
       "dt": "2025-05-10T22:53:46+02:00",
       "venue_name": "Pivní ambasáda",
