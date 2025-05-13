@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1478611221,
+      "dt": "2025-05-12T23:09:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Žitná 10",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zitna-10/6262511"
+    },
+    {
+      "id": 1478604673,
+      "dt": "2025-05-12T22:27:07+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Ename Rouge",
+      "brewery": "Brouwerij Roman",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897"
+    },
+    {
+      "id": 1478597003,
+      "dt": "2025-05-12T21:42:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel & Friends - Hazy IPA - Artbeer #7 LEDANIA",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-and-friends-hazy-ipa-artbeer-7-ledania/6178102"
+    },
+    {
+      "id": 1478588442,
+      "dt": "2025-05-12T20:57:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Maisel's Weisse Original",
+      "brewery": "Brauerei Gebr. Maisel",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642"
+    },
+    {
+      "id": 1478584906,
+      "dt": "2025-05-12T20:37:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "PP 12%",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180"
+    },
+    {
+      "id": 1478584236,
+      "dt": "2025-05-12T20:33:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Erdbeer Porter",
+      "brewery": "Bergquell Brauerei Löbau",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/bergquell-brauerei-lobau-erdbeer-porter/46157"
+    },
+    {
+      "id": 1478583983,
+      "dt": "2025-05-12T20:32:37+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Žitná 10",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zitna-10/6262511"
+    },
+    {
       "id": 1478460703,
       "dt": "2025-05-11T22:54:12+02:00",
       "venue_name": "Pivní ambasáda",
