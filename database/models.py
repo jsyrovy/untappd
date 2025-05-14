@@ -16,14 +16,7 @@ class PivniValka(Base):
     unique_beers: Mapped[int] = mapped_column(Integer())
 
     def __repr__(self) -> str:
-        return (
-            f"PivniValka("
-            f"id={self.id!r}, "
-            f"date={self.date!r}, "
-            f"user={self.user!r}, "
-            f"unique_beers={self.unique_beers!r}"
-            f")"
-        )
+        return f"PivniValka(id={self.id!r}, date={self.date!r}, user={self.user!r}, unique_beers={self.unique_beers!r})"
 
 
 class Archive(Base):

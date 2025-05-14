@@ -1,5 +1,4 @@
 import json
-import logging
 import random
 from dataclasses import dataclass
 from datetime import UTC, datetime, timedelta, timezone
@@ -93,11 +92,11 @@ class Hospody(BaseRobot):
 
         for new_check_in in new_check_ins:
             if new_check_in in check_ins:
-                logging.info("Check in %d jiz existuje.", new_check_in.id)
+                print(f"Check in {new_check_in.id} jiz existuje.")
                 continue
 
             check_ins.append(new_check_in)
-            logging.info("Novy check in %d - %s.", new_check_in.id, new_check_in.beer_name)
+            print(f"Novy check in {new_check_in.id} - {new_check_in.beer_name}.")
 
         sort_check_ins(check_ins)
         save_check_ins(check_ins)
@@ -153,7 +152,7 @@ def parse_check_ins(page: str, venue: Venue) -> list[CheckIn]:
         brewery = links[2].text
         serving_section = checkin_comment.find("p", class_="serving") if checkin_comment else None
         serving = get_czech_serving(serving_section.find("span").text if serving_section else "")
-        beer_link = f'{common.BASE_URL}{links[1]["href"]}'
+        beer_link = f"{common.BASE_URL}{links[1]['href']}"
 
         beers.append(CheckIn(id_, dt, venue.name, beer_name, brewery, serving, beer_link, venue.url))
 
