@@ -74,3 +74,6 @@ lint:
 
 lint-fix:
 	uvx ruff check --fix
+
+ty
+	uvx ty check
