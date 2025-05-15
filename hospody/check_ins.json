@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1478859167,
+      "dt": "2025-05-14T19:50:38+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mango-Piña-Coco",
+      "brewery": "MadCat",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/madcat-mango-pina-coco/2990679"
+    },
+    {
+      "id": 1478858933,
+      "dt": "2025-05-14T19:49:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Kasteel Rouge",
+      "brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890"
+    },
+    {
+      "id": 1478819472,
+      "dt": "2025-05-14T15:20:35+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Ale 10 – Tanec Slunce",
+      "brewery": "Pivovar Čestmír",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-cestmir-summer-ale-10-tanec-slunce/3337676"
+    },
+    {
       "id": 1478787795,
       "dt": "2025-05-14T03:22:14+02:00",
       "venue_name": "U Toulavé pípy",
