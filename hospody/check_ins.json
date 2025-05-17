@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1479465861,
+      "dt": "2025-05-17T01:09:17+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Volcanic Kisses 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-volcanic-kisses-17/6219929"
+    },
+    {
+      "id": 1479386958,
+      "dt": "2025-05-16T22:19:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Batalion 24. Narozeniny",
+      "brewery": "Haksna Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/haksna-brewery-batalion-24-narozeniny/6248172"
+    },
+    {
+      "id": 1479224082,
+      "dt": "2025-05-16T17:01:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "IPA Variety #8 Black IPA",
+      "brewery": "NOZIB Special Brews",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/nozib-special-brews-ipa-variety-8-black-ipa/6080001"
+    },
+    {
       "id": 1479082639,
       "dt": "2025-05-15T22:25:34+02:00",
       "venue_name": "Pivní ambasáda",
