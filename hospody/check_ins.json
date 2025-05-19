@@ -1,6 +1,96 @@
 {
   "check_ins": [
     {
+      "id": 1480197895,
+      "dt": "2025-05-18T20:36:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Mayflower",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-one-mayflower/6245254"
+    },
+    {
+      "id": 1480197533,
+      "dt": "2025-05-18T20:35:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pink Power",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pink-power/6267039"
+    },
+    {
+      "id": 1480076331,
+      "dt": "2025-05-18T12:42:53+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour Aronia Cherry 12",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-aronia-cherry-12/5674742"
+    },
+    {
+      "id": 1480075670,
+      "dt": "2025-05-18T12:36:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Sour 12 Mango",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-sour-12-mango/2607537"
+    },
+    {
+      "id": 1480075276,
+      "dt": "2025-05-18T12:32:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Vibes 11",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-summer-vibes-11/2652262"
+    },
+    {
+      "id": 1480075133,
+      "dt": "2025-05-18T12:31:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Session IPA 11 vol. 2",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-session-ipa-11-vol-2/2073315"
+    },
+    {
+      "id": 1480073261,
+      "dt": "2025-05-18T12:13:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Žitná 10",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-zitna-10/6262511"
+    },
+    {
+      "id": 1480072942,
+      "dt": "2025-05-18T12:09:46+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Krush NEIPA",
+      "brewery": "Středohoř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/stredohor-krush-neipa/6158036"
+    },
+    {
+      "id": 1480072845,
+      "dt": "2025-05-18T12:08:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Single NEIPA – Krush",
+      "brewery": "Pivovar Stern",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-stern-single-neipa-krush/6117648"
+    },
+    {
+      "id": 1480072447,
+      "dt": "2025-05-18T12:04:11+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Mango Juicy",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-mango-juicy/4860569"
+    },
+    {
       "id": 1479978267,
       "dt": "2025-05-18T01:10:02+02:00",
       "venue_name": "Pivní ambasáda",
