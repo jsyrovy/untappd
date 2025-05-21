@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1480517478,
+      "dt": "2025-05-20T19:41:39+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "11th Anniversary IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-11th-anniversary-ipa/6243738"
+    },
+    {
+      "id": 1480511523,
+      "dt": "2025-05-20T19:13:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pink Power",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pink-power/6267039"
+    },
+    {
+      "id": 1480500932,
+      "dt": "2025-05-20T18:20:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "11th Anniversary IPA",
+      "brewery": "Pivovar Pivečka",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-pivecka-11th-anniversary-ipa/6243738"
+    },
+    {
+      "id": 1480500700,
+      "dt": "2025-05-20T18:18:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pink Power",
+      "brewery": "Pivovar JungBerg",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-jungberg-pink-power/6267039"
+    },
+    {
+      "id": 1480483794,
+      "dt": "2025-05-20T16:01:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Volcanic Kisses 17",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-volcanic-kisses-17/6219929"
+    },
+    {
+      "id": 1480483660,
+      "dt": "2025-05-20T16:00:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Krush NEIPA",
+      "brewery": "Středohoř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/stredohor-krush-neipa/6158036"
+    },
+    {
       "id": 1480197895,
       "dt": "2025-05-18T20:36:31+02:00",
       "venue_name": "Pivní ambasáda",
