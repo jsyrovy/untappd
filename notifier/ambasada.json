@@ -9,10 +9,6 @@
       "description": "4,9% alc. piv. Loutkář, Chrudim, Summer Ale"
     },
     {
-      "name": "12° One Mayflower",
-      "description": "4% alc. piv. Sibeeria, Praha, Oatmeal Fruited Gose"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -23,6 +19,10 @@
     {
       "name": "12° Sv. Jana Nepomuckého",
       "description": "5% alc. piv. Zlatá Kráva, Nepomuk, Weizen"
+    },
+    {
+      "name": "13° Hop Digger",
+      "description": "6% alc. piv. Sibeeria/HopHemel, West Coast IPA"
     },
     {
       "name": "13° Kurtizána",
