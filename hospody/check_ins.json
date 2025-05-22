@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1480786112,
+      "dt": "2025-05-22T04:48:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Beskydy Krush",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydy-krush/6249692"
+    },
+    {
+      "id": 1480782089,
+      "dt": "2025-05-22T04:06:05+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hedonic Hummingbird",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hedonic-hummingbird/6240457"
+    },
+    {
+      "id": 1480775002,
+      "dt": "2025-05-22T03:09:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hopinka",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-hopinka/6270093"
+    },
+    {
+      "id": 1480734002,
+      "dt": "2025-05-21T23:26:44+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hopinka",
+      "brewery": "Pivovar Zhůřák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-zhurak-hopinka/6270093"
+    },
+    {
+      "id": 1480665553,
+      "dt": "2025-05-21T18:54:59+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Krush NEIPA",
+      "brewery": "Středohoř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/stredohor-krush-neipa/6158036"
+    },
+    {
+      "id": 1480659454,
+      "dt": "2025-05-21T18:25:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Helena Ch.",
+      "brewery": "Chroust",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/chroust-helena-ch/4597752"
+    },
+    {
       "id": 1480517478,
       "dt": "2025-05-20T19:41:39+02:00",
       "venue_name": "Pivní ambasáda",
