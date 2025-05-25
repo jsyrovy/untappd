@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° American Pale Ale",
+      "description": "4,7% alc. piv. Malešov, APA"
     },
     {
-      "name": "11° Švihák",
-      "description": "4,9% alc. piv. Loutkář, Chrudim, Summer Ale"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Akumulátor",
