@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1482245337,
+      "dt": "2025-05-25T21:33:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Marakuja Elderflower",
+      "brewery": "Pivovar Clock",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-clock-marakuja-elderflower/6270248"
+    },
+    {
+      "id": 1482243720,
+      "dt": "2025-05-25T21:30:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pastry Sour - Carrot Cake - Mrkvový Dort",
+      "brewery": "Pivovar Obora",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-obora-pastry-sour-carrot-cake-mrkvovy-dort/5730214"
+    },
+    {
+      "id": 1482238323,
+      "dt": "2025-05-25T21:20:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
+      "id": 1482228439,
+      "dt": "2025-05-25T21:01:11+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "American Pale Ale 11",
+      "brewery": "Přátelský pivovar Malešov",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pratelsky-pivovar-malesov-american-pale-ale-11/3551415"
+    },
+    {
+      "id": 1482138184,
+      "dt": "2025-05-25T17:31:44+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Švihák",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-svihak/4911049"
+    },
+    {
+      "id": 1482131776,
+      "dt": "2025-05-25T17:11:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
+      "id": 1482130737,
+      "dt": "2025-05-25T17:08:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Hop Digger",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hop-digger/6179323"
+    },
+    {
+      "id": 1482111776,
+      "dt": "2025-05-25T16:01:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hedonic Hummingbird",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hedonic-hummingbird/6240457"
+    },
+    {
       "id": 1481931075,
       "dt": "2025-05-24T23:57:32+02:00",
       "venue_name": "Pivní ambasáda",
