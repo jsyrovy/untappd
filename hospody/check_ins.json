@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1482559174,
+      "dt": "2025-05-27T01:12:14+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hazy De-Light",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-hazy-de-light/5911701"
+    },
+    {
+      "id": 1482451290,
+      "dt": "2025-05-26T19:02:40+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kurtizána",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kurtizana/704889"
+    },
+    {
+      "id": 1482449178,
+      "dt": "2025-05-26T18:54:34+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Spring Barking",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-spring-barking/6204675"
+    },
+    {
+      "id": 1482422025,
+      "dt": "2025-05-26T16:14:34+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Hedonic Hummingbird",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-hedonic-hummingbird/6240457"
+    },
+    {
       "id": 1482245337,
       "dt": "2025-05-25T21:33:35+02:00",
       "venue_name": "Pivní ambasáda",
