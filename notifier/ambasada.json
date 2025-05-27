@@ -5,6 +5,10 @@
       "description": "4,7% alc. piv. Malešov, APA"
     },
     {
+      "name": "11° Liquid Luck",
+      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,6 +27,10 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "14° Idaho",
+      "description": "6,3% alc. Beskydský Pivováre, Ostravice, IPA"
     }
   ]
 }
