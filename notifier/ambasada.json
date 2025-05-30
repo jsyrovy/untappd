@@ -9,10 +9,6 @@
       "description": "4,1% alc. piv. Agent, Olešnice, Pastry Fruit Sour Ale"
     },
     {
-      "name": "12° Akumulátor",
-      "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
-    },
-    {
       "name": "12° Elektron",
       "description": "5% alc. piv. Volt, Jablonec nad Nisou, New Zeland Pale Ale"
     },
@@ -21,12 +17,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "13° Děkujem Ale(ši)",
+      "description": "piv. Volt, Jablonec nad Nisou, Extra Strong Bitter"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "14° Idaho",
-      "description": "6,3% alc. Beskydský Pivováre, Ostravice, IPA"
+      "name": "15° Groovy Storm",
+      "description": "6,2% alc. piv. Vik, Praha, East Coast IPA"
     },
     {
       "name": "16° I Love the Smell of Sabro in the Morning",
