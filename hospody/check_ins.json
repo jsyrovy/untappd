@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1483556683,
+      "dt": "2025-05-31T00:16:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Děkujeme Ale(ši)",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-dekujeme-ale-si/6266072"
+    },
+    {
+      "id": 1483505287,
+      "dt": "2025-05-30T22:29:40+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Like A Goulash 13",
+      "brewery": "Rodinný pivovar Zichovec",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-zichovec-like-a-goulash-15/6265008"
+    },
+    {
+      "id": 1483430310,
+      "dt": "2025-05-30T20:24:26+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "CitroPOP",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-citropop/4756356"
+    },
+    {
+      "id": 1483400401,
+      "dt": "2025-05-30T19:33:35+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "I Love the Smell of Sabro In the Morning",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-i-love-the-smell-of-sabro-in-the-morning/6076198"
+    },
+    {
+      "id": 1483377758,
+      "dt": "2025-05-30T18:53:27+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Elektron",
+      "brewery": "Pivovar Volt",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-volt-elektron/2258518"
+    },
+    {
       "id": 1483178809,
       "dt": "2025-05-29T23:54:47+02:00",
       "venue_name": "U Toulavé pípy",
