@@ -1588,6 +1588,11 @@ INSERT INTO "archive" VALUES(1478540252,'2025-05-12 11:38:04.000000','sejrik','P
 INSERT INTO "archive" VALUES(1478672542,'2025-05-13 13:12:46.000000','sejrik','Pilsner Urquell','Plzeňský Prazdroj','Chata Slaměnka');
 INSERT INTO "archive" VALUES(1481081262,'2025-05-23 12:45:54.000000','sejrik','Jarošovská IPA 15%','Jarošovský pivovar','Havlíčkův Brod');
 INSERT INTO "archive" VALUES(1482856886,'2025-05-28 19:43:13.000000','sejrik','Hop Terror','Sibeeria Brewery','Untappd at Home');
+INSERT INTO "archive" VALUES(1483677937,'2025-05-31 10:14:41.000000','sejrik','Hořká dvanáctka ze sklepa','Pardubický pivovar','Na Staré Rybárně');
+INSERT INTO "archive" VALUES(1483783951,'2025-05-31 15:20:53.000000','sejrik','Like A Goulash 13','Rodinný pivovar Zichovec','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1483809740,'2025-05-31 16:05:08.000000','sejrik','Grapefruit Lollihop','Sibeeria Brewery','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1483859154,'2025-05-31 17:18:45.000000','sejrik','Down Under','Pivovar Raven','Loď Otava');
+INSERT INTO "archive" VALUES(1483875898,'2025-05-31 17:42:34.000000','sejrik','CitroPOP','Pioneer Beer','U Toulavé pípy');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
