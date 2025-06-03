@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Blaníkör",
+      "description": "4,6% alc. piv. Sibeeria/Oerlikon, Czech Pale Lager"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -21,12 +25,12 @@
       "description": "piv. Volt, Jablonec nad Nisou, Extra Strong Bitter"
     },
     {
-      "name": "14° Ename Rouge",
-      "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
       "name": "15° Groovy Storm",
       "description": "6,2% alc. piv. Vik, Praha, East Coast IPA"
+    },
+    {
+      "name": "16° La Vie en Rose (2020)",
+      "description": "7,2% alc. piv. Wild Creatures, Mikulov, Spontanius Ale Lambic Type, 0,25l"
     }
   ]
 }
