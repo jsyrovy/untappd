@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1484593277,
+      "dt": "2025-06-03T17:10:41+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Romulus",
+      "brewery": "Pivovar Potmehúd",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/pivovar-potmehud-romulus/6253750"
+    },
+    {
+      "id": 1484590258,
+      "dt": "2025-06-03T16:40:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Raven 12",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-raven-12/2531564"
+    },
+    {
       "id": 1484490226,
       "dt": "2025-06-02T20:21:27+02:00",
       "venue_name": "Pivní ambasáda",
