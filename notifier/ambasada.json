@@ -9,12 +9,16 @@
       "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
     },
     {
-      "name": "11° Blaníkör",
-      "description": "4,6% alc. piv. Sibeeria/Oerlikon, Czech Pale Lager"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° One Mayflower",
+      "description": "4% alc. piv. Sibeeria, Praha, Oatmeal Fruited Gose"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
@@ -23,10 +27,6 @@
     {
       "name": "14° Antonio",
       "description": "7,8% alc. piv. Clock, Potštejn, Gluten Reduced Grapefruit Brut IPA"
-    },
-    {
-      "name": "15° Groovy Storm",
-      "description": "6,2% alc. piv. Vik, Praha, East Coast IPA"
     },
     {
       "name": "16° La Vie en Rose (2020)",
