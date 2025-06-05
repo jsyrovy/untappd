@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Maracuja & Elderflower",
-      "description": "4,1% alc. piv. Clock, Potštejn, Fruit Sour Ale"
-    },
-    {
       "name": "10° PetrAle",
       "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Moves",
+      "description": "4,2% alc. piv. Agent, Olešnice, Pastry Fruit Sour Ale Ananas a Kiwi"
     },
     {
       "name": "12° Maisels Weisse",
