@@ -1,6 +1,69 @@
 {
   "check_ins": [
     {
+      "id": 1485864929,
+      "dt": "2025-06-08T00:10:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "La Vie En Rose (2020)",
+      "brewery": "Wild Creatures",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/wild-creatures-la-vie-en-rose-2020/5109092"
+    },
+    {
+      "id": 1485847298,
+      "dt": "2025-06-07T23:39:13+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Affair",
+      "brewery": "Budějovický Budvar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/budejovicky-budvar-summer-affair/5381920"
+    },
+    {
+      "id": 1485834754,
+      "dt": "2025-06-07T23:18:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kalná Rána Kurtizány",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kalna-rana-kurtizany/6281743"
+    },
+    {
+      "id": 1485833705,
+      "dt": "2025-06-07T23:16:38+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "La Vie En Rose (2020)",
+      "brewery": "Wild Creatures",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/wild-creatures-la-vie-en-rose-2020/5109092"
+    },
+    {
+      "id": 1485831883,
+      "dt": "2025-06-07T23:13:37+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Pixie",
+      "brewery": "Švabín Brewery",
+      "serving": "Lahvové",
+      "beer_link": "https://untappd.com/b/svabin-brewery-pixie/6223505"
+    },
+    {
+      "id": 1485830386,
+      "dt": "2025-06-07T23:11:20+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Kalná Rána Kurtizány",
+      "brewery": "Pivovar Mordýř",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-kalna-rana-kurtizany/6281743"
+    },
+    {
+      "id": 1485706565,
+      "dt": "2025-06-07T20:28:12+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Ředické Svatební 10",
+      "brewery": "Beer Poets",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beer-poets-redicke-svatebni-10/6292248"
+    },
+    {
       "id": 1485348890,
       "dt": "2025-06-06T23:05:54+02:00",
       "venue_name": "Pivní ambasáda",
