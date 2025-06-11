@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1486533265,
+      "dt": "2025-06-10T20:47:15+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Mayflower",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-one-mayflower/6245254"
+    },
+    {
+      "id": 1486523703,
+      "dt": "2025-06-10T20:06:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "La Vie En Rose (2020)",
+      "brewery": "Wild Creatures",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/wild-creatures-la-vie-en-rose-2020/5109092"
+    },
+    {
+      "id": 1486517659,
+      "dt": "2025-06-10T19:38:43+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – Exotic",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-exotic/4961829"
+    },
+    {
+      "id": 1486513460,
+      "dt": "2025-06-10T19:19:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Mayflower",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-one-mayflower/6245254"
+    },
+    {
+      "id": 1486506554,
+      "dt": "2025-06-10T18:44:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Summer Affair",
+      "brewery": "Budějovický Budvar",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/budejovicky-budvar-summer-affair/5381920"
+    },
+    {
       "id": 1486398288,
       "dt": "2025-06-09T21:37:45+02:00",
       "venue_name": "Pivní ambasáda",
