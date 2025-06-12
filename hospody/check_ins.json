@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1486651462,
+      "dt": "2025-06-11T16:57:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "14 Tractor IPA",
+      "brewery": "Zlatá kráva",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zlata-krava-14-tractor-ipa/2985887"
+    },
+    {
+      "id": 1486648899,
+      "dt": "2025-06-11T16:35:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – Exotic",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-exotic/4961829"
+    },
+    {
+      "id": 1486646814,
+      "dt": "2025-06-11T16:15:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Mayflower",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-one-mayflower/6245254"
+    },
+    {
       "id": 1486533265,
       "dt": "2025-06-10T20:47:15+02:00",
       "venue_name": "Pivní ambasáda",
