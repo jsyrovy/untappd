@@ -1,6 +1,105 @@
 {
   "check_ins": [
     {
+      "id": 1486981366,
+      "dt": "2025-06-13T00:35:26+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Sour 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-berry-sour-11/6250984"
+    },
+    {
+      "id": 1486905363,
+      "dt": "2025-06-12T20:34:22+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Shield Wall",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-shield-wall/6262348"
+    },
+    {
+      "id": 1486891460,
+      "dt": "2025-06-12T19:53:50+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Startér",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-starter/2701089"
+    },
+    {
+      "id": 1486878887,
+      "dt": "2025-06-12T19:15:14+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Dobrušská 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-dobrusska-11/654837"
+    },
+    {
+      "id": 1486878020,
+      "dt": "2025-06-12T19:12:31+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "One Mayflower",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-one-mayflower/6245254"
+    },
+    {
+      "id": 1486869049,
+      "dt": "2025-06-12T18:42:51+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Ale",
+      "brewery": "Pivovar Mordýř",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-mordyr-summer-ale/2146925"
+    },
+    {
+      "id": 1486868825,
+      "dt": "2025-06-12T18:42:03+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Oat Cream IPA",
+      "brewery": "Pivovar Raven",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-raven-oat-cream-ipa/6263909"
+    },
+    {
+      "id": 1486861079,
+      "dt": "2025-06-12T18:13:54+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Never Again! Vol. 3 - CRYO Nelson Sauvin & Superdelic",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-never-again-vol-3-cryo-nelson-sauvin-and-superdelic/6204339"
+    },
+    {
+      "id": 1486852887,
+      "dt": "2025-06-12T17:40:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Sour 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-berry-sour-11/6250984"
+    },
+    {
+      "id": 1486851765,
+      "dt": "2025-06-12T17:35:04+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Výčepní 10°",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-vycepni-10-deg/4722065"
+    },
+    {
+      "id": 1486849239,
+      "dt": "2025-06-12T17:22:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Sour 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-berry-sour-11/6250984"
+    },
+    {
       "id": 1486651462,
       "dt": "2025-06-11T16:57:25+02:00",
       "venue_name": "Pivní ambasáda",
