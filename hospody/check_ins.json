@@ -1,6 +1,24 @@
 {
   "check_ins": [
     {
+      "id": 1487286906,
+      "dt": "2025-06-13T22:25:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Rebirth",
+      "brewery": "TamTam Brewing Co.",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/tamtam-brewing-co-rebirth/6262365"
+    },
+    {
+      "id": 1487285594,
+      "dt": "2025-06-13T22:23:42+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Mad Berry",
+      "brewery": "MadCat",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/madcat-mad-berry/6288680"
+    },
+    {
       "id": 1486981366,
       "dt": "2025-06-13T00:35:26+02:00",
       "venue_name": "Pivní ambasáda",
