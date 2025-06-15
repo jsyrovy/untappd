@@ -1601,6 +1601,7 @@ INSERT INTO "archive" VALUES(1485726492,'2025-06-07 18:53:39.000000','sejrik','K
 INSERT INTO "archive" VALUES(1486675199,'2025-06-11 17:02:26.000000','sejrik','Double Trouble','Pivovar Obora','Beer Bar');
 INSERT INTO "archive" VALUES(1486893261,'2025-06-12 17:59:01.000000','sejrik','Eggenberg 12°','Eggenberg','Občerstvení U Mouchy');
 INSERT INTO "archive" VALUES(1487098589,'2025-06-13 14:37:40.000000','sejrik','Samson Original Czech Lager / Světlý ležák 11','Samson (Budějovický měšťanský pivovar)','Občerstvení U Maxe');
+INSERT INTO "archive" VALUES(1487456435,'2025-06-14 09:10:52.000000','sejrik','Pilsner Urquell','Plzeňský Prazdroj','Kemp Vltava');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
