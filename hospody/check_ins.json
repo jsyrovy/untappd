@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1488081232,
+      "dt": "2025-06-15T19:01:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "14 Tractor IPA",
+      "brewery": "Zlatá kráva",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/zlata-krava-14-tractor-ipa/2985887"
+    },
+    {
+      "id": 1488063997,
+      "dt": "2025-06-15T18:20:17+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "West Kos",
+      "brewery": "Kos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kos-west-kos/5589352"
+    },
+    {
+      "id": 1488029072,
+      "dt": "2025-06-15T16:35:21+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "West Kos",
+      "brewery": "Kos",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/kos-west-kos/5589352"
+    },
+    {
       "id": 1487760409,
       "dt": "2025-06-14T21:44:11+02:00",
       "venue_name": "U Toulavé pípy",
