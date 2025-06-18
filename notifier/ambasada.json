@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Sametová",
-      "description": "3,6% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
       "name": "11° Grave Pact",
       "description": "3,9% alc. piv. Sibeeria/La Débauche, Rye Dark Lager"
+    },
+    {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Knajp Rajdr",
