@@ -1,6 +1,42 @@
 {
   "check_ins": [
     {
+      "id": 1488512034,
+      "dt": "2025-06-17T21:31:16+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Výčepní 10°",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-vycepni-10-deg/4722065"
+    },
+    {
+      "id": 1488468155,
+      "dt": "2025-06-17T18:30:28+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Berry Sour 11",
+      "brewery": "Rodinný pivovar Rampušák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/rodinny-pivovar-rampusak-berry-sour-11/6250984"
+    },
+    {
+      "id": 1488467666,
+      "dt": "2025-06-17T18:27:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Czech Universe, Modern IPA",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-czech-universe-modern-ipa/6215628"
+    },
+    {
+      "id": 1488465357,
+      "dt": "2025-06-17T18:16:18+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Czech Universe, Modern IPA",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-czech-universe-modern-ipa/6215628"
+    },
+    {
       "id": 1488369147,
       "dt": "2025-06-16T22:33:31+02:00",
       "venue_name": "U Toulavé pípy",
