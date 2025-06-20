@@ -1603,6 +1603,12 @@ INSERT INTO "archive" VALUES(1486893261,'2025-06-12 17:59:01.000000','sejrik','E
 INSERT INTO "archive" VALUES(1487098589,'2025-06-13 14:37:40.000000','sejrik','Samson Original Czech Lager / Světlý ležák 11','Samson (Budějovický měšťanský pivovar)','Občerstvení U Maxe');
 INSERT INTO "archive" VALUES(1487456435,'2025-06-14 09:10:52.000000','sejrik','Pilsner Urquell','Plzeňský Prazdroj','Kemp Vltava');
 INSERT INTO "archive" VALUES(1488515316,'2025-06-17 19:44:11.000000','sejrik','Bison Polotmavý Ležák','Bohemia Regent','Untappd at Home');
+INSERT INTO "archive" VALUES(1488859643,'2025-06-19 15:55:55.000000','sejrik','Blaníkör','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1488864548,'2025-06-19 16:12:32.000000','sejrik','Vernal Fusion','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1488879748,'2025-06-19 16:56:27.000000','sejrik','O''Ness','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1488887940,'2025-06-19 17:17:58.000000','sejrik','Mango & Passion Fruit Sorbet','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1488900947,'2025-06-19 17:49:35.000000','sejrik','Hop Digger','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1488907077,'2025-06-19 18:04:19.000000','sejrik','Brutal Barracuda','Sibeeria Brewery','Sibeeria Tap Room');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
