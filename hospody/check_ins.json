@@ -1,6 +1,78 @@
 {
   "check_ins": [
     {
+      "id": 1489335948,
+      "dt": "2025-06-20T22:16:33+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Milkshake 14°",
+      "brewery": "Pivovar Opatovický Poklad",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-opatovicky-poklad-milkshake-14-deg/6275190"
+    },
+    {
+      "id": 1489303303,
+      "dt": "2025-06-20T21:28:48+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Zaříkávač chmele",
+      "brewery": "Pivovar Permon",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-permon-zarikavac-chmele/1102960"
+    },
+    {
+      "id": 1489286165,
+      "dt": "2025-06-20T21:03:58+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Summer Citra",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-summer-citra/2191517"
+    },
+    {
+      "id": 1489268723,
+      "dt": "2025-06-20T20:37:43+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Malá Medúza",
+      "brewery": "Pioneer Beer",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pioneer-beer-mala-meduza/6307734"
+    },
+    {
+      "id": 1489237597,
+      "dt": "2025-06-20T19:48:10+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Navigátor",
+      "brewery": "Axiom Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/axiom-brewery-navigator/5136609"
+    },
+    {
+      "id": 1489219254,
+      "dt": "2025-06-20T19:16:58+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydské hořké",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydske-horke/361652"
+    },
+    {
+      "id": 1489212877,
+      "dt": "2025-06-20T19:05:57+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Knajp Rajdr",
+      "brewery": "Valášek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/valasek-knajp-rajdr/2543959"
+    },
+    {
+      "id": 1489182904,
+      "dt": "2025-06-20T18:07:09+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grave Pact",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grave-pact/5031240"
+    },
+    {
       "id": 1488987428,
       "dt": "2025-06-19T23:05:51+02:00",
       "venue_name": "U Toulavé pípy",
