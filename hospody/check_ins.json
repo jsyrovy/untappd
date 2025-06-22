@@ -1,6 +1,60 @@
 {
   "check_ins": [
     {
+      "id": 1489836901,
+      "dt": "2025-06-21T22:40:08+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Czech Universe, Modern IPA",
+      "brewery": "Pivovar Antoš  ",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-antos-czech-universe-modern-ipa/6215628"
+    },
+    {
+      "id": 1489835205,
+      "dt": "2025-06-21T22:37:36+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Grave Pact",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-grave-pact/5031240"
+    },
+    {
+      "id": 1489701083,
+      "dt": "2025-06-21T19:35:41+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 10",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-brut-ipa-10/5948173"
+    },
+    {
+      "id": 1489661632,
+      "dt": "2025-06-21T18:37:12+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Beskydské hořké",
+      "brewery": "Beskydský pivovárek",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/beskydsky-pivovarek-beskydske-horke/361652"
+    },
+    {
+      "id": 1489528846,
+      "dt": "2025-06-21T12:21:16+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Philadelphia Sour Raspberry",
+      "brewery": "Pivovar Obora",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-obora-philadelphia-sour-raspberry/4141699"
+    },
+    {
+      "id": 1489528617,
+      "dt": "2025-06-21T12:19:00+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Dispatcher",
+      "brewery": "Axiom Brewery",
+      "serving": "Plechovkové",
+      "beer_link": "https://untappd.com/b/axiom-brewery-dispatcher/4811356"
+    },
+    {
       "id": 1489335948,
       "dt": "2025-06-20T22:16:33+02:00",
       "venue_name": "U Toulavé pípy",
