@@ -17,6 +17,10 @@
       "description": "5% alc. piv. Volt, Jablonec nad Nisou, Weizen"
     },
     {
+      "name": "12° Big Balls",
+      "description": "4,6% alc. piv. Harpagan, Kostrzyn, Polsko, Cherry Black Gose"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -27,10 +31,6 @@
     {
       "name": "14° Twist",
       "description": "5,8% alc. piv. Clock, Potštejn, American Red IPA"
-    },
-    {
-      "name": "16° La Vie en Rose (2020)",
-      "description": "7,2% alc. piv. Wild Creatures, Mikulov, Spontanius Ale Lambic Type, 0,25l"
     }
   ]
 }
