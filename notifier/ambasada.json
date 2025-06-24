@@ -1,14 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Brut IPA",
-      "description": "5% alc. piv. Loutkář, Chrudim, Session Brut IPA"
-    },
-    {
-      "name": "11° Grave Pact",
-      "description": "3,9% alc. piv. Sibeeria/La Débauche, Rye Dark Lager"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -27,6 +19,14 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Pink Power",
+      "description": "4,9% alc. piv. JungBerg, Hořice, Oatflake Ale"
+    },
+    {
+      "name": "14° Motueka Sunrise",
+      "description": "6,1% alc. piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "14° Twist",
