@@ -1,6 +1,15 @@
 {
   "check_ins": [
     {
+      "id": 1490352874,
+      "dt": "2025-06-23T21:28:53+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Big Balls",
+      "brewery": "Browar Harpagan",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-harpagan-big-balls/6292887"
+    },
+    {
       "id": 1489836901,
       "dt": "2025-06-21T22:40:08+02:00",
       "venue_name": "Pivní ambasáda",
