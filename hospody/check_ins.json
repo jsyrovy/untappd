@@ -1,6 +1,51 @@
 {
   "check_ins": [
     {
+      "id": 1490457704,
+      "dt": "2025-06-24T17:29:04+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Big Balls",
+      "brewery": "Browar Harpagan",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/browar-harpagan-big-balls/6292887"
+    },
+    {
+      "id": 1490457379,
+      "dt": "2025-06-24T17:26:25+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Twist",
+      "brewery": "Pivovar Clock",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-clock-twist/753375"
+    },
+    {
+      "id": 1490454500,
+      "dt": "2025-06-24T17:04:02+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Brut IPA 10",
+      "brewery": "Pivovar Loutkář",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-loutkar-brut-ipa-10/5948173"
+    },
+    {
+      "id": 1490454484,
+      "dt": "2025-06-24T17:03:56+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Akumulátor",
+      "brewery": "Pivovar Volt",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-volt-akumulator/2258519"
+    },
+    {
+      "id": 1490451763,
+      "dt": "2025-06-24T16:37:30+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Moves – White Grapes and Strawberries",
+      "brewery": "Pivovar Agent",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-agent-moves-white-grapes-and-strawberries/4836340"
+    },
+    {
       "id": 1490352874,
       "dt": "2025-06-23T21:28:53+02:00",
       "venue_name": "Pivní ambasáda",
