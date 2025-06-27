@@ -20,6 +20,5 @@ def dump(engine: Engine) -> None:
         Path(DUMP_PATH).open("w") as f,
         engine.connect() as conn,
     ):
-        for line in conn.connection.iterdump():  # type: ignore[attr-defined]
-            f.write(f"{line}\n")
+        f.writelines(f"{line}\n" for line in conn.connection.iterdump())  # type: ignore[attr-defined]
     print("Dump created.")

@@ -9,4 +9,4 @@ def test_dump():
         dump(engine)
 
     mocked_open.assert_called_once_with("w")
-    mocked_open().write.assert_called()
+    mocked_open().writelines.assert_called()
