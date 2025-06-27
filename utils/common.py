@@ -2,8 +2,8 @@ import random
 import sys
 import time
 
+import httpx
 import jinja2
-import requests
 
 ENCODING = "utf-8"
 USER_AGENTS = (
@@ -28,7 +28,8 @@ def get_random_user_agent() -> str:
 def download_page(url: str) -> str:
     headers = {"User-Agent": get_random_user_agent()}
 
-    r = requests.get(url, headers=headers, timeout=TIMEOUT)
+    with httpx.Client(http2=True, headers=headers) as client:
+        r = client.get(url)
 
     return r.text
 

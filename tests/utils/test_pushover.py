@@ -12,7 +12,7 @@ def fixture_os_environ():
 
 
 def test_send_notification(os_environ):
-    with os_environ, mock.patch("utils.common.requests.post") as post_mock:
+    with os_environ, mock.patch("requests.post") as post_mock:
         send_notification("test")
 
     post_mock.assert_called_once()

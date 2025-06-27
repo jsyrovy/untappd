@@ -16,7 +16,7 @@ def test_get_random_user_agent():
 
 
 def test_download_page():
-    with mock.patch("utils.common.requests.get") as get_mock:
+    with mock.patch("httpx.Client.get") as get_mock:
         type(get_mock.return_value).text = mock.PropertyMock(return_value="hi")
         assert download_page("") == "hi"
 
