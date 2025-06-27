@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "11° Moves White Grape and Strawberries",
       "description": "4,3% alc. piv. Agent, Olešnice, Fruit Berliner Weisse"
     },
@@ -23,6 +19,10 @@
     {
       "name": "12° Pink Power",
       "description": "4,9% alc. piv. JungBerg, Hořice, Oatflake Ale"
+    },
+    {
+      "name": "12° Spasitel",
+      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "13° Tangerine Extra Brut IPA",
