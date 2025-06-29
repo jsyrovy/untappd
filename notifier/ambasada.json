@@ -5,6 +5,10 @@
       "description": "4,3% alc. piv. Agent, Olešnice, Fruit Berliner Weisse"
     },
     {
+      "name": "11° Vernal Fusion",
+      "description": "5% alc. piv. Sibeeria, Praha, DDH West Coast Pilsner"
+    },
+    {
       "name": "12° Big Balls",
       "description": "4,6% alc. piv. Harpagan, Kostrzyn, Polsko, Cherry Black Gose"
     },
@@ -23,10 +27,6 @@
     {
       "name": "13° Tangerine Extra Brut IPA",
       "description": "7,3% alc. piv. Pivečka, Rousínov, Fruit Brut IPA"
-    },
-    {
-      "name": "14° Motueka Sunrise",
-      "description": "6,1% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
