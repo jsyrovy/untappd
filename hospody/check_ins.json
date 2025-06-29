@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1491547937,
+      "dt": "2025-06-28T17:34:06+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Chmelodrom",
+      "brewery": "Pivovar Mazák",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-mazak-chmelodrom/6291480"
+    },
+    {
+      "id": 1491526978,
+      "dt": "2025-06-28T16:50:35+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Léto 2025",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-leto-2025/6309881"
+    },
+    {
+      "id": 1491519818,
+      "dt": "2025-06-28T16:34:20+02:00",
+      "venue_name": "U Toulavé pípy",
+      "beer_name": "Idaholic",
+      "brewery": "Pivovar Raven",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/pivovar-raven-idaholic/5979152"
+    },
+    {
       "id": 1491411409,
       "dt": "2025-06-28T04:55:18+02:00",
       "venue_name": "U Toulavé pípy",
