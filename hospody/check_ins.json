@@ -1,6 +1,33 @@
 {
   "check_ins": [
     {
+      "id": 1492053982,
+      "dt": "2025-06-29T19:25:59+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Big Balls",
+      "brewery": "Browar Harpagan",
+      "serving": "Taster",
+      "beer_link": "https://untappd.com/b/browar-harpagan-big-balls/6292887"
+    },
+    {
+      "id": 1492018957,
+      "dt": "2025-06-29T17:53:03+02:00",
+      "venue_name": "Pivní ambasáda",
+      "beer_name": "Vernal Fusion",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-vernal-fusion/5794271"
+    },
+    {
+      "id": 1491998858,
+      "dt": "2025-06-29T16:46:38+02:00",
+      "venue_name": "Loď Otava",
+      "beer_name": "Léto 2025",
+      "brewery": "Sibeeria Brewery",
+      "serving": "Čepované",
+      "beer_link": "https://untappd.com/b/sibeeria-brewery-leto-2025/6309881"
+    },
+    {
       "id": 1491547937,
       "dt": "2025-06-28T17:34:06+02:00",
       "venue_name": "U Toulavé pípy",
