@@ -1609,6 +1609,18 @@ INSERT INTO "archive" VALUES(1488879748,'2025-06-19 16:56:27.000000','sejrik','O
 INSERT INTO "archive" VALUES(1488887940,'2025-06-19 17:17:58.000000','sejrik','Mango & Passion Fruit Sorbet','Sibeeria Brewery','Sibeeria Tap Room');
 INSERT INTO "archive" VALUES(1488900947,'2025-06-19 17:49:35.000000','sejrik','Hop Digger','Sibeeria Brewery','Sibeeria Tap Room');
 INSERT INTO "archive" VALUES(1488907077,'2025-06-19 18:04:19.000000','sejrik','Brutal Barracuda','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1490666099,'2025-06-25 17:43:59.000000','sejrik','Raven 12','Pivovar Raven','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1490674335,'2025-06-25 18:12:40.000000','sejrik','Beskydy Krush','Beskydský pivovárek','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1490736089,'2025-06-25 21:48:15.000000','sejrik','New Dog On the Hop Erebus','Pivovar HoppyDog','Untappd at Home');
+INSERT INTO "archive" VALUES(1490847543,'2025-06-26 16:07:53.000000','sejrik','Převodník','Pivovar Volt','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1490868675,'2025-06-26 17:20:21.000000','sejrik','Kynšperský Zajíc 10° světlé výčepní','Kynšperský pivovar','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1490874336,'2025-06-26 17:37:43.000000','sejrik','Pink Power','Pivovar JungBerg','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1490880381,'2025-06-26 17:56:12.000000','sejrik','Motueka Sunrise','Sibeeria Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1490890491,'2025-06-26 18:25:06.000000','sejrik','Tangerine Infused Extra Brut IPA','Pivovar Pivečka','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1490897483,'2025-06-26 18:44:22.000000','sejrik','Big Balls','Browar Harpagan','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1490944026,'2025-06-26 20:57:01.000000','sejrik','Romulus','Pivovar Potmehúd','Untappd at Home');
+INSERT INTO "archive" VALUES(1492099571,'2025-06-29 19:12:02.000000','sejrik','Hauskrecht PH 13 Black Flek','Brněnská pivovarnická společnost','Untappd at Home');
+INSERT INTO "archive" VALUES(1492296091,'2025-06-30 18:40:57.000000','sejrik','Osmset10','Klokočka','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
