@@ -1,14 +1,11 @@
 from notifier.ambasada import AmbasadaOffer
 from notifier.base import Offer
-from notifier.pipa import LodOffer, PipaOffer
 from robot.base import BaseRobot
 
 
 class Notifier(BaseRobot):
     def _main(self) -> None:
-        offer_classes = (AmbasadaOffer,) if self._args.ambasada else (AmbasadaOffer, PipaOffer, LodOffer)
-
-        for class_ in offer_classes:
+        for class_ in (AmbasadaOffer,):
             offer = class_()
             offer.run()
 

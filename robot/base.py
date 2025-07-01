@@ -7,7 +7,6 @@ class Args:
     local: bool = False
     notificationless: bool = False
     publish: bool = False
-    ambasada: bool = False
 
 
 class BaseRobot:
@@ -26,6 +25,5 @@ class BaseRobot:
         parser.add_argument("--local", action="store_true", help="don't download data from website")
         parser.add_argument("--notificationless", action="store_true", help="don't send notifications")
         parser.add_argument("--publish", action="store_true", help="publish page only")
-        parser.add_argument("--ambasada", action="store_true", help="ron for Ambasada only")
         args, _ = parser.parse_known_args()
-        return Args(args.local, args.notificationless, args.publish, args.ambasada)
+        return Args(args.local, args.notificationless, args.publish)

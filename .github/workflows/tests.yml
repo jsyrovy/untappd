@@ -54,21 +54,6 @@ jobs:
           test -e web/pivni_valka/chart_all.html
           grep "Pivní válka" web/pivni_valka/index.html
           grep "INSERT INTO \"pivni_valka\" VALUES(2" data/data_dump.sql
-  smoke-hospody:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out
-        uses: actions/checkout@v2
-      - name: Install uv
-        uses: astral-sh/setup-uv@v4
-      - name: Test hospody
-        run: |
-          rm -f web/hospody/index.html hospody/check_ins.json
-          make run-hospody
-          test -e web/hospody/index.html
-          test -e hospody/check_ins.json
-          grep "Hospody" web/hospody/index.html
-          grep "id" hospody/check_ins.json
   smoke-notifier:
     runs-on: ubuntu-latest
     steps:

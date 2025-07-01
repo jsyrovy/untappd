@@ -19,15 +19,6 @@ publish-pivni-valka:
 test-pivni-valka:
 	uv run --dev pytest tests/pivni_valka
 
-run-hospody:
-	uv run --no-dev run_hospody.py
-
-run-hospody-local:
-	uv run --no-dev run_hospody.py --local
-
-test-hospody:
-	uv run --dev -m pytest tests/hospody
-
 run-notifier:
 	uv run --no-dev run_notifier.py
 
