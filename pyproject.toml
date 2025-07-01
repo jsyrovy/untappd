@@ -9,7 +9,6 @@ dependencies = [
     "feedparser>=6.0.11",
     "httpx[http2]>=0.28.1",
     "jinja2>=3.1.4",
-    "requests>=2.32.3",
     "sqlalchemy>=2.0.36",
 ]
 
@@ -22,5 +21,4 @@ dev = [
     "ruff>=0.8.4",
     "ty>=0.0.1a1",
     "types-mock>=5.1.0.20240425",
-    "types-requests>=2.32.0.20241016",
 ]

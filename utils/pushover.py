@@ -1,12 +1,12 @@
 import os
 
-import requests
+import httpx
 
 from utils.common import TIMEOUT
 
 
 def send_notification(text: str) -> None:
-    r = requests.post(
+    r = httpx.post(
         "https://api.pushover.net:443/1/messages.json",
         json={
             "token": os.environ["PUSHOVER_TOKEN"],
