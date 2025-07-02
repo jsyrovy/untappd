@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Elf",
+      "description": "4,8% alc. piv. JungBerg/Clock, Světlý Ležák"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
-    },
-    {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° The Expression",
