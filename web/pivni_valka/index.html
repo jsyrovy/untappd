@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Pivní válka</title>
+    <link rel="icon" type="image/png" href="/untappd/web/favicon.png"/>
+    <link rel="apple-touch-icon" href="/untappd/web/favicon.png">
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .wrapper {
+            height: 100%;
+            padding: 0;
+            margin: 0;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 300px 300px 300px 300px ;
+            grid-template-rows: auto;
+            grid-template-areas:
+                
+                "item-sejrik item-mencik2 item-Mates511 item-karolina_matukova_7117"
+                
+                "item-total-chart item-total-chart item-total-chart item-total-chart"
+                
+                "item-weekly-chart item-weekly-chart item-weekly-chart item-weekly-chart"
+                
+                "item-matej-chart item-matej-chart item-matej-chart item-matej-chart"
+                
+        }
+
+        .item-count {
+            text-align: center;
+            margin: 5px;
+            color: white;
+        }
+
+        .count {
+            font-size: 4rem;
+            margin: 0 5px;
+        }
+
+        .diff {
+            font-size: 2rem;
+            margin: 0 5px;
+        }
+
+        .name {
+            font-size: 2rem;
+            line-height: 1.5em;
+        }
+
+        .item-total-chart {
+            grid-area: item-total-chart;
+            margin: 5px;
+        }
+
+        .item-weekly-chart {
+            grid-area: item-weekly-chart;
+            margin: 5px;
+        }
+
+        .item-matej-chart {
+            grid-area: item-matej-chart;
+            margin: 5px;
+        }
+
+        @media only screen and (max-width: 991px) {
+            .container {
+                width: 100%;
+                grid-template-columns: 100%;
+                grid-template-areas:
+                    
+                    "item-sejrik"
+                    
+                    "item-mencik2"
+                    
+                    "item-Mates511"
+                    
+                    "item-karolina_matukova_7117"
+                    
+                    "item-total-chart"
+                    
+                    "item-weekly-chart"
+                    
+                    "item-matej-chart"
+                    
+            }
+
+            .count {
+                font-size: 8rem;
+            }
+
+            .diff {
+                font-size: 4rem;
+            }
+
+            .name {
+                font-size: 4rem;
+            }
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1/dist/chart.min.js"
+            integrity="sha256-bC3LCZCwKeehY6T4fFi9VfOU0gztUa+S4cnkIhVPZ5E="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="wrapper">
+    <div class="container">
+        
+        <a href="https://untappd.com/user/sejrik">
+            <div class="item-count" style="grid-area: item-sejrik; background: #577590;">
+                <span class="count">1428</span>
+                <div>
+                    <span class="diff" title="Včera">+1</span>
+                    <span class="diff" title="Poslední týden">+12</span>
+                    <span class="diff" title="Poslední měsíc">+27</span>
+                </div>
+                <div class="name">Jirka 👑</div>
+            </div>
+        </a>
+        
+        <a href="https://untappd.com/user/mencik2">
+            <div class="item-count" style="grid-area: item-mencik2; background: #43aa8b;">
+                <span class="count">940</span>
+                <div>
+                    <span class="diff" title="Včera">0</span>
+                    <span class="diff" title="Poslední týden">+17</span>
+                    <span class="diff" title="Poslední měsíc">+31</span>
+                </div>
+                <div class="name">Dan </div>
+            </div>
+        </a>
+        
+        <a href="https://untappd.com/user/Mates511">
+            <div class="item-count" style="grid-area: item-Mates511; background: #90be6d;">
+                <span class="count">745</span>
+                <div>
+                    <span class="diff" title="Včera">0</span>
+                    <span class="diff" title="Poslední týden">+3</span>
+                    <span class="diff" title="Poslední měsíc">+10</span>
+                </div>
+                <div class="name">Matěj </div>
+            </div>
+        </a>
+        
+        <a href="https://untappd.com/user/karolina_matukova_7117">
+            <div class="item-count" style="grid-area: item-karolina_matukova_7117; background: #f88379;">
+                <span class="count">130</span>
+                <div>
+                    <span class="diff" title="Včera">0</span>
+                    <span class="diff" title="Poslední týden">0</span>
+                    <span class="diff" title="Poslední měsíc">0</span>
+                </div>
+                <div class="name">Kája </div>
+            </div>
+        </a>
+        
+
+        <div class="item-total-chart" title="Celkem">
+            <a href="chart_month.html">
+                <canvas id="total-chart"></canvas>
+            </a>
+        </div>
+
+        <div class="item-weekly-chart" title="Za týden">
+            <canvas id="weekly-chart"></canvas>
+        </div>
+
+        <div class="item-matej-chart" title="Matějovy ztráty">
+            <canvas id="matej-chart"></canvas>
+        </div>
+    </div>
+</div>
+<script>
+    const totalCtx = document.getElementById('total-chart').getContext('2d');
+    const totalChart = new Chart(totalCtx, {
+        type: 'line',
+        data: {
+            labels: ['2025-06-17', '2025-06-18', '2025-06-19', '2025-06-20', '2025-06-21', '2025-06-22', '2025-06-23', '2025-06-24', '2025-06-26', '2025-06-27', '2025-06-28', '2025-06-29', '2025-06-30', '2025-07-01'],
+            datasets: [
+                
+                {
+                    label: 'Jirka',
+                    data: [1410, 1416, 1416, 1416, 1416, 1416, 1416, 1416, 1425, 1425, 1425, 1426, 1427, 1428],
+                    borderColor: '#577590',
+                    backgroundColor: '#577590',
+                },
+                
+                {
+                    label: 'Dan',
+                    data: [915, 917, 919, 919, 921, 923, 928, 928, 938, 938, 939, 939, 940, 940],
+                    borderColor: '#43aa8b',
+                    backgroundColor: '#43aa8b',
+                },
+                
+                {
+                    label: 'Matěj',
+                    data: [740, 740, 740, 741, 742, 742, 742, 742, 742, 742, 744, 744, 745, 745],
+                    borderColor: '#90be6d',
+                    backgroundColor: '#90be6d',
+                },
+                
+                {
+                    label: 'Kája',
+                    data: [130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130, 130],
+                    borderColor: '#f88379',
+                    backgroundColor: '#f88379',
+                },
+                
+            ],
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            },
+        },
+    });
+
+    const weeklyCtx = document.getElementById('weekly-chart').getContext('2d');
+    const weeklyChart = new Chart(weeklyCtx, {
+        type: 'line',
+        data: {
+            labels: ['2025-14', '2025-15', '2025-16', '2025-17', '2025-18', '2025-19', '2025-20', '2025-21', '2025-22', '2025-23', '2025-24', '2025-25', '2025-26'],
+            datasets: [
+                
+                {
+                    label: 'Matěj',
+                    data: [4, 5, 6, 1, 0, 3, 1, 0, 1, 4, 2, 2, 1],
+                    borderColor: '#90be6d',
+                    backgroundColor: '#90be6d',
+                },
+                
+                {
+                    label: 'Kája',
+                    data: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                    borderColor: '#f88379',
+                    backgroundColor: '#f88379',
+                },
+                
+                {
+                    label: 'Dan',
+                    data: [13, 1, 1, 1, 3, 0, 3, 1, 0, 6, 6, 18, 1],
+                    borderColor: '#43aa8b',
+                    backgroundColor: '#43aa8b',
+                },
+                
+                {
+                    label: 'Jirka',
+                    data: [9, 6, 3, 0, 3, 0, 0, 2, 5, 3, 7, 10, 2],
+                    borderColor: '#577590',
+                    backgroundColor: '#577590',
+                },
+                
+            ],
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            },
+        },
+    });
+
+    const matejCtx = document.getElementById('matej-chart').getContext('2d');
+    const matejChart = new Chart(matejCtx, {
+        type: 'line',
+        data: {
+            labels: ['2025-04-01', '2025-04-02', '2025-04-03', '2025-04-04', '2025-04-05', '2025-04-06', '2025-04-07', '2025-04-08', '2025-04-09', '2025-04-10', '2025-04-11', '2025-04-12', '2025-04-13', '2025-04-14', '2025-04-15', '2025-04-16', '2025-04-17', '2025-04-18', '2025-04-20', '2025-04-21', '2025-04-22', '2025-04-23', '2025-04-24', '2025-04-25', '2025-04-26', '2025-04-27', '2025-04-28', '2025-04-29', '2025-04-30', '2025-05-01', '2025-05-02', '2025-05-03', '2025-05-04', '2025-05-05', '2025-05-06', '2025-05-07', '2025-05-08', '2025-05-09', '2025-05-10', '2025-05-11', '2025-05-12', '2025-05-13', '2025-05-14', '2025-05-15', '2025-05-16', '2025-05-17', '2025-05-18', '2025-05-19', '2025-05-20', '2025-05-21', '2025-05-22', '2025-05-23', '2025-05-24', '2025-05-25', '2025-05-26', '2025-05-27', '2025-05-28', '2025-05-29', '2025-05-30', '2025-05-31', '2025-06-01', '2025-06-02', '2025-06-03', '2025-06-04', '2025-06-05', '2025-06-06', '2025-06-07', '2025-06-08', '2025-06-09', '2025-06-10', '2025-06-11', '2025-06-12', '2025-06-13', '2025-06-14', '2025-06-15', '2025-06-16', '2025-06-17', '2025-06-18', '2025-06-19', '2025-06-20', '2025-06-21', '2025-06-22', '2025-06-23', '2025-06-24', '2025-06-26', '2025-06-27', '2025-06-28', '2025-06-29', '2025-06-30', '2025-07-01'],
+            datasets: [
+                
+                {
+                    label: 'Jirka',
+                    data: [658, 660, 660, 661, 662, 663, 663, 664, 665, 669, 668, 668, 669, 669, 669, 668, 668, 669, 668, 667, 669, 669, 668, 666, 666, 666, 666, 666, 665, 665, 665, 665, 665, 666, 666, 666, 666, 668, 668, 668, 668, 668, 667, 666, 665, 665, 665, 665, 665, 665, 664, 664, 664, 663, 663, 664, 664, 664, 666, 666, 665, 668, 668, 668, 668, 670, 670, 670, 669, 670, 670, 670, 670, 669, 669, 670, 670, 676, 676, 675, 674, 674, 674, 674, 683, 683, 681, 682, 682, 683],
+                    borderColor: '#577590',
+                    backgroundColor: '#577590',
+                },
+                
+                {
+                    label: 'Dan',
+                    data: [170, 170, 170, 170, 171, 171, 171, 171, 178, 180, 180, 180, 180, 180, 178, 177, 177, 176, 176, 175, 175, 175, 174, 171, 171, 172, 172, 172, 171, 171, 171, 171, 171, 171, 171, 173, 173, 174, 174, 174, 174, 174, 173, 172, 171, 171, 171, 171, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173, 174, 174, 173, 173, 173, 173, 173, 173, 173, 173, 172, 174, 173, 172, 173, 175, 175, 175, 175, 177, 179, 178, 179, 181, 186, 186, 196, 196, 195, 195, 195, 195],
+                    borderColor: '#43aa8b',
+                    backgroundColor: '#43aa8b',
+                },
+                
+            ],
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false,
+                },
+            },
+        },
+    });
+</script>
+</body>
+</html>
