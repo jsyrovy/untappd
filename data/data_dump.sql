@@ -1623,6 +1623,11 @@ INSERT INTO "archive" VALUES(1492099571,'2025-06-29 19:12:02.000000','sejrik','H
 INSERT INTO "archive" VALUES(1492296091,'2025-06-30 18:40:57.000000','sejrik','Osmset10','Klokočka','Untappd at Home');
 INSERT INTO "archive" VALUES(1492468094,'2025-07-01 18:37:14.000000','sejrik','Kácovská Sestra','Hubertus','Untappd at Home');
 INSERT INTO "archive" VALUES(1492672635,'2025-07-02 19:08:55.000000','sejrik','Desítka of Happiness','Rodinný pivovar Zichovec','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1492835591,'2025-07-03 16:17:03.000000','sejrik','Kynšperský Zajíc 10° světlé výčepní','Kynšperský pivovar','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1492847169,'2025-07-03 16:56:00.000000','sejrik','Startér','Pivovar Volt','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1492856901,'2025-07-03 17:24:39.000000','sejrik','Superdelic Ale 12','Pivovar Mordýř','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1492868263,'2025-07-03 17:56:58.000000','sejrik','Kamenická 12','Pivovar Kamenice nad Lipou','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1492889577,'2025-07-03 18:52:33.000000','sejrik','Gunslinger','Pivovar Raven','U Toulavé pípy');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
