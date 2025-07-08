@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Jiskra",
+      "description": "4% alc. piv. MadCat, Kamenice, Ale"
+    },
+    {
       "name": "11° Elf",
       "description": "4,8% alc. piv. JungBerg/Clock, Světlý Ležák"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Das is Kwass",
       "description": "4,9% alc. piv. Lancut, Polsko, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Krásná Paní",
-      "description": "5% alc. piv. Valášek, Vsetín, Blond Ale"
     },
     {
       "name": "12° Maisels Weisse",
