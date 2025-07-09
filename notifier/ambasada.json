@@ -21,16 +21,16 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Das is Kwass",
-      "description": "4,9% alc. piv. Lancut, Polsko, Fruit Sour Ale"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "15° Baterka",
       "description": "6,2% alc. piv. Volt, Jablonec nad Nisou, IPA"
+    },
+    {
+      "name": "18° Kasteel Rouge",
+      "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
     }
   ]
 }
