@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Jiskra",
-      "description": "4% alc. piv. MadCat, Kamenice, Ale"
-    },
-    {
       "name": "10° One Alphabet",
       "description": "3,4% alc. piv. Sibeeria, Praha, Session NEIPA"
+    },
+    {
+      "name": "10° Sunny Ale",
+      "description": "4,5% alc. piv. Antoš, Slaný, APA"
     },
     {
       "name": "11° Elf",
