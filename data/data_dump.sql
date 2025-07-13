@@ -1632,6 +1632,12 @@ INSERT INTO "archive" VALUES(1494384909,'2025-07-08 10:33:51.000000','sejrik','V
 INSERT INTO "archive" VALUES(1494386997,'2025-07-08 11:06:16.000000','sejrik','Čoud','Old Cock Beer','Penzion U Vyra');
 INSERT INTO "archive" VALUES(1494889319,'2025-07-10 19:08:02.000000','sejrik','Mejťák 12% Polotmavý ležák','Pivovar Mejto','Výrovice');
 INSERT INTO "archive" VALUES(1495180447,'2025-07-11 18:45:11.000000','sejrik','Argus 12 Maestic','Lidl Česká Republika','Výrovice');
+INSERT INTO "archive" VALUES(1495475563,'2025-07-12 14:08:40.000000','sejrik','Vrták světlý ležák','Vrtal s.r.o.','Výrovice');
+INSERT INTO "archive" VALUES(1495633232,'2025-07-12 18:45:34.000000','sejrik','Summer Ale','Pivovary Lobkowicz','Výrovice');
+INSERT INTO "archive" VALUES(1495661191,'2025-07-12 19:21:25.000000','sejrik','Mejťák 11% Světlý ležák','Pivovar Mejto','Výrovice');
+INSERT INTO "archive" VALUES(1495661503,'2025-07-12 19:21:49.000000','sejrik','Mejto IPA','Pivovar Mejto','Výrovice');
+INSERT INTO "archive" VALUES(1495661854,'2025-07-12 19:22:15.000000','sejrik','Znojemská 11','Znojemský městský pivovar','Výrovice');
+INSERT INTO "archive" VALUES(1495686456,'2025-07-12 19:53:47.000000','sejrik','Summer Ale 10 - Stárek','Zmolský Pivovar','Zmolský Pivovar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
