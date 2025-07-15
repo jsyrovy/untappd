@@ -30,7 +30,7 @@ class PivniValka(OrmRobot):
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
 
-        with Path("web/pivni_valka/index.html").open("w") as f:
+        with Path("index.html").open("w") as f:
             f.write(page)
 
         page_month = self.get_page(
