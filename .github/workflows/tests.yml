@@ -52,7 +52,7 @@ jobs:
           test -e index.html
           test -e web/pivni_valka/chart_year.html
           test -e web/pivni_valka/chart_all.html
-          grep "Pivní válka" web/pivni_valka/index.html
+          grep "Pivní válka" index.html
           grep "INSERT INTO \"pivni_valka\" VALUES(2" data/data_dump.sql
   smoke-notifier:
     runs-on: ubuntu-latest
