@@ -2,7 +2,7 @@ import argparse
 from dataclasses import dataclass
 
 
-@dataclass
+@dataclass(frozen=True, kw_only=True)
 class Args:
     local: bool = False
     notificationless: bool = False
@@ -26,4 +26,4 @@ class BaseRobot:
         parser.add_argument("--notificationless", action="store_true", help="don't send notifications")
         parser.add_argument("--publish", action="store_true", help="publish page only")
         args, _ = parser.parse_known_args()
-        return Args(args.local, args.notificationless, args.publish)
+        return Args(local=args.local, notificationless=args.notificationless, publish=args.publish)
