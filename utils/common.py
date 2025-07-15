@@ -31,6 +31,7 @@ def download_page(url: str) -> str:
     with httpx.Client(http2=True, headers=headers) as client:
         r = client.get(url)
 
+    r.raise_for_status()
     return r.text
 
 
