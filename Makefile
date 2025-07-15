@@ -54,7 +54,7 @@ save-db-to-file:
 before-commit:
 	make format
 	make test
-	make lint
+	make lint-fix
 	make mypy
 
 ipython:
