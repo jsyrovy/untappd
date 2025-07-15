@@ -16,3 +16,8 @@ def test_send_notification(os_environ):
         send_notification("test")
 
     post_mock.assert_called_once()
+
+
+def test_send_notification_without_evn_variables():
+    with pytest.raises(OSError):
+        send_notification("test")

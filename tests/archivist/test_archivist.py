@@ -1,11 +1,15 @@
 import datetime
+import os
 from time import struct_time
+from unittest import mock
+from unittest.mock import MagicMock
 
 import pytest
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from archivist import (
+    Archivist,
     create_record_in_db,
     get_beer,
     get_brewery,
@@ -108,3 +112,32 @@ def test_create_record_in_db():
     )
     with Session(engine) as session:
         assert session.execute(stmt).scalar_one()
+
+
+def test_run():
+    entry_mock = MagicMock()
+    entry_mock.id = "666"
+    entry_mock.published_parsed = struct_time((2020, 1, 1, 0, 0, 0, 0, 0, 0))
+    entry_mock.title = "User is drinking a Beer by Brewery at Venue"
+
+    feed_mock = MagicMock()
+    feed_mock.entries = [entry_mock]
+
+    with (
+        mock.patch.dict(os.environ, {"FEED_KEY": "key"}),
+        mock.patch("feedparser.parse", return_value=feed_mock) as mock_parse,
+    ):
+        Archivist().run()
+
+    mock_parse.assert_called_once_with("https://untappd.com/rss/user/sejrik?key=key")
+
+    stmt = select(Archive).where(Archive.id == 666)
+    with Session(engine) as session:
+        record = session.execute(stmt).scalar_one()
+
+    assert record.id == 666
+    assert record.dt_utc == datetime.datetime(2020, 1, 1, 0, 0, 0)
+    assert record.user == "sejrik"
+    assert record.beer == "Beer"
+    assert record.brewery == "Brewery"
+    assert record.venue == "Venue"
