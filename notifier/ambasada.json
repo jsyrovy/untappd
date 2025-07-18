@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° One Alphabet",
-      "description": "3,4% alc. piv. Sibeeria, Praha, Session NEIPA"
-    },
-    {
       "name": "10° Yuzu Ale",
       "description": "4,9% alc. Beskydský Pivovárek, Ostravice, Fruit Ale"
     },
@@ -25,12 +21,16 @@
       "description": "3,4% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
-      "name": "14° Luc IPA",
-      "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
+      "name": "17° Leshy",
+      "description": "7,5% alc. piv. Švabín, Double IPA"
     },
     {
       "name": "18° Kasteel Rouge",
       "description": "8% alc. piv. Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0,25l"
+    },
+    {
+      "name": "9° Trudi",
+      "description": "3,9% alc. piv. Clock, Potštejn, Gluten Reduced Session NEIPA"
     }
   ]
 }
