@@ -5,6 +5,10 @@
       "description": "4,9% alc. Beskydský Pivovárek, Ostravice, Fruit Ale"
     },
     {
+      "name": "11° Fresh Breakfast 001",
+      "description": "3,5% alc. piv. Louka, Pastry Sour Ale (25% ovoce - Mango, Maracuja, Meruňka)"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Philadelphia Bez a Limetka",
-      "description": "3,4% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "14° Ename Rouge",
