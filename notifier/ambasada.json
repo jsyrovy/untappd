@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Yuzu Ale",
-      "description": "4,9% alc. Beskydský Pivovárek, Ostravice, Fruit Ale"
-    },
-    {
       "name": "11° Fresh Breakfast 001",
       "description": "3,5% alc. piv. Louka, Pastry Sour Ale (25% ovoce - Mango, Maracuja, Meruňka)"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Riwaka Ale",
+      "description": "5,1% alc. piv. Mordýř, Dolní Ředice, Riwaka SMASH Ale"
     },
     {
       "name": "14° Ename Rouge",
