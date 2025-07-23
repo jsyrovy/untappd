@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Fresh Breakfast 001",
-      "description": "3,5% alc. piv. Louka, Pastry Sour Ale (25% ovoce - Mango, Maracuja, Meruňka)"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Moves Peach and Lychee",
+      "description": "4,4% alc. piv. Agent, Olešnice, Pastry Fruit Sour Ale"
     },
     {
       "name": "12° Maisels Weisse",
