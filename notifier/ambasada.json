@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° LuciAle",
+      "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,16 +21,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Riwaka Ale",
-      "description": "5,1% alc. piv. Mordýř, Dolní Ředice, Riwaka SMASH Ale"
-    },
-    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "17° Leshy",
-      "description": "7,5% alc. piv. Švabín, Double IPA"
+      "name": "15° Pineapple Extra Brut",
+      "description": "7,3% alc. piv. Pivečka, Rousínov, Fruit Brut IPA"
     }
   ]
 }
