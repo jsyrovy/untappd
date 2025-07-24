@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° FranCeco",
+      "description": "4,2% alc. piv. Sibeeria/dell Eremo, Session NEIPA"
+    },
+    {
       "name": "10° LuciAle",
       "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
     },
