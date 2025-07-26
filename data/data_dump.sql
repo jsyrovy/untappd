@@ -1644,6 +1644,9 @@ INSERT INTO "archive" VALUES(1497480167,'2025-07-19 10:33:35.000000','sejrik','N
 INSERT INTO "archive" VALUES(1498346010,'2025-07-21 18:15:29.000000','sejrik','Summer Tummy 10','Rodinný pivovar Zichovec','Untappd at Home');
 INSERT INTO "archive" VALUES(1498757270,'2025-07-23 17:53:27.000000','sejrik','Rohlíkova 10','Hostivar','Untappd at Home');
 INSERT INTO "archive" VALUES(1498781441,'2025-07-23 18:58:59.000000','sejrik','H-Ale 15','Hostivar','Untappd at Home');
+INSERT INTO "archive" VALUES(1499225313,'2025-07-25 14:24:49.000000','sejrik','FranCeco','Sibeeria Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1499228981,'2025-07-25 14:38:39.000000','sejrik','Moves Peach And Lychee','Pivovar Agent','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1499231716,'2025-07-25 14:49:02.000000','sejrik','Pineapple Infused Extra Brut IPA','Pivovar Pivečka','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
