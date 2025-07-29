@@ -1650,6 +1650,12 @@ INSERT INTO "archive" VALUES(1499231716,'2025-07-25 14:49:02.000000','sejrik','P
 INSERT INTO "archive" VALUES(1499585921,'2025-07-26 09:32:19.000000','sejrik','Pilsner Urquell','Plzeňský Prazdroj','Pivnice Klondike');
 INSERT INTO "archive" VALUES(1499681351,'2025-07-26 15:33:31.000000','sejrik','Svijanský Máz','Svijany','Chvojenec');
 INSERT INTO "archive" VALUES(1499845091,'2025-07-26 19:32:21.000000','sejrik','IPA','Primátor','Chvojenec');
+INSERT INTO "archive" VALUES(1500422313,'2025-07-28 17:09:48.000000','sejrik','Non Alcoholic APA 0°','Pivovar Agent','Pivovar Agent');
+INSERT INTO "archive" VALUES(1500424062,'2025-07-28 17:16:00.000000','sejrik','Happy Pils','BRLO','Untappd at Home');
+INSERT INTO "archive" VALUES(1500438748,'2025-07-28 18:07:11.000000','sejrik','14 Tractor IPA','Zlatá kráva','Untappd at Home');
+INSERT INTO "archive" VALUES(1500449560,'2025-07-28 18:43:52.000000','sejrik','Red Ale 14','Hostivar','Untappd at Home');
+INSERT INTO "archive" VALUES(1500464341,'2025-07-28 19:31:01.000000','sejrik','Oseka','The Garden Brewery','Untappd at Home');
+INSERT INTO "archive" VALUES(1500488756,'2025-07-28 21:00:36.000000','sejrik','Ring A Ding','Axiom Brewery','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
