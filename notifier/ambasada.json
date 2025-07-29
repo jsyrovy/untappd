@@ -17,10 +17,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Moves Peach and Lychee",
-      "description": "4,4% alc. piv. Agent, Olešnice, Pastry Fruit Sour Ale"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° Pineapple Extra Brut",
       "description": "7,3% alc. piv. Pivečka, Rousínov, Fruit Brut IPA"
+    },
+    {
+      "name": "Quest Orange IPA",
+      "description": "0,5% alc. piv. Švabín, Alc-free Orange IPA"
     }
   ]
 }
