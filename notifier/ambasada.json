@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Nina",
+      "description": "4,2% alc. piv. Clock, Potštejn, Raspberry Berliner Weisse"
+    },
+    {
       "name": "10° Summer Ale",
       "description": "4,3% alc. piv. Vik, Praha, Ale"
     },
@@ -27,10 +31,6 @@
     {
       "name": "15° Tipsy Toucan",
       "description": "6,4% alc. piv. Sibeeria, Praha, New England IPA"
-    },
-    {
-      "name": "Quest Orange IPA",
-      "description": "0,5% alc. piv. Švabín, Alc-free Orange IPA"
     }
   ]
 }
