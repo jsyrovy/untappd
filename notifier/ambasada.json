@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "10° Summer Ale",
+      "description": "4,3% alc. piv. Vik, Praha, Ale"
     },
     {
-      "name": "12° Citra",
-      "description": "5,2% alc. piv. Čestmír, Brandýs nad Labem, SMASH APA"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
