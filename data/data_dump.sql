@@ -1664,6 +1664,14 @@ INSERT INTO "archive" VALUES(1500641850,'2025-07-29 18:23:25.000000','sejrik','P
 INSERT INTO "archive" VALUES(1500672713,'2025-07-29 19:55:35.000000','sejrik','Gunslinger','Pivovar Raven','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1501004906,'2025-07-31 09:10:14.000000','sejrik','Gambrinus Nepasterizovaná 11','Plzeňský Prazdroj','Smíchovská Formanka');
 INSERT INTO "archive" VALUES(1501040585,'2025-07-31 14:33:21.000000','sejrik','Beertime Dialogue: Sultana & Nelson Sauvin','Pivovar Raven','Beertime');
+INSERT INTO "archive" VALUES(1502189052,'2025-08-03 09:39:38.000000','sejrik','Elektron','Pivovar Volt','Pivovar Volt');
+INSERT INTO "archive" VALUES(1502190538,'2025-08-03 10:00:56.000000','sejrik','Zdroj 12','Pivovar Volt','Pivovar Volt');
+INSERT INTO "archive" VALUES(1502192428,'2025-08-03 10:22:24.000000','sejrik','Eliášův oheň','Pivovar Volt','Pivovar Volt');
+INSERT INTO "archive" VALUES(1502194195,'2025-08-03 10:38:53.000000','sejrik','Blackout','Pivovar Volt','Pivovar Volt');
+INSERT INTO "archive" VALUES(1502220079,'2025-08-03 13:16:09.000000','sejrik','Svijanská Kněžna','Svijany','Restaurace Černá Studnice');
+INSERT INTO "archive" VALUES(1502255288,'2025-08-03 15:27:01.000000','sejrik','Výčepní 10°','Rezek','Pivovar Rezek');
+INSERT INTO "archive" VALUES(1502263286,'2025-08-03 15:50:26.000000','sejrik','Světlý ležák 12°','Rezek','Pivovar Rezek');
+INSERT INTO "archive" VALUES(1502267670,'2025-08-03 16:02:51.000000','sejrik','Jantarový Speciál','Rezek','Pivovar Rezek');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
