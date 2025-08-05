@@ -1672,6 +1672,10 @@ INSERT INTO "archive" VALUES(1502220079,'2025-08-03 13:16:09.000000','sejrik','S
 INSERT INTO "archive" VALUES(1502255288,'2025-08-03 15:27:01.000000','sejrik','Výčepní 10°','Rezek','Pivovar Rezek');
 INSERT INTO "archive" VALUES(1502263286,'2025-08-03 15:50:26.000000','sejrik','Světlý ležák 12°','Rezek','Pivovar Rezek');
 INSERT INTO "archive" VALUES(1502267670,'2025-08-03 16:02:51.000000','sejrik','Jantarový Speciál','Rezek','Pivovar Rezek');
+INSERT INTO "archive" VALUES(1502484868,'2025-08-04 09:14:18.000000','sejrik','Tapper 11','Pivovar Muhu','Tanvald');
+INSERT INTO "archive" VALUES(1502512497,'2025-08-04 14:49:54.000000','sejrik','Světlý ležák 12°','Krakonoš','Občerstvení Útulna - Krömerova bouda');
+INSERT INTO "archive" VALUES(1502550562,'2025-08-04 17:44:10.000000','sejrik','Kauschka','Pivovar Muhu','Smědava 847m (rozc.)');
+INSERT INTO "archive" VALUES(1502572256,'2025-08-04 18:58:21.000000','sejrik','Hovado Na Dovolené','Pivovar Muhu','Smědava 847m (rozc.)');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
