@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Nina",
-      "description": "4,2% alc. piv. Clock, Potštejn, Raspberry Berliner Weisse"
-    },
-    {
-      "name": "11° Glee",
-      "description": "4,8% alc. piv. Clock, Potštejn, Gluten Reduced Pale Ale"
+      "name": "10° Gooseberry & Grape",
+      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12,5° Matylda",
+      "description": "5,1% alc. piv. U Vojtěchů, Pardubice, India Pale Ale"
     },
     {
       "name": "12° Komplic",
