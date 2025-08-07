@@ -5,6 +5,10 @@
       "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
     },
     {
+      "name": "11° Adaptér",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, American Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "14° Luc IPA",
-      "description": "5,5% alc. piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "8° Joyride",
