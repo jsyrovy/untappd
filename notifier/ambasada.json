@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Gooseberry & Grape",
-      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
-    },
-    {
       "name": "11° Adaptér",
       "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, American Pale Ale"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
+    },
+    {
+      "name": "15° Elektra",
+      "description": "6,5% alc. piv. Volt, Jablonec nad Nisou, Višňové Gose"
     },
     {
       "name": "9° Orange",
