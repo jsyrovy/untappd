@@ -27,8 +27,8 @@ def test_get_tiles_data():
         ),
         TileData(
             name="Matěj",
-            user_name="Mates511",
-            url="https://untappd.com/user/Mates511",
+            user_name="Indi51",
+            url="https://untappd.com/user/Indi51",
             color="#90be6d",
             unique_beers_count=33,
             diff_day="+30",

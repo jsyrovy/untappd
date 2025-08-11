@@ -7,7 +7,7 @@ def get_chart_data(days: int) -> ChartData:
     datasets = [
         ChartDataset(user.name, _get_user_data(user.user_name, days), user.color)
         for user in utils.user.USERS
-        if user.user_name in ("Mates511", "sejrik", "mencik2")
+        if user.user_name in ("Indi51", "sejrik", "mencik2")
     ]
 
     dataset_jirka = datasets[0]
