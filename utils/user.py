@@ -14,7 +14,7 @@ class User:
 USERS = (
     User("Jirka", "sejrik", "#577590", "male"),
     User("Dan", "mencik2", "#43aa8b", "male"),
-    User("Matěj", "Mates511", "#90be6d", "male"),
+    User("Matěj", "Indi51", "#90be6d", "male"),
     User("Ondra", "ominar", "#f9c74f", "male", hidden=True),
     User("Kája", "karolina_matukova_7117", "#f88379", "female"),
 )
