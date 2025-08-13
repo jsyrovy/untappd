@@ -1,16 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Adaptér",
-      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, American Pale Ale"
+      "name": "10° Bzučoun",
+      "description": "3,5% alc. piv. Mordýř, Dolní Ředice, Hazy Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12,5° Matylda",
-      "description": "5,1% alc. piv. U Vojtěchů, Pardubice, India Pale Ale"
     },
     {
       "name": "12° Komplic",
@@ -19,6 +15,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "13° Taonga",
+      "description": "5,5% alc. piv. Maisel & Friends, Bayreuth, Bavorsko, New Zeland IPA"
     },
     {
       "name": "15° Elektra",
