@@ -1,12 +1,16 @@
 {
   "beers": [
     {
-      "name": "10° Bzučoun",
-      "description": "3,5% alc. piv. Mordýř, Dolní Ředice, Hazy Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° California",
+      "description": "5,2% alc. piv. Obora, Malšice, Session IPA"
+    },
+    {
+      "name": "12° Fogtown",
+      "description": "4,6% alc. piv. Sibeeria, Praha, New England Pale Ale"
     },
     {
       "name": "12° Maisels Weisse",
