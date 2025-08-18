@@ -1680,6 +1680,7 @@ INSERT INTO "archive" VALUES(1503271506,'2025-08-07 20:43:38.000000','sejrik','M
 INSERT INTO "archive" VALUES(1503502597,'2025-08-08 17:33:31.000000','sejrik','4 Luppoli Non Filtrata','Birrificio Angelo Poretti','Untappd at Home');
 INSERT INTO "archive" VALUES(1504758782,'2025-08-12 11:58:09.000000','sejrik','Crush 13','Albert Michler akciový pivovar','Cukrárna Upečeno na návsi');
 INSERT INTO "archive" VALUES(1505191100,'2025-08-14 15:12:19.000000','sejrik','11 Trejl','Albert Michler akciový pivovar','Domašov');
+INSERT INTO "archive" VALUES(1506254180,'2025-08-17 05:41:30.000000','sejrik','9 Pilot - Peach Sour Nano Hazy IPA','Pivovar Agent','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
