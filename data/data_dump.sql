@@ -1683,6 +1683,8 @@ INSERT INTO "archive" VALUES(1505191100,'2025-08-14 15:12:19.000000','sejrik','1
 INSERT INTO "archive" VALUES(1506254180,'2025-08-17 05:41:30.000000','sejrik','9 Pilot - Peach Sour Nano Hazy IPA','Pivovar Agent','Untappd at Home');
 INSERT INTO "archive" VALUES(1506600878,'2025-08-18 18:44:01.000000','sejrik','Anežka','Pivovar Clock','Alexandra Alber Villa Schlosskopf');
 INSERT INTO "archive" VALUES(1506619739,'2025-08-18 20:01:12.000000','sejrik','Mountain Pale Ale','Bierol','Alexandra Alber Villa Schlosskopf');
+INSERT INTO "archive" VALUES(1506763533,'2025-08-19 18:49:59.000000','sejrik','Sunn Seiterl','Bierol','Alexandra Alber Villa Schlosskopf');
+INSERT INTO "archive" VALUES(1506774465,'2025-08-19 19:30:27.000000','sejrik','The Padawan','Bierol','Alexandra Alber Villa Schlosskopf');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
