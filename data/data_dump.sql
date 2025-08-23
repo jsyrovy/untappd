@@ -1689,6 +1689,8 @@ INSERT INTO "archive" VALUES(1506972910,'2025-08-20 20:28:34.000000','sejrik','S
 INSERT INTO "archive" VALUES(1507130721,'2025-08-21 17:59:45.000000','sejrik','Starkenberger Gold Lager','Brauerei Schloss Starkenberg','Alexandra Alber Villa Schlosskopf');
 INSERT INTO "archive" VALUES(1507144869,'2025-08-21 18:40:14.000000','sejrik','Löwenbräu LöwenWeisse','Spaten-Franziskaner-Löwenbräu-Gruppe','Alexandra Alber Villa Schlosskopf');
 INSERT INTO "archive" VALUES(1507177919,'2025-08-21 20:14:51.000000','sejrik','Affenkönig','Brew Age','Alexandra Alber Villa Schlosskopf');
+INSERT INTO "archive" VALUES(1507452973,'2025-08-22 18:56:12.000000','sejrik','BIOSTOFF Lager','Brauerei Göss','Alexandra Alber Villa Schlosskopf');
+INSERT INTO "archive" VALUES(1507476637,'2025-08-22 19:33:31.000000','sejrik','Alphatier','Brew Age','Alexandra Alber Villa Schlosskopf');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
