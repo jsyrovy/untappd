@@ -1691,6 +1691,10 @@ INSERT INTO "archive" VALUES(1507144869,'2025-08-21 18:40:14.000000','sejrik','L
 INSERT INTO "archive" VALUES(1507177919,'2025-08-21 20:14:51.000000','sejrik','Affenkönig','Brew Age','Alexandra Alber Villa Schlosskopf');
 INSERT INTO "archive" VALUES(1507452973,'2025-08-22 18:56:12.000000','sejrik','BIOSTOFF Lager','Brauerei Göss','Alexandra Alber Villa Schlosskopf');
 INSERT INTO "archive" VALUES(1507476637,'2025-08-22 19:33:31.000000','sejrik','Alphatier','Brew Age','Alexandra Alber Villa Schlosskopf');
+INSERT INTO "archive" VALUES(1508168114,'2025-08-24 10:50:18.000000','sejrik','Světlý ležák 11°','Krakonoš','Hospoda ve Lhotě');
+INSERT INTO "archive" VALUES(1508239127,'2025-08-24 16:01:00.000000','sejrik','BUP Pils','Bratři v pivu','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1508253563,'2025-08-24 16:40:12.000000','sejrik','BONJOUR NEIPA / Barbe Rouge X Elixir','Pivovar Vik','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1508285359,'2025-08-24 17:59:07.000000','sejrik','Australian IPA 14','Pivovar Louka','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
