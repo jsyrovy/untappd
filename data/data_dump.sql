@@ -1695,6 +1695,7 @@ INSERT INTO "archive" VALUES(1508168114,'2025-08-24 10:50:18.000000','sejrik','S
 INSERT INTO "archive" VALUES(1508239127,'2025-08-24 16:01:00.000000','sejrik','BUP Pils','Bratři v pivu','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1508253563,'2025-08-24 16:40:12.000000','sejrik','BONJOUR NEIPA / Barbe Rouge X Elixir','Pivovar Vik','U Toulavé pípy');
 INSERT INTO "archive" VALUES(1508285359,'2025-08-24 17:59:07.000000','sejrik','Australian IPA 14','Pivovar Louka','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1508640213,'2025-08-26 17:29:41.000000','sejrik','Double Trouble','Pivovar Obora','Restaurace Pod Vinicí');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
