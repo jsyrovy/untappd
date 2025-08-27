@@ -9,10 +9,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "11° Skydancer",
-      "description": "4,7% alc. piv. Čestmír, Brandýs nad Labem, APA"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -27,6 +23,10 @@
     {
       "name": "13° Kurtizána",
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
+    },
+    {
+      "name": "9° Paka Ale",
+      "description": "3,9% alc. piv. Malešov, Summer Ale"
     },
     {
       "name": "Mango & Maracuja",
