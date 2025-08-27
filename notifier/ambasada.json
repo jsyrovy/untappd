@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Léto 2025",
-      "description": "4,3% alc. piv. Sibeeria, Praha, Session IPA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Peach Sorbet",
+      "description": "4,4% alc. piv. Sibeeria, Praha, Sour Ale w/ Pineapple"
     },
     {
       "name": "12° Maisels Weisse",
@@ -17,16 +17,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Philadelphia Č. Rybíz a Malina",
-      "description": "4% alc. piv. Obora, Malšice, Fruit Sour Ale"
-    },
-    {
       "name": "13° Kurtizána",
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
     },
     {
       "name": "9° Paka Ale",
       "description": "3,9% alc. piv. Malešov, Summer Ale"
+    },
+    {
+      "name": "9° Summer Brut Citrus",
+      "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Brut Ale"
     },
     {
       "name": "Mango & Maracuja",
