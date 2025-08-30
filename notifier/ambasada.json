@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "11° Oasis of Passion",
+      "description": "4,5% alc. piv. Haksna, Ostrava, Fruit Sour Ale"
+    },
+    {
       "name": "11° Peach Sorbet",
       "description": "4,4% alc. piv. Sibeeria, Praha, Sour Ale w/ Peach"
     },
@@ -27,10 +31,6 @@
     {
       "name": "9° Raspberry Micro IPA",
       "description": "4,2% alc. piv. Agent, Olešnice, Fruity IPA"
-    },
-    {
-      "name": "9° Summer Brut Citrus",
-      "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Brut Ale"
     }
   ]
 }
