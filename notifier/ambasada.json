@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Farm APA",
+      "description": "4% alc. piv. Zlatá Kráva, Nepomuk, APA"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° Abel Tasman",
       "description": "6,2% alc. Beskydský Pivovárek, Ostravice, IPA"
-    },
-    {
-      "name": "9° Paka Ale",
-      "description": "3,9% alc. piv. Malešov, Summer Ale"
     },
     {
       "name": "9° Raspberry Micro IPA",
