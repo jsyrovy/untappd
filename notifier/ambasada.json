@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Farm APA",
-      "description": "4% alc. piv. Zlatá Kráva, Nepomuk, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "11° Oasis of Passion",
       "description": "4,5% alc. piv. Haksna, Ostrava, Fruit Sour Ale"
+    },
+    {
+      "name": "12° Erebus",
+      "description": "5,1% alc. piv. JungBerg, Hořice, ALE"
     },
     {
       "name": "12° Maisels Weisse",
