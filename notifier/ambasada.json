@@ -13,10 +13,6 @@
       "description": "4,5% alc. piv. Haksna, Ostrava, Fruit Sour Ale"
     },
     {
-      "name": "11° Peach Sorbet",
-      "description": "4,4% alc. piv. Sibeeria, Praha, Sour Ale w/ Peach"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Abel Tasman",
       "description": "6,2% alc. Beskydský Pivovárek, Ostravice, IPA"
+    },
+    {
+      "name": "15° Grapefruit Lollihop",
+      "description": "6,6% alc. piv. Sibeeria, Praha, West Coast IPA w/ Grapefruit, 0,5l"
     },
     {
       "name": "9° Raspberry Micro IPA",
