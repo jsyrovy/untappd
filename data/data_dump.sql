@@ -1717,6 +1717,13 @@ INSERT INTO "archive" VALUES(1511403310,'2025-09-06 14:03:55.000000','sejrik','N
 INSERT INTO "archive" VALUES(1512276606,'2025-09-09 19:42:20.000000','sejrik','Apollo Galaxy 13°','Pivovar Matuška','Untappd at Home');
 INSERT INTO "archive" VALUES(1512863769,'2025-09-12 18:47:29.000000','sejrik','Studentská desítka 10°','Pivovar Kocour Varnsdorf','Untappd at Home');
 INSERT INTO "archive" VALUES(1512920424,'2025-09-12 20:23:11.000000','sejrik','A. P. A. HBC 1019','Budějovický Budvar','Untappd at Home');
+INSERT INTO "archive" VALUES(1513115947,'2025-09-13 12:34:19.000000','sejrik','Hektor','Pivovar Clock','Automatické mlýny');
+INSERT INTO "archive" VALUES(1513121162,'2025-09-13 12:50:42.000000','sejrik','Strawberry Cream','Pivovar Antoš','Automatické mlýny');
+INSERT INTO "archive" VALUES(1513134675,'2025-09-13 13:31:05.000000','sejrik','Aurora','Pivovar Raven','Automatické mlýny');
+INSERT INTO "archive" VALUES(1513144172,'2025-09-13 13:56:04.000000','sejrik','Nordic Tropic','Pivovar Antoš','Automatické mlýny');
+INSERT INTO "archive" VALUES(1513163897,'2025-09-13 14:41:54.000000','sejrik','BlackDog DDH Lager','Pivovar Clock','Automatické mlýny');
+INSERT INTO "archive" VALUES(1513171466,'2025-09-13 14:57:58.000000','sejrik','Meridian Darkness','Pivovar Antoš','Automatické mlýny');
+INSERT INTO "archive" VALUES(1513200334,'2025-09-13 15:53:33.000000','sejrik','13 Years of Happiness 17','Rodinný pivovar Zichovec','Automatické mlýny');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
