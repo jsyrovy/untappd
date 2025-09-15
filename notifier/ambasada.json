@@ -21,16 +21,16 @@
       "description": "5,4% alc. piv. Mordýř, Dolní Ředice, American Wheat Ale"
     },
     {
+      "name": "14° IPA 52",
+      "description": "6,4% alc. piv. Fabrika Bire, Chorvatsko, India Pale Ale"
+    },
+    {
       "name": "14° One Student",
       "description": "6,4% alc. piv. Sibeeria, Praha, West Coast IPA"
     },
     {
       "name": "14° Prostě IPA",
       "description": "6,1% alc. piv. Rampušák, Dobruška, IPA"
-    },
-    {
-      "name": "Quest Orange IPA",
-      "description": "0,5% alc. piv. Švabín, Nealko Orange IPA"
     }
   ]
 }
