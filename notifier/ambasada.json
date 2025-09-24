@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Orion Lambda",
+      "description": "5,1% alc. piv. Černý Potoka, Hořice, American Pale Ale"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "17° Zlatá Raketa",
       "description": "7% alc. piv. Matuška, Broumy, IPA"
-    },
-    {
-      "name": "9° Diplomat",
-      "description": "3,5% alc. piv. Ovipistán, Ledce, Summer Ale"
     }
   ]
 }
