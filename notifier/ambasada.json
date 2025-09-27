@@ -5,10 +5,6 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Komplic",
-      "description": "5% alc. piv. Agent, Olešnice, American Weizen"
-    },
-    {
       "name": "12° Orion Lambda",
       "description": "5,1% alc. piv. Černý Potoka, Hořice, American Pale Ale"
     },
@@ -17,8 +13,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Philadelphia Jahoda",
-      "description": "5,4% alc. piv. Obora, Malšice, Fruit Sour Ale"
+      "name": "12° Weiherer",
+      "description": "5,2% alc. piv. Kundmuller, Bavorsko, German Weizen"
+    },
+    {
+      "name": "14° Antonio",
+      "description": "7,8% alc. piv. Clock, Potštejn, Gluten Reduced Grapefruit Brut IPA"
     },
     {
       "name": "14° Fluorescent Frog",
