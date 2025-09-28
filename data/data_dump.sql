@@ -1733,6 +1733,7 @@ INSERT INTO "archive" VALUES(1515140331,'2025-09-20 19:26:28.000000','sejrik','M
 INSERT INTO "archive" VALUES(1515794731,'2025-09-23 17:50:10.000000','sejrik','Obala - New England Pale Ale','The Garden Brewery','Untappd at Home');
 INSERT INTO "archive" VALUES(1515811522,'2025-09-23 19:05:20.000000','sejrik','Černá Barbora','Ostravar','Untappd at Home');
 INSERT INTO "archive" VALUES(1515833087,'2025-09-23 20:53:37.000000','sejrik','India Pale Ale | Shuma','The Garden Brewery','Untappd at Home');
+INSERT INTO "archive" VALUES(1516632572,'2025-09-27 10:55:05.000000','sejrik','Světlý Ležák 11°','Rodinný pivovar u Vacků','Břehy');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
