@@ -21,16 +21,16 @@
       "description": "7,8% alc. piv. Clock, Potštejn, Gluten Reduced Grapefruit Brut IPA"
     },
     {
-      "name": "14° Fluorescent Frog",
-      "description": "6,1% alc. piv. Sibeeria, Praha, Kveik IPA"
-    },
-    {
       "name": "14° IPA 52",
       "description": "6,4% alc. piv. Fabrika Bire, Chorvatsko, India Pale Ale"
     },
     {
       "name": "15° Intergalactic",
       "description": "6,4% alc. piv. Medvěd, Vrchlabí, IPA"
+    },
+    {
+      "name": "25° Nostalgie 70s",
+      "description": "10,7% alc. piv. Sibeeria, Praha, Cedar Aged American Barleywine"
     }
   ]
 }
