@@ -9,10 +9,6 @@
       "description": "6% alc. piv. Hacker-Pschorr, Mnichov, Festbier Marzen"
     },
     {
-      "name": "13,7° Hofbrau",
-      "description": "6,3% alc. piv. Staatliches Hofbrauhaus, Mnichov, Festbier Hell"
-    },
-    {
       "name": "13,7° Lowenbrau",
       "description": "6,1% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Hell"
     },
@@ -23,6 +19,10 @@
     {
       "name": "13,7° Spaten",
       "description": "5,9% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Marzen"
+    },
+    {
+      "name": "13° Helga",
+      "description": "5,5% alc. piv. Clock, Potštejn, Festbier"
     },
     {
       "name": "18° Kasteel Rouge",
