@@ -1736,6 +1736,8 @@ INSERT INTO "archive" VALUES(1515833087,'2025-09-23 20:53:37.000000','sejrik','I
 INSERT INTO "archive" VALUES(1516632572,'2025-09-27 10:55:05.000000','sejrik','Světlý Ležák 11°','Rodinný pivovar u Vacků','Břehy');
 INSERT INTO "archive" VALUES(1517394989,'2025-09-29 18:39:51.000000','sejrik','Únětické pivo 10° nefiltrované','Únětický pivovar','Untappd at Home');
 INSERT INTO "archive" VALUES(1517839359,'2025-10-02 18:02:43.000000','sejrik','Únětické pivo 10,7° filtrované','Únětický pivovar','Untappd at Home');
+INSERT INTO "archive" VALUES(1518563450,'2025-10-04 18:35:50.000000','sejrik','Saaz Shine','Svijany','Untappd at Home');
+INSERT INTO "archive" VALUES(1518603519,'2025-10-04 19:26:34.000000','sejrik','New England IPA (Northern Monk)','Marks & Spencer','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
