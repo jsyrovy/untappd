@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Randy",
+      "description": "4,7% alc. piv. The Barn Beer co., Druztová, APA"
+    },
+    {
       "name": "12° Franziskaner",
       "description": "5%alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, German Hefeweizen"
     },
@@ -11,10 +15,6 @@
     {
       "name": "13,7° Lowenbrau",
       "description": "6,1% alc. piv. Spaten-Franziskaner-Lowenbrau Gruppe, Festbier Hell"
-    },
-    {
-      "name": "13° Helga",
-      "description": "5,5% alc. piv. Clock, Potštejn, Festbier"
     },
     {
       "name": "16° Weiherer IPA",
