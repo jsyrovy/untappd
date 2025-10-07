@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Malina & Máta",
+      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
+    },
+    {
       "name": "11° Randy",
       "description": "4,7% alc. piv. The Barn Beer co., Druztová, APA"
     },
