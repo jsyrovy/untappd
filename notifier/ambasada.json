@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° Malina & Máta",
-      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
-    },
-    {
       "name": "11° Denali",
       "description": "4,5% alc. piv. Beskydský, Ostravice, SMASH APA"
+    },
+    {
+      "name": "11° MadBerry",
+      "description": "4,4% alc. piv. MadCat, Kamenice, Sour Ale Brusinky & Skořice"
     },
     {
       "name": "11° Mordýř",
