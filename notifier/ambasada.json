@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Adaptér",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, American Pale Ale"
+    },
+    {
       "name": "11° Liquid Luck",
       "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Terapeut",
-      "description": "5,1% alc. piv. JungBerg, Hořice, ALE"
     },
     {
       "name": "14° Ename Rouge",
