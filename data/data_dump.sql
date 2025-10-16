@@ -1740,6 +1740,10 @@ INSERT INTO "archive" VALUES(1518563450,'2025-10-04 18:35:50.000000','sejrik','S
 INSERT INTO "archive" VALUES(1518603519,'2025-10-04 19:26:34.000000','sejrik','New England IPA (Northern Monk)','Marks & Spencer','Untappd at Home');
 INSERT INTO "archive" VALUES(1519270396,'2025-10-07 18:55:57.000000','sejrik','APA','Volfas Engelman','Untappd at Home');
 INSERT INTO "archive" VALUES(1519278782,'2025-10-07 19:36:05.000000','sejrik','Blanc','Volfas Engelman','Untappd at Home');
+INSERT INTO "archive" VALUES(1521182151,'2025-10-15 14:50:27.000000','sejrik','Staropramen 10 (formerly Smíchov)','Pivovary Staropramen','Potrefená husa Na Verandách');
+INSERT INTO "archive" VALUES(1521184752,'2025-10-15 15:13:43.000000','sejrik','Staropramen 11','Pivovary Staropramen','Potrefená husa Na Verandách');
+INSERT INTO "archive" VALUES(1521191284,'2025-10-15 15:58:34.000000','sejrik','Staropramen Premium / Ležák 12','Pivovary Staropramen','Potrefená husa Na Verandách');
+INSERT INTO "archive" VALUES(1521216515,'2025-10-15 17:54:19.000000','sejrik','Černá Barbora','Ostravar','Potrefená husa Na Verandách');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
