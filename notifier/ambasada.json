@@ -5,10 +5,6 @@
       "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, American Pale Ale"
     },
     {
-      "name": "11° Liquid Luck",
-      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° Baterka",
       "description": "6,2% alc. piv. Volt, Jablonec nad Nisou, IPA"
+    },
+    {
+      "name": "18° 13 Years of Innovation",
+      "description": "6,5% alc. piv. Zichovec, Double Sour With Raspberry, Black Cherry, Coconut and Vanilla"
     }
   ]
 }
