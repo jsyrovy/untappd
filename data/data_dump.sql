@@ -1744,6 +1744,13 @@ INSERT INTO "archive" VALUES(1521182151,'2025-10-15 14:50:27.000000','sejrik','S
 INSERT INTO "archive" VALUES(1521184752,'2025-10-15 15:13:43.000000','sejrik','Staropramen 11','Pivovary Staropramen','Potrefená husa Na Verandách');
 INSERT INTO "archive" VALUES(1521191284,'2025-10-15 15:58:34.000000','sejrik','Staropramen Premium / Ležák 12','Pivovary Staropramen','Potrefená husa Na Verandách');
 INSERT INTO "archive" VALUES(1521216515,'2025-10-15 17:54:19.000000','sejrik','Černá Barbora','Ostravar','Potrefená husa Na Verandách');
+INSERT INTO "archive" VALUES(1521604638,'2025-10-17 16:06:15.000000','sejrik','13 Years of Tradition 12','Rodinný pivovar Zichovec','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1521617232,'2025-10-17 16:33:28.000000','sejrik','Fresh Saaz Special 2025','Rodinný pivovar Zichovec','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1521645064,'2025-10-17 17:26:52.000000','sejrik','Robin na Grepu 12','Rodinný pivovar Zichovec','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1521654018,'2025-10-17 17:42:41.000000','sejrik','Like A Gazpacho 12','Rodinný pivovar Zichovec','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1521668853,'2025-10-17 18:08:36.000000','sejrik','Pumpkin Time 13','Rodinný pivovar Zichovec','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1521679782,'2025-10-17 18:26:01.000000','sejrik','13 Years of Innovation 18','Rodinný pivovar Zichovec','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1521698720,'2025-10-17 18:55:39.000000','sejrik','13 Years of Happiness 17','Rodinný pivovar Zichovec','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
