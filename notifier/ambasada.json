@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "12,7° Weiherer Rauch",
-      "description": "5,3% alc. piv. Kundmuller, Bavorsko, Rauchbier"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° 13 Years of Tradition",
-      "description": "5,1% alc. piv. Zichovec, Světlý Ležák"
+      "name": "12,7° Weiherer Rauch",
+      "description": "5,3% alc. piv. Kundmuller, Bavorsko, Rauchbier"
     },
     {
       "name": "12° Like a Gazpacho",
