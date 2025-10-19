@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Adaptér",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, American Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,16 +21,12 @@
       "description": "5,1% alc. piv. Zichovec, Hefeweizen"
     },
     {
-      "name": "12° Robin na Grepu",
-      "description": "5,1% alc. piv. Zichovec, Grapefruit APA"
-    },
-    {
       "name": "13° Pumpkin Time",
       "description": "5,5% alc. piv. Zichovec, Pumpkin Ale"
     },
     {
-      "name": "15° Baterka",
-      "description": "6,2% alc. piv. Volt, Jablonec nad Nisou, IPA"
+      "name": "15° Bloody IPA",
+      "description": "6,2% alc. piv. Vik, Praha, IPA s Krvavým Pomerančem, Řepou a Černou Mrkví"
     },
     {
       "name": "18° 13 Years of Innovation",
