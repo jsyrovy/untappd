@@ -21,16 +21,16 @@
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
+      "name": "13° Coco",
+      "description": "4,7% alc. piv. Sibeeria, Praha, Porter w/ Coconut & Vanilla"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
       "name": "15° Bloody IPA",
       "description": "6,2% alc. piv. Vik, Praha, IPA s Krvavým Pomerančem, Řepou a Černou Mrkví"
-    },
-    {
-      "name": "18° 13 Years of Innovation",
-      "description": "6,5% alc. piv. Zichovec, Double Sour With Raspberry, Black Cherry, Coconut and Vanilla"
     }
   ]
 }
