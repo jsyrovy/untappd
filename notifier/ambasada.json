@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Autumn Ale",
+      "description": "4,5% alc. piv. Antoš, Slaný, Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,10 +21,6 @@
       "description": "5,2% alc. piv. Kundmuller, Bavorsko, German Weizen"
     },
     {
-      "name": "12° Winter Day",
-      "description": "4,8% alc. piv. Louka, Pale Ale"
-    },
-    {
       "name": "13° Coco",
       "description": "4,7% alc. piv. Sibeeria, Praha, Porter w/ Coconut & Vanilla"
     },
@@ -29,8 +29,8 @@
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "15° Bloody IPA",
-      "description": "6,2% alc. piv. Vik, Praha, IPA s Krvavým Pomerančem, Řepou a Černou Mrkví"
+      "name": "14° Twist",
+      "description": "5,8% alc. piv. Clock, Potštejn, American Red IPA"
     }
   ]
 }
