@@ -87,7 +87,7 @@ class PivniValka(OrmRobot):
         soup = BeautifulSoup(user_profile, "html.parser")
 
         try:
-            unique_beers_count = soup.find("div", class_="stats").find_all("a")[1].find("span", class_="stat").text
+            unique_beers_count = soup.find("div", class_="stats").find_all("a")[1].find("span", class_="stat").text  # type: ignore[union-attr]
         except Exception as e:
             raise ValueError("Cannot parse user profile.") from e
 

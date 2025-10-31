@@ -11,7 +11,7 @@ def load_dump(engine: Engine, use_test_db: bool = False) -> None:
         Path(TEST_DUMP_PATH if use_test_db else DUMP_PATH).open("r") as f,
         engine.connect() as conn,
     ):
-        conn.connection.executescript(f.read())  # type: ignore[attr-defined]
+        conn.connection.executescript(f.read())
     print("Dump loaded.")
 
 
@@ -20,5 +20,5 @@ def dump(engine: Engine) -> None:
         Path(DUMP_PATH).open("w") as f,
         engine.connect() as conn,
     ):
-        f.writelines(f"{line}\n" for line in conn.connection.iterdump())  # type: ignore[attr-defined]
+        f.writelines(f"{line}\n" for line in conn.connection.iterdump())
     print("Dump created.")

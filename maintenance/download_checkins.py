@@ -784,10 +784,10 @@ def get_page(id_: int) -> str:
 def parse(page: str, id_: int) -> Archive:
     soup = BeautifulSoup(page, "html.parser")
 
-    dt_utc = datetime.datetime.strptime(soup.find("p", class_="time").text, "%a, %d %b %Y %H:%M:%S %z")
-    beer, brewery = [element.text for element in soup.find("div", class_="beer").find_all("a")]
+    dt_utc = datetime.datetime.strptime(soup.find("p", class_="time").text, "%a, %d %b %Y %H:%M:%S %z")  # type: ignore[union-attr]
+    beer, brewery = [element.text for element in soup.find("div", class_="beer").find_all("a")]  # type: ignore[union-attr]
     location = soup.find("p", class_="location")
-    venue = location.find("a").text.strip() if location else None
+    venue = location.find("a").text.strip() if location else None  # type: ignore[union-attr]
 
     return Archive(
         id=id_,
