@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Lime & Mint",
+      "description": "4,7% alc. piv. Pivečka, Rousínov, Fruit Sour Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -11,10 +15,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Philadelphia Marakuja & Mango",
-      "description": "4% alc. piv. Obora, Malšica Fruit Sour Ale"
     },
     {
       "name": "12° Pumpkin Ale",
