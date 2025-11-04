@@ -9,6 +9,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "12° Blood Orange Gose",
+      "description": "4,8% alc. piv. Sibeeria, Praha, Gose w/ Blood Orange"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -17,16 +21,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Pumpkin Ale",
-      "description": "5% alc. piv. MadCat, Kamenice, Pumpkin Ale"
+      "name": "12° Relaxed",
+      "description": "4,5% alc. piv. Antoš, Slaný, APA"
     },
     {
       "name": "13° Hoplander",
       "description": "5,9% alc. piv. Maisel & Friends, Single Hop IPA"
-    },
-    {
-      "name": "16° Wolfgang Brutus",
-      "description": "7,3% alc. piv. Sibeeria/Strasenbrau, American IPA w/ Yuzu"
     },
     {
       "name": "19° The Fighter",
