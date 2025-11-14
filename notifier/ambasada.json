@@ -1,24 +1,24 @@
 {
   "beers": [
     {
-      "name": "12° Maisels Weisse",
-      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+      "name": "12° Flash",
+      "description": "5,6% alc. piv. NOZIB, Plzeň, Session West Coast IPA"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Lager Research #1",
+      "description": "4,8% alc. piv. NOZIB, Plzeň, German Pils"
     },
     {
-      "name": "12° Red Eagle",
-      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Red APA"
+      "name": "12° Witty Hoppy",
+      "description": "4,7% alc. piv. NOZIB, Plzeň, Witbier"
     },
     {
-      "name": "12° Sea Buck Dog",
-      "description": "4,8% alc. piv. HoppyDog, Ostrava, Sour Ale s Rakytníkem, malinou a zázvorem"
+      "name": "13° Cold as Nectaron",
+      "description": "5,7% alc. piv. NOZIB, Plzeň, Cold IPA"
     },
     {
-      "name": "12° Svatomartinská",
-      "description": "5,1% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
+      "name": "13° Goseteria #6",
+      "description": "5,4% alc. piv. NOZIB, Plzeň, Gose w/ Blood Orange, Lime, Juniper"
     },
     {
       "name": "13° Touch of Calamansi",
