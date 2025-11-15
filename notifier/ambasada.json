@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "12° Flash",
-      "description": "5,6% alc. piv. NOZIB, Plzeň, Session West Coast IPA"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Lager Research #1",
-      "description": "4,8% alc. piv. NOZIB, Plzeň, German Pils"
+      "name": "12° Red Eagle",
+      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Red APA"
     },
     {
       "name": "12° Witty Hoppy",
