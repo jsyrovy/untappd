@@ -1,20 +1,20 @@
 {
   "beers": [
     {
-      "name": "10° Summer Day",
-      "description": "4% alc. piv. Louka, Pale Ale"
+      "name": "11° Glee",
+      "description": "4,8% alc. piv. Clock, Potštejn, Gluten Reduced Pale Ale"
     },
     {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° Paulaner",
-      "description": "5,5% alc. piv. Paulaner, Mnichov, Hefeweissbier"
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Philadelphia Jahoda",
