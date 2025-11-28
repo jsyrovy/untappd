@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Glee",
-      "description": "4,8% alc. piv. Clock, Potštejn, Gluten Reduced Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "12° American",
+      "description": "5,2% alc. piv. Pivečka, Rousínov, APA"
     },
     {
       "name": "12° Maisels Weisse",
