@@ -1773,6 +1773,7 @@ INSERT INTO "archive" VALUES(1529665641,'2025-11-20 18:22:21.000000','sejrik','S
 INSERT INTO "archive" VALUES(1530662311,'2025-11-23 20:02:44.000000','sejrik','Žitná IPA 13','Hostivar','Untappd at Home');
 INSERT INTO "archive" VALUES(1530921925,'2025-11-25 19:28:10.000000','sejrik','NEIPA 13','Hostivar','Untappd at Home');
 INSERT INTO "archive" VALUES(1530948241,'2025-11-25 21:41:20.000000','sejrik','No Idols! 14° West Coast IPA','Pivovar Clock','Untappd at Home');
+INSERT INTO "archive" VALUES(1531518937,'2025-11-28 17:47:45.000000','sejrik','Duality','TamTam Brewing Co.','Černý Důl - Čistá');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
