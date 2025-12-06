@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Maracuja & Elderflower",
+      "description": "4,1% alc. piv. Clock, Potštejn, Fruit Sour Ale,"
+    },
+    {
       "name": "11° Aussie",
       "description": "4,7% alc. piv. HoppyDog, Ostrava, Hazy APA"
     },
@@ -17,16 +21,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "13° Kurtizána",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
+    },
+    {
       "name": "14° Motueka Sunrise",
       "description": "6,1% alc. piv. Sibeeria, Praha, NZ New England IPA"
-    },
-    {
-      "name": "14° No Idols!",
-      "description": "6,1% alc. piv. Clock, Potštejn, West Coast IPA"
-    },
-    {
-      "name": "14° Zázvorka",
-      "description": "6% alc. piv. Zichovec, Ginger and Orange Sour Ale"
     },
     {
       "name": "18° Kasteel Rouge",
