@@ -9,10 +9,6 @@
       "description": "4,8% alc. piv. Haksna, Ostrava, Hazy Rye Pale Ale"
     },
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -27,6 +23,10 @@
     {
       "name": "14° Motueka Sunrise",
       "description": "6,1% alc. piv. Sibeeria, Praha, NZ New England IPA"
+    },
+    {
+      "name": "14° Vánoční",
+      "description": "5,9% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "18° Kasteel Rouge",
