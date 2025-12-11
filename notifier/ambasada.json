@@ -13,20 +13,20 @@
       "description": "4,8% alc. piv. Haksna, Ostrava, Hazy Rye Pale Ale"
     },
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Fridgy Vánoce 2025",
-      "description": "5,5% alc. piv. The Barn Beer co., Druztová, Cold IPA"
-    },
-    {
       "name": "14° Vánoční",
       "description": "5,9% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
+    },
+    {
+      "name": "14° Vánoční Speciál",
+      "description": "6,2% alc. Beskydský Pivovárek, Ostravice, IPA"
     },
     {
       "name": "15° Siostra Bożenka",
