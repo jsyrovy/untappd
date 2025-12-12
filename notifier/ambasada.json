@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Maracuja & Elderflower",
-      "description": "4,1% alc. piv. Clock, Potštejn, Fruit Sour Ale,"
-    },
-    {
       "name": "10° Patronus",
       "description": "3,8% alc. piv. Sibeeria, Praha, Czech Pale Lager"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° Siostra Bożenka",
       "description": "6% alc. piv. Podgórz, Polsko, American India Pale Ale"
+    },
+    {
+      "name": "9° Elektrolít",
+      "description": "3,5% alc. piv. Volt, Jablonec nad Nisou, Maracuja Sour Ale"
     }
   ]
 }
