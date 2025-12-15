@@ -126,6 +126,7 @@ def test_run():
     with (
         mock.patch.dict(os.environ, {"FEED_KEY": "key"}),
         mock.patch("feedparser.parse", return_value=feed_mock) as mock_parse,
+        mock.patch("robot.orm.dump"),
     ):
         Archivist().run()
 
