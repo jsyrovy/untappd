@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Adaptér",
-      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
+      "name": "11° Murica APA",
+      "description": "4,5% alc. piv. Václav, Kladno, APA"
     },
     {
       "name": "12° Komplic",
