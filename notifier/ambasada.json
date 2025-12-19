@@ -17,6 +17,10 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Pink Guava & Maracuja",
+      "description": "5,2% alc. piv. Čestmír, Brandýs nad Labem, Fruit Sour Ale"
+    },
+    {
       "name": "15° Siostra Bożenka",
       "description": "6% alc. piv. Podgórz, Polsko, American India Pale Ale"
     },
@@ -27,10 +31,6 @@
     {
       "name": "17° Zlatá Raketa",
       "description": "7% alc. piv. Matuška, Broumy, IPA"
-    },
-    {
-      "name": "9° Elektrolít",
-      "description": "3,5% alc. piv. Volt, Jablonec nad Nisou, Maracuja Sour Ale"
     }
   ]
 }
