@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Chuck CZ",
-      "description": "4,5% alc. piv. Barn Beer co., Druztová, NZ Hoppy Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° Pink Guava & Maracuja",
       "description": "5,2% alc. piv. Čestmír, Brandýs nad Labem, Fruit Sour Ale"
+    },
+    {
+      "name": "12° Riwaka",
+      "description": "5,3% alc. piv. Mordýř, Dolní Ředice, Single Hop Ale"
     },
     {
       "name": "15° Stella",
