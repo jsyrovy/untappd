@@ -21,16 +21,16 @@
       "description": "5,2% alc. piv. Čestmír, Brandýs nad Labem, Fruit Sour Ale"
     },
     {
-      "name": "15° Grapefruit Lollihop",
-      "description": "6,6% alc. piv. Sibeeria, Praha, West Coast IPA w/ Grapefruit"
-    },
-    {
       "name": "15° Stella",
       "description": "6,5% alc. piv. Clock, Potštejn, Sour IPA"
     },
     {
       "name": "15° Trinity Milk Stout",
       "description": "6,3% alc. piv. Mordýř/ U Vojtěchů/ Loutkář, Stout"
+    },
+    {
+      "name": "16° Snowtown",
+      "description": "6,8% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
