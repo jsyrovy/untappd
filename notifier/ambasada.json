@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "12° Clock",
-      "description": "5,2% alc. piv. Clock, Potštejn, APA"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° Spasitel",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
+    },
+    {
+      "name": "12° Terapeut",
+      "description": "5,1% alc. piv. JungBerg, Hořice, ALE"
     },
     {
       "name": "15° Stella",
