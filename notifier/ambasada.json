@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Clock",
       "description": "5,2% alc. piv. Clock, Potštejn, APA"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° Pink Guava & Maracuja",
       "description": "5,2% alc. piv. Čestmír, Brandýs nad Labem, Fruit Sour Ale"
+    },
+    {
+      "name": "12° Spasitel",
+      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "15° Stella",
