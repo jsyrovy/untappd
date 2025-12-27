@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Early Evening",
+      "description": "4,4% alc. piv. Krkonoškský Medvěd, APA"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
