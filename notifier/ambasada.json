@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Blackcurrant Sorbet",
+      "description": "3,9% alc. piv. Sibeeria, Praha, Sour Ale w/ Blackcurrant"
+    },
+    {
       "name": "11° Early Evening",
       "description": "4,4% alc. piv. Krkonoškský Medvěd, APA"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Spasitel",
-      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "12° Terapeut",
