@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° American Pale Ale",
+      "description": "4,7% alc. piv. Malešov, APA"
+    },
+    {
       "name": "11° Blackcurrant Sorbet",
       "description": "3,9% alc. piv. Sibeeria, Praha, Sour Ale w/ Blackcurrant"
     },
@@ -15,10 +19,6 @@
     {
       "name": "12° Spasitel",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
-      "name": "12° Terapeut",
-      "description": "5,1% alc. piv. JungBerg, Hořice, ALE"
     },
     {
       "name": "15° Philadelphia Multivitamin",
