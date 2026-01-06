@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Pomeranč & Rakytník",
+      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
+    },
+    {
       "name": "11° Blackcurrant Sorbet",
       "description": "3,9% alc. piv. Sibeeria, Praha, Sour Ale w/ Blackcurrant"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° Spasitel",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
-    },
-    {
-      "name": "15° Philadelphia Multivitamin",
-      "description": "6,3% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "15° Sváteční",
