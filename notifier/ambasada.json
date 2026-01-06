@@ -9,6 +9,10 @@
       "description": "3,9% alc. piv. Sibeeria, Praha, Sour Ale w/ Blackcurrant"
     },
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Nelson",
       "description": "4,7% alc. piv. Loutkář, Chrudim, Single Hop Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Spasitel",
-      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "15° Sváteční",
