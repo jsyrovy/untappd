@@ -5,10 +5,6 @@
       "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
     },
     {
-      "name": "11° Blackcurrant Sorbet",
-      "description": "3,9% alc. piv. Sibeeria, Praha, Sour Ale w/ Blackcurrant"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -25,12 +21,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "15° Ježíšek",
-      "description": "6,4% alc. Beskydský Pivovárek, Ostravice, New England IPA"
+      "name": "13° Brut IPA",
+      "description": "7,2% alc. piv. Klenot, Hradec Králové, Brut IPA"
     },
     {
-      "name": "15° Sváteční",
-      "description": "6,8% alc. piv. Louka, NEIPA w/ Cocount, Mango & Ananas"
+      "name": "15° Ježíšek",
+      "description": "6,4% alc. Beskydský Pivovárek, Ostravice, New England IPA"
     }
   ]
 }
