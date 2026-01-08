@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Pomeranč & Rakytník",
-      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -25,8 +21,16 @@
       "description": "7,2% alc. piv. Klenot, Hradec Králové, Brut IPA"
     },
     {
+      "name": "14° One Baptist",
+      "description": "6,7% alc. piv. Sibeeria, Praha, Cold IPA"
+    },
+    {
       "name": "15° Ježíšek",
       "description": "6,4% alc. Beskydský Pivovárek, Ostravice, New England IPA"
+    },
+    {
+      "name": "20° Ostružinový Knedlík",
+      "description": "6% alc. piv. Chroust, Potštejn, Pastry Sour Ale"
     }
   ]
 }
