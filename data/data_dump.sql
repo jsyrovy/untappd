@@ -1810,6 +1810,7 @@ INSERT INTO "archive" VALUES(1543392002,'2026-01-14 17:39:07.000000','sejrik','F
 INSERT INTO "archive" VALUES(1543399846,'2026-01-14 18:31:30.000000','sejrik','Union West Coast IPA','Chroust','Praha hlavní nádraží');
 INSERT INTO "archive" VALUES(1543693656,'2026-01-16 18:00:53.000000','sejrik','Harboe Pilsner','Harboes Bryggeri','Untappd at Home');
 INSERT INTO "archive" VALUES(1543737915,'2026-01-16 19:44:22.000000','sejrik','Argus 12 Černý','Lidl Česká Republika',NULL);
+INSERT INTO "archive" VALUES(1544033954,'2026-01-17 17:54:11.000000','sejrik','Argus Nealko','Lidl Česká Republika','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
