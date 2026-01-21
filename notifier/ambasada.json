@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
       "name": "12° Apač",
       "description": "4,6% alc. piv. Louka, APA"
     },
     {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° Masopustní",
+      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
       "name": "12° PP (Pořádné Pivo)",
