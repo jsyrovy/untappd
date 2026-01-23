@@ -13,6 +13,10 @@
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
+      "name": "12° Ohmmm",
+      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14,7° West Coast",
       "description": "6,6% alc. piv. Maisel, Bayreuth, Bavorsko, West Coast IPA"
-    },
-    {
-      "name": "14° Sour Fruit Show #12 Calamansi + Raspberry",
-      "description": "6% alc. piv. NOZIB, Plzeň, Fruit Sour Ale"
     },
     {
       "name": "18° Kasteel Rouge",
