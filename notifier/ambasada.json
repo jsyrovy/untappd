@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Cross in a Field",
+      "description": "4,2% alc. piv. Sibeeria, Praha, American Pale Ale"
+    },
+    {
       "name": "10° PetrAle",
       "description": "4,2% alc. piv. JungBerg, Hořice, Ale"
     },
@@ -15,14 +19,6 @@
     {
       "name": "12° Ohmmm",
       "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
-    },
-    {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "13° Shadowfarer",
-      "description": "5% alc. piv. Sibeeria, Praha, Czech Dark Lager"
     },
     {
       "name": "15° New Year Milkshake",
