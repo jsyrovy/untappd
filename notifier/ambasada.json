@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "10° Cross in a Field",
-      "description": "4,2% alc. piv. Sibeeria, Praha, American Pale Ale"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -31,6 +27,10 @@
     {
       "name": "15° New Year Milkshake",
       "description": "6,2% alc. piv. Agent, Olešnice, Milkshake New England India Pale Ale"
+    },
+    {
+      "name": "15° Starting Shot",
+      "description": "7,2% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
