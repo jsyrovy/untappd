@@ -13,10 +13,6 @@
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
     {
-      "name": "12° Ohmmm",
-      "description": "4,5% alc. piv. Volt, Jablonec nad Nisou, Borůvkové Gose"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -27,6 +23,10 @@
     {
       "name": "15° New Year Milkshake",
       "description": "6,2% alc. piv. Agent, Olešnice, Milkshake New England India Pale Ale"
+    },
+    {
+      "name": "15° Philadelphia Multivitamin",
+      "description": "6,3% alc. piv. Obora, Malšice, Fruit Sour Ale"
     },
     {
       "name": "15° Starting Shot",
