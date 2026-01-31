@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "12° Clock",
-      "description": "5,2% alc. piv. Clock, Potštejn, APA"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
+    },
+    {
+      "name": "12° Tango",
+      "description": "5,1% alc. piv. JungBerg, Hořice, Ale"
     },
     {
       "name": "14° Ename Rouge",
