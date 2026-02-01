@@ -5,6 +5,10 @@
       "description": "4% alc. piv. Louka, Hazy Ale"
     },
     {
+      "name": "12° Beskydská",
+      "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
+    },
+    {
       "name": "12° Masopustní",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Světlý Ležák"
     },
@@ -13,16 +17,12 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Tango",
-      "description": "5,1% alc. piv. JungBerg, Hořice, Ale"
+      "name": "13° Kurtizána",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Pale Ale"
     },
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "15° New Year Milkshake",
-      "description": "6,2% alc. piv. Agent, Olešnice, Milkshake New England India Pale Ale"
     },
     {
       "name": "15° Philadelphia Multivitamin",
