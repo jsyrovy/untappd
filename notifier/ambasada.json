@@ -1,16 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Hazy Lazy",
-      "description": "4% alc. piv. Louka, Hazy Ale"
-    },
-    {
       "name": "11° Liquid Luck",
       "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
     },
     {
       "name": "12° Beskydská",
       "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
+    },
+    {
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
       "name": "12° Masopustní",
