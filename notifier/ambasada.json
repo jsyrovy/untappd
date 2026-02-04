@@ -1,16 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Liquid Luck",
-      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
-    },
-    {
-      "name": "12° Beskydská",
-      "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
     },
     {
       "name": "12° Maisels Weisse",
@@ -21,12 +13,20 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Relaxed",
+      "description": "5% alc. piv. Antoš, Slaný, APA"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
       "name": "14° Frost Harvest",
       "description": "6,2% alc. piv. Rampušák, Dobruška, Cryo Fresh IPA"
+    },
+    {
+      "name": "14° One Baptist",
+      "description": "6,7% alc. piv. Sibeeria, Praha, Cold IPA"
     },
     {
       "name": "15° Philadelphia Multivitamin",
