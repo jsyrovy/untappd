@@ -13,6 +13,10 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° Raspberry Sour",
+      "description": "5% alc. piv. Antoš, Slaný, Fruit Sour Ale"
+    },
+    {
       "name": "12° Relaxed",
       "description": "5% alc. piv. Antoš, Slaný, APA"
     },
@@ -27,10 +31,6 @@
     {
       "name": "14° One Baptist",
       "description": "6,7% alc. piv. Sibeeria, Praha, Cold IPA"
-    },
-    {
-      "name": "15° Philadelphia Multivitamin",
-      "description": "6,3% alc. piv. Obora, Malšice, Fruit Sour Ale"
     }
   ]
 }
