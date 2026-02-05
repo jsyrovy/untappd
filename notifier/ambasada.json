@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Patronus",
+      "description": "3,8% alc. piv. Sibeeria, Praha, Czech Lager"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -25,12 +29,8 @@
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
-      "name": "14° Frost Harvest",
-      "description": "6,2% alc. piv. Rampušák, Dobruška, Cryo Fresh IPA"
-    },
-    {
-      "name": "14° One Baptist",
-      "description": "6,7% alc. piv. Sibeeria, Praha, Cold IPA"
+      "name": "15° Predátor",
+      "description": "6,8% alc. piv. Antoš, Slaný, West Coast IPA"
     }
   ]
 }
