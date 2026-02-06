@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Mango Pina Coco Sourus",
+      "description": "4,2% alc. piv. MadCat, Kamenice, Fruit Sour Ale"
+    },
+    {
       "name": "10° Patronus",
       "description": "3,8% alc. piv. Sibeeria, Praha, Czech Lager"
     },
@@ -19,10 +23,6 @@
     {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Raspberry Sour",
-      "description": "5% alc. piv. Antoš, Slaný, Fruit Sour Ale"
     },
     {
       "name": "14° Ename Rouge",
