@@ -1823,6 +1823,21 @@ INSERT INTO "archive" VALUES(1545995144,'2026-01-27 20:45:08.000000','sejrik','B
 INSERT INTO "archive" VALUES(1546236934,'2026-01-29 20:24:57.000000','sejrik','Budweiser Budvar Výčepní / B:CLASSIC','Budějovický Budvar','Untappd at Home');
 INSERT INTO "archive" VALUES(1546249230,'2026-01-29 21:20:25.000000','sejrik','Krušovice Černé','Heineken Česká Republika','Untappd at Home');
 INSERT INTO "archive" VALUES(1546661846,'2026-01-31 14:48:19.000000','sejrik','Proud Ležák','Plzeňský Prazdroj','Černá hora');
+INSERT INTO "archive" VALUES(1547999083,'2026-02-07 10:01:05.000000','sejrik','Union West Coast IPA','Chroust',NULL);
+INSERT INTO "archive" VALUES(1548003945,'2026-02-07 11:14:35.000000','sejrik','Earl GrALE 10','Pivovar Bubeneč','Pivovar Bubeneč');
+INSERT INTO "archive" VALUES(1548005630,'2026-02-07 11:31:56.000000','sejrik','Bubenečský žitný ležák','Pivovar Bubeneč','Pivovar Bubeneč');
+INSERT INTO "archive" VALUES(1548008636,'2026-02-07 11:58:28.000000','sejrik','Bubenečský Stout','Pivovar Bubeneč','Pivovar Bubeneč');
+INSERT INTO "archive" VALUES(1548015297,'2026-02-07 12:45:41.000000','sejrik','Broumy 12°','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1548021518,'2026-02-07 13:21:03.000000','sejrik','Vejmrda','Pivovar Matuška','Automat Matuška');
+INSERT INTO "archive" VALUES(1548036234,'2026-02-07 14:26:56.000000','sejrik','Strelka','Pivovar Lajka','Lajka');
+INSERT INTO "archive" VALUES(1548043830,'2026-02-07 14:53:44.000000','sejrik','Enos','Pivovar Lajka','Lajka');
+INSERT INTO "archive" VALUES(1548070129,'2026-02-07 16:09:32.000000','sejrik','Místní Suché 10°','Dva kohouti','Dva kohouti');
+INSERT INTO "archive" VALUES(1548086684,'2026-02-07 16:48:47.000000','sejrik','COLD AS PEACHARINE Cold IPA','NOZIB Special Brews','Dva kohouti');
+INSERT INTO "archive" VALUES(1548112669,'2026-02-07 17:39:33.000000','sejrik','Taumata','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1548128764,'2026-02-07 18:08:41.000000','sejrik','I Love the Smell of Peacharine In the Morning','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1548148539,'2026-02-07 18:41:38.000000','sejrik','Voracious Viper','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1548171001,'2026-02-07 19:17:01.000000','sejrik','Big Maple Tree','Sibeeria Brewery','Sibeeria Tap Room');
+INSERT INTO "archive" VALUES(1548191647,'2026-02-07 19:48:26.000000','sejrik','Lollihop','Sibeeria Brewery','Sibeeria Tap Room');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
