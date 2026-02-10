@@ -5,16 +5,12 @@
       "description": "4,2% alc. piv. MadCat, Kamenice, Fruit Sour Ale"
     },
     {
-      "name": "10° Patronus",
-      "description": "3,8% alc. piv. Sibeeria, Praha, Czech Lager"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Hazy Spring Ale",
-      "description": "5,2% alc. piv. Kynšperský Zajíc, Kynšperk, Hazy Ale"
+      "name": "12° California",
+      "description": "5,3% alc. piv. Matuška, Broumy, APA"
     },
     {
       "name": "12° Maisels Weisse",
@@ -31,6 +27,10 @@
     {
       "name": "15° Predátor",
       "description": "6,8% alc. piv. Antoš, Slaný, West Coast IPA"
+    },
+    {
+      "name": "15° Voracious Viper",
+      "description": "6,3% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
