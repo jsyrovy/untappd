@@ -25,12 +25,12 @@
       "description": "5,2% alc. piv. BrewDog, Ellon, Skotsko, IPA"
     },
     {
-      "name": "15° Predátor",
-      "description": "6,8% alc. piv. Antoš, Slaný, West Coast IPA"
-    },
-    {
       "name": "15° Voracious Viper",
       "description": "6,3% alc. piv. Sibeeria, Praha, New England IPA"
+    },
+    {
+      "name": "16° Seismic Love",
+      "description": "6% alc. piv. Zichovec, New England NEIPA"
     }
   ]
 }
