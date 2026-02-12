@@ -19,7 +19,7 @@ lint.ignore = [
     "TRY003", # Avoid specifying long messages outside the exception class
 ]
 line-length = 120
-target-version = "py313"
+target-version = "py314"
 
 [lint.per-file-ignores]
 "__init__.py" = [
