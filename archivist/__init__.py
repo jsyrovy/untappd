@@ -38,7 +38,7 @@ class Archivist(OrmRobot):
 
 
 def get_id(url: str) -> int:
-    return int(url.split("/")[-1])
+    return int(url.rsplit("/", maxsplit=1)[-1])
 
 
 def get_dt(struct: time.struct_time) -> datetime.datetime:

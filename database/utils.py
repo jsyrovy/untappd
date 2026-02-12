@@ -1,6 +1,10 @@
-from pathlib import Path
+from __future__ import annotations
 
-from sqlalchemy import Engine
+from pathlib import Path
+from typing import TYPE_CHECKING
+
+if TYPE_CHECKING:
+    from sqlalchemy import Engine
 
 DUMP_PATH = "data/data_dump.sql"
 TEST_DUMP_PATH = "data/test_dump.sql"

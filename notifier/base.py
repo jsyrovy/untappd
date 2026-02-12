@@ -17,7 +17,7 @@ class Beer:
         return f"{self.name}{'' if self.tasted else ' 🆕'}\n{self.description}"
 
     @staticmethod
-    def from_json(json_: dict[str, str]) -> "Beer":
+    def from_json(json_: dict[str, str]) -> Beer:
         return Beer(
             json_["name"],
             json_["description"],

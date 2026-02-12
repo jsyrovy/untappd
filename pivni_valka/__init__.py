@@ -1,8 +1,10 @@
+from __future__ import annotations
+
 import datetime
 import random
 from pathlib import Path
+from typing import TYPE_CHECKING
 
-import jinja2
 from bs4 import BeautifulSoup
 
 import utils.user
@@ -11,7 +13,10 @@ from pivni_valka.stats.common import ChartData
 from pivni_valka.stats.tiles import TileData
 from robot.orm import OrmRobot
 from utils import pushover
-from utils.common import ENCODING, download_page, get_profile_url, get_template, random_sleep
+from utils.common import download_page, get_profile_url, get_template, random_sleep
+
+if TYPE_CHECKING:
+    import jinja2
 
 GetPageKwArgs = list[TileData] | ChartData | tuple[str, ...] | list[str] | str
 

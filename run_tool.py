@@ -1,10 +1,15 @@
+from __future__ import annotations
+
 import argparse
-from collections.abc import Callable
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 from sqlalchemy import create_engine
 
 from database.utils import load_dump
+
+if TYPE_CHECKING:
+    from collections.abc import Callable
 
 
 def main() -> None:

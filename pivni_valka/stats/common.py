@@ -1,4 +1,4 @@
-import datetime
+import datetime  # noqa: TC003
 from dataclasses import dataclass
 
 from sqlalchemy import func, select

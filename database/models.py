@@ -1,4 +1,4 @@
-import datetime
+import datetime  # noqa: TC003
 
 from sqlalchemy import Date, DateTime, Integer, String
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
