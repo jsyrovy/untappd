@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
+      "name": "11° Puk - Hruška a Marakuja",
+      "description": "4,5% alc. piv. Švabín, Fruit Sour Ale"
+    },
+    {
       "name": "12° California",
       "description": "5,3% alc. piv. Matuška, Broumy, APA"
     },
@@ -27,10 +31,6 @@
     {
       "name": "14° Twist",
       "description": "5,8% alc. piv. Clock, Potštejn, American Red IPA"
-    },
-    {
-      "name": "16° Love Potion",
-      "description": "6,2% alc. piv. Rampušák, Dobruška, Raspberry Pastry Sour Ale"
     }
   ]
 }
