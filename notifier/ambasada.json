@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Hopcharged",
+      "description": "4,5% alc. piv. Fracek, Praha, Summer Session Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "11° Puk - Hruška a Marakuja",
       "description": "4,5% alc. piv. Švabín, Fruit Sour Ale"
-    },
-    {
-      "name": "12° California",
-      "description": "5,3% alc. piv. Matuška, Broumy, APA"
     },
     {
       "name": "12° Maisels Weisse",
