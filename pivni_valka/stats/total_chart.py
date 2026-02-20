@@ -1,12 +1,12 @@
-import datetime
+import itertools
 
-from sqlalchemy import func, select
+from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 import utils.user
 from database.models import PivniValka
 from database.orm import engine
-from pivni_valka.stats.common import ChartData, ChartDataset, get_unique_beers_before
+from pivni_valka.stats.common import ChartData, ChartDataset
 
 
 def get_chart_data(days: int | None = None) -> ChartData:
@@ -17,18 +17,19 @@ def get_chart_data(days: int | None = None) -> ChartData:
 
 
 def _get_user_data(user_name: str, days: int | None = None) -> list[int]:
-    days = days or _get_days()
-    dates = reversed([datetime.date.today() - datetime.timedelta(days=i) for i in range(days)])
-    return [get_unique_beers_before(user_name, before=date) for date in dates]
-
-
-def _get_days() -> int:
-    inner_stmt = select(PivniValka.date).distinct()
-    subquery = inner_stmt.subquery()
-    stmt = select(func.count(subquery.c.date))
+    stmt = (
+        select(PivniValka.date, PivniValka.unique_beers).where(PivniValka.user == user_name).order_by(PivniValka.date)
+    )
 
     with Session(engine) as session:
-        return session.execute(stmt).scalar_one()
+        rows = session.execute(stmt).all()
+
+    cumulative = list(itertools.accumulate(row.unique_beers for row in rows))
+
+    if days is not None:
+        return cumulative[-days:]
+
+    return cumulative
 
 
 def _get_chart_labels(days: int | None = None) -> list[str]:
