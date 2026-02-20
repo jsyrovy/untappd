@@ -1,6 +1,11 @@
+from unittest import mock
+
+import jinja2
 import pytest
 
+import utils.user
 from pivni_valka import PivniValka
+from robot.base import Args
 
 USER_PROFILE = """ \
 <html>
@@ -58,3 +63,156 @@ def test_parse_unique_beers_count_with_invalid_user_profile():
         PivniValka().parse_unique_beers_count(user_profile)
 
     assert str(excinfo.value) == "Cannot parse user profile."
+
+
+def test_get_unique_beers_count_publish():
+    pv = PivniValka()
+    pv._args = Args(publish=True)
+    result = pv.get_unique_beers_count()
+    assert result == {}
+
+
+def test_get_unique_beers_count_local():
+    pv = PivniValka()
+    pv._args = Args(local=True)
+    result = pv.get_unique_beers_count()
+
+    for user_name in utils.user.USER_NAMES:
+        assert user_name in result
+        assert isinstance(result[user_name], int)
+
+
+def test_get_unique_beers_count_download():
+    user_profile = USER_PROFILE.format(unique_beers_count="500")
+
+    with (
+        mock.patch("pivni_valka.download_page", return_value=user_profile),
+        mock.patch("pivni_valka.random_sleep"),
+    ):
+        pv = PivniValka()
+        pv._args = Args()
+        result = pv.get_unique_beers_count()
+
+    for user_name in utils.user.USER_NAMES:
+        assert result[user_name] == 500
+
+
+def test_get_page():
+    template = jinja2.Template("Hello {{ name }}!")
+    result = PivniValka.get_page(template, name="World")
+    assert result == "Hello World!"
+
+
+def test_save_daily_stats_db_empty():
+    result = PivniValka.save_daily_stats_db({})
+    assert result == []
+
+
+def test_save_daily_stats_db():
+    unique_beers_count = {}
+    for user_name in utils.user.USER_NAMES:
+        unique_beers_count[user_name] = 100
+
+    result = PivniValka.save_daily_stats_db(unique_beers_count)
+
+    assert isinstance(result, list)
+    for user_name in result:
+        assert user_name in utils.user.USER_NAMES
+
+
+def test_get_yesterday_status_empty():
+    result = PivniValka.get_yesterday_status([])
+    assert result == ""
+
+
+def test_get_yesterday_status():
+    result = PivniValka.get_yesterday_status(["sejrik"])
+    assert "Jirka" in result
+    assert "vypil" in result
+    assert "celkem" in result
+
+
+def test_get_grid_template_areas():
+    result = PivniValka.get_grid_template_areas()
+    assert len(result) == 4
+    assert "item-total-chart" in result[1]
+    assert "item-weekly-chart" in result[2]
+    assert "item-matej-chart" in result[3]
+
+    for area in result:
+        assert area.startswith('"')
+        assert area.endswith('"')
+
+
+def test_get_mobile_grid_template_areas():
+    result = PivniValka.get_mobile_grid_template_areas()
+    assert '"item-total-chart"' in result
+    assert '"item-weekly-chart"' in result
+    assert '"item-matej-chart"' in result
+
+    for user_name in utils.user.VISIBLE_USER_NAMES:
+        assert f'"item-{user_name}"' in result
+
+
+def test_main_notificationless(tmp_path):
+    pv = PivniValka()
+    pv._args = Args(notificationless=True)
+
+    index_html = tmp_path / "index.html"
+    chart_month = tmp_path / "chart_month.html"
+    chart_year = tmp_path / "chart_year.html"
+    chart_all = tmp_path / "chart_all.html"
+
+    mock_template = jinja2.Template("rendered")
+
+    with (
+        mock.patch.object(pv, "get_unique_beers_count", return_value={}),
+        mock.patch.object(pv, "save_daily_stats_db", return_value=[]),
+        mock.patch("pivni_valka.get_template", return_value=mock_template),
+        mock.patch("pivni_valka.Path") as mock_path,
+        mock.patch("pivni_valka.pushover") as mock_pushover,
+    ):
+        mock_path.side_effect = lambda p: {
+            "index.html": index_html,
+            "web/pivni_valka/chart_month.html": chart_month,
+            "web/pivni_valka/chart_year.html": chart_year,
+            "web/pivni_valka/chart_all.html": chart_all,
+        }[p]
+        pv._main()
+
+    mock_pushover.send_notification.assert_not_called()
+
+    assert index_html.read_text() == "rendered"
+    assert chart_month.read_text() == "rendered"
+    assert chart_year.read_text() == "rendered"
+    assert chart_all.read_text() == "rendered"
+
+
+def test_main_with_notification(tmp_path):
+    pv = PivniValka()
+    pv._args = Args()
+
+    index_html = tmp_path / "index.html"
+    chart_month = tmp_path / "chart_month.html"
+    chart_year = tmp_path / "chart_year.html"
+    chart_all = tmp_path / "chart_all.html"
+
+    mock_template = jinja2.Template("rendered")
+
+    with (
+        mock.patch.object(pv, "get_unique_beers_count", return_value={"sejrik": 100}),
+        mock.patch.object(pv, "save_daily_stats_db", return_value=["sejrik"]),
+        mock.patch.object(pv, "get_yesterday_status", return_value="Status message"),
+        mock.patch("pivni_valka.get_template", return_value=mock_template),
+        mock.patch("pivni_valka.Path") as mock_path,
+        mock.patch("pivni_valka.pushover") as mock_pushover,
+    ):
+        mock_path.side_effect = lambda p: {
+            "index.html": index_html,
+            "web/pivni_valka/chart_month.html": chart_month,
+            "web/pivni_valka/chart_year.html": chart_year,
+            "web/pivni_valka/chart_all.html": chart_all,
+        }[p]
+        pv._main()
+
+    mock_pushover.send_notification.assert_called_once_with("Status message")
