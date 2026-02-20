@@ -1,26 +1,33 @@
 from __future__ import annotations
 
 import argparse
+import logging
 from pathlib import Path
 from typing import TYPE_CHECKING
 
 from sqlalchemy import create_engine
 
 from database.utils import load_dump
+from utils.logging import configure_logging
 
 if TYPE_CHECKING:
     from collections.abc import Callable
 
+logger = logging.getLogger(__name__)
+
 
 def main() -> None:
+    configure_logging()
+
     parser = argparse.ArgumentParser(description="Command")
     parser.add_argument("command", type=str)
     args = parser.parse_args()
 
-    try:
-        COMMANDS[args.command]()
-    except KeyError:
-        print("Command not found.")
+    if args.command not in COMMANDS:
+        logger.error("Command not found.")
+        return
+
+    COMMANDS[args.command]()
 
 
 def save_db_to_file() -> None:
@@ -29,7 +36,7 @@ def save_db_to_file() -> None:
 
     engine = create_engine(f"sqlite+pysqlite:///{db_path}")
     load_dump(engine)
-    print(f"Database saved to '{db_path}'.")
+    logger.info("Database saved to '%s'.", db_path)
 
 
 COMMANDS: dict[str, Callable[[], None]] = {

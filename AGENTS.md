@@ -99,6 +99,20 @@ All checks must pass before merging.
 - Use `r.raise_for_status()` after HTTP requests
 - Check required env vars early and raise `OSError` with a descriptive message
 
+### Logging
+
+- Use the `logging` module for all diagnostic output -- never `print` (enforced by ruff `T201`)
+- Each module gets its own logger: `logger = logging.getLogger(__name__)`
+- Logging is configured centrally via `configure_logging()` from `utils/logging.py`
+- Entry point scripts (`run_*.py`) call `configure_logging()` **before** importing robot
+  classes (because `database/orm.py` executes at import time)
+- Log level mapping:
+  - `logger.info` -- status messages (record saved, dump loaded, etc.)
+  - `logger.debug` -- routine/verbose output (skipped records, cache hits)
+  - `logger.exception` -- errors inside `except` blocks (includes traceback automatically)
+  - `logger.error` -- error conditions outside `except` blocks
+- Use `%s`-style placeholders in log calls, not f-strings: `logger.info("Saved: %s", record)`
+
 ### Data Classes & Patterns
 
 - Use `@dataclass` extensively for structured data (`frozen=True`, `kw_only=True` where appropriate)
@@ -117,12 +131,14 @@ All checks must pass before merging.
 - Magic values and `assert` are permitted in tests (ruff rules relaxed)
 - Private member access is permitted in tests
 - Mock all IO and network operations -- no integration tests
+- Use `caplog` fixture for asserting log output (not `capsys`)
 
 ### What NOT to Do
 
 - Do not add docstrings -- all `D1xx` rules are intentionally disabled
 - Do not use `os.path` -- use `pathlib.Path`
 - Do not use `requests` -- use `httpx`
+- Do not use `print` -- use `logging` (enforced by ruff `T201`)
 - Do not use relative imports
 - Do not add type annotations to test functions
 
@@ -149,7 +165,7 @@ untappd/
   robot/             # Base runner abstractions (BaseRobot, OrmRobot)
   templates/         # Jinja2 HTML templates
   tests/             # pytest test suite (mirrors source layout)
-  utils/             # Shared utilities (HTTP, templates, users)
+  utils/             # Shared utilities (HTTP, templates, users, logging)
   web/               # Generated static output (GitHub Pages) -- DO NOT EDIT
   run_*.py           # Entry point scripts
   Makefile           # All dev commands

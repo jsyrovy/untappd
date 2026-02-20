@@ -1,10 +1,13 @@
 from __future__ import annotations
 
+import logging
 from pathlib import Path
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
     from sqlalchemy import Engine
+
+logger = logging.getLogger(__name__)
 
 DUMP_PATH = "data/data_dump.sql"
 TEST_DUMP_PATH = "data/test_dump.sql"
@@ -16,7 +19,7 @@ def load_dump(engine: Engine, use_test_db: bool = False) -> None:
         engine.connect() as conn,
     ):
         conn.connection.executescript(f.read())
-    print("Dump loaded.")
+    logger.info("Dump loaded.")
 
 
 def dump(engine: Engine) -> None:
@@ -25,4 +28,4 @@ def dump(engine: Engine) -> None:
         engine.connect() as conn,
     ):
         f.writelines(f"{line}\n" for line in conn.connection.iterdump())
-    print("Dump created.")
+    logger.info("Dump created.")

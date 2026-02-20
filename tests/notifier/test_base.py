@@ -1,3 +1,4 @@
+import logging
 from unittest import mock
 
 import pytest
@@ -53,16 +54,16 @@ def test_offer_run_raises():
         offer.run()
 
 
-def test_offer_send_notification_notificationless(capsys):
+def test_offer_send_notification_notificationless(caplog):
     offer = Offer()
     offer.new_beers = [Beer("New IPA", "Cool Brewery")]
 
-    offer.send_notification(notificationless=True)
+    with caplog.at_level(logging.INFO, logger="notifier.base"):
+        offer.send_notification(notificationless=True)
 
-    captured = capsys.readouterr()
-    assert "Nově na čepu" in captured.out
-    assert "New IPA" in captured.out
-    assert "Cool Brewery" in captured.out
+    assert "Nově na čepu" in caplog.text
+    assert "New IPA" in caplog.text
+    assert "Cool Brewery" in caplog.text
 
 
 def test_offer_send_notification_pushover():

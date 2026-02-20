@@ -1,3 +1,4 @@
+import logging
 import re
 from dataclasses import dataclass
 
@@ -5,6 +6,8 @@ from sqlalchemy import text
 
 from database.orm import engine
 from utils import pushover
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -46,7 +49,7 @@ class Offer:
         message += "\n\n".join(str(beer) for beer in self.new_beers)
 
         if notificationless:
-            print(message)
+            logger.info(message)
             return
 
         pushover.send_notification(message)

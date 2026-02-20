@@ -1,4 +1,5 @@
 import datetime
+import logging
 from random import shuffle
 
 from bs4 import BeautifulSoup
@@ -7,6 +8,8 @@ from archivist import create_record_in_db, is_record_in_db
 from database.models import Archive
 from robot.base import BaseRobot
 from utils import common
+
+logger = logging.getLogger(__name__)
 
 CHECK_IN_IDS = [
     int(id_)
@@ -749,11 +752,11 @@ class DownloadCheckins(BaseRobot):
 
         for id_ in CHECK_IN_IDS:
             if self.processed == BATCH:
-                print("Batch was processed.")
+                logger.info("Batch was processed.")
                 return
 
             if is_record_in_db(id_):
-                print(f"Check-in {id_} is already in DB.")
+                logger.info("Check-in %s is already in DB.", id_)
                 continue
 
             self.process(id_)
@@ -767,13 +770,13 @@ class DownloadCheckins(BaseRobot):
 
         try:
             record = parse(page, id_)
-        except Exception as e:
-            print(f"Error while parsing check-in {id_}: {e}")
+        except Exception:
+            logger.exception("Error while parsing check-in %s", id_)
             self.errors += 1
             return
 
         create_record_in_db(record)
-        print(f"Check-in {id_} saved to DB.")
+        logger.info("Check-in %s saved to DB.", id_)
         self.processed += 1
 
 

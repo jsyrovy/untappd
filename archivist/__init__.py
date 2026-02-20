@@ -1,4 +1,5 @@
 import datetime
+import logging
 import os
 import re
 import time
@@ -11,6 +12,8 @@ from sqlalchemy.orm import Session
 from database.models import Archive
 from database.orm import engine
 from robot.orm import OrmRobot
+
+logger = logging.getLogger(__name__)
 
 
 class Archivist(OrmRobot):
@@ -33,7 +36,7 @@ class Archivist(OrmRobot):
 
         for record in records:
             if not is_record_in_db(record.id):
-                print(f"Saved to DB: {record}")
+                logger.info("Saved to DB: %s", record)
                 create_record_in_db(record)
 
 
