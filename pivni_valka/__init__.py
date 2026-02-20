@@ -8,9 +8,10 @@ from typing import TYPE_CHECKING
 from bs4 import BeautifulSoup
 
 import utils.user
-from pivni_valka.stats import common, matej_chart, tiles, total_chart, weekly_chart
+from pivni_valka.stats import common, matej_chart, tiles, weekly_chart
 from pivni_valka.stats.common import ChartData
 from pivni_valka.stats.tiles import TileData
+from pivni_valka.stats.total_chart import get_all_chart_data, slice_chart_data
 from robot.orm import OrmRobot
 from utils import pushover
 from utils.common import download_page, get_profile_url, get_template, random_sleep
@@ -25,10 +26,13 @@ class PivniValka(OrmRobot):
     def _main(self) -> None:
         unique_beers_count = self.get_unique_beers_count()
         users_with_new_beers = self.save_daily_stats_db(unique_beers_count)
+
+        all_chart_data = get_all_chart_data()
+
         page = self.get_page(
             get_template("pivni-valka.html"),
             tiles_data=tiles.get_tiles_data(),
-            total_chart_data=total_chart.get_chart_data(days=14),
+            total_chart_data=slice_chart_data(all_chart_data, days=14),
             weekly_chart_data=weekly_chart.get_chart_data(),
             matej_chart_data=matej_chart.get_chart_data(days=90),
             grid_template_areas=self.get_grid_template_areas(),
@@ -40,7 +44,7 @@ class PivniValka(OrmRobot):
 
         page_month = self.get_page(
             get_template("pivni-valka-chart.html"),
-            total_chart_data=total_chart.get_chart_data(days=30),
+            total_chart_data=slice_chart_data(all_chart_data, days=30),
             link="chart_year.html",
         )
 
@@ -49,7 +53,7 @@ class PivniValka(OrmRobot):
 
         page_year = self.get_page(
             get_template("pivni-valka-chart.html"),
-            total_chart_data=total_chart.get_chart_data(days=365),
+            total_chart_data=slice_chart_data(all_chart_data, days=365),
             link="chart_all.html",
         )
 
@@ -58,7 +62,7 @@ class PivniValka(OrmRobot):
 
         page_all = self.get_page(
             get_template("pivni-valka-chart.html"),
-            total_chart_data=total_chart.get_chart_data(),
+            total_chart_data=all_chart_data,
         )
 
         with Path("web/pivni_valka/chart_all.html").open("w") as f:

@@ -1,11 +1,11 @@
 import utils.user
 from pivni_valka.stats.common import ChartData, ChartDataset
-from pivni_valka.stats.total_chart import _get_chart_labels, _get_user_data
+from pivni_valka.stats.total_chart import _get_all_chart_labels, get_user_cumulative
 
 
 def get_chart_data(days: int) -> ChartData:
     datasets = [
-        ChartDataset(user.name, _get_user_data(user.user_name, days), user.color)
+        ChartDataset(user.name, get_user_cumulative(user.user_name, days), user.color)
         for user in utils.user.USERS
         if user.user_name in ("Indi51", "sejrik", "mencik2")
     ]
@@ -18,4 +18,5 @@ def get_chart_data(days: int) -> ChartData:
         dataset_jirka.data[i] -= value
         dataset_dan.data[i] -= value
 
-    return ChartData(_get_chart_labels(days), [dataset_jirka, dataset_dan])
+    labels = _get_all_chart_labels()[-days:]
+    return ChartData(labels, [dataset_jirka, dataset_dan])
