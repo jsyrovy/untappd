@@ -126,6 +126,15 @@ All checks must pass before merging.
 - Do not use relative imports
 - Do not add type annotations to test functions
 
+## Performance Patterns
+
+- **No N+1 query loops** -- never run a `SELECT` inside a loop for each row/date/user.
+  Fetch data with a single query and process in Python (e.g. `itertools.accumulate`
+  for cumulative sums).
+- **Compute once, slice many** -- chart data is computed once for the full date range
+  (`get_all_chart_data()`) and then sliced for 14/30/365/all-day views
+  (`slice_chart_data()`). Follow this pattern for any new chart types.
+
 ## Project Structure
 
 ```
@@ -141,7 +150,7 @@ untappd/
   templates/         # Jinja2 HTML templates
   tests/             # pytest test suite (mirrors source layout)
   utils/             # Shared utilities (HTTP, templates, users)
-  web/               # Generated static output (GitHub Pages)
+  web/               # Generated static output (GitHub Pages) -- DO NOT EDIT
   run_*.py           # Entry point scripts
   Makefile           # All dev commands
   pyproject.toml     # Project config (uv-managed)
@@ -154,4 +163,5 @@ untappd/
 - Persistence via SQL dump files in `data/`
 - Production data: `data/data_dump.sql`
 - Test fixture data: `data/test_dump.sql`
+- SQL dumps contain both `CREATE TABLE` and `INSERT` statements (full schema + data)
 - Test detection: `"pytest" in sys.modules` switches to test DB automatically
