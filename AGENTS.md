@@ -67,7 +67,7 @@ All checks must pass before merging.
 - **Ruff** with `lint.select = ["ALL"]` -- nearly every rule is enabled
 - **Line length:** 120 characters
 - **Target version:** py314
-- Run `before-commit` before committing
+- Run `before-commit` before committing -- **do not commit if it fails**
 - Use `# noqa: XXXX` sparingly and only with a specific rule code
 
 ### Imports
@@ -116,6 +116,7 @@ All checks must pass before merging.
 - Use `pytest.raises` for exception assertions, check message via `excinfo.value`
 - Magic values and `assert` are permitted in tests (ruff rules relaxed)
 - Private member access is permitted in tests
+- Mock all IO and network operations -- no integration tests
 
 ### What NOT to Do
 
