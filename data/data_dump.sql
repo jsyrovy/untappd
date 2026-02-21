@@ -1849,6 +1849,9 @@ INSERT INTO "archive" VALUES(1550160466,'2026-02-17 10:58:45.000000','sejrik','H
 INSERT INTO "archive" VALUES(1550334375,'2026-02-18 19:28:37.000000','sejrik','Cornelissen Luxury Lager','Brouwerij Cornelissen','Untappd at Home');
 INSERT INTO "archive" VALUES(1550338210,'2026-02-18 19:47:17.000000','sejrik','La Trappe Blond','Bierbrouwerij De Koningshoeven','Untappd at Home');
 INSERT INTO "archive" VALUES(1550354231,'2026-02-18 21:07:18.000000','sejrik','Weihenstephaner Vitus','Bayerische Staatsbrauerei Weihenstephan','Untappd at Home');
+INSERT INTO "archive" VALUES(1550671478,'2026-02-20 18:33:38.000000','sejrik','Complot IPA','Damm','Untappd at Home');
+INSERT INTO "archive" VALUES(1550745487,'2026-02-20 21:05:24.000000','sejrik','Classic Collection - Double Stout','Shepherd Neame','Untappd at Home');
+INSERT INTO "archive" VALUES(1550774680,'2026-02-20 22:11:38.000000','sejrik','TDH Nectaron X Pacifica X Ekuanot DIPA','Ārpus Brewing Co.','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
