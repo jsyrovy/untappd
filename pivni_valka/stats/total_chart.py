@@ -24,13 +24,6 @@ def slice_chart_data(full_data: ChartData, days: int) -> ChartData:
     )
 
 
-def get_user_cumulative(user_name: str, days: int | None = None) -> list[int]:
-    cumulative = _get_user_cumulative(user_name)
-    if days is not None:
-        return cumulative[-days:]
-    return cumulative
-
-
 def _get_user_cumulative(user_name: str) -> list[int]:
     stmt = select(PivniValka.unique_beers).where(PivniValka.user == user_name).order_by(PivniValka.date)
 

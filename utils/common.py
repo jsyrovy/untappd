@@ -16,10 +16,6 @@ USER_AGENTS = (
 BASE_URL = "https://untappd.com"
 TIMEOUT = 5  # seconds
 
-PIPA_NAME = "U Toulavé pípy"
-AMBASADA_NAME = "Pivní ambasáda"
-LOD_NAME = "Loď Otava"
-
 
 def get_random_user_agent() -> str:
     return random.choice(USER_AGENTS)

@@ -1,5 +1,4 @@
 from notifier.ambasada import AmbasadaOffer
-from notifier.base import Offer
 from robot.base import BaseRobot
 
 
