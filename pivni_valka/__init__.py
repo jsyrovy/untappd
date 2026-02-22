@@ -8,7 +8,7 @@ from typing import TYPE_CHECKING
 from bs4 import BeautifulSoup
 
 import utils.user
-from pivni_valka.stats import common, matej_chart, tiles, weekly_chart
+from pivni_valka.stats import common, tiles, weekly_chart
 from pivni_valka.stats.common import ChartData
 from pivni_valka.stats.tiles import TileData
 from pivni_valka.stats.total_chart import get_all_chart_data, slice_chart_data
@@ -34,7 +34,6 @@ class PivniValka(OrmRobot):
             tiles_data=tiles.get_tiles_data(),
             total_chart_data=slice_chart_data(all_chart_data, days=14),
             weekly_chart_data=weekly_chart.get_chart_data(),
-            matej_chart_data=matej_chart.get_chart_data(days=90),
             grid_template_areas=self.get_grid_template_areas(),
             mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
@@ -153,7 +152,6 @@ class PivniValka(OrmRobot):
             f'"{" ".join(user_items)}"',
             f'"{" ".join(["item-total-chart"] * len(user_items))}"',
             f'"{" ".join(["item-weekly-chart"] * len(user_items))}"',
-            f'"{" ".join(["item-matej-chart"] * len(user_items))}"',
         )
 
     @staticmethod
@@ -163,7 +161,6 @@ class PivniValka(OrmRobot):
             [
                 '"item-total-chart"',
                 '"item-weekly-chart"',
-                '"item-matej-chart"',
             ],
         )
 

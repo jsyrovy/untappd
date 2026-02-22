@@ -134,10 +134,9 @@ def test_get_yesterday_status():
 
 def test_get_grid_template_areas():
     result = PivniValka.get_grid_template_areas()
-    assert len(result) == 4
+    assert len(result) == 3
     assert "item-total-chart" in result[1]
     assert "item-weekly-chart" in result[2]
-    assert "item-matej-chart" in result[3]
 
     for area in result:
         assert area.startswith('"')
@@ -148,7 +147,6 @@ def test_get_mobile_grid_template_areas():
     result = PivniValka.get_mobile_grid_template_areas()
     assert '"item-total-chart"' in result
     assert '"item-weekly-chart"' in result
-    assert '"item-matej-chart"' in result
 
     for user_name in utils.user.VISIBLE_USER_NAMES:
         assert f'"item-{user_name}"' in result

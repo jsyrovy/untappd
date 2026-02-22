@@ -69,11 +69,6 @@
             margin: 5px;
         }
 
-        .item-matej-chart {
-            grid-area: item-matej-chart;
-            margin: 5px;
-        }
-
         @media only screen and (max-width: 991px) {
             .container {
                 width: 100%;
@@ -126,9 +121,6 @@
             <canvas id="weekly-chart"></canvas>
         </div>
 
-        <div class="item-matej-chart" title="Matějovy ztráty">
-            <canvas id="matej-chart"></canvas>
-        </div>
     </div>
 </div>
 <script>
@@ -164,31 +156,6 @@
             labels: {{ weekly_chart_data.labels | safe }},
             datasets: [
                 {% for dataset in weekly_chart_data.datasets %}
-                {
-                    label: '{{ dataset.label }}',
-                    data: {{ dataset.data | safe }},
-                    borderColor: '{{ dataset.color }}',
-                    backgroundColor: '{{ dataset.color }}',
-                },
-                {% endfor %}
-            ],
-        },
-        options: {
-            plugins: {
-                legend: {
-                    display: false,
-                },
-            },
-        },
-    });
-
-    const matejCtx = document.getElementById('matej-chart').getContext('2d');
-    const matejChart = new Chart(matejCtx, {
-        type: 'line',
-        data: {
-            labels: {{ matej_chart_data.labels | safe }},
-            datasets: [
-                {% for dataset in matej_chart_data.datasets %}
                 {
                     label: '{{ dataset.label }}',
                     data: {{ dataset.data | safe }},
