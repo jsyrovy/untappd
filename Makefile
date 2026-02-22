@@ -53,8 +53,10 @@ save-db-to-file:
 
 before-commit:
 	make format
+	make format-html
 	make test
 	make lint-fix
+	make lint-html
 	make mypy
 
 ipython:
@@ -65,6 +67,12 @@ lint:
 
 lint-fix:
 	uvx ruff check --fix
+
+lint-html:
+	uvx djlint templates/ --lint
+
+format-html:
+	uvx djlint templates/ --reformat
 
 ty:
 	uvx ty check

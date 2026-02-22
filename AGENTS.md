@@ -18,11 +18,13 @@ Package manager: **uv** (Astral). No virtual environment activation needed -- us
 | `make test`              | Run full test suite (`uv run --dev -m pytest`) |
 | `make lint`              | Lint with ruff (`uvx ruff check`)             |
 | `make lint-fix`          | Auto-fix lint issues (`uvx ruff check --fix`) |
-| `make format`            | Format code (`uvx ruff format`)               |
+| `make format`            | Format Python code (`uvx ruff format`)         |
+| `make format-html`       | Format HTML templates (`uvx djlint --reformat`)|
+| `make lint-html`         | Lint HTML templates (`uvx djlint --lint`)      |
 | `make mypy`              | Type-check (strict on src, relaxed on tests)  |
 | `make ty`                | Experimental type-check (`uvx ty check`)      |
 | `make coverage`          | Run tests with coverage report                |
-| `make before-commit`     | format + test + lint-fix + mypy (run before committing) |
+| `make before-commit`     | format + format-html + test + lint-fix + lint-html + mypy (run before committing) |
 | `make publish-pivni-valka` | Regenerate static HTML output (no test data)          |
 
 ### Running a Single Test
@@ -66,6 +68,7 @@ All checks must pass before merging.
 ### Formatting & Linting
 
 - **Ruff** with `lint.select = ["ALL"]` -- nearly every rule is enabled
+- **djLint** for HTML/Jinja2 templates (`profile = "jinja"`, config in `pyproject.toml`)
 - **Line length:** 120 characters
 - **Target version:** py314
 - Run `before-commit` before committing -- **do not commit if it fails**
