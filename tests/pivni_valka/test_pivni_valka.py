@@ -157,9 +157,6 @@ def test_main_notificationless(tmp_path):
     pv._args = Args(notificationless=True)
 
     index_html = tmp_path / "index.html"
-    chart_month = tmp_path / "chart_month.html"
-    chart_year = tmp_path / "chart_year.html"
-    chart_all = tmp_path / "chart_all.html"
 
     mock_template = jinja2.Template("rendered")
 
@@ -170,20 +167,12 @@ def test_main_notificationless(tmp_path):
         mock.patch("pivni_valka.Path") as mock_path,
         mock.patch("pivni_valka.pushover") as mock_pushover,
     ):
-        mock_path.side_effect = lambda p: {
-            "index.html": index_html,
-            "web/pivni_valka/chart_month.html": chart_month,
-            "web/pivni_valka/chart_year.html": chart_year,
-            "web/pivni_valka/chart_all.html": chart_all,
-        }[p]
+        mock_path.side_effect = lambda p: {"index.html": index_html}[p]
         pv._main()
 
     mock_pushover.send_notification.assert_not_called()
 
     assert index_html.read_text() == "rendered"
-    assert chart_month.read_text() == "rendered"
-    assert chart_year.read_text() == "rendered"
-    assert chart_all.read_text() == "rendered"
 
 
 def test_main_with_notification(tmp_path):
@@ -191,9 +180,6 @@ def test_main_with_notification(tmp_path):
     pv._args = Args()
 
     index_html = tmp_path / "index.html"
-    chart_month = tmp_path / "chart_month.html"
-    chart_year = tmp_path / "chart_year.html"
-    chart_all = tmp_path / "chart_all.html"
 
     mock_template = jinja2.Template("rendered")
 
@@ -205,12 +191,7 @@ def test_main_with_notification(tmp_path):
         mock.patch("pivni_valka.Path") as mock_path,
         mock.patch("pivni_valka.pushover") as mock_pushover,
     ):
-        mock_path.side_effect = lambda p: {
-            "index.html": index_html,
-            "web/pivni_valka/chart_month.html": chart_month,
-            "web/pivni_valka/chart_year.html": chart_year,
-            "web/pivni_valka/chart_all.html": chart_all,
-        }[p]
+        mock_path.side_effect = lambda p: {"index.html": index_html}[p]
         pv._main()
 
     mock_pushover.send_notification.assert_called_once_with("Status message")

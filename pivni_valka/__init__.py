@@ -19,7 +19,7 @@ from utils.common import download_page, get_profile_url, get_template, random_sl
 if TYPE_CHECKING:
     import jinja2
 
-GetPageKwArgs = list[TileData] | ChartData | tuple[str, ...] | list[str] | str
+GetPageKwArgs = list[TileData] | ChartData | str
 
 
 class PivniValka(OrmRobot):
@@ -32,40 +32,15 @@ class PivniValka(OrmRobot):
         page = self.get_page(
             get_template("pivni-valka.html"),
             tiles_data=tiles.get_tiles_data(),
-            total_chart_data=slice_chart_data(all_chart_data, days=14),
+            total_chart_data_14=slice_chart_data(all_chart_data, days=14),
+            total_chart_data_30=slice_chart_data(all_chart_data, days=30),
+            total_chart_data_365=slice_chart_data(all_chart_data, days=365),
+            total_chart_data_all=all_chart_data,
             weekly_chart_data=weekly_chart.get_chart_data(),
-            grid_template_areas=self.get_grid_template_areas(),
-            mobile_grid_template_areas=self.get_mobile_grid_template_areas(),
         )
 
         with Path("index.html").open("w") as f:
             f.write(page)
-
-        page_month = self.get_page(
-            get_template("pivni-valka-chart.html"),
-            total_chart_data=slice_chart_data(all_chart_data, days=30),
-            link="chart_year.html",
-        )
-
-        with Path("web/pivni_valka/chart_month.html").open("w") as f:
-            f.write(page_month)
-
-        page_year = self.get_page(
-            get_template("pivni-valka-chart.html"),
-            total_chart_data=slice_chart_data(all_chart_data, days=365),
-            link="chart_all.html",
-        )
-
-        with Path("web/pivni_valka/chart_year.html").open("w") as f:
-            f.write(page_year)
-
-        page_all = self.get_page(
-            get_template("pivni-valka-chart.html"),
-            total_chart_data=all_chart_data,
-        )
-
-        with Path("web/pivni_valka/chart_all.html").open("w") as f:
-            f.write(page_all)
 
         if not self._args.local and not self._args.notificationless and users_with_new_beers:
             status = self.get_yesterday_status(users_with_new_beers)

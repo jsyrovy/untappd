@@ -1,178 +1,320 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="cs" class="dark">
 <head>
     <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>Pivní válka</title>
     <link rel="icon" type="image/png" href="/untappd/web/favicon.png"/>
     <link rel="apple-touch-icon" href="/untappd/web/favicon.png">
-    <style>
-        body {
-            font-family: sans-serif;
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+                    },
+                },
+            },
         }
-
-        a {
-            color: white;
-            text-decoration: none;
-        }
-
-        .wrapper {
-            height: 100%;
-            padding: 0;
-            margin: 0;
-            display: -webkit-box;
-            display: -moz-box;
-            display: -ms-flexbox;
-            display: -webkit-flex;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .container {
-            display: grid;
-            grid-template-columns: {% for dataset in total_chart_data.datasets %}300px {% endfor %};
-            grid-template-rows: auto;
-            grid-template-areas:
-                {% for area in grid_template_areas %}
-                {{ area | safe }}
-                {% endfor %}
-        }
-
-        .item-count {
-            text-align: center;
-            margin: 5px;
-            color: white;
-        }
-
-        .count {
-            font-size: 4rem;
-            margin: 0 5px;
-        }
-
-        .diff {
-            font-size: 2rem;
-            margin: 0 5px;
-        }
-
-        .name {
-            font-size: 2rem;
-            line-height: 1.5em;
-        }
-
-        .item-total-chart {
-            grid-area: item-total-chart;
-            margin: 5px;
-        }
-
-        .item-weekly-chart {
-            grid-area: item-weekly-chart;
-            margin: 5px;
-        }
-
-        @media only screen and (max-width: 991px) {
-            .container {
-                width: 100%;
-                grid-template-columns: 100%;
-                grid-template-areas:
-                    {% for area in mobile_grid_template_areas %}
-                    {{ area | safe }}
-                    {% endfor %}
-            }
-
-            .count {
-                font-size: 8rem;
-            }
-
-            .diff {
-                font-size: 4rem;
-            }
-
-            .name {
-                font-size: 4rem;
-            }
-        }
-    </style>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
 </head>
-<body>
-<div class="wrapper">
-    <div class="container">
+<body class="bg-white dark:bg-zinc-950 text-zinc-900 dark:text-zinc-100 transition-colors duration-300 min-h-screen">
+
+<div class="max-w-5xl mx-auto px-4 py-8">
+
+    <header class="flex items-center justify-between mb-8">
+        <h1 class="text-2xl sm:text-3xl font-bold tracking-tight">Pivní válka</h1>
+        <button id="theme-toggle"
+                class="p-2 rounded-xl bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors"
+                title="Přepnout motiv">
+            <svg id="icon-sun" class="w-5 h-5 hidden dark:block" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z"/>
+            </svg>
+            <svg id="icon-moon" class="w-5 h-5 block dark:hidden" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z"/>
+            </svg>
+        </button>
+    </header>
+
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-8">
         {% for tile_data in tiles_data %}
-        <a href="{{ tile_data.url }}">
-            <div class="item-count" style="grid-area: item-{{ tile_data.user_name }}; background: {{ tile_data.color }};">
-                <span class="count">{{ tile_data.unique_beers_count }}</span>
-                <div>
-                    <span class="diff" title="Včera">{{ tile_data.diff_day }}</span>
-                    <span class="diff" title="Poslední týden">{{ tile_data.diff_week }}</span>
-                    <span class="diff" title="Poslední měsíc">{{ tile_data.diff_month }}</span>
+        <a href="{{ tile_data.url }}" class="group block" target="_blank" rel="noopener">
+            <div class="rounded-2xl p-4 sm:p-5 text-white text-center transition-all duration-200 hover:scale-[1.03] hover:shadow-xl shadow-lg"
+                 style="background: {{ tile_data.color }};">
+                <div class="text-4xl sm:text-5xl font-extrabold tracking-tight leading-none mb-2">
+                    {{ tile_data.unique_beers_count }}
                 </div>
-                <div class="name">{{ tile_data.name }} {% if tile_data.has_crown %}👑{% endif %}</div>
+                <div class="flex justify-center gap-2 sm:gap-3 text-sm sm:text-base font-medium opacity-90 mb-2">
+                    <span title="Včera">{{ tile_data.diff_day }}</span>
+                    <span title="Poslední týden">{{ tile_data.diff_week }}</span>
+                    <span title="Poslední měsíc">{{ tile_data.diff_month }}</span>
+                </div>
+                <div class="text-base sm:text-lg font-semibold opacity-95">
+                    {{ tile_data.name }} {% if tile_data.has_crown %}👑{% endif %}
+                </div>
             </div>
         </a>
         {% endfor %}
-
-        <div class="item-total-chart" title="Celkem">
-            <a href="web/pivni_valka/chart_month.html">
-                <canvas id="total-chart"></canvas>
-            </a>
-        </div>
-
-        <div class="item-weekly-chart" title="Za týden">
-            <canvas id="weekly-chart"></canvas>
-        </div>
-
     </div>
-</div>
-<script>
-    const totalCtx = document.getElementById('total-chart').getContext('2d');
-    const totalChart = new Chart(totalCtx, {
-        type: 'line',
-        data: {
-            labels: {{ total_chart_data.labels | safe }},
-            datasets: [
-                {% for dataset in total_chart_data.datasets %}
-                {
-                    label: '{{ dataset.label }}',
-                    data: {{ dataset.data | safe }},
-                    borderColor: '{{ dataset.color }}',
-                    backgroundColor: '{{ dataset.color }}',
-                },
-                {% endfor %}
-            ],
-        },
-        options: {
-            plugins: {
-                legend: {
-                    display: false,
-                },
-            },
-        },
-    });
 
-    const weeklyCtx = document.getElementById('weekly-chart').getContext('2d');
-    const weeklyChart = new Chart(weeklyCtx, {
-        type: 'line',
-        data: {
-            labels: {{ weekly_chart_data.labels | safe }},
-            datasets: [
-                {% for dataset in weekly_chart_data.datasets %}
-                {
-                    label: '{{ dataset.label }}',
-                    data: {{ dataset.data | safe }},
-                    borderColor: '{{ dataset.color }}',
-                    backgroundColor: '{{ dataset.color }}',
+    <div class="grid gap-6">
+        <div class="bg-zinc-50 dark:bg-zinc-900 rounded-2xl p-4 sm:p-6 shadow-lg border border-zinc-200 dark:border-zinc-800">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
+                <h2 id="total-chart-title" class="text-lg font-semibold">Celkem (14 dní)</h2>
+                <div class="flex rounded-lg bg-zinc-200 dark:bg-zinc-800 p-0.5" role="tablist">
+                    <button data-period="14" role="tab" aria-selected="true"
+                            class="period-tab px-3 py-1 text-sm font-medium rounded-md transition-colors bg-white dark:bg-zinc-700 text-zinc-900 dark:text-zinc-100 shadow-sm">
+                        14 dní
+                    </button>
+                    <button data-period="30" role="tab" aria-selected="false"
+                            class="period-tab px-3 py-1 text-sm font-medium rounded-md transition-colors text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100">
+                        30 dní
+                    </button>
+                    <button data-period="365" role="tab" aria-selected="false"
+                            class="period-tab px-3 py-1 text-sm font-medium rounded-md transition-colors text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100">
+                        365 dní
+                    </button>
+                    <button data-period="all" role="tab" aria-selected="false"
+                            class="period-tab px-3 py-1 text-sm font-medium rounded-md transition-colors text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100">
+                        Vše
+                    </button>
+                </div>
+            </div>
+            <div id="total-chart"></div>
+        </div>
+
+        <div class="bg-zinc-50 dark:bg-zinc-900 rounded-2xl p-4 sm:p-6 shadow-lg border border-zinc-200 dark:border-zinc-800">
+            <h2 class="text-lg font-semibold mb-4">Za týden (12 týdnů)</h2>
+            <div id="weekly-chart"></div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    (function() {
+        const stored = localStorage.getItem('theme');
+        if (stored === 'light') {
+            document.documentElement.classList.remove('dark');
+        }
+
+        document.getElementById('theme-toggle').addEventListener('click', function() {
+            const html = document.documentElement;
+            html.classList.toggle('dark');
+            const isDark = html.classList.contains('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            updateChartThemes(isDark);
+        });
+
+        function isDarkMode() {
+            return document.documentElement.classList.contains('dark');
+        }
+
+        function chartForeground() {
+            return isDarkMode() ? '#a1a1aa' : '#71717a';
+        }
+
+        function chartGridColor() {
+            return isDarkMode() ? '#27272a' : '#e4e4e7';
+        }
+
+        function chartTooltipTheme() {
+            return isDarkMode() ? 'dark' : 'light';
+        }
+
+        function baseChartOptions(categories) {
+            return {
+                chart: {
+                    type: 'line',
+                    height: 300,
+                    fontFamily: 'Inter, system-ui, sans-serif',
+                    toolbar: { show: false },
+                    background: 'transparent',
+                    animations: {
+                        enabled: true,
+                        easing: 'easeinout',
+                        speed: 600,
+                    },
                 },
-                {% endfor %}
-            ],
-        },
-        options: {
-            plugins: {
+                stroke: {
+                    curve: 'smooth',
+                    width: 3,
+                },
+                grid: {
+                    borderColor: chartGridColor(),
+                    strokeDashArray: 3,
+                },
+                xaxis: {
+                    categories: categories,
+                    labels: {
+                        style: { colors: chartForeground(), fontSize: '11px' },
+                        rotate: -45,
+                        rotateAlways: false,
+                    },
+                    axisBorder: { color: chartGridColor() },
+                    axisTicks: { color: chartGridColor() },
+                },
+                yaxis: {
+                    labels: {
+                        style: { colors: chartForeground(), fontSize: '11px' },
+                    },
+                },
                 legend: {
-                    display: false,
+                    position: 'top',
+                    horizontalAlign: 'left',
+                    fontWeight: 600,
+                    labels: { colors: chartForeground() },
+                    markers: { size: 5, shape: 'circle' },
                 },
+                tooltip: {
+                    theme: chartTooltipTheme(),
+                    style: { fontSize: '13px' },
+                },
+                markers: {
+                    size: 0,
+                    hover: { size: 5 },
+                },
+            };
+        }
+
+        const totalChartData = {
+            '14': {
+                series: [
+                    {% for dataset in total_chart_data_14.datasets %}
+                    { name: '{{ dataset.label }}', data: {{ dataset.data | tojson }} },
+                    {% endfor %}
+                ],
+                categories: {{ total_chart_data_14.labels | tojson }},
+                title: 'Celkem (14 dní)',
             },
-        },
-    });
+            '30': {
+                series: [
+                    {% for dataset in total_chart_data_30.datasets %}
+                    { name: '{{ dataset.label }}', data: {{ dataset.data | tojson }} },
+                    {% endfor %}
+                ],
+                categories: {{ total_chart_data_30.labels | tojson }},
+                title: 'Celkem (30 dní)',
+            },
+            '365': {
+                series: [
+                    {% for dataset in total_chart_data_365.datasets %}
+                    { name: '{{ dataset.label }}', data: {{ dataset.data | tojson }} },
+                    {% endfor %}
+                ],
+                categories: {{ total_chart_data_365.labels | tojson }},
+                title: 'Celkem (365 dní)',
+            },
+            'all': {
+                series: [
+                    {% for dataset in total_chart_data_all.datasets %}
+                    { name: '{{ dataset.label }}', data: {{ dataset.data | tojson }} },
+                    {% endfor %}
+                ],
+                categories: {{ total_chart_data_all.labels | tojson }},
+                title: 'Celkem (vše)',
+            },
+        };
+
+        let activePeriod = '14';
+
+        const weeklySeries = [
+            {% for dataset in weekly_chart_data.datasets %}
+            {
+                name: '{{ dataset.label }}',
+                data: {{ dataset.data | tojson }},
+            },
+            {% endfor %}
+        ];
+        const weeklyCategories = {{ weekly_chart_data.labels | tojson }};
+
+        const totalColors = [{% for dataset in total_chart_data_14.datasets %}'{{ dataset.color }}',{% endfor %}];
+        const weeklyColors = [{% for dataset in weekly_chart_data.datasets %}'{{ dataset.color }}',{% endfor %}];
+
+        function totalChartHeight() {
+            return activePeriod === '14' || activePeriod === '30' ? 300 : 450;
+        }
+
+        const totalOpts = {
+            ...baseChartOptions(totalChartData[activePeriod].categories),
+            chart: {
+                ...baseChartOptions(totalChartData[activePeriod].categories).chart,
+                height: totalChartHeight(),
+            },
+            series: totalChartData[activePeriod].series,
+            colors: totalColors,
+        };
+        const totalChart = new ApexCharts(document.getElementById('total-chart'), totalOpts);
+        totalChart.render();
+
+        function switchPeriod(period) {
+            activePeriod = period;
+            const data = totalChartData[period];
+
+            document.getElementById('total-chart-title').textContent = data.title;
+
+            document.querySelectorAll('.period-tab').forEach(function(tab) {
+                const isActive = tab.dataset.period === period;
+                tab.setAttribute('aria-selected', isActive);
+                if (isActive) {
+                    tab.className = 'period-tab px-3 py-1 text-sm font-medium rounded-md transition-colors bg-white dark:bg-zinc-700 text-zinc-900 dark:text-zinc-100 shadow-sm';
+                } else {
+                    tab.className = 'period-tab px-3 py-1 text-sm font-medium rounded-md transition-colors text-zinc-500 dark:text-zinc-400 hover:text-zinc-900 dark:hover:text-zinc-100';
+                }
+            });
+
+            totalChart.updateOptions({
+                chart: { height: totalChartHeight() },
+                series: data.series,
+                xaxis: { ...totalOpts.xaxis, categories: data.categories },
+            });
+
+            history.replaceState(null, '', '#' + period);
+        }
+
+        document.querySelectorAll('.period-tab').forEach(function(tab) {
+            tab.addEventListener('click', function() {
+                switchPeriod(this.dataset.period);
+            });
+        });
+
+        const hashPeriod = location.hash.replace('#', '');
+        if (hashPeriod && totalChartData[hashPeriod]) {
+            switchPeriod(hashPeriod);
+        }
+
+        const weeklyOpts = {
+            ...baseChartOptions(weeklyCategories),
+            series: weeklySeries,
+            colors: weeklyColors,
+        };
+        const weeklyChart = new ApexCharts(document.getElementById('weekly-chart'), weeklyOpts);
+        weeklyChart.render();
+
+        window.updateChartThemes = function(isDark) {
+            const fg = isDark ? '#a1a1aa' : '#71717a';
+            const grid = isDark ? '#27272a' : '#e4e4e7';
+            const theme = isDark ? 'dark' : 'light';
+            const base = {
+                grid: { borderColor: grid },
+                xaxis: {
+                    labels: { style: { colors: fg } },
+                    axisBorder: { color: grid },
+                    axisTicks: { color: grid },
+                },
+                yaxis: {
+                    labels: { style: { colors: fg } },
+                },
+                legend: { labels: { colors: fg } },
+                tooltip: { theme: theme },
+            };
+            totalChart.updateOptions({ ...base, xaxis: { ...base.xaxis, categories: totalChartData[activePeriod].categories } });
+            weeklyChart.updateOptions({ ...base, xaxis: { ...base.xaxis, categories: weeklyCategories } });
+        };
+    })();
 </script>
 {% include 'analytics.html' %}
 </body>
