@@ -18860,7 +18860,7 @@ INSERT INTO "pivni_valka" VALUES(16999,'2026-02-20','ominar',0);
 INSERT INTO "pivni_valka" VALUES(17000,'2026-02-20','karolina_matukova_7117',0);
 INSERT INTO "pivni_valka" VALUES(17001,'2026-02-21','sejrik',0);
 INSERT INTO "pivni_valka" VALUES(17002,'2026-02-21','mencik2',0);
-INSERT INTO "pivni_valka" VALUES(17003,'2026-02-21','Indi51',0);
+INSERT INTO "pivni_valka" VALUES(17003,'2026-02-21','Indi51',1);
 INSERT INTO "pivni_valka" VALUES(17004,'2026-02-21','ominar',0);
 INSERT INTO "pivni_valka" VALUES(17005,'2026-02-21','karolina_matukova_7117',0);
 COMMIT;
