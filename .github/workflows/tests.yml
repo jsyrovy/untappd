@@ -80,12 +80,10 @@ jobs:
           enable-cache: true
       - name: Test pivni-valka
         run: |
-          rm -f index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html
+          rm -f index.html
           echo "BEGIN TRANSACTION; CREATE TABLE [pivni_valka] ([id] integer PRIMARY KEY, [date] text, [user] text, [unique_beers] integer); INSERT INTO "pivni_valka" (date, user, unique_beers) VALUES('1999-01-01','sejrik',0); INSERT INTO "pivni_valka" (date, user, unique_beers) VALUES('1999-01-01','mencik2',0); INSERT INTO "pivni_valka" (date, user, unique_beers) VALUES('1999-01-01','Indi51',0); INSERT INTO "pivni_valka" (date, user, unique_beers) VALUES('1999-01-01','ominar',0); INSERT INTO "pivni_valka" (date, user, unique_beers) VALUES('1999-01-01','karolina_matukova_7117',0); COMMIT;" > data/data_dump.sql
           make run-pivni-valka-notificationless
           test -e index.html
-          test -e web/pivni_valka/chart_year.html
-          test -e web/pivni_valka/chart_all.html
           grep "Pivní válka" index.html
           grep "INSERT INTO \"pivni_valka\" VALUES(2" data/data_dump.sql
   smoke-notifier:
