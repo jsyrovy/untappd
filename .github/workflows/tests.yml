@@ -5,45 +5,79 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
       - name: Test
         run: make test
   mypy:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
       - name: Test
         run: make mypy
   lint:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
       - name: Test
         run: make lint
 #  ty:
 #    runs-on: ubuntu-latest
 #    steps:
 #      - name: Check out
-#        uses: actions/checkout@v2
+#        uses: actions/checkout@v4
 #      - name: Install uv
 #        uses: astral-sh/setup-uv@v4
+#        with:
+#          enable-cache: true
 #      - name: Test
 #        run: make ty
+  lint-html:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+      - name: Lint HTML templates
+        run: make lint-html
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+      - name: Check Python formatting
+        run: uvx ruff format --check
+      - name: Check HTML formatting
+        run: uvx djlint templates/ --check
   smoke-pivni-valka:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
       - name: Test pivni-valka
         run: |
           rm -f index.html web/pivni_valka/chart_year.html web/pivni_valka/chart_all.html
@@ -58,9 +92,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Install uv
         uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
       - name: Test notifier
         run: |
           rm -f notifier/ambasada.json
