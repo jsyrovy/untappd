@@ -23,6 +23,7 @@ Package manager: **uv** (Astral). No virtual environment activation needed -- us
 | `make ty`                | Experimental type-check (`uvx ty check`)      |
 | `make coverage`          | Run tests with coverage report                |
 | `make before-commit`     | format + test + lint-fix + mypy (run before committing) |
+| `make publish-pivni-valka` | Regenerate static HTML output (no test data)          |
 
 ### Running a Single Test
 
@@ -151,6 +152,21 @@ All checks must pass before merging.
   (`get_all_chart_data()`) and then sliced for 14/30/365/all-day views
   (`slice_chart_data()`). Follow this pattern for any new chart types.
 
+## Frontend / Templates
+
+- **Tailwind CSS** via CDN (no build step) and **ApexCharts** for charts
+- Dark/light theme toggle with `localStorage` persistence; dark is the default
+- **Data handoff:** Python lists are passed to JavaScript through Jinja2's
+  built-in `{{ data | tojson }}` filter, which calls `json.dumps()` and produces
+  valid, properly escaped JavaScript literals.
+- **Single-page chart switching:** all chart time periods (14/30/365/all days) are
+  embedded as inline data in the main `index.html`. Users switch between periods
+  via tabs; JavaScript calls `chart.updateOptions()` to swap data instantly without
+  page navigation. The active period is stored in the URL hash (`#14`, `#30`,
+  `#365`, `#all`) so links to specific periods can be shared.
+- **One generated page:** the dashboard is a single `index.html` at the repo root
+  (for GitHub Pages). There are no separate chart detail pages.
+
 ## Project Structure
 
 ```
@@ -167,6 +183,7 @@ untappd/
   tests/             # pytest test suite (mirrors source layout)
   utils/             # Shared utilities (HTTP, templates, users, logging)
   web/               # Generated static output (GitHub Pages) -- DO NOT EDIT
+  index.html         # Generated main dashboard -- DO NOT EDIT (at repo root for GitHub Pages)
   run_*.py           # Entry point scripts
   Makefile           # All dev commands
   pyproject.toml     # Project config (uv-managed)
