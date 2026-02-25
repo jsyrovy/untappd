@@ -1852,6 +1852,7 @@ INSERT INTO "archive" VALUES(1550354231,'2026-02-18 21:07:18.000000','sejrik','W
 INSERT INTO "archive" VALUES(1550671478,'2026-02-20 18:33:38.000000','sejrik','Complot IPA','Damm','Untappd at Home');
 INSERT INTO "archive" VALUES(1550745487,'2026-02-20 21:05:24.000000','sejrik','Classic Collection - Double Stout','Shepherd Neame','Untappd at Home');
 INSERT INTO "archive" VALUES(1550774680,'2026-02-20 22:11:38.000000','sejrik','TDH Nectaron X Pacifica X Ekuanot DIPA','Ārpus Brewing Co.','Untappd at Home');
+INSERT INTO "archive" VALUES(1551670268,'2026-02-24 20:48:08.000000','sejrik','Budvar Reserve','Budějovický Budvar','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
