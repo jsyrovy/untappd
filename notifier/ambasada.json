@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Early Evening",
-      "description": "4,4% alc. piv. Krkonoškský Medvěd, APA"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -19,6 +15,10 @@
     {
       "name": "12° Philadelphia Sour Černý rybíz & Malina",
       "description": "4% alc. piv. Obora, Malšice, Fruit Sour Ale"
+    },
+    {
+      "name": "12° Winter Day",
+      "description": "5,2% alc. piv. Louka, Session IPA"
     },
     {
       "name": "16° Frostbite",
