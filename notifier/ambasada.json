@@ -1,32 +1,32 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° Session IPA",
+      "description": "4,6% alc. Beskdydský Pivovárek, Ostravice, Session IPA"
     },
     {
       "name": "12° Komplic",
       "description": "5% alc. piv. Agent, Olešnice, American Weizen"
     },
     {
+      "name": "12° Líný Čert",
+      "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Tmavý Ležák"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
-      "name": "12° Philadelphia Sour Černý rybíz & Malina",
-      "description": "4% alc. piv. Obora, Malšice, Fruit Sour Ale"
-    },
-    {
-      "name": "12° Winter Day",
-      "description": "5,2% alc. piv. Louka, Session IPA"
+      "name": "13° Hop Elixir: Citra, Citrayperboost, Citra Cryo & Citra Dynaboost",
+      "description": "4,9% alc. piv. Sibeeria, Praha, Session NEIPA"
     },
     {
       "name": "15° Juicy Lucy",
       "description": "6,5% alc. piv. Zichovec, NEIPA"
     },
     {
-      "name": "17° Hopnotic",
-      "description": "8% alc. piv. Sibeeria, Praha, DDH Double IPA"
+      "name": "20° Ostružinový Knedlík",
+      "description": "6% alc. piv. Chroust, Potštejn, Pastry Sour Ale"
     },
     {
       "name": "22° Bush Peche Mel",
