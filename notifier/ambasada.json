@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Session IPA",
-      "description": "4,6% alc. Beskdydský Pivovárek, Ostravice, Session IPA"
+      "name": "12° Blizard",
+      "description": "5,1% alc. piv. Mordýř, Dolní Ředice, Winter Pale Ale"
     },
     {
       "name": "12° Líný Čert",
@@ -21,8 +21,8 @@
       "description": "4,9% alc. piv. Sibeeria, Praha, Session NEIPA"
     },
     {
-      "name": "15° Juicy Lucy",
-      "description": "6,5% alc. piv. Zichovec, NEIPA"
+      "name": "14° LucIPA",
+      "description": "5,7% alc. piv. JungBerg, Hořice, IPA"
     },
     {
       "name": "20° Ostružinový Knedlík",
