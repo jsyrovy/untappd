@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Sour Ale Pomeranč a Skořice",
+      "description": "3,7% alc. piv. Klenot, Hradec Králové, Fruit Sour Ale"
+    },
+    {
       "name": "12° Líný Čert",
       "description": "5,2% alc. piv. Mordýř, Dolní Ředice, Tmavý Ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "14° LucIPA",
       "description": "5,7% alc. piv. JungBerg, Hořice, IPA"
-    },
-    {
-      "name": "20° Ostružinový Knedlík",
-      "description": "6% alc. piv. Chroust, Potštejn, Pastry Sour Ale"
     },
     {
       "name": "22° Bush Peche Mel",
