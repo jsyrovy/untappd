@@ -1863,6 +1863,8 @@ INSERT INTO "archive" VALUES(1554751706,'2026-03-11 17:51:28.000000','sejrik','R
 INSERT INTO "archive" VALUES(1554786537,'2026-03-11 20:28:59.000000','sejrik','720 Vánoční Ale 12','Pivovar Garp','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1554796376,'2026-03-11 21:11:55.000000','sejrik','New Dog: Trident','Pivovar HoppyDog','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1554800389,'2026-03-11 21:29:48.000000','sejrik','Tears of St Laurent (2020)','Wild Creatures','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1555175676,'2026-03-13 19:49:01.000000','sejrik','Bakalář Za studena chmelený / Dry Hopped Lager','Tradiční pivovar v Rakovníku','Untappd at Home');
+INSERT INTO "archive" VALUES(1555205818,'2026-03-13 20:39:09.000000','sejrik','Trdelník 20','Rodinný pivovar Zichovec','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
