@@ -9,10 +9,6 @@
       "description": "4,8% alc. piv. Obora, Malšice, APA"
     },
     {
-      "name": "12° Ale NE",
-      "description": "4,8% alc. piv. Obora, Malšice, New England Session India Pale Ale"
-    },
-    {
       "name": "12° Ježibaba",
       "description": "5% alc. piv. Obora, Malšice, Světlý Ležák"
     },
@@ -27,6 +23,10 @@
     {
       "name": "15° India Pale Ale",
       "description": "6,6% alc. piv. Obora, Malšice, IPA"
+    },
+    {
+      "name": "15° Lollihop",
+      "description": "6,6% alc. piv. Sibeeria, Praha, West Coast IPA"
     },
     {
       "name": "20° Magical Forest",
