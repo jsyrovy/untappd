@@ -1874,6 +1874,10 @@ INSERT INTO "archive" VALUES(1556075518,'2026-03-16 20:04:17.000000','sejrik','P
 INSERT INTO "archive" VALUES(1556083100,'2026-03-16 20:52:22.000000','sejrik','Gulden Draak 9000 Quadruple','Brouwerij Van Steenberge','Untappd at Home');
 INSERT INTO "archive" VALUES(1556444080,'2026-03-19 13:04:26.000000','sejrik','Staropolskie Miodne / Honey Beer','Kultowy Browar Staropolski','Pierogarnia Stary Młyn');
 INSERT INTO "archive" VALUES(1556501331,'2026-03-19 19:09:28.000000','sejrik','Hazy Morning','PINTA','Element Wroclaw');
+INSERT INTO "archive" VALUES(1556655520,'2026-03-20 15:40:39.000000','sejrik','Pale Ale','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
+INSERT INTO "archive" VALUES(1556666350,'2026-03-20 16:17:20.000000','sejrik','BGM 2026 Sunlit Path','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
+INSERT INTO "archive" VALUES(1556680368,'2026-03-20 16:55:25.000000','sejrik','FRESH DELIVERY | NEIPA NELSON BLISS HOP KIEF','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
+INSERT INTO "archive" VALUES(1556690077,'2026-03-20 17:18:08.000000','sejrik','American IPA','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
