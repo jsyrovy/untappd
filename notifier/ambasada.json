@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+    },
+    {
       "name": "11° Srpěna",
       "description": "4,5% alc. piv. Obora, Malšice, Světlý Ležák"
     },
     {
-      "name": "11° Sunny APA",
-      "description": "4,8% alc. piv. Obora, Malšice, APA"
-    },
-    {
-      "name": "12° Ježibaba",
-      "description": "5% alc. piv. Obora, Malšice, Světlý Ležák"
+      "name": "12° Beskydská",
+      "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
     },
     {
       "name": "12° Philadelphia Malina",
