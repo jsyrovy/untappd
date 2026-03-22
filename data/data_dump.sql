@@ -1878,6 +1878,9 @@ INSERT INTO "archive" VALUES(1556655520,'2026-03-20 15:40:39.000000','sejrik','P
 INSERT INTO "archive" VALUES(1556666350,'2026-03-20 16:17:20.000000','sejrik','BGM 2026 Sunlit Path','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
 INSERT INTO "archive" VALUES(1556680368,'2026-03-20 16:55:25.000000','sejrik','FRESH DELIVERY | NEIPA NELSON BLISS HOP KIEF','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
 INSERT INTO "archive" VALUES(1556690077,'2026-03-20 17:18:08.000000','sejrik','American IPA','Browar Stu Mostów','Browar Stu Mostów na Świdnickiej');
+INSERT INTO "archive" VALUES(1557011296,'2026-03-21 14:40:59.000000','sejrik','Let Him Cook','AleBrowar','AleBrowar');
+INSERT INTO "archive" VALUES(1557023181,'2026-03-21 15:13:46.000000','sejrik','Son of the Son','AleBrowar','AleBrowar');
+INSERT INTO "archive" VALUES(1557034777,'2026-03-21 15:41:14.000000','sejrik','El Fruto','AleBrowar','AleBrowar');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
