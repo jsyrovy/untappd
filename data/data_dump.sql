@@ -1881,6 +1881,7 @@ INSERT INTO "archive" VALUES(1556690077,'2026-03-20 17:18:08.000000','sejrik','A
 INSERT INTO "archive" VALUES(1557011296,'2026-03-21 14:40:59.000000','sejrik','Let Him Cook','AleBrowar','AleBrowar');
 INSERT INTO "archive" VALUES(1557023181,'2026-03-21 15:13:46.000000','sejrik','Son of the Son','AleBrowar','AleBrowar');
 INSERT INTO "archive" VALUES(1557034777,'2026-03-21 15:41:14.000000','sejrik','El Fruto','AleBrowar','AleBrowar');
+INSERT INTO "archive" VALUES(1557534754,'2026-03-22 19:46:15.000000','sejrik','Rzemiecha Brut IPA','Browar Gościszewo','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
