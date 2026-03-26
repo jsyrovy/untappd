@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "11° Moves",
-      "description": "4,1% alc. piv. Agent, Olešnice, Banán a Višeň Sour Ale"
-    },
-    {
       "name": "12° Beskydská",
       "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
     },
@@ -19,6 +15,10 @@
     {
       "name": "13° White Wine Ale",
       "description": "5,5% alc. piv. Obora, Malšice, Grape Ale"
+    },
+    {
+      "name": "15° Elektra",
+      "description": "6,5% alc. piv. Volt, Jablonec nad Nisou, Fruit Gose"
     },
     {
       "name": "15° Intergalactic",
