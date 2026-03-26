@@ -5,6 +5,10 @@
       "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
     },
     {
+      "name": "12° One Pirouette",
+      "description": "5% alc. piv. Sibeeria, Praha, Gose w/ Provence Herbs"
+    },
+    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -23,10 +27,6 @@
     {
       "name": "15° Intergalactic",
       "description": "6,4% alc. piv. Medvěd, Vrchlabí, IPA"
-    },
-    {
-      "name": "15° Lollihop",
-      "description": "6,6% alc. piv. Sibeeria, Praha, West Coast IPA"
     },
     {
       "name": "20° Magical Forest",
