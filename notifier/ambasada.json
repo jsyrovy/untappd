@@ -9,6 +9,10 @@
       "description": "5% alc. piv. Mordýř, Dolní Ředice, Ale"
     },
     {
+      "name": "12° Maisels Weisse",
+      "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
       "name": "12° One Pirouette",
       "description": "5% alc. piv. Sibeeria, Praha, Gose w/ Provence Herbs"
     },
@@ -19,10 +23,6 @@
     {
       "name": "13° Flash",
       "description": "5,8% alc. piv. Volt, Jablonec nad Nisou, English IPA"
-    },
-    {
-      "name": "13° White Wine Ale",
-      "description": "5,5% alc. piv. Obora, Malšice, Grape Ale"
     },
     {
       "name": "15° Elektra",
