@@ -1886,6 +1886,7 @@ INSERT INTO "archive" VALUES(1558021752,'2026-03-26 16:44:20.000000','sejrik','C
 INSERT INTO "archive" VALUES(1558025535,'2026-03-26 17:02:50.000000','sejrik','FROSTBITE / Northern IPA Vik & Chroust','Pivovar Vik','Beertime');
 INSERT INTO "archive" VALUES(1558033692,'2026-03-26 17:39:01.000000','sejrik','Beertime Dialogue: El Dorado & Riwaka','Pivovar Raven','Beertime');
 INSERT INTO "archive" VALUES(1558039022,'2026-03-26 18:00:08.000000','sejrik','Grapefruit Lollihop','Sibeeria Brewery','Beertime');
+INSERT INTO "archive" VALUES(1558322275,'2026-03-27 19:49:46.000000','sejrik','Rebel Chevron 11','Měšťanský pivovar Havlíčkův Brod','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
