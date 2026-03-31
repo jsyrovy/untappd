@@ -1,12 +1,12 @@
 {
   "beers": [
     {
-      "name": "11° Mordýř",
-      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
+      "name": "11° American Pale Ale",
+      "description": "4,7% alc. piv. Malešov, APA"
     },
     {
-      "name": "12° Krush Ale",
-      "description": "5% alc. piv. Mordýř, Dolní Ředice, Ale"
+      "name": "11° Mordýř",
+      "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
       "name": "12° Maisels Weisse",
