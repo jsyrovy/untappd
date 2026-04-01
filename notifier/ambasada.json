@@ -13,10 +13,6 @@
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
     },
     {
-      "name": "12° One Pirouette",
-      "description": "5% alc. piv. Sibeeria, Praha, Gose w/ Provence Herbs"
-    },
-    {
       "name": "12° PP (Pořádné Pivo)",
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
@@ -25,12 +21,16 @@
       "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
     },
     {
+      "name": "13° Kurtizána Zelená",
+      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Zelený Pale Ale"
+    },
+    {
       "name": "14° Zelený Růžek 2026",
       "description": "piv. Upside Down, Grapes & Green Apple & Cactus Pastry Sour Ale"
     },
     {
-      "name": "16° Nectar of suPrdelicious",
-      "description": "6,1% alc. piv. Fracek, Praha, Hazy IPA"
+      "name": "16° Upleteno",
+      "description": "7,5% alc. piv. Sibeeria, Praha, New England IPA"
     }
   ]
 }
