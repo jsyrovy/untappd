@@ -1,20 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° Citra Session",
+      "description": "4,6% alc. piv. Haksna, Ostrava, American Pale Ale"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Kiwi Gose",
-      "description": "5,2% alc. piv. Mazák, Dolní Bojanovice, Gose w/ Kiwi"
-    },
-    {
-      "name": "12° PP (Pořádné Pivo)",
-      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
-    },
-    {
-      "name": "12° Velikonoční Speciál",
-      "description": "5,2% alc. Beskydský pivovárek, Ostravice, Ale"
+      "name": "11° PUK",
+      "description": "4,5% alc. piv. Švabín, Fruit Sour Ale"
     },
     {
       "name": "12° Zelený Ležák",
