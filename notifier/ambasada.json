@@ -5,6 +5,10 @@
       "description": "4,6% alc. piv. Haksna, Ostrava, American Pale Ale"
     },
     {
+      "name": "11° Green Bunny",
+      "description": "4,7% alc. piv. Lucky Bastard, India Pale Lager"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -13,8 +17,8 @@
       "description": "4,5% alc. piv. Švabín, Fruit Sour Ale"
     },
     {
-      "name": "12° Zelený Ležák",
-      "description": "5% alc. piv. Kynšperský Zajíc, Kynšperk, Zelený Ležák"
+      "name": "11° Vykoledováno",
+      "description": "5,3% alc. piv. Sibeeria, Praha, Farmhouse Ale"
     },
     {
       "name": "12° Zelený Pale Ale",
@@ -23,10 +27,6 @@
     {
       "name": "13° Kurtizána Zelená",
       "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Zelený Pale Ale"
-    },
-    {
-      "name": "16° Upleteno",
-      "description": "7,5% alc. piv. Sibeeria, Praha, New England IPA"
     },
     {
       "name": "31° Imperial Stout whisky barrel aged",
