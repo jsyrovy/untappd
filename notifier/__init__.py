@@ -1,10 +1,11 @@
 from notifier.ambasada import AmbasadaOffer
+from notifier.beerstreet import BeerStreetOffer
 from robot.base import BaseRobot
 
 
 class Notifier(BaseRobot):
     def _main(self) -> None:
-        for class_ in (AmbasadaOffer,):
+        for class_ in (AmbasadaOffer, BeerStreetOffer):
             offer = class_()
             offer.run()
 

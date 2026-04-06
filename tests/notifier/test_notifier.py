@@ -12,16 +12,17 @@ def test_notifier_main_with_new_beers():
 
     with (
         mock.patch("notifier.AmbasadaOffer", mock_class),
+        mock.patch("notifier.BeerStreetOffer", mock_class),
         mock.patch("robot.orm.dump"),
     ):
         notifier = Notifier()
         notifier._args = mock.MagicMock(notificationless=False)
         notifier._main()
 
-    mock_offer.run.assert_called_once()
-    mock_offer.set_tasted.assert_called_once()
+    mock_offer.run.assert_called()
+    mock_offer.set_tasted.assert_called()
     notificationless = False
-    mock_offer.send_notification.assert_called_once_with(notificationless)
+    mock_offer.send_notification.assert_called_with(notificationless)
 
 
 def test_notifier_main_without_new_beers():
@@ -32,12 +33,13 @@ def test_notifier_main_without_new_beers():
 
     with (
         mock.patch("notifier.AmbasadaOffer", mock_class),
+        mock.patch("notifier.BeerStreetOffer", mock_class),
         mock.patch("robot.orm.dump"),
     ):
         notifier = Notifier()
         notifier._args = mock.MagicMock(notificationless=False)
         notifier._main()
 
-    mock_offer.run.assert_called_once()
+    mock_offer.run.assert_called()
     mock_offer.set_tasted.assert_not_called()
     mock_offer.send_notification.assert_not_called()
