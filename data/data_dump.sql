@@ -1893,6 +1893,7 @@ INSERT INTO "archive" VALUES(1559692283,'2026-04-02 17:26:15.000000','sejrik','G
 INSERT INTO "archive" VALUES(1559746589,'2026-04-02 19:48:24.000000','sejrik','Night Shift','Piwne Podziemie / Beer Underground','Untappd at Home');
 INSERT INTO "archive" VALUES(1560053264,'2026-04-03 19:43:46.000000','sejrik','Pivo Jak Cyp','Chroust','Dolní Lipka');
 INSERT INTO "archive" VALUES(1560362016,'2026-04-04 17:11:23.000000','sejrik','The Beer Spot Coconut NEIPA','Chroust','Dolní Lipka');
+INSERT INTO "archive" VALUES(1560842135,'2026-04-05 20:24:25.000000','sejrik','Stella','Pivovar Clock','Dolní Lipka');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
