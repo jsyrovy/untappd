@@ -1,20 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Green Bunny",
-      "description": "4,7% alc. piv. Lucky Bastard, India Pale Lager"
-    },
-    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
     {
-      "name": "12° Fortune",
-      "description": "4,2% alc. piv. Clock, Potštejn,  Grapefruit Infused Pale Ale"
-    },
-    {
       "name": "12° Maisels Weisse",
       "description": "5,1% alc. piv. Maisel, Bayreuth, Bavorsko, Hefeweizen"
+    },
+    {
+      "name": "12° PP (Pořádné Pivo)",
+      "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
       "name": "12° Tango",
@@ -25,8 +21,8 @@
       "description": "4,8% alc. piv. Sibeeria, Praha, Hazy Pale Ale"
     },
     {
-      "name": "13° Kurtizána Zelená",
-      "description": "5,5% alc. piv. Mordýř, Dolní Ředice, Zelený Pale Ale"
+      "name": "14° Tractor IPA",
+      "description": "5,9% alc. piv. Zlatá Kráva, Nepomuk, IPA"
     },
     {
       "name": "31° Imperial Stout whisky barrel aged",
