@@ -1,20 +1,16 @@
 {
   "beers": [
     {
-      "name": "11° Aikido Alpaca",
-      "description": "4.5% alc., Chroust, Hazy IPA"
-    },
-    {
-      "name": "11° ERIS",
-      "description": "4.9% alc., Loutkář, IPL"
-    },
-    {
-      "name": "11° Vinohradská",
-      "description": "4.5% alc., Vinohradský pivovar, Ležák světlý"
+      "name": "11° Rezident",
+      "description": "4.5% alc., Pioneer Beer, Ležák světlý"
     },
     {
       "name": "12° Jarní",
       "description": "5% alc., Mazák, PALE ALE"
+    },
+    {
+      "name": "12° Superdelic",
+      "description": "5.2% alc., Mordýř, ALE"
     },
     {
       "name": "13° Anthropoid",
@@ -23,6 +19,10 @@
     {
       "name": "14° Uranus",
       "description": "6.4% alc., Kročehlavy/Václav, Cold IPA"
+    },
+    {
+      "name": "15° New Libeň",
+      "description": "6.4% alc., Kročehlavy/Václav, NEIPA"
     }
   ]
 }
