@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "-° -",
+      "description": "0% alc., -, 0"
+    },
+    {
       "name": "11° Rezident",
       "description": "4.5% alc., Pioneer Beer, Ležák světlý"
     },
@@ -15,10 +19,6 @@
     {
       "name": "13° Anthropoid",
       "description": "5.4% alc., Loutkář, Ležák světlý"
-    },
-    {
-      "name": "14° Uranus",
-      "description": "6.4% alc., Kročehlavy/Václav, Cold IPA"
     },
     {
       "name": "15° New Libeň",
