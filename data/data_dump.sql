@@ -1894,6 +1894,15 @@ INSERT INTO "archive" VALUES(1559746589,'2026-04-02 19:48:24.000000','sejrik','N
 INSERT INTO "archive" VALUES(1560053264,'2026-04-03 19:43:46.000000','sejrik','Pivo Jak Cyp','Chroust','Dolní Lipka');
 INSERT INTO "archive" VALUES(1560362016,'2026-04-04 17:11:23.000000','sejrik','The Beer Spot Coconut NEIPA','Chroust','Dolní Lipka');
 INSERT INTO "archive" VALUES(1560842135,'2026-04-05 20:24:25.000000','sejrik','Stella','Pivovar Clock','Dolní Lipka');
+INSERT INTO "archive" VALUES(1561608685,'2026-04-10 14:22:37.000000','sejrik','Atak Chmielu','PINTA','Kolej 3');
+INSERT INTO "archive" VALUES(1561613034,'2026-04-10 14:43:27.000000','sejrik','Modern Drinking','PINTA','Železniční zast. Chrudim zastávka');
+INSERT INTO "archive" VALUES(1561627332,'2026-04-10 15:35:38.000000','sejrik','Světlý lěžák 11','Chrudimský pivovar Filištín','Minipivovar Filištín');
+INSERT INTO "archive" VALUES(1561638522,'2026-04-10 16:07:48.000000','sejrik','Vídeňský ležák 12','Chrudimský pivovar Filištín','Minipivovar Filištín');
+INSERT INTO "archive" VALUES(1561654141,'2026-04-10 16:44:56.000000','sejrik','Černý ležák 11','Chrudimský pivovar Filištín','Minipivovar Filištín');
+INSERT INTO "archive" VALUES(1561668070,'2026-04-10 17:15:37.000000','sejrik','Gaia Single Beer','Chrudimský pivovar Filištín','Minipivovar Filištín');
+INSERT INTO "archive" VALUES(1561696440,'2026-04-10 18:12:38.000000','sejrik','Mandarina single beer 12','Chrudimský pivovar Filištín','Minipivovar Filištín');
+INSERT INTO "archive" VALUES(1561725025,'2026-04-10 19:02:55.000000','sejrik','Eris 11','Pivovar Loutkář','Pivovar Loutkář');
+INSERT INTO "archive" VALUES(1561743576,'2026-04-10 19:33:19.000000','sejrik','Velikonoční Ležák 12 A Půl','Pivovar Loutkář','Pivovar Loutkář');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
