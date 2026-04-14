@@ -1905,6 +1905,8 @@ INSERT INTO "archive" VALUES(1561725025,'2026-04-10 19:02:55.000000','sejrik','E
 INSERT INTO "archive" VALUES(1561743576,'2026-04-10 19:33:19.000000','sejrik','Velikonoční Ležák 12 A Půl','Pivovar Loutkář','Pivovar Loutkář');
 INSERT INTO "archive" VALUES(1562200302,'2026-04-11 20:14:32.000000','sejrik','Extra Extra','Chroust','Untappd at Home');
 INSERT INTO "archive" VALUES(1562501932,'2026-04-12 18:59:32.000000','sejrik','Anežka','Pivovar Clock','Untappd at Home');
+INSERT INTO "archive" VALUES(1562650329,'2026-04-13 19:05:17.000000','sejrik','Balthazar','Pivovar Clock','Untappd at Home');
+INSERT INTO "archive" VALUES(1562668578,'2026-04-13 21:21:11.000000','sejrik','Anežka Ch.','Chroust','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
