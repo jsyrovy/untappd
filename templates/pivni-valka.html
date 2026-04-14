@@ -25,6 +25,12 @@
         <div class="max-w-5xl mx-auto px-4 py-8">
             <header class="flex items-center justify-between mb-8">
                 <h1 class="text-2xl sm:text-3xl font-bold tracking-tight">Pivní válka</h1>
+                <div class="flex items-center gap-2">
+                <a href="/untappd/beerstreet.html"
+                   class="px-3 py-2 rounded-xl text-sm font-medium bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors"
+                   title="Beer Street — aktuální nabídka">
+                    🍺 Beer Street
+                </a>
                 <button id="theme-toggle"
                         class="p-2 rounded-xl bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-colors"
                         title="Přepnout motiv">
@@ -45,6 +51,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" />
                     </svg>
                 </button>
+                </div>
             </header>
             <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-8">
                 {% for tile_data in tiles_data %}
