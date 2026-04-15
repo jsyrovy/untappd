@@ -31,6 +31,7 @@ class PivniValka(OrmRobot):
 
         page = self.get_page(
             get_template("pivni-valka.html"),
+            active_page="pivni-valka",
             tiles_data=tiles.get_tiles_data(),
             total_chart_data_14=slice_chart_data(all_chart_data, days=14),
             total_chart_data_30=slice_chart_data(all_chart_data, days=30),

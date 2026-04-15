@@ -16,6 +16,13 @@ run-pivni-valka-local:
 publish-pivni-valka:
 	uv run --no-dev run_pivni_valka.py --publish
 
+publish-nabidka:
+	uv run --no-dev run_nabidka.py
+
+publish-all:
+	$(MAKE) publish-pivni-valka
+	$(MAKE) publish-nabidka
+
 test-pivni-valka:
 	uv run --dev pytest tests/pivni_valka
 

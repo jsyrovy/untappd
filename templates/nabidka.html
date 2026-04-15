@@ -1,52 +1,8 @@
-<!DOCTYPE html>
-<html lang="cs" class="dark">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>
-            
+{% extends "base.html" %}
+{% block title %}
     Nabídka na čepu
-
-        </title>
-        <link rel="icon" type="image/png" href="/web/favicon.png" />
-        <link rel="apple-touch-icon" href="/web/favicon.png" />
-        <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@400;500;600;700&display=swap"
-              rel="stylesheet" />
-        <script>
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    colors: {
-                        chalk: '#f5f0e8',
-                        amber: {
-                            DEFAULT: '#d4a854',
-                            light: '#e8c97a',
-                        },
-                        slate: {
-                            DEFAULT: '#1a1a1a',
-                            light: '#2a2a2a',
-                            mid: '#3a3a3a',
-                        },
-                    },
-                    fontFamily: {
-                        display: ['"Instrument Serif"', 'Georgia', 'serif'],
-                        body: ['"DM Sans"', 'system-ui', 'sans-serif'],
-                    },
-                },
-            },
-        }
-        </script>
-        <style>
-            .dark body {
-                background-color: #1a1a1a;
-                background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
-            }
-        </style>
-        
+{% endblock title %}
+{% block head %}
     <style>
     .beer-card {
         transition: transform 0.25s ease, box-shadow 0.25s ease;
@@ -85,47 +41,8 @@
         color: #b8892e;
     }
     </style>
-
-    </head>
-    <body class="min-h-screen font-body bg-stone-50 text-zinc-900 dark:bg-slate dark:text-chalk transition-colors duration-300">
-        <nav class="border-b border-zinc-200 dark:border-slate-mid/50">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6">
-                <div class="flex items-center justify-between h-12">
-                    <div class="flex items-center gap-1">
-                        <a href="/"
-                           class="nav-link px-3 py-1.5 rounded-md text-sm font-medium transition-colors  text-zinc-500 dark:text-chalk/50 hover:text-zinc-900 dark:hover:text-chalk ">
-                            Pivní válka
-                        </a>
-                        <span class="text-zinc-300 dark:text-slate-mid">·</span>
-                        <a href="/nabidka.html"
-                           class="nav-link px-3 py-1.5 rounded-md text-sm font-medium transition-colors  text-amber dark:text-amber-light ">
-                            Nabídka na čepu
-                        </a>
-                    </div>
-                    <button id="theme-toggle"
-                            class="p-2 rounded-lg bg-zinc-100 dark:bg-slate-light hover:bg-zinc-200 dark:hover:bg-slate-mid transition-colors"
-                            title="Přepnout motiv">
-                        <svg id="icon-sun"
-                             class="w-4 h-4 hidden dark:block text-amber-light"
-                             fill="none"
-                             viewBox="0 0 24 24"
-                             stroke-width="1.5"
-                             stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386-1.591 1.591M21 12h-2.25m-.386 6.364-1.591-1.591M12 18.75V21m-4.773-4.227-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0Z" />
-                        </svg>
-                        <svg id="icon-moon"
-                             class="w-4 h-4 block dark:hidden text-zinc-500"
-                             fill="none"
-                             viewBox="0 0 24 24"
-                             stroke-width="1.5"
-                             stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0 1 18 15.75c-5.385 0-9.75-4.365-9.75-9.75 0-1.33.266-2.597.748-3.752A9.753 9.753 0 0 0 3 11.25C3 16.635 7.365 21 12.75 21a9.753 9.753 0 0 0 9.002-5.998Z" />
-                        </svg>
-                    </button>
-                </div>
-            </div>
-        </nav>
-        
+{% endblock head %}
+{% block content %}
     <header class="pt-6 pb-2 px-6 text-center">
         <h1 class="font-display text-3xl md:text-4xl text-amber tracking-tight">Nabídka na čepu</h1>
         <div class="mt-1 flex items-center justify-center gap-2 text-zinc-400 dark:text-chalk/30 text-xs">
@@ -181,25 +98,8 @@
                class="text-zinc-400 dark:text-chalk/30 text-xs hover:text-amber transition-colors">pivniambasada.cz</a>
         </div>
     </footer>
-
-        <script>
-    (function() {
-        const stored = localStorage.getItem('theme');
-        if (stored === 'light') {
-            document.documentElement.classList.remove('dark');
-        }
-        document.getElementById('theme-toggle').addEventListener('click', function() {
-            const html = document.documentElement;
-            html.classList.toggle('dark');
-            const isDark = html.classList.contains('dark');
-            localStorage.setItem('theme', isDark ? 'dark' : 'light');
-            if (typeof window.onThemeChange === 'function') {
-                window.onThemeChange(isDark);
-            }
-        });
-    })();
-        </script>
-        
+{% endblock content %}
+{% block scripts %}
     <script>
     const _escEl = document.createElement('span');
     function esc(s) {
@@ -486,11 +386,4 @@
 
     loadAll();
     </script>
-
-        <!-- Cloudflare Web Analytics -->
-<script defer
-        src='https://static.cloudflareinsights.com/beacon.min.js'
-        data-cf-beacon='{"token": "6c0cbe94db64456e8e9b69c8f171518d"}'></script>
-<!-- End Cloudflare Web Analytics -->
-    </body>
-</html>
+{% endblock scripts %}
