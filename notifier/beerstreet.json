@@ -1,16 +1,16 @@
 {
   "beers": [
     {
+      "name": "11° JUNO",
+      "description": "5% alc., Loutkář, CZ Ale"
+    },
+    {
       "name": "11° Kazbek",
       "description": "4.5% alc., Klenot, Ležák světlý"
     },
     {
       "name": "12,5° Velikonoční",
       "description": "5.3% alc., Loutkář, Ležák světlý"
-    },
-    {
-      "name": "12° Superdelic",
-      "description": "5.2% alc., Mordýř, Pale Ale"
     },
     {
       "name": "12° Tropical Sour",
