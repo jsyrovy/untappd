@@ -156,7 +156,9 @@ def test_main_notificationless(tmp_path):
     pv = PivniValka()
     pv._args = Args(notificationless=True)
 
-    index_html = tmp_path / "index.html"
+    output_dir = tmp_path / "pivni-valka"
+    output_dir.mkdir()
+    index_html = output_dir / "index.html"
 
     mock_template = jinja2.Template("rendered")
 
@@ -167,7 +169,7 @@ def test_main_notificationless(tmp_path):
         mock.patch("pivni_valka.Path") as mock_path,
         mock.patch("pivni_valka.pushover") as mock_pushover,
     ):
-        mock_path.side_effect = lambda p: {"index.html": index_html}[p]
+        mock_path.side_effect = lambda p: {"dist/pivni-valka/index.html": index_html}[p]
         pv._main()
 
     mock_pushover.send_notification.assert_not_called()
@@ -179,7 +181,9 @@ def test_main_with_notification(tmp_path):
     pv = PivniValka()
     pv._args = Args()
 
-    index_html = tmp_path / "index.html"
+    output_dir = tmp_path / "pivni-valka"
+    output_dir.mkdir()
+    index_html = output_dir / "index.html"
 
     mock_template = jinja2.Template("rendered")
 
@@ -191,7 +195,7 @@ def test_main_with_notification(tmp_path):
         mock.patch("pivni_valka.Path") as mock_path,
         mock.patch("pivni_valka.pushover") as mock_pushover,
     ):
-        mock_path.side_effect = lambda p: {"index.html": index_html}[p]
+        mock_path.side_effect = lambda p: {"dist/pivni-valka/index.html": index_html}[p]
         pv._main()
 
     mock_pushover.send_notification.assert_called_once_with("Status message")

@@ -40,7 +40,9 @@ class PivniValka(OrmRobot):
             weekly_chart_data=weekly_chart.get_chart_data(),
         )
 
-        with Path("index.html").open("w") as f:
+        output = Path("dist/pivni-valka/index.html")
+        output.parent.mkdir(parents=True, exist_ok=True)
+        with output.open("w") as f:
             f.write(page)
 
         if not self._args.local and not self._args.notificationless and users_with_new_beers:

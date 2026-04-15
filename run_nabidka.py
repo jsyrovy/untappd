@@ -12,7 +12,8 @@ if __name__ == "__main__":
     template = get_template("nabidka.html")
     page = template.render(active_page="nabidka")
 
-    output = Path("nabidka.html")
+    output = Path("dist/nabidka/index.html")
+    output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("w") as f:
         f.write(page)
 

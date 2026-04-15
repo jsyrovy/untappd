@@ -20,8 +20,13 @@ publish-nabidka:
 	uv run --no-dev run_nabidka.py
 
 publish-all:
+	$(MAKE) clean-dist
 	$(MAKE) publish-pivni-valka
 	$(MAKE) publish-nabidka
+	cp web/* dist/
+
+clean-dist:
+	rm -rf dist/
 
 test-pivni-valka:
 	uv run --dev pytest tests/pivni_valka
