@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Elektronik 743",
+      "description": "4.7% alc., Černý potoka, Session IPA"
+    },
+    {
       "name": "11° JUNO",
       "description": "5% alc., Loutkář, CZ Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "13° Mozaika",
       "description": "5.4% alc., Loutkář, APA"
-    },
-    {
-      "name": "15° New Libeň",
-      "description": "6.4% alc., Kročehlavy/Václav, NEIPA"
     }
   ]
 }
