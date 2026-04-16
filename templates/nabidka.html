@@ -112,8 +112,9 @@
         ambasada: {label: 'PA', color: 'bg-violet-500/15 text-violet-400 border-violet-500/25'},
     };
 
-    const BEERSTREET_URL = 'https://corsproxy.io/?url=' + encodeURIComponent('https://beerstreet.cz/data/beers.json');
-    const AMBASADA_URL = 'https://corsproxy.io/?url=' + encodeURIComponent('https://pivniambasada.cz');
+    const TAP_API = 'https://tap-api.jiri-syrovy.workers.dev/?url=';
+    const BEERSTREET_URL = TAP_API + encodeURIComponent('https://beerstreet.cz/data/beers.json');
+    const AMBASADA_URL = TAP_API + encodeURIComponent('https://pivniambasada.cz');
 
     const $loading = document.getElementById('loading');
     const $error = document.getElementById('error');

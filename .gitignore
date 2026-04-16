@@ -133,3 +133,7 @@ dmypy.json
 
 # databases
 *.sqlite
+
+# Node (Cloudflare Workers)
+node_modules/
+.wrangler/
