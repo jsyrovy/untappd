@@ -1,14 +1,13 @@
 from dataclasses import dataclass
 from typing import TYPE_CHECKING
 
-from untappd_pairing.normalize import normalize_for_compare
+from untappd_pairing.normalize import clean_beer_name, clean_brewery_name, normalize_for_compare
 
 if TYPE_CHECKING:
     from untappd_pairing.untappd_search import UntappdCandidate
 
-MATCH_THRESHOLD = 0.70
-BREWERY_BONUS = 0.15
-TIE_BREAKER_DELTA = 0.02
+NAME_OVERLAP_WITH_BREWERY = 0.50
+NAME_OVERLAP_WITHOUT_BREWERY = 0.85
 BIGRAM_MIN_LEN = 2
 
 
@@ -16,6 +15,7 @@ BIGRAM_MIN_LEN = 2
 class MatchResult:
     candidate: UntappdCandidate
     score: float
+    brewery_matched: bool = False
 
 
 def _bigrams(text: str) -> set[str]:
@@ -25,48 +25,54 @@ def _bigrams(text: str) -> set[str]:
     return {normalized[i : i + 2] for i in range(len(normalized) - 1)}
 
 
-def _jaccard(a: str, b: str) -> float:
-    bigrams_a = _bigrams(a)
-    bigrams_b = _bigrams(b)
+def name_overlap(beer_name: str, candidate_name: str) -> float:
+    bigrams_a = _bigrams(clean_beer_name(beer_name))
+    bigrams_b = _bigrams(candidate_name)
     if not bigrams_a or not bigrams_b:
         return 0.0
-    intersection = bigrams_a & bigrams_b
-    union = bigrams_a | bigrams_b
-    return len(intersection) / len(union)
+    return len(bigrams_a & bigrams_b) / min(len(bigrams_a), len(bigrams_b))
 
 
-def _brewery_tokens_subset(beer_brewery: str, candidate_brewery: str) -> bool:
-    beer_tokens = set(normalize_for_compare(beer_brewery).split())
-    candidate_tokens = set(normalize_for_compare(candidate_brewery).split())
+def brewery_matches(beer_brewery: str, candidate_brewery: str) -> bool:
+    beer_tokens = set(normalize_for_compare(clean_brewery_name(beer_brewery)).split())
+    candidate_tokens = set(normalize_for_compare(clean_brewery_name(candidate_brewery)).split())
     if not beer_tokens or not candidate_tokens:
         return False
     return beer_tokens.issubset(candidate_tokens)
 
 
-def score_candidate(beer_name: str, beer_brewery: str, candidate: UntappdCandidate) -> float:
-    base = _jaccard(beer_name, candidate.name)
-    if _brewery_tokens_subset(beer_brewery, candidate.brewery):
-        base += BREWERY_BONUS
-    return min(base, 1.0)
+def _exact_normalized(beer_name: str, candidate_name: str) -> int:
+    return int(normalize_for_compare(beer_name) == normalize_for_compare(candidate_name))
 
 
 def best_match(beer_name: str, beer_brewery: str, candidates: list[UntappdCandidate]) -> MatchResult | None:
     if not candidates:
         return None
 
-    scored = [(score_candidate(beer_name, beer_brewery, c), c) for c in candidates]
-    scored.sort(key=lambda pair: (pair[0], pair[1].rating or 0.0), reverse=True)
+    scored = [
+        (
+            name_overlap(beer_name, c.name),
+            _exact_normalized(beer_name, c.name),
+            brewery_matches(beer_brewery, c.brewery),
+            c,
+        )
+        for c in candidates
+    ]
 
-    top_score, top_candidate = scored[0]
-    if top_score < MATCH_THRESHOLD:
-        return None
+    def _sort_key(entry: tuple[float, int, bool, UntappdCandidate]) -> tuple[float, int, float]:
+        overlap, exact, _matched, candidate = entry
+        return (overlap, exact, candidate.rating or 0.0)
 
-    if len(scored) > 1:
-        second_score, second_candidate = scored[1]
-        if top_score - second_score < TIE_BREAKER_DELTA and (second_candidate.rating or 0.0) > (
-            top_candidate.rating or 0.0
-        ):
-            top_candidate = second_candidate
-            top_score = second_score
+    brewery_hits = [t for t in scored if t[2] and t[0] >= NAME_OVERLAP_WITH_BREWERY]
+    if brewery_hits:
+        brewery_hits.sort(key=_sort_key, reverse=True)
+        overlap, _exact, _matched, candidate = brewery_hits[0]
+        return MatchResult(candidate=candidate, score=round(overlap, 4), brewery_matched=True)
 
-    return MatchResult(candidate=top_candidate, score=round(top_score, 4))
+    strict_hits = [t for t in scored if not t[2] and t[0] >= NAME_OVERLAP_WITHOUT_BREWERY]
+    if strict_hits:
+        strict_hits.sort(key=_sort_key, reverse=True)
+        overlap, _exact, _matched, candidate = strict_hits[0]
+        return MatchResult(candidate=candidate, score=round(overlap, 4), brewery_matched=False)
+
+    return None

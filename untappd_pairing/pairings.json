@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-17T10:39:33Z",
+  "generated_at": "2026-04-17T11:21:24Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -8,35 +8,53 @@
       "untappd_brewery": "Beskydský pivovárek",
       "rating": 3.535,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:39:07Z",
-      "query_used": "Denali Beskydský Pivovárek, Ostravice"
+      "matched_at": "2026-04-17T11:21:20Z",
+      "query_used": "Denali Beskydský Pivovárek"
     },
     "ambasada::Haksna, Ostrava::Forest IPA": {
-      "untappd_url": "https://untappd.com/b/volinskiy-brovar-forest-ipa/2924065",
+      "untappd_url": "https://untappd.com/b/haksna-brewery-forest-ipa/6607940",
       "untappd_name": "Forest IPA",
-      "untappd_brewery": "Волинський бровар",
-      "rating": 3.41,
+      "untappd_brewery": "Haksna Brewery",
+      "rating": 3.734,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:39:02Z",
-      "query_used": "Forest IPA"
+      "matched_at": "2026-04-17T11:21:18Z",
+      "query_used": "Forest IPA Haksna"
+    },
+    "ambasada::JungBerg, Hořice::PP (Pořádné Pivo)": {
+      "untappd_url": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180",
+      "untappd_name": "PP 12%",
+      "untappd_brewery": "Pivovar JungBerg",
+      "rating": 3.436,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T11:21:02Z",
+      "query_used": "PP JungBerg"
     },
     "ambasada::Louka::Fresh Breakfast": {
       "untappd_url": "https://untappd.com/b/pivovar-louka-fresh-breakfast-002/5404372",
       "untappd_name": "Fresh Breakfast #002",
       "untappd_brewery": "Pivovar Louka",
       "rating": 3.865,
-      "match_score": 0.9,
-      "matched_at": "2026-04-17T10:38:54Z",
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T11:21:18Z",
       "query_used": "Fresh Breakfast Louka"
+    },
+    "ambasada::Maisel, Bayreuth, Bavorsko::Maisels Weisse": {
+      "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-bajuwarus/1739361",
+      "untappd_name": "Maisel's Weisse Bajuwarus",
+      "untappd_brewery": "Brauerei Gebr. Maisel",
+      "rating": 3.601,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T11:21:14Z",
+      "query_used": "Maisels Weisse Maisel"
     },
     "ambasada::Mordýř, Dolní Ředice::Mordýř": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306",
       "untappd_name": "Mordýř 11",
       "untappd_brewery": "Pivovar Mordýř",
       "rating": 3.365,
-      "match_score": 0.7143,
-      "matched_at": "2026-04-17T10:38:41Z",
-      "query_used": "Mordýř Mordýř, Dolní Ředice"
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T11:21:07Z",
+      "query_used": "Mordýř Mordýř"
     },
     "ambasada::Sibeeria, Praha::Grapefruit Lollihop": {
       "untappd_url": "https://untappd.com/b/sibeeria-brewery-grapefruit-lollihop/2620360",
@@ -44,8 +62,8 @@
       "untappd_brewery": "Sibeeria Brewery",
       "rating": 3.74,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:38:43Z",
-      "query_used": "Grapefruit Lollihop"
+      "matched_at": "2026-04-17T11:21:12Z",
+      "query_used": "Grapefruit Lollihop Sibeeria"
     },
     "ambasada::Wild Creatures, Mikulov::Tears of St Laurent (2020)": {
       "untappd_url": "https://untappd.com/b/wild-creatures-tears-of-st-laurent-2020/5776418",
@@ -53,35 +71,44 @@
       "untappd_brewery": "Wild Creatures",
       "rating": 4.02,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:39:13Z",
-      "query_used": "Tears of St Laurent"
+      "matched_at": "2026-04-17T11:21:24Z",
+      "query_used": "Tears of St Laurent Wild Creatures"
     },
     "beerstreet::Klenot::Kazbek": {
       "untappd_url": "https://untappd.com/b/hradecky-klenot-kazbek-11/2344577",
       "untappd_name": "Kazbek 11",
       "untappd_brewery": "Hradecký Klenot",
       "rating": 3.381,
-      "match_score": 0.8643,
-      "matched_at": "2026-04-17T10:38:16Z",
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "Kazbek Klenot"
     },
     "beerstreet::Loutkář::JUNO": {
-      "untappd_url": "https://untappd.com/b/copper-bottom-brewing-juno/4411929",
-      "untappd_name": "Juno",
-      "untappd_brewery": "Copper Bottom Brewing",
-      "rating": 3.883,
+      "untappd_url": "https://untappd.com/b/pivovar-loutkar-juno-11-czech-ale/6671370",
+      "untappd_name": "Juno 11 Czech Ale",
+      "untappd_brewery": "Pivovar Loutkář",
+      "rating": null,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:38:21Z",
-      "query_used": "JUNO"
+      "matched_at": "2026-04-17T11:20:46Z",
+      "query_used": "JUNO Loutkář"
     },
     "beerstreet::Loutkář::Mozaika": {
-      "untappd_url": "https://untappd.com/b/browar-cztery-sciany-four-walls-brewery-mozaika/5607320",
-      "untappd_name": "MOZAIKA",
-      "untappd_brewery": "Browar Cztery Ściany / Four Walls Brewery",
-      "rating": 3.667,
+      "untappd_url": "https://untappd.com/b/pivovar-loutkar-mozaika-13-single-hop/4242113",
+      "untappd_name": "Mozaika 13 Single Hop",
+      "untappd_brewery": "Pivovar Loutkář",
+      "rating": 3.79,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:38:26Z",
-      "query_used": "Mozaika"
+      "matched_at": "2026-04-17T11:20:50Z",
+      "query_used": "Mozaika Loutkář"
+    },
+    "beerstreet::Loutkář::Velikonoční": {
+      "untappd_url": "https://untappd.com/b/pivovar-loutkar-velikonocni-lezak-12-a-pul/5766556",
+      "untappd_name": "Velikonoční Ležák 12 A Půl",
+      "untappd_brewery": "Pivovar Loutkář",
+      "rating": 3.614,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T11:20:46Z",
+      "query_used": "Velikonoční Loutkář"
     },
     "beerstreet::Černý potoka::Elektronik 743": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-elektronik-743/6666618",
@@ -89,7 +116,7 @@
       "untappd_brewery": "černý potoka",
       "rating": 3.944,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:38:28Z",
+      "matched_at": "2026-04-17T11:20:55Z",
       "query_used": "Elektronik 743 Černý potoka"
     },
     "beerstreet::Čestmír::Tropical Sour": {
@@ -98,25 +125,9 @@
       "untappd_brewery": "Pivovar Čestmír",
       "rating": 3.757,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T10:38:31Z",
+      "matched_at": "2026-04-17T11:20:59Z",
       "query_used": "Tropical Sour Čestmír"
     }
   },
-  "unmatched": {
-    "ambasada::JungBerg, Hořice::PP (Pořádné Pivo)": {
-      "attempts": 1,
-      "last_tried_at": "2026-04-17T10:38:39Z",
-      "reason": "no_candidates_above_threshold"
-    },
-    "ambasada::Maisel, Bayreuth, Bavorsko::Maisels Weisse": {
-      "attempts": 1,
-      "last_tried_at": "2026-04-17T10:38:52Z",
-      "reason": "no_candidates_above_threshold"
-    },
-    "beerstreet::Loutkář::Velikonoční": {
-      "attempts": 1,
-      "last_tried_at": "2026-04-17T10:38:11Z",
-      "reason": "no_candidates_above_threshold"
-    }
-  }
+  "unmatched": {}
 }
