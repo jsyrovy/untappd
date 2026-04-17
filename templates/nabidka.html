@@ -113,6 +113,7 @@
     };
 
     const API_BASE = 'https://tap-api.jiri-syrovy.workers.dev';
+    const PAIRINGS_URL = 'pairings.json';
 
     const $loading = document.getElementById('loading');
     const $error = document.getElementById('error');
@@ -159,7 +160,37 @@
         return Array.isArray(data.beers) ? data.beers : [];
     }
 
-    function renderBeers(beers) {
+    async function fetchPairings() {
+        try {
+            const response = await fetch(PAIRINGS_URL);
+            if (!response.ok) return {};
+            const data = await response.json();
+            return (data && typeof data.pairings === 'object') ? data.pairings : {};
+        } catch {
+            return {};
+        }
+    }
+
+    function pairingKey(beer) {
+        return `${beer.source}::${beer.brewery}::${beer.name}`;
+    }
+
+    function formatRating(rating) {
+        return rating.toFixed(1).replace('.', ',');
+    }
+
+    function renderRatingHtml(pairing) {
+        if (!pairing || !pairing.untappd_url) return '';
+        const url = esc(pairing.untappd_url);
+        const rating = pairing.rating > 0
+            ? `<span class="text-amber">${esc(formatRating(pairing.rating))}</span>`
+            : '<span class="text-zinc-400 dark:text-chalk/40">–</span>';
+        return `<a href="${url}" target="_blank" rel="noopener" class="inline-flex items-center gap-1 text-[10px] bg-amber/10 border border-amber/25 rounded px-1.5 py-px hover:bg-amber/20 transition-colors" title="Otevřít na Untappd" onclick="event.stopPropagation()">
+                    <span class="text-amber/80">★</span>${rating}
+                </a>`;
+    }
+
+    function renderBeers(beers, pairings) {
         $container.innerHTML = '';
         const fragment = document.createDocumentFragment();
 
@@ -171,6 +202,7 @@
             const abvText = beer.abv != null ? esc(formatAbv(beer.abv)) : '';
             const degreeText = beer.degreePlato != null ? esc(String(beer.degreePlato)) : '';
             const pricingHtml = renderPricingHtml(beer.pricing);
+            const ratingHtml = renderRatingHtml(pairings[pairingKey(beer)]);
 
             const card = document.createElement('div');
             card.className = 'beer-card bg-white dark:bg-slate-light border border-zinc-200 dark:border-slate-mid rounded-lg p-3 flex flex-col';
@@ -181,7 +213,10 @@
                     <h2 class="font-display text-lg text-zinc-900 dark:text-chalk leading-snug min-w-0">
                         ${degreeText ? `<span class="text-amber">${degreeText}°</span> ` : ''}${name}
                     </h2>
-                    <span class="shrink-0 text-[10px] font-medium ${src.color} border rounded px-1.5 py-px mt-1">${src.label}</span>
+                    <div class="shrink-0 flex items-start gap-1 mt-1">
+                        ${ratingHtml}
+                        <span class="text-[10px] font-medium ${src.color} border rounded px-1.5 py-px">${src.label}</span>
+                    </div>
                 </div>
                 ${brewery ? `<p class="text-zinc-500 dark:text-chalk/50 text-xs truncate mb-1.5">${brewery}</p>` : ''}
                 <div class="flex flex-wrap gap-1 mb-2">
@@ -198,6 +233,7 @@
     }
 
     let allBeers = [];
+    let pairings = {};
     let activeFilter = 'all';
 
     function filterFromHash() {
@@ -230,13 +266,15 @@
         $grid.classList.add('hidden');
         $warning.classList.add('hidden');
 
-        const [bsResult, paResult] = await Promise.allSettled([
+        const [bsResult, paResult, pairingsResult] = await Promise.allSettled([
             fetchMenu('/beerstreet'),
             fetchMenu('/ambasada'),
+            fetchPairings(),
         ]);
 
         const bsBeers = bsResult.status === 'fulfilled' ? bsResult.value : [];
         const paBeers = paResult.status === 'fulfilled' ? paResult.value : [];
+        pairings = pairingsResult.status === 'fulfilled' ? pairingsResult.value : {};
 
         allBeers = [...bsBeers, ...paBeers];
 
@@ -257,7 +295,7 @@
         $loading.classList.add('hidden');
         $grid.classList.remove('hidden');
 
-        renderBeers(allBeers);
+        renderBeers(allBeers, pairings);
         setFilter(filterFromHash());
 
         const now = new Date();
