@@ -112,9 +112,7 @@
         ambasada: {label: 'PA', color: 'bg-violet-500/15 text-violet-400 border-violet-500/25'},
     };
 
-    const TAP_API = 'https://tap-api.jiri-syrovy.workers.dev/?url=';
-    const BEERSTREET_URL = TAP_API + encodeURIComponent('https://beerstreet.cz/data/beers.json');
-    const AMBASADA_URL = TAP_API + encodeURIComponent('https://pivniambasada.cz');
+    const API_BASE = 'https://tap-api.jiri-syrovy.workers.dev';
 
     const $loading = document.getElementById('loading');
     const $error = document.getElementById('error');
@@ -126,159 +124,39 @@
     const $updateTime = document.getElementById('update-time');
     const $filterBtns = document.querySelectorAll('.filter-btn');
 
-    function renderPriceHtml(mainPrice, leftLabel) {
+    function formatVolume(liters) {
+        return String(liters).replace('.', ',') + ' l';
+    }
+
+    function formatAbv(abv) {
+        return abv.toFixed(1).replace('.', ',');
+    }
+
+    function renderPricingHtml(pricing) {
+        if (!pricing) return '';
+        let leftLabel = null;
+        if (pricing.reference) {
+            leftLabel = `${formatVolume(pricing.reference.volumeLiters)} / ${pricing.reference.priceCzk} Kč`;
+        } else if (pricing.secondary) {
+            leftLabel = `${formatVolume(pricing.secondary.volumeLiters)} / ${pricing.secondary.priceCzk} Kč`;
+        }
+        const mainPrice = esc(String(pricing.halfLiterCzk));
         if (leftLabel) {
             return `<div class="flex items-baseline justify-between">
                         <p class="text-zinc-400 dark:text-chalk/40 text-xs">${esc(leftLabel)}</p>
-                        <p class="price-pulse font-display text-2xl text-amber">${esc(String(mainPrice))} <span class="text-sm text-amber/70">Kč</span></p>
+                        <p class="price-pulse font-display text-2xl text-amber">${mainPrice} <span class="text-sm text-amber/70">Kč</span></p>
                     </div>`;
         }
         return `<div class="flex items-baseline justify-end">
-                    <p class="font-display text-2xl text-amber">${esc(String(mainPrice))} <span class="text-sm text-amber/70">Kč</span></p>
+                    <p class="font-display text-2xl text-amber">${mainPrice} <span class="text-sm text-amber/70">Kč</span></p>
                 </div>`;
     }
 
-    function calculatePullitrPrice(beer) {
-        const cena04 = parseFloat(beer.cena04);
-        if (!isNaN(cena04) && cena04 > 0) {
-            return {price: Math.round(cena04 / 4 * 5), originalPrice: cena04, originalVolume: '0,4 l'};
-        }
-        const cena03 = parseFloat(beer.cena03);
-        if (!isNaN(cena03) && cena03 > 0) {
-            return {price: Math.round(cena03 / 3 * 5), originalPrice: cena03, originalVolume: '0,3 l'};
-        }
-        return null;
-    }
-
-    async function fetchBeerStreet() {
-        const response = await fetch(BEERSTREET_URL);
+    async function fetchMenu(path) {
+        const response = await fetch(`${API_BASE}${path}`);
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
-        const sorted = [...(data.beers || [])].sort((a, b) => Number(a.poradi) - Number(b.poradi));
-
-        return sorted.map(beer => {
-            const priceData = calculatePullitrPrice(beer);
-            let priceHtml = '';
-            if (priceData) {
-                priceHtml = renderPriceHtml(priceData.price, `${priceData.originalVolume} / ${priceData.originalPrice} Kč`);
-            }
-
-            return {
-                name: String(beer.nazev || '').trim(),
-                brewery: String(beer.nazev_pivovaru || '').trim(),
-                style: String(beer.styl || '').trim(),
-                abv: String(beer.avb || '').trim(),
-                degree: String(beer.epm || '').trim(),
-                priceHtml,
-                source: 'beerstreet',
-            };
-        });
-    }
-
-    function parsePrice(priceRaw, description) {
-        if (!priceRaw) return null;
-        if (priceRaw.includes('|')) {
-            const [big, small] = priceRaw.split('|').map(p => parseInt(p.trim(), 10));
-            if (isNaN(big) || isNaN(small)) return null;
-            return {price05: big, price03: small};
-        }
-        const price = parseInt(priceRaw, 10);
-        if (isNaN(price) || price <= 0) return null;
-        const volMatch = description && description.match(/([\d,]+)\s*l\s*$/);
-        if (volMatch) {
-            const volume = parseFloat(volMatch[1].replace(',', '.'));
-            if (isNaN(volume) || volume <= 0) return {singlePrice: price};
-            const price05 = Math.round(price / volume * 0.5);
-            const volLabel = volMatch[1].replace('.', ',') + ' l';
-            return {price05, originalPrice: price, originalVolume: volLabel};
-        }
-        return {singlePrice: price};
-    }
-
-    function parseDescription(desc) {
-        const result = {abv: '', brewery: '', style: ''};
-        if (!desc) return result;
-        const abvMatch = desc.match(/^([\d,]+)%\s*alc\.\s*/);
-        if (abvMatch) {
-            result.abv = abvMatch[1].replace(',', '.');
-            desc = desc.slice(abvMatch[0].length);
-        }
-        if (desc.startsWith('piv. ')) desc = desc.slice(5);
-        const parts = desc.split(',').map(p => p.trim());
-        const lastPart = parts[parts.length - 1];
-        if (parts.length > 1 && lastPart.length <= 40 && desc.length <= 120) {
-            result.style = lastPart;
-            result.brewery = parts.slice(0, -1).join(', ');
-        } else if (desc.length > 120) {
-            result.brewery = parts.slice(0, 2).join(', ');
-        } else {
-            result.brewery = desc;
-        }
-        return result;
-    }
-
-    function parseBeersFromHtml(html) {
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
-        const table = doc.querySelector('table.listek_tab');
-        if (!table) return [];
-        const rows = table.querySelectorAll('tr');
-        const beers = [];
-        let currentName = null;
-        let currentPrice = null;
-        for (const row of rows) {
-            if (row.querySelector('td.listek_tab_nadpis')) break;
-            const nameCell = row.querySelector('td.listek_tab_nazev');
-            if (nameCell) {
-                currentName = nameCell.textContent.trim();
-                const priceCell = row.querySelector('td.listek_tab_cena');
-                currentPrice = priceCell ? priceCell.textContent.trim() : null;
-                continue;
-            }
-            const descCell = row.querySelector('td.listek_tab_popis');
-            if (descCell && currentName) {
-                beers.push({name: currentName, description: descCell.textContent.trim(), priceRaw: currentPrice});
-                currentName = null;
-                currentPrice = null;
-            }
-        }
-        return beers;
-    }
-
-    async function fetchAmbasada() {
-        const response = await fetch(AMBASADA_URL);
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const html = await response.text();
-        const rawBeers = parseBeersFromHtml(html);
-
-        return rawBeers.map(beer => {
-            const parsed = parseDescription(beer.description);
-            const priceData = parsePrice(beer.priceRaw, beer.description);
-
-            const degreeMatch = beer.name.match(/^(\d+)°\s*/);
-            const degree = degreeMatch ? degreeMatch[1] : '';
-            const nameClean = degreeMatch ? beer.name.slice(degreeMatch[0].length) : beer.name;
-
-            let priceHtml = '';
-            if (priceData && priceData.price05 != null) {
-                const leftLabel = priceData.price03
-                    ? `0,3 l / ${priceData.price03} Kč`
-                    : `${priceData.originalVolume} / ${priceData.originalPrice} Kč`;
-                priceHtml = renderPriceHtml(priceData.price05, leftLabel);
-            } else if (priceData && priceData.singlePrice) {
-                priceHtml = renderPriceHtml(priceData.singlePrice, null);
-            }
-
-            return {
-                name: nameClean,
-                brewery: parsed.brewery,
-                style: parsed.style,
-                abv: parsed.abv,
-                degree,
-                priceHtml,
-                source: 'ambasada',
-            };
-        });
+        return Array.isArray(data.beers) ? data.beers : [];
     }
 
     function renderBeers(beers) {
@@ -290,8 +168,9 @@
             const name = esc(beer.name);
             const brewery = esc(beer.brewery);
             const style = esc(beer.style);
-            const abv = esc(beer.abv);
-            const degree = esc(beer.degree);
+            const abvText = beer.abv != null ? esc(formatAbv(beer.abv)) : '';
+            const degreeText = beer.degreePlato != null ? esc(String(beer.degreePlato)) : '';
+            const pricingHtml = renderPricingHtml(beer.pricing);
 
             const card = document.createElement('div');
             card.className = 'beer-card bg-white dark:bg-slate-light border border-zinc-200 dark:border-slate-mid rounded-lg p-3 flex flex-col';
@@ -300,16 +179,16 @@
             card.innerHTML = `
                 <div class="flex items-start justify-between gap-2 mb-1">
                     <h2 class="font-display text-lg text-zinc-900 dark:text-chalk leading-snug min-w-0">
-                        ${degree ? `<span class="text-amber">${degree}°</span> ` : ''}${name}
+                        ${degreeText ? `<span class="text-amber">${degreeText}°</span> ` : ''}${name}
                     </h2>
                     <span class="shrink-0 text-[10px] font-medium ${src.color} border rounded px-1.5 py-px mt-1">${src.label}</span>
                 </div>
                 ${brewery ? `<p class="text-zinc-500 dark:text-chalk/50 text-xs truncate mb-1.5">${brewery}</p>` : ''}
                 <div class="flex flex-wrap gap-1 mb-2">
                     ${style ? `<span class="text-[10px] bg-amber/10 text-amber-light border border-amber/20 rounded-full px-2 py-px">${style}</span>` : ''}
-                    ${abv ? `<span class="text-[10px] bg-zinc-100 dark:bg-chalk/5 text-zinc-500 dark:text-chalk/60 border border-zinc-200 dark:border-slate-mid rounded-full px-2 py-px">${abv}%</span>` : ''}
+                    ${abvText ? `<span class="text-[10px] bg-zinc-100 dark:bg-chalk/5 text-zinc-500 dark:text-chalk/60 border border-zinc-200 dark:border-slate-mid rounded-full px-2 py-px">${abvText}%</span>` : ''}
                 </div>
-                ${beer.priceHtml ? `<div class="mt-auto pt-2 border-t border-zinc-200 dark:border-slate-mid/50">${beer.priceHtml}</div>` : ''}
+                ${pricingHtml ? `<div class="mt-auto pt-2 border-t border-zinc-200 dark:border-slate-mid/50">${pricingHtml}</div>` : ''}
             `;
 
             fragment.appendChild(card);
@@ -351,7 +230,10 @@
         $grid.classList.add('hidden');
         $warning.classList.add('hidden');
 
-        const [bsResult, paResult] = await Promise.allSettled([fetchBeerStreet(), fetchAmbasada()]);
+        const [bsResult, paResult] = await Promise.allSettled([
+            fetchMenu('/beerstreet'),
+            fetchMenu('/ambasada'),
+        ]);
 
         const bsBeers = bsResult.status === 'fulfilled' ? bsResult.value : [];
         const paBeers = paResult.status === 'fulfilled' ? paResult.value : [];

@@ -1,9 +1,17 @@
-const ALLOWED_ORIGINS = ["https://pivo.jsyrovy.cz"];
-const ALLOWED_TARGETS = ["beerstreet.cz", "pivniambasada.cz"];
+import { corsHeaders, handlePreflight, isAllowedOrigin } from "./cors";
+import { fetchBeerStreetMenu } from "./sources/beerstreet";
+import { fetchAmbasadaMenu } from "./sources/ambasada";
+import type { MenuResponse, Source } from "./schema";
+
+type MenuFetcher = () => Promise<MenuResponse>;
+
+const ROUTES: Record<string, { source: Source; fetcher: MenuFetcher }> = {
+  "/beerstreet": { source: "beerstreet", fetcher: fetchBeerStreetMenu },
+  "/ambasada": { source: "ambasada", fetcher: fetchAmbasadaMenu },
+};
 
 export default {
-  async fetch(request: Request, env: Env): Promise<Response> {
-    // Preflight (OPTIONS)
+  async fetch(request: Request): Promise<Response> {
     if (request.method === "OPTIONS") {
       return handlePreflight(request);
     }
@@ -12,60 +20,33 @@ export default {
       return new Response("Method not allowed", { status: 405 });
     }
 
-    // Origin check
-    const origin = request.headers.get("Origin") || "";
-    if (!ALLOWED_ORIGINS.includes(origin)) {
+    const origin = request.headers.get("Origin") ?? "";
+    if (!isAllowedOrigin(origin)) {
       return new Response("Forbidden", { status: 403 });
     }
 
-    // Parse target URL
-    const { searchParams } = new URL(request.url);
-    const targetUrl = searchParams.get("url");
-    if (!targetUrl) {
-      return new Response("Missing ?url= parameter", { status: 400 });
+    const { pathname } = new URL(request.url);
+    const route = ROUTES[pathname];
+    if (!route) {
+      return json({ error: "not_found" }, 404, origin);
     }
 
-    // Validate target domain
-    let parsed: URL;
     try {
-      parsed = new URL(targetUrl);
-    } catch {
-      return new Response("Invalid URL", { status: 400 });
+      const menu = await route.fetcher();
+      return json(menu, 200, origin);
+    } catch (error) {
+      console.error(`upstream_failed source=${route.source}`, error);
+      return json({ error: "upstream_failed", source: route.source }, 502, origin);
     }
-    if (!ALLOWED_TARGETS.some((d) => parsed.hostname === d || parsed.hostname.endsWith("." + d))) {
-      return new Response("Target domain not allowed", { status: 403 });
-    }
-
-    // Proxy the request
-    const response = await fetch(targetUrl, {
-      headers: { "User-Agent": "tap-api/1.0" },
-    });
-
-    // Return with CORS headers
-    const headers = new Headers(response.headers);
-    headers.set("Access-Control-Allow-Origin", origin);
-    headers.set("Access-Control-Allow-Methods", "GET, OPTIONS");
-    headers.set("Access-Control-Allow-Headers", "Content-Type");
-
-    return new Response(response.body, {
-      status: response.status,
-      headers,
-    });
   },
-};
+} satisfies ExportedHandler;
 
-function handlePreflight(request: Request): Response {
-  const origin = request.headers.get("Origin") || "";
-  if (!ALLOWED_ORIGINS.includes(origin)) {
-    return new Response("Forbidden", { status: 403 });
-  }
-  return new Response(null, {
-    status: 204,
+function json(body: unknown, status: number, origin: string): Response {
+  return new Response(JSON.stringify(body), {
+    status,
     headers: {
-      "Access-Control-Allow-Origin": origin,
-      "Access-Control-Allow-Methods": "GET, OPTIONS",
-      "Access-Control-Allow-Headers": "Content-Type",
-      "Access-Control-Max-Age": "86400",
+      "Content-Type": "application/json; charset=utf-8",
+      ...corsHeaders(origin),
     },
   });
 }
