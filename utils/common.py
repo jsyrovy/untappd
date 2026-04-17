@@ -21,10 +21,12 @@ def get_random_user_agent() -> str:
     return random.choice(USER_AGENTS)
 
 
-def download_page(url: str) -> str:
+def download_page(url: str, extra_headers: dict[str, str] | None = None, timeout: float = TIMEOUT) -> str:
     headers = {"User-Agent": get_random_user_agent()}
+    if extra_headers:
+        headers.update(extra_headers)
 
-    with httpx.Client(http2=True, headers=headers) as client:
+    with httpx.Client(http2=True, headers=headers, timeout=timeout) as client:
         r = client.get(url)
 
     r.raise_for_status()

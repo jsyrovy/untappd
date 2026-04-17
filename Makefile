@@ -24,6 +24,7 @@ publish-all:
 	$(MAKE) publish-pivni-valka
 	$(MAKE) publish-nabidka
 	cp web/* dist/
+	cp untappd_pairing/pairings.json dist/nabidka/pairings.json
 
 clean-dist:
 	rm -rf dist/
@@ -42,6 +43,12 @@ run-notifier-ambasada:
 
 run-archivist:
 	uv run --no-dev run_archivist.py
+
+run-untappd-pairing:
+	uv run --no-dev run_untappd_pairing.py
+
+run-untappd-pairing-local:
+	uv run --no-dev run_untappd_pairing.py --local
 
 mypy:
 	uv run --dev -m mypy --ignore-missing-imports --strict  --exclude tests .
