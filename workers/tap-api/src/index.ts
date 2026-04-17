@@ -1,6 +1,5 @@
 import { corsHeaders, handlePreflight, isAllowedOrigin } from "./cors";
-import { fetchBeerStreetMenu } from "./sources/beerstreet";
-import { fetchAmbasadaMenu } from "./sources/ambasada";
+import { fetchAmbasadaMenu, fetchBeerStreetMenu } from "./sources";
 import type { MenuResponse, Source } from "./schema";
 
 type MenuFetcher = () => Promise<MenuResponse>;

@@ -25,9 +25,7 @@ export function parseBeerStreetJson(raw: unknown): Beer[] {
     throw new TypeError("Beer Street payload missing `beers` array");
   }
 
-  const items = payload.beers.filter(isObject) as RawBeer[];
-
-  const sorted = [...items].sort((a, b) => {
+  const items = (payload.beers.filter(isObject) as RawBeer[]).sort((a, b) => {
     const oa = toOrder(a.poradi);
     const ob = toOrder(b.poradi);
     if (oa === null && ob === null) return 0;
@@ -36,7 +34,7 @@ export function parseBeerStreetJson(raw: unknown): Beer[] {
     return oa - ob;
   });
 
-  return sorted.map((item): Beer => ({
+  return items.map((item): Beer => ({
     name: trimString(item.nazev),
     brewery: trimString(item.nazev_pivovaru),
     style: trimString(item.styl),

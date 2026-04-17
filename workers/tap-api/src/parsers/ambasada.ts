@@ -7,17 +7,38 @@ interface PendingRow {
   description?: string;
 }
 
+type CellHandler = {
+  element: (el: Element) => void;
+  text: (t: Text) => void;
+};
+
+function captureCell(
+  isSkipped: () => boolean,
+  onClose: (text: string) => void,
+): CellHandler {
+  let buffer = "";
+  let active = false;
+  return {
+    element(el) {
+      if (isSkipped()) return;
+      buffer = "";
+      active = true;
+      el.onEndTag(() => {
+        onClose(buffer.trim());
+        active = false;
+      });
+    },
+    text(t) {
+      if (active) buffer += t.text;
+    },
+  };
+}
+
 export async function parseAmbasadaHtml(response: Response): Promise<Beer[]> {
   const beers: Beer[] = [];
   let tableEnded = false;
   let pending: PendingRow = {};
-
-  let nazevBuf = "";
-  let cenaBuf = "";
-  let popisBuf = "";
-  let inNazev = false;
-  let inCena = false;
-  let inPopis = false;
+  const isSkipped = () => tableEnded;
 
   const rewriter = new HTMLRewriter()
     .on("table.listek_tab td.listek_tab_nadpis", {
@@ -25,52 +46,28 @@ export async function parseAmbasadaHtml(response: Response): Promise<Beer[]> {
         tableEnded = true;
       },
     })
-    .on("table.listek_tab td.listek_tab_nazev", {
-      element(el) {
-        if (tableEnded) return;
-        nazevBuf = "";
-        inNazev = true;
-        el.onEndTag(() => {
-          pending.name = nazevBuf.trim();
-          inNazev = false;
-        });
-      },
-      text(t) {
-        if (inNazev) nazevBuf += t.text;
-      },
-    })
-    .on("table.listek_tab td.listek_tab_cena", {
-      element(el) {
-        if (tableEnded) return;
-        cenaBuf = "";
-        inCena = true;
-        el.onEndTag(() => {
-          pending.priceRaw = cenaBuf.trim();
-          inCena = false;
-        });
-      },
-      text(t) {
-        if (inCena) cenaBuf += t.text;
-      },
-    })
-    .on("table.listek_tab td.listek_tab_popis", {
-      element(el) {
-        if (tableEnded) return;
-        popisBuf = "";
-        inPopis = true;
-        el.onEndTag(() => {
-          inPopis = false;
-          if (!pending.name) return;
-          pending.description = popisBuf.trim();
-          const beer = buildBeer(pending, beers.length + 1);
-          if (beer) beers.push(beer);
-          pending = {};
-        });
-      },
-      text(t) {
-        if (inPopis) popisBuf += t.text;
-      },
-    });
+    .on(
+      "table.listek_tab td.listek_tab_nazev",
+      captureCell(isSkipped, (text) => {
+        pending.name = text;
+      }),
+    )
+    .on(
+      "table.listek_tab td.listek_tab_cena",
+      captureCell(isSkipped, (text) => {
+        pending.priceRaw = text;
+      }),
+    )
+    .on(
+      "table.listek_tab td.listek_tab_popis",
+      captureCell(isSkipped, (text) => {
+        if (!pending.name) return;
+        pending.description = text;
+        const beer = buildBeer(pending, beers.length + 1);
+        if (beer) beers.push(beer);
+        pending = {};
+      }),
+    );
 
   await rewriter.transform(response).text();
   return beers;
