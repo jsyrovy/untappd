@@ -67,10 +67,20 @@ class PairingsStore:
             return True
         return ((now or _now()) - last_tried) >= RETRY_AFTER
 
-    def select_pending(self, beers: list[TapBeer], now: datetime | None = None) -> list[TapBeer]:
+    def select_pending(
+        self,
+        beers: list[TapBeer],
+        overrides: dict[str, str] | None = None,
+        now: datetime | None = None,
+    ) -> list[TapBeer]:
+        overrides = overrides or {}
         pending: list[TapBeer] = []
         for beer in beers:
             key = beer_key(beer.source, beer.brewery, beer.name)
+            if key in overrides:
+                if self.pairings.get(key, {}).get("untappd_url") != overrides[key]:
+                    pending.append(beer)
+                continue
             if self.is_paired(key):
                 continue
             if not self.should_retry(key, now=now):

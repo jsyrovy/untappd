@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-17T11:21:24Z",
+  "generated_at": "2026-04-17T11:32:20Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -39,13 +39,13 @@
       "query_used": "Fresh Breakfast Louka"
     },
     "ambasada::Maisel, Bayreuth, Bavorsko::Maisels Weisse": {
-      "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-bajuwarus/1739361",
-      "untappd_name": "Maisel's Weisse Bajuwarus",
+      "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642",
+      "untappd_name": "Maisel's Weisse Original",
       "untappd_brewery": "Brauerei Gebr. Maisel",
-      "rating": 3.601,
+      "rating": 3.59774,
       "match_score": 1.0,
-      "matched_at": "2026-04-17T11:21:14Z",
-      "query_used": "Maisels Weisse Maisel"
+      "matched_at": "2026-04-17T11:32:20Z",
+      "query_used": "<override>"
     },
     "ambasada::Mordýř, Dolní Ředice::Mordýř": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306",

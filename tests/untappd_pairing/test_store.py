@@ -43,6 +43,28 @@ def test_save_and_load_roundtrip(tmp_path):
     assert reloaded.pairings == store.pairings
 
 
+def test_select_pending_re_pairs_when_override_url_differs_from_existing():
+    store = PairingsStore()
+    beer = _beer(name="Maisels Weisse")
+    key = beer_key(beer.source, beer.brewery, beer.name)
+    store.pairings[key] = {"untappd_url": "https://untappd.com/b/wrong/1"}
+
+    overrides = {key: "https://untappd.com/b/right/2"}
+    pending = store.select_pending([beer], overrides=overrides)
+
+    assert [b.name for b in pending] == ["Maisels Weisse"]
+
+
+def test_select_pending_skips_overridden_beer_when_already_matched_to_override_url():
+    store = PairingsStore()
+    beer = _beer(name="Maisels Weisse")
+    key = beer_key(beer.source, beer.brewery, beer.name)
+    overrides = {key: "https://untappd.com/b/right/2"}
+    store.pairings[key] = {"untappd_url": overrides[key]}
+
+    assert store.select_pending([beer], overrides=overrides) == []
+
+
 def test_select_pending_skips_paired_beers():
     store = PairingsStore()
     paired = _beer(name="Paired")

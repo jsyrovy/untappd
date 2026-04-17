@@ -59,6 +59,21 @@ def test_parse_handles_zero_rating_as_none():
     assert candidates[0].rating is None
 
 
+def test_parse_beer_page_extracts_name_brewery_and_rating():
+    html = _read_fixture("untappd_beer_page.html")
+    candidate = untappd_search.parse_beer_page(html, "https://untappd.com/b/x/35642")
+
+    assert candidate is not None
+    assert candidate.name == "Maisel's Weisse Original"
+    assert candidate.brewery == "Brauerei Gebr. Maisel"
+    assert candidate.rating == 3.59774
+    assert candidate.url == "https://untappd.com/b/x/35642"
+
+
+def test_parse_beer_page_returns_none_when_required_fields_missing():
+    assert untappd_search.parse_beer_page("<html><body></body></html>", "https://x") is None
+
+
 def test_search_beer_calls_download_page_with_search_url():
     html = _read_fixture("untappd_search_empty.html")
     with (

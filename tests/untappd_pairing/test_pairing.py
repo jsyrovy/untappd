@@ -81,6 +81,66 @@ def test_pairing_records_upstream_error_on_http_failure(tmp_path, monkeypatch):
     assert entry["reason"] == "upstream_error"
 
 
+def test_pairing_uses_override_url_and_fetches_beer_page(tmp_path, monkeypatch):
+    pairings_path = tmp_path / "pairings.json"
+    overrides_path = tmp_path / "overrides.json"
+    monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)
+    monkeypatch.setattr(pairing.overrides_module, "OVERRIDES_PATH", overrides_path)
+
+    beer = _beer("Maisels Weisse", "Maisel, Bayreuth, Bavorsko")
+    overrides_path.write_text(
+        json.dumps({"beerstreet::Maisel, Bayreuth, Bavorsko::Maisels Weisse": "https://untappd.com/b/x/35642"}),
+    )
+
+    fetched = UntappdCandidate(
+        name="Maisel's Weisse Original",
+        brewery="Brauerei Gebr. Maisel",
+        url="https://untappd.com/b/x/35642",
+        rating=3.59774,
+    )
+
+    fetch_mock = mock.Mock(return_value=fetched)
+    search_mock = mock.Mock()
+
+    with (
+        mock.patch.object(pairing.tap_api, "fetch_all_beers", return_value=[beer]),
+        mock.patch.object(pairing.untappd_search, "fetch_beer_page", fetch_mock),
+        mock.patch.object(pairing.untappd_search, "search_beer", search_mock),
+    ):
+        UntappdPairing(args=Args()).run()
+
+    fetch_mock.assert_called_once_with("https://untappd.com/b/x/35642")
+    search_mock.assert_not_called()
+
+    saved = json.loads(pairings_path.read_text())
+    entry = saved["pairings"]["beerstreet::Maisel, Bayreuth, Bavorsko::Maisels Weisse"]
+    assert entry["untappd_url"] == "https://untappd.com/b/x/35642"
+    assert entry["untappd_name"] == "Maisel's Weisse Original"
+    assert entry["query_used"] == pairing.OVERRIDE_QUERY_MARKER
+
+
+def test_pairing_records_unmatched_when_override_page_unparseable(tmp_path, monkeypatch):
+    pairings_path = tmp_path / "pairings.json"
+    overrides_path = tmp_path / "overrides.json"
+    monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)
+    monkeypatch.setattr(pairing.overrides_module, "OVERRIDES_PATH", overrides_path)
+
+    beer = _beer("Maisels Weisse", "Maisel")
+    overrides_path.write_text(
+        json.dumps({"beerstreet::Maisel::Maisels Weisse": "https://untappd.com/b/broken/1"}),
+    )
+
+    with (
+        mock.patch.object(pairing.tap_api, "fetch_all_beers", return_value=[beer]),
+        mock.patch.object(pairing.untappd_search, "fetch_beer_page", return_value=None),
+    ):
+        UntappdPairing(args=Args()).run()
+
+    saved = json.loads(pairings_path.read_text())
+    entry = saved["unmatched"]["beerstreet::Maisel::Maisels Weisse"]
+    assert entry["reason"] == pairing.UNMATCHED_OVERRIDE_PARSE_FAILED
+
+
 def test_pairing_local_mode_skips_network(tmp_path, monkeypatch):
     pairings_path = tmp_path / "pairings.json"
     monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)

@@ -74,3 +74,36 @@ def search_beer(query: str) -> list[UntappdCandidate]:
     logger.debug("Untappd search: %s", query)
     html = common.download_page(url, timeout=SEARCH_TIMEOUT)
     return parse_search_results(html)
+
+
+def parse_beer_page(html: str, url: str) -> UntappdCandidate | None:
+    soup = BeautifulSoup(html, "html.parser")
+    name_el = soup.select_one("div.name h1")
+    brewery_el = soup.select_one("div.name p.brewery a")
+    if name_el is None or brewery_el is None:
+        return None
+
+    rating: float | None = None
+    rating_el = soup.select_one("div.caps[data-rating]")
+    if rating_el is not None:
+        raw = rating_el.get("data-rating")
+        raw_str = raw if isinstance(raw, str) else (raw[0] if raw else "")
+        try:
+            parsed = float(raw_str)
+        except ValueError:
+            parsed = 0.0
+        rating = parsed if parsed > 0 else None
+
+    return UntappdCandidate(
+        name=name_el.get_text(strip=True),
+        brewery=brewery_el.get_text(strip=True),
+        url=url,
+        rating=rating,
+    )
+
+
+def fetch_beer_page(url: str) -> UntappdCandidate | None:
+    common.random_sleep(max_=5)
+    logger.debug("Untappd beer page: %s", url)
+    html = common.download_page(url, timeout=SEARCH_TIMEOUT)
+    return parse_beer_page(html, url)
