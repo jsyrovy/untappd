@@ -25,11 +25,10 @@ def _build_search_url(query: str) -> str:
     return f"{UNTAPPD_BASE_URL}/search?{qs}"
 
 
-def _parse_rating(beer_item: Tag) -> float | None:
-    caps = beer_item.select_one("div.rating div.caps[data-rating]")
-    if caps is None:
+def _extract_rating(caps_el: Tag | None) -> float | None:
+    if caps_el is None:
         return None
-    raw = caps.get("data-rating")
+    raw = caps_el.get("data-rating")
     if not raw:
         return None
     raw_str = raw if isinstance(raw, str) else raw[0]
@@ -54,7 +53,7 @@ def _parse_beer_item(beer_item: Tag) -> UntappdCandidate | None:
         name=name_link.get_text(strip=True),
         brewery=brewery_link.get_text(strip=True),
         url=f"{UNTAPPD_BASE_URL}{href}",
-        rating=_parse_rating(beer_item),
+        rating=_extract_rating(beer_item.select_one("div.rating div.caps[data-rating]")),
     )
 
 
@@ -83,22 +82,11 @@ def parse_beer_page(html: str, url: str) -> UntappdCandidate | None:
     if name_el is None or brewery_el is None:
         return None
 
-    rating: float | None = None
-    rating_el = soup.select_one("div.caps[data-rating]")
-    if rating_el is not None:
-        raw = rating_el.get("data-rating")
-        raw_str = raw if isinstance(raw, str) else (raw[0] if raw else "")
-        try:
-            parsed = float(raw_str)
-        except ValueError:
-            parsed = 0.0
-        rating = parsed if parsed > 0 else None
-
     return UntappdCandidate(
         name=name_el.get_text(strip=True),
         brewery=brewery_el.get_text(strip=True),
         url=url,
-        rating=rating,
+        rating=_extract_rating(soup.select_one("div.caps[data-rating]")),
     )
 
 
