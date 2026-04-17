@@ -1907,6 +1907,13 @@ INSERT INTO "archive" VALUES(1562200302,'2026-04-11 20:14:32.000000','sejrik','E
 INSERT INTO "archive" VALUES(1562501932,'2026-04-12 18:59:32.000000','sejrik','Anežka','Pivovar Clock','Untappd at Home');
 INSERT INTO "archive" VALUES(1562650329,'2026-04-13 19:05:17.000000','sejrik','Balthazar','Pivovar Clock','Untappd at Home');
 INSERT INTO "archive" VALUES(1562668578,'2026-04-13 21:21:11.000000','sejrik','Anežka Ch.','Chroust','Untappd at Home');
+INSERT INTO "archive" VALUES(1563022463,'2026-04-16 16:18:18.000000','sejrik','Kazbek 11','Hradecký Klenot','Beer Street');
+INSERT INTO "archive" VALUES(1563029674,'2026-04-16 16:50:15.000000','sejrik','Juno 11 Czech Ale','Pivovar Loutkář','Beer Street');
+INSERT INTO "archive" VALUES(1563044371,'2026-04-16 17:46:42.000000','sejrik','Elektronik 743','černý potoka','Beer Street');
+INSERT INTO "archive" VALUES(1563059920,'2026-04-16 18:42:31.000000','sejrik','Mozaika 13 Single Hop','Pivovar Loutkář','Beer Street');
+INSERT INTO "archive" VALUES(1563097795,'2026-04-16 21:02:44.000000','sejrik','Forest IPA','Haksna Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1563098057,'2026-04-16 21:03:54.000000','sejrik','Grapefruit Lollihop','Sibeeria Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1563105305,'2026-04-16 21:36:31.000000','sejrik','Tears of St Laurent','Wild Creatures','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
