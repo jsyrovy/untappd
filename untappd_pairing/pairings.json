@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-17T11:32:20Z",
+  "generated_at": "2026-04-17T19:07:47Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -37,6 +37,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:18Z",
       "query_used": "Fresh Breakfast Louka"
+    },
+    "ambasada::Maisel & Friends, Bayreuth::Fusion IPA": {
+      "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-friends-fusion-ipa-lervig/6590478",
+      "untappd_name": "Maisel & Friends Fusion IPA - Lervig",
+      "untappd_brewery": "Brauerei Gebr. Maisel",
+      "rating": 3.935,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T19:07:47Z",
+      "query_used": "Fusion IPA Maisel & Friends"
     },
     "ambasada::Maisel, Bayreuth, Bavorsko::Maisels Weisse": {
       "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-s-weisse-original/35642",
@@ -83,6 +92,15 @@
       "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "Kazbek Klenot"
     },
+    "beerstreet::Kročehlavy::Kladenský ležák": {
+      "untappd_url": "https://untappd.com/b/pivovar-kladno-krocehlavy-kladensky-lezak-12deg/4260740",
+      "untappd_name": "Kladenský ležák 12°",
+      "untappd_brewery": "Pivovar Kladno Kročehlavy",
+      "rating": 3.492,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T19:07:41Z",
+      "query_used": "Kladenský ležák Kročehlavy"
+    },
     "beerstreet::Loutkář::JUNO": {
       "untappd_url": "https://untappd.com/b/pivovar-loutkar-juno-11-czech-ale/6671370",
       "untappd_name": "Juno 11 Czech Ale",
@@ -109,6 +127,24 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "Velikonoční Loutkář"
+    },
+    "beerstreet::Ovipistán::Premiér": {
+      "untappd_url": "https://untappd.com/b/pivovar-ovipistan-premier/3843314",
+      "untappd_name": "Premiér",
+      "untappd_brewery": "Pivovar Ovipistán",
+      "rating": 3.476,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T19:07:45Z",
+      "query_used": "Premiér Ovipistán"
+    },
+    "beerstreet::Sqbru::Vidle": {
+      "untappd_url": "https://untappd.com/b/sqbru-skju-bru-vidle/6607626",
+      "untappd_name": "Vidle",
+      "untappd_brewery": "SQBRU [skjuːbru]",
+      "rating": 3.725,
+      "match_score": 1.0,
+      "matched_at": "2026-04-17T19:07:47Z",
+      "query_used": "Vidle Sqbru"
     },
     "beerstreet::Černý potoka::Elektronik 743": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-elektronik-743/6666618",
