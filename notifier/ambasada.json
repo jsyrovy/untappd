@@ -21,16 +21,16 @@
       "description": "5,8% alc. piv. Louka, Pastry Sour Ale"
     },
     {
-      "name": "15° Forest IPA",
-      "description": "6,8% alc. piv. Haksna, Ostrava, IPA"
-    },
-    {
       "name": "15° Grapefruit Lollihop",
       "description": "6,6% alc. piv. Sibeeria, Praha, West Coast IPA w/ Grapefruit"
     },
     {
       "name": "17° Tears of St Laurent (2020)",
       "description": "9% alc. piv. Wild Creatures, Mikulov, Lahodně jemně perlivé pivní šampaňské s typickým projevem Vavřince. Tóny švestek jdoucí až do povidel. Zcela suché, komplexní a tak dobré! Zahraničními sommeliéry zařazeno do mezinárodní publikace „Among World Best“. Jak je u nás zvykem, zpracováváme místní (naše vlastní) hrozny, 0,25l"
+    },
+    {
+      "name": "18° Fusion IPA",
+      "description": "7,9% alc. piv. Maisel & Friends, Bayreuth, Hazy Double IPA"
     }
   ]
 }
