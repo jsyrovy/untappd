@@ -1,24 +1,24 @@
 {
   "beers": [
     {
-      "name": "11° -",
-      "description": "0% alc., -, -"
+      "name": "-° -",
+      "description": "0% alc., ', -"
     },
     {
       "name": "11° JUNO",
       "description": "5% alc., Loutkář, CZ Ale"
     },
     {
-      "name": "11° Premiér",
-      "description": "4.5% alc., Ovipistán, Ležák světlý"
+      "name": "11° Sůl12 - Chilliout",
+      "description": "4.3% alc., Sqbru, Gose"
+    },
+    {
+      "name": "12° Alora",
+      "description": "5.3% alc., Klenot, Hazy ALE"
     },
     {
       "name": "12° Kladenský ležák",
       "description": "5.2% alc., Kročehlavy, Ležák světlý"
-    },
-    {
-      "name": "12° Tropical Sour",
-      "description": "4.9% alc., Čestmír, Sour"
     },
     {
       "name": "12° Vidle",
