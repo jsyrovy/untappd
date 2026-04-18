@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-17T19:57:32Z",
+  "generated_at": "2026-04-18T19:39:28Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -10,6 +10,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:20Z",
       "query_used": "Denali Beskydský Pivovárek"
+    },
+    "ambasada::Chroust, Potštejn::Třešňový Kompot": {
+      "untappd_url": "https://untappd.com/b/chroust-tresnovy-kompot/6646338",
+      "untappd_name": "Třešňový Kompot",
+      "untappd_brewery": "Chroust",
+      "rating": 3.566,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:23Z",
+      "query_used": "Třešňový Kompot Chroust"
     },
     "ambasada::Haksna, Ostrava::Forest IPA": {
       "untappd_url": "https://untappd.com/b/haksna-brewery-forest-ipa/6607940",
@@ -56,6 +65,15 @@
       "matched_at": "2026-04-17T11:32:20Z",
       "query_used": "<override>"
     },
+    "ambasada::Matuška, Broumy::California": {
+      "untappd_url": "https://untappd.com/b/pivovar-matuska-barrel-aged-cherry-california/4101111",
+      "untappd_name": "Barrel Aged Cherry California",
+      "untappd_brewery": "Pivovar Matuška",
+      "rating": 3.91,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:27Z",
+      "query_used": "California Matuška"
+    },
     "ambasada::Mordýř, Dolní Ředice::Mordýř": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306",
       "untappd_name": "Mordýř 11",
@@ -64,6 +82,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:07Z",
       "query_used": "Mordýř Mordýř"
+    },
+    "ambasada::Mordýř, Dolní Ředice::Sametová": {
+      "untappd_url": "https://untappd.com/b/pivovar-mordyr-sametova-10/1909913",
+      "untappd_name": "Sametová 10",
+      "untappd_brewery": "Pivovar Mordýř",
+      "rating": 3.361,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:21Z",
+      "query_used": "Sametová Mordýř"
     },
     "ambasada::Sibeeria, Praha::Grapefruit Lollihop": {
       "untappd_url": "https://untappd.com/b/sibeeria-brewery-grapefruit-lollihop/2620360",
@@ -74,6 +101,24 @@
       "matched_at": "2026-04-17T11:21:12Z",
       "query_used": "Grapefruit Lollihop Sibeeria"
     },
+    "ambasada::Sibeeria, Praha::Timeless": {
+      "untappd_url": "https://untappd.com/b/sibeeria-brewery-timeless/4299412",
+      "untappd_name": "Timeless",
+      "untappd_brewery": "Sibeeria Brewery",
+      "rating": 3.506,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:23Z",
+      "query_used": "Timeless Sibeeria"
+    },
+    "ambasada::Van Honsebrouck, Ingelmunster, Západní Flandry, višňový Belgian Dark Strong ALE, 0::Kasteel Rouge": {
+      "untappd_url": "https://untappd.com/b/kasteel-brouwerij-vanhonsebrouck-kasteel-rouge/6890",
+      "untappd_name": "Kasteel Rouge",
+      "untappd_brewery": "Kasteel Brouwerij Vanhonsebrouck",
+      "rating": 3.592,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:28Z",
+      "query_used": "Kasteel Rouge Van Honsebrouck"
+    },
     "ambasada::Wild Creatures, Mikulov::Tears of St Laurent (2020)": {
       "untappd_url": "https://untappd.com/b/wild-creatures-tears-of-st-laurent-2020/5776418",
       "untappd_name": "Tears of St Laurent (2020)",
@@ -82,6 +127,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:24Z",
       "query_used": "Tears of St Laurent Wild Creatures"
+    },
+    "beerstreet::Klenot::Alora": {
+      "untappd_url": "https://untappd.com/b/hradecky-klenot-alora-hazy-ale-12deg/6647271",
+      "untappd_name": "Alora Hazy ALE 12°",
+      "untappd_brewery": "Hradecký Klenot",
+      "rating": 3.655,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:16Z",
+      "query_used": "Alora Klenot"
     },
     "beerstreet::Klenot::Kazbek": {
       "untappd_url": "https://untappd.com/b/hradecky-klenot-kazbek-11/2344577",
@@ -137,6 +191,15 @@
       "matched_at": "2026-04-17T19:07:45Z",
       "query_used": "Premiér Ovipistán"
     },
+    "beerstreet::Sqbru::Sůl12 - Chilliout": {
+      "untappd_url": "https://untappd.com/b/sqbru-skju-bru-sul12-chilliout/6607628",
+      "untappd_name": "Sůl12: Chilliout",
+      "untappd_brewery": "SQBRU [skjuːbru]",
+      "rating": 3.859,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:20Z",
+      "query_used": "Sůl12 - Chilliout Sqbru"
+    },
     "beerstreet::Sqbru::Vidle": {
       "untappd_url": "https://untappd.com/b/sqbru-skju-bru-vidle/6607626",
       "untappd_name": "Vidle",
@@ -145,6 +208,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T19:07:47Z",
       "query_used": "Vidle Sqbru"
+    },
+    "beerstreet::Thrills  Brewing::Věžák": {
+      "untappd_url": "https://untappd.com/b/pivovar-thrills-brewing-vezak-velkopavlovicky/4818255",
+      "untappd_name": "Věžák (Velkopavlovický)",
+      "untappd_brewery": "Pivovar Thrills Brewing",
+      "rating": 3.548,
+      "match_score": 1.0,
+      "matched_at": "2026-04-18T19:39:10Z",
+      "query_used": "Věžák Thrills Brewing"
     },
     "beerstreet::Černý potoka::Elektronik 743": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-elektronik-743/6666618",
@@ -165,5 +237,11 @@
       "query_used": "Tropical Sour Čestmír"
     }
   },
-  "unmatched": {}
+  "unmatched": {
+    "beerstreet::-::-": {
+      "attempts": 1,
+      "last_tried_at": "2026-04-18T19:39:13Z",
+      "reason": "no_candidates_above_threshold"
+    }
+  }
 }
