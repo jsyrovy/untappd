@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-18T19:39:28Z",
+  "generated_at": "2026-04-19T19:39:29Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -19,6 +19,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-18T19:39:23Z",
       "query_used": "Třešňový Kompot Chroust"
+    },
+    "ambasada::Fracek, Praha::Gold Digger": {
+      "untappd_url": "https://untappd.com/b/fracek-gold-digger/6671264",
+      "untappd_name": "Gold Digger",
+      "untappd_brewery": "FRACEK",
+      "rating": null,
+      "match_score": 1.0,
+      "matched_at": "2026-04-19T19:39:29Z",
+      "query_used": "Gold Digger Fracek"
     },
     "ambasada::Haksna, Ostrava::Forest IPA": {
       "untappd_url": "https://untappd.com/b/haksna-brewery-forest-ipa/6607940",
@@ -181,6 +190,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "Velikonoční Loutkář"
+    },
+    "beerstreet::Ovipistán::Kandidát": {
+      "untappd_url": "https://untappd.com/b/pivovar-ovipistan-kandidat-sladek-zpc/4879374",
+      "untappd_name": "Kandidát (Sládek, ŽPČ)",
+      "untappd_brewery": "Pivovar Ovipistán",
+      "rating": 3.511,
+      "match_score": 1.0,
+      "matched_at": "2026-04-19T19:39:28Z",
+      "query_used": "Kandidát Ovipistán"
     },
     "beerstreet::Ovipistán::Premiér": {
       "untappd_url": "https://untappd.com/b/pivovar-ovipistan-premier/3843314",
