@@ -1,10 +1,6 @@
 {
   "beers": [
     {
-      "name": "-° -",
-      "description": "0% alc., -, -"
-    },
-    {
       "name": "11° Sůl12 - Chilliout",
       "description": "4.3% alc., Sqbru, Gose"
     },
@@ -15,6 +11,10 @@
     {
       "name": "12° Alora",
       "description": "5.3% alc., Klenot, Hazy ALE"
+    },
+    {
+      "name": "12° Kandidát",
+      "description": "5.2% alc., Ovipistán, IPL"
     },
     {
       "name": "12° Kladenský ležák",
