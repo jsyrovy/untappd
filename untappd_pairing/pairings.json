@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-21T20:01:04Z",
+  "generated_at": "2026-04-22T17:58:12Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -253,6 +253,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:20:55Z",
       "query_used": "Elektronik 743 Černý potoka"
+    },
+    "beerstreet::Černý potoka::Orion μ": {
+      "untappd_url": "https://untappd.com/b/cerny-potoka-orion-m/6655806",
+      "untappd_name": "Orion μ",
+      "untappd_brewery": "černý potoka",
+      "rating": 3.805,
+      "match_score": 1.0,
+      "matched_at": "2026-04-22T17:58:12Z",
+      "query_used": "Orion μ Černý potoka"
     },
     "beerstreet::Čestmír::Tropical Sour": {
       "untappd_url": "https://untappd.com/b/pivovar-cestmir-tropical-sour/4176308",
