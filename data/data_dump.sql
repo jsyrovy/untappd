@@ -1916,6 +1916,13 @@ INSERT INTO "archive" VALUES(1563098057,'2026-04-16 21:03:54.000000','sejrik','G
 INSERT INTO "archive" VALUES(1563105305,'2026-04-16 21:36:31.000000','sejrik','Tears of St Laurent','Wild Creatures','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1563335725,'2026-04-17 18:56:18.000000','sejrik','No Idols! 13° Brut IPA','Pivovar Clock','Untappd at Home');
 INSERT INTO "archive" VALUES(1563577724,'2026-04-18 12:43:41.000000','sejrik','Otakar 11%','Měšťanský pivovar v Poličce','Vysoké Mýto Vinice');
+INSERT INTO "archive" VALUES(1564530676,'2026-04-22 16:10:24.000000','sejrik','Věžák (Velkopavlovický)','Pivovar Thrills Brewing','Beer Street');
+INSERT INTO "archive" VALUES(1564538173,'2026-04-22 16:47:23.000000','sejrik','Sůl12: Chilliout','SQBRU [skjuːbru]','Beer Street');
+INSERT INTO "archive" VALUES(1564541930,'2026-04-22 17:04:43.000000','sejrik','Kladenský ležák 12°','Pivovar Kladno Kročehlavy','Beer Street');
+INSERT INTO "archive" VALUES(1564545578,'2026-04-22 17:21:21.000000','sejrik','Kandidát (Sládek, ŽPČ)','Pivovar Ovipistán','Beer Street');
+INSERT INTO "archive" VALUES(1564552734,'2026-04-22 17:53:28.000000','sejrik','Vidle','SQBRU [skjuːbru]','Beer Street');
+INSERT INTO "archive" VALUES(1564560234,'2026-04-22 18:25:14.000000','sejrik','Orion μ','černý potoka','Beer Street');
+INSERT INTO "archive" VALUES(1564564373,'2026-04-22 18:42:49.000000','sejrik','Alora Hazy ALE 12°','Hradecký Klenot','Beer Street');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
