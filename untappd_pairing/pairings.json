@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-23T20:04:51Z",
+  "generated_at": "2026-04-24T19:50:41Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -173,6 +173,15 @@
       "matched_at": "2026-04-23T20:04:50Z",
       "query_used": "Riwaka Čestmír"
     },
+    "beerstreet::Hřebec::Summer Ale": {
+      "untappd_url": "https://untappd.com/b/pivovar-hrebec-10deg-summer-ale/6376217",
+      "untappd_name": "10° Summer Ale",
+      "untappd_brewery": "Pivovar Hřebec",
+      "rating": 3.7,
+      "match_score": 1.0,
+      "matched_at": "2026-04-24T19:50:41Z",
+      "query_used": "Summer Ale Hřebec"
+    },
     "beerstreet::Klenot::Alora": {
       "untappd_url": "https://untappd.com/b/hradecky-klenot-alora-hazy-ale-12deg/6647271",
       "untappd_name": "Alora Hazy ALE 12°",
@@ -199,6 +208,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T19:07:41Z",
       "query_used": "Kladenský ležák Kročehlavy"
+    },
+    "beerstreet::Louka::Verbuňk": {
+      "untappd_url": "https://untappd.com/b/pivovar-louka-verbunk-11/4906127",
+      "untappd_name": "Verbuňk 11",
+      "untappd_brewery": "Pivovar Louka",
+      "rating": 3.275,
+      "match_score": 1.0,
+      "matched_at": "2026-04-24T19:50:40Z",
+      "query_used": "Verbuňk Louka"
     },
     "beerstreet::Loutkář::JUNO": {
       "untappd_url": "https://untappd.com/b/pivovar-loutkar-juno-11-czech-ale/6671370",
