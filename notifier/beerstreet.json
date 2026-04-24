@@ -1,12 +1,16 @@
 {
   "beers": [
     {
+      "name": "10° Summer Ale",
+      "description": "4.1% alc., Hřebec, Ale"
+    },
+    {
       "name": "11° Sůl12 - Chilliout",
       "description": "4.3% alc., Sqbru, Gose"
     },
     {
-      "name": "11° Věžák",
-      "description": "4.8% alc., Thrills  Brewing, Pils"
+      "name": "11° Verbuňk",
+      "description": "4.2% alc., Louka, Ležák světlý"
     },
     {
       "name": "12° Alora",
@@ -15,10 +19,6 @@
     {
       "name": "12° Hřebec",
       "description": "4.9% alc., Hřebec, Ležák světlý"
-    },
-    {
-      "name": "12° Kandidát",
-      "description": "5.2% alc., Ovipistán, IPL"
     },
     {
       "name": "12° Orion μ",
