@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-24T19:50:41Z",
+  "generated_at": "2026-04-25T19:41:47Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -37,6 +37,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:18Z",
       "query_used": "Forest IPA Haksna"
+    },
+    "ambasada::JungBerg, Hořice::LucIPA": {
+      "untappd_url": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010",
+      "untappd_name": "Lucipa",
+      "untappd_brewery": "Pivovar JungBerg",
+      "rating": 3.602,
+      "match_score": 1.0,
+      "matched_at": "2026-04-25T19:41:47Z",
+      "query_used": "LucIPA JungBerg"
     },
     "ambasada::JungBerg, Hořice::PP (Pořádné Pivo)": {
       "untappd_url": "https://untappd.com/b/pivovar-jungberg-pp-12/1774180",
@@ -209,6 +218,15 @@
       "matched_at": "2026-04-17T19:07:41Z",
       "query_used": "Kladenský ležák Kročehlavy"
     },
+    "beerstreet::Louka::Apač": {
+      "untappd_url": "https://untappd.com/b/pivovar-louka-apac/3902175",
+      "untappd_name": "Apač",
+      "untappd_brewery": "Pivovar Louka",
+      "rating": 3.403,
+      "match_score": 1.0,
+      "matched_at": "2026-04-25T19:41:46Z",
+      "query_used": "Apač Louka"
+    },
     "beerstreet::Louka::Verbuňk": {
       "untappd_url": "https://untappd.com/b/pivovar-louka-verbunk-11/4906127",
       "untappd_name": "Verbuňk 11",
@@ -289,6 +307,24 @@
       "match_score": 1.0,
       "matched_at": "2026-04-18T19:39:10Z",
       "query_used": "Věžák Thrills Brewing"
+    },
+    "beerstreet::Thrills Brewing::Ow Much": {
+      "untappd_url": "https://untappd.com/b/pivovar-thrills-brewing-ow-much/5831708",
+      "untappd_name": "'OW MUCH",
+      "untappd_brewery": "Pivovar Thrills Brewing",
+      "rating": 3.55,
+      "match_score": 1.0,
+      "matched_at": "2026-04-25T19:41:44Z",
+      "query_used": "Ow Much Thrills Brewing"
+    },
+    "beerstreet::Záhora::NewZealand Lager": {
+      "untappd_url": "https://untappd.com/b/pivovar-zahora-new-zealand-pale-lager/6340595",
+      "untappd_name": "New Zealand Pale Lager",
+      "untappd_brewery": "Pivovar Záhora",
+      "rating": 3.424,
+      "match_score": 0.9231,
+      "matched_at": "2026-04-25T19:41:41Z",
+      "query_used": "NewZealand Lager Záhora"
     },
     "beerstreet::Černý potoka::Elektronik 743": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-elektronik-743/6666618",
