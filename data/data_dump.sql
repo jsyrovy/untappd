@@ -1923,6 +1923,7 @@ INSERT INTO "archive" VALUES(1564545578,'2026-04-22 17:21:21.000000','sejrik','K
 INSERT INTO "archive" VALUES(1564552734,'2026-04-22 17:53:28.000000','sejrik','Vidle','SQBRU [skjuːbru]','Beer Street');
 INSERT INTO "archive" VALUES(1564560234,'2026-04-22 18:25:14.000000','sejrik','Orion μ','černý potoka','Beer Street');
 INSERT INTO "archive" VALUES(1564564373,'2026-04-22 18:42:49.000000','sejrik','Alora Hazy ALE 12°','Hradecký Klenot','Beer Street');
+INSERT INTO "archive" VALUES(1564950647,'2026-04-24 17:22:40.000000','sejrik','Staropramen 11','Pivovary Staropramen','Bergcentrum Pam');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
