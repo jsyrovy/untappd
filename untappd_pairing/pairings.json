@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-25T19:41:47Z",
+  "generated_at": "2026-04-26T19:43:33Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -119,6 +119,15 @@
       "matched_at": "2026-04-18T19:39:21Z",
       "query_used": "Sametová Mordýř"
     },
+    "ambasada::Ovipistán, Ledce::CHARGÉ D AFFAIRES": {
+      "untappd_url": "https://untappd.com/b/pivovar-ovipistan-charge-d-affaires/5275494",
+      "untappd_name": "Chargé D'affaires",
+      "untappd_brewery": "Pivovar Ovipistán",
+      "rating": 3.768,
+      "match_score": 1.0,
+      "matched_at": "2026-04-26T19:43:31Z",
+      "query_used": "CHARGÉ D AFFAIRES Ovipistán"
+    },
     "ambasada::Rampušák, Dobruška::Jarní Pšenka": {
       "untappd_url": "https://untappd.com/b/rodinny-pivovar-rampusak-jarni-psenka/2031433",
       "untappd_name": "Jarní pšenka",
@@ -172,6 +181,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:24Z",
       "query_used": "Tears of St Laurent Wild Creatures"
+    },
+    "ambasada::Zichovec::Mosaic Ale": {
+      "untappd_url": "https://untappd.com/b/rodinny-pivovar-zichovec-mosaic-ale-12/1737004",
+      "untappd_name": "Mosaic Ale 12",
+      "untappd_brewery": "Rodinný pivovar Zichovec",
+      "rating": 3.659,
+      "match_score": 1.0,
+      "matched_at": "2026-04-26T19:43:33Z",
+      "query_used": "Mosaic Ale Zichovec"
     },
     "ambasada::Čestmír, Brandýs nad Labem::Riwaka": {
       "untappd_url": "https://untappd.com/b/pivovar-cestmir-single-hop-neipa-riwaka-14deg/5714600",
