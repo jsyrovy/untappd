@@ -137,3 +137,6 @@ dmypy.json
 # Node (Cloudflare Workers)
 node_modules/
 .wrangler/
+
+# macOS
+.DS_Store
