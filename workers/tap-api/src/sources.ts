@@ -9,7 +9,10 @@ async function fetchMenu(
   url: string,
   parse: (response: Response) => Promise<Beer[]>,
 ): Promise<MenuResponse> {
-  const response = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
+  const response = await fetch(url, {
+    headers: { "User-Agent": USER_AGENT },
+    cf: { cacheTtl: 0, cacheEverything: false },
+  });
   if (!response.ok) {
     throw new Error(`${source} upstream returned ${response.status}`);
   }
