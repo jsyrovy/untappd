@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-27T11:52:17Z",
+  "generated_at": "2026-04-27T20:06:47Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -145,6 +145,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-21T20:01:04Z",
       "query_used": "Jarní Pšenka Rampušák"
+    },
+    "ambasada::Roman, Východní Flandry, Belgian Fruit Ale, 0::Ename Rouge": {
+      "untappd_url": "https://untappd.com/b/brouwerij-roman-ename-rouge/3065897",
+      "untappd_name": "Ename Rouge",
+      "untappd_brewery": "Brouwerij Roman",
+      "rating": 3.274,
+      "match_score": 1.0,
+      "matched_at": "2026-04-27T20:06:47Z",
+      "query_used": "Ename Rouge Roman"
     },
     "ambasada::Sibeeria, Praha::Grapefruit Lollihop": {
       "untappd_url": "https://untappd.com/b/sibeeria-brewery-grapefruit-lollihop/2620360",
