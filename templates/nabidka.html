@@ -40,6 +40,20 @@
         border-color: rgba(212, 168, 84, 0.6);
         color: #b8892e;
     }
+    #copy-toast {
+        position: fixed;
+        bottom: 1.5rem;
+        left: 50%;
+        transform: translateX(-50%) translateY(1rem);
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.2s ease, transform 0.2s ease;
+        z-index: 50;
+    }
+    #copy-toast.visible {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
     </style>
 {% endblock head %}
 {% block content %}
@@ -84,6 +98,8 @@
         <div id="beer-container"
              class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2.5"></div>
     </main>
+    <div id="copy-toast"
+         class="bg-slate-light border border-amber/30 text-amber text-xs rounded px-4 py-2 shadow-lg"></div>
     <footer class="pb-4 text-center">
         <div class="mx-auto w-24 h-px bg-gradient-to-r from-transparent via-amber/20 to-transparent mb-3"></div>
         <div class="flex justify-center gap-4">
@@ -207,6 +223,7 @@
             const card = document.createElement('div');
             card.className = 'beer-card bg-white dark:bg-slate-light border border-zinc-200 dark:border-slate-mid rounded-lg p-3 flex flex-col';
             card.dataset.source = beer.source;
+            card.dataset.pairingKey = pairingKey(beer);
 
             card.innerHTML = `
                 <div class="flex items-start justify-between gap-2 mb-1">
@@ -304,6 +321,29 @@
     }
 
     window.addEventListener('hashchange', () => setFilter(filterFromHash()));
+
+    const $toast = document.getElementById('copy-toast');
+    let toastTimer = null;
+    function showToast(message) {
+        $toast.textContent = message;
+        $toast.classList.add('visible');
+        if (toastTimer) clearTimeout(toastTimer);
+        toastTimer = setTimeout(() => $toast.classList.remove('visible'), 1500);
+    }
+
+    $container.addEventListener('click', async (e) => {
+        if (!e.altKey) return;
+        const card = e.target.closest('.beer-card');
+        if (!card) return;
+        e.preventDefault();
+        const key = card.dataset.pairingKey;
+        try {
+            await navigator.clipboard.writeText(key);
+            showToast('Zkopírováno: ' + key);
+        } catch {
+            showToast('Kopírování selhalo');
+        }
+    });
 
     loadAll();
     </script>
