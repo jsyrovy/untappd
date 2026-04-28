@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-27T20:06:47Z",
+  "generated_at": "2026-04-28T20:13:55Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -155,6 +155,15 @@
       "matched_at": "2026-04-27T20:06:47Z",
       "query_used": "Ename Rouge Roman"
     },
+    "ambasada::Sibeeria, Praha::1212": {
+      "untappd_url": "https://untappd.com/b/sibeeria-brewery-1212/6665405",
+      "untappd_name": "1212",
+      "untappd_brewery": "Sibeeria Brewery",
+      "rating": 3.945,
+      "match_score": 1.0,
+      "matched_at": "2026-04-28T20:13:55Z",
+      "query_used": "1212 Sibeeria"
+    },
     "ambasada::Sibeeria, Praha::Grapefruit Lollihop": {
       "untappd_url": "https://untappd.com/b/sibeeria-brewery-grapefruit-lollihop/2620360",
       "untappd_name": "Grapefruit Lollihop",
@@ -217,6 +226,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-23T20:04:50Z",
       "query_used": "Riwaka Čestmír"
+    },
+    "beerstreet::Haksna::Citra Session": {
+      "untappd_url": "https://untappd.com/b/haksna-brewery-citra-session/6613337",
+      "untappd_name": "Citra Session",
+      "untappd_brewery": "Haksna Brewery",
+      "rating": 3.776,
+      "match_score": 1.0,
+      "matched_at": "2026-04-28T20:13:51Z",
+      "query_used": "Citra Session Haksna"
     },
     "beerstreet::Hřebec::Summer Ale": {
       "untappd_url": "https://untappd.com/b/pivovar-hrebec-10deg-summer-ale/6376217",
@@ -281,6 +299,15 @@
       "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "JUNO Loutkář"
     },
+    "beerstreet::Loutkář::Kašpárek": {
+      "untappd_url": "https://untappd.com/b/pivovar-loutkar-kasparek-11-svetly-lezak/3940222",
+      "untappd_name": "Kašpárek 11 světlý ležák",
+      "untappd_brewery": "Pivovar Loutkář",
+      "rating": 3.461,
+      "match_score": 1.0,
+      "matched_at": "2026-04-28T20:13:38Z",
+      "query_used": "Kašpárek Loutkář"
+    },
     "beerstreet::Loutkář::Mozaika": {
       "untappd_url": "https://untappd.com/b/pivovar-loutkar-mozaika-13-single-hop/4242113",
       "untappd_name": "Mozaika 13 Single Hop",
@@ -298,6 +325,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "Velikonoční Loutkář"
+    },
+    "beerstreet::Mordýř::Summer Ale": {
+      "untappd_url": "https://untappd.com/b/pivovar-mordyr-summer-ale/2146925",
+      "untappd_name": "Summer Ale",
+      "untappd_brewery": "Pivovar Mordýř",
+      "rating": 3.411,
+      "match_score": 1.0,
+      "matched_at": "2026-04-28T20:13:44Z",
+      "query_used": "Summer Ale Mordýř"
     },
     "beerstreet::Ovipistán::Kandidát": {
       "untappd_url": "https://untappd.com/b/pivovar-ovipistan-kandidat-sladek-zpc/4879374",
