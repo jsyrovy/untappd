@@ -1,6 +1,14 @@
 {
   "beers": [
     {
+      "name": "11° Citra Session",
+      "description": "4.6% alc., Haksna, Pale Ale"
+    },
+    {
+      "name": "11° Kašpárek",
+      "description": "4.7% alc., Loutkář, Ležák světlý"
+    },
+    {
       "name": "11° NewZealand Lager",
       "description": "4.4% alc., Záhora, NewZealand Lager"
     },
@@ -9,20 +17,12 @@
       "description": "4.9% alc., Thrills Brewing, APA"
     },
     {
-      "name": "11° Sůl12 - Chilliout",
-      "description": "4.3% alc., Sqbru, Gose"
-    },
-    {
-      "name": "12° Alora",
-      "description": "5.3% alc., Klenot, Hazy ALE"
+      "name": "11° Summer Ale",
+      "description": "4.8% alc., Mordýř, Ale"
     },
     {
       "name": "12° Apač",
       "description": "5.3% alc., Louka, APA"
-    },
-    {
-      "name": "12° Kandidát",
-      "description": "5.2% alc., Ovipistán, IPL"
     }
   ]
 }
