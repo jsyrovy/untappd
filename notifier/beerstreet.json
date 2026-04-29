@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° orange & cinnamon",
+      "description": "3.7% alc., Klenot, Sour"
+    },
+    {
       "name": "11° Citra Session",
       "description": "4.6% alc., Haksna, Pale Ale"
     },
@@ -19,10 +23,6 @@
     {
       "name": "11° Summer Ale",
       "description": "4.8% alc., Mordýř, Ale"
-    },
-    {
-      "name": "12° Apač",
-      "description": "5.3% alc., Louka, APA"
     }
   ]
 }
