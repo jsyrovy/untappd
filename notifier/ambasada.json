@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "11° Ginger Paw",
+      "description": "3,9% alc. piv. Hoppydog, Ostrava, Gose se zázvorem"
+    },
+    {
       "name": "11° Mordýř",
       "description": "4,6% alc. piv. Mordýř, Dolní Ředice, světlý ležák"
     },
@@ -17,20 +21,16 @@
       "description": "5,1% alc. piv. Zichovec, American Pale Ale"
     },
     {
-      "name": "13° CHARGÉ D AFFAIRES",
-      "description": "5,7% alc. piv. Ovipistán, Ledce, Wheat Session IPA"
+      "name": "12° Wagner Weisse",
+      "description": "5,3% alc. piv. Wagner, Merkendorf, German Hefeweizen"
     },
     {
-      "name": "13° Stylish Girl",
-      "description": "5,3% alc. piv. Agent, Olešnice, Raspberry Milkshake New England India Pale Ale"
+      "name": "13,4° Mozaika",
+      "description": "5,4% alc. piv. Loutkář, Chrudim, Single Hop Ale"
     },
     {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
-      "name": "14° LucIPA",
-      "description": "5,7% alc. piv. JungBerg, Hořice, IPA"
     }
   ]
 }
