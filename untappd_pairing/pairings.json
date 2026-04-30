@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-04-29T20:08:25Z",
+  "generated_at": "2026-04-30T20:07:58Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -38,6 +38,15 @@
       "matched_at": "2026-04-17T11:21:18Z",
       "query_used": "Forest IPA Haksna"
     },
+    "ambasada::Hoppydog, Ostrava::Ginger Paw": {
+      "untappd_url": "https://untappd.com/b/pivovar-hoppydog-ginger-paw/6645070",
+      "untappd_name": "Ginger Paw",
+      "untappd_brewery": "Pivovar HoppyDog",
+      "rating": 3.516,
+      "match_score": 1.0,
+      "matched_at": "2026-04-30T20:07:54Z",
+      "query_used": "Ginger Paw Hoppydog"
+    },
     "ambasada::JungBerg, Hořice::LucIPA": {
       "untappd_url": "https://untappd.com/b/pivovar-jungberg-lucipa/2199010",
       "untappd_name": "Lucipa",
@@ -73,6 +82,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-23T20:04:51Z",
       "query_used": "Summer Day Louka"
+    },
+    "ambasada::Loutkář, Chrudim::13,4° Mozaika": {
+      "untappd_url": "https://untappd.com/b/pivovar-loutkar-mozaika-13-single-hop/4242113",
+      "untappd_name": "Mozaika 13 Single Hop",
+      "untappd_brewery": "Pivovar Loutkář",
+      "rating": 3.772,
+      "match_score": 0.875,
+      "matched_at": "2026-04-30T20:07:58Z",
+      "query_used": "13, Mozaika Loutkář"
     },
     "ambasada::Maisel & Friends, Bayreuth::Fusion IPA": {
       "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-friends-fusion-ipa-lervig/6590478",
@@ -200,6 +218,15 @@
       "matched_at": "2026-04-18T19:39:28Z",
       "query_used": "Kasteel Rouge Van Honsebrouck"
     },
+    "ambasada::Wagner, Merkendorf::Wagner Weisse": {
+      "untappd_url": "https://untappd.com/b/brauerei-wagner-merkendorf-wagner-weisse/170390",
+      "untappd_name": "Wagner Weisse",
+      "untappd_brewery": "Brauerei Wagner Merkendorf",
+      "rating": 3.508,
+      "match_score": 1.0,
+      "matched_at": "2026-04-30T20:07:52Z",
+      "query_used": "Wagner Weisse Wagner"
+    },
     "ambasada::Wild Creatures, Mikulov::Tears of St Laurent (2020)": {
       "untappd_url": "https://untappd.com/b/wild-creatures-tears-of-st-laurent-2020/5776418",
       "untappd_name": "Tears of St Laurent (2020)",
@@ -244,6 +271,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-28T20:13:51Z",
       "query_used": "Citra Session Haksna"
+    },
+    "beerstreet::Hřebec::American Pale Ale": {
+      "untappd_url": "https://untappd.com/b/pivovar-hrebec-11deg-american-pale-ale/6340678",
+      "untappd_name": "11° American Pale Ale",
+      "untappd_brewery": "Pivovar Hřebec",
+      "rating": 3.609,
+      "match_score": 1.0,
+      "matched_at": "2026-04-30T20:07:48Z",
+      "query_used": "American Pale Ale Hřebec"
     },
     "beerstreet::Hřebec::Summer Ale": {
       "untappd_url": "https://untappd.com/b/pivovar-hrebec-10deg-summer-ale/6376217",
@@ -415,6 +451,15 @@
       "match_score": 0.9231,
       "matched_at": "2026-04-25T19:41:41Z",
       "query_used": "NewZealand Lager Záhora"
+    },
+    "beerstreet::Záhora::SAAZ": {
+      "untappd_url": "https://untappd.com/b/pivovar-zahora-saaz-jedenactka-z-hlavkoveho-chmelu-11-l-r1/4053867",
+      "untappd_name": "SAAZ Jedenáctka z hlávkového chmelu /// 11.L.R1",
+      "untappd_brewery": "Pivovar Záhora",
+      "rating": 3.581,
+      "match_score": 1.0,
+      "matched_at": "2026-04-30T20:07:45Z",
+      "query_used": "SAAZ Záhora"
     },
     "beerstreet::Černý potoka::Elektronik 743": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-elektronik-743/6666618",
