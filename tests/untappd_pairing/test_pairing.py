@@ -1,13 +1,21 @@
 import json
+import logging
 from unittest import mock
 
 import httpx
+import pytest
 
 from robot.base import Args
 from untappd_pairing import pairing
 from untappd_pairing.pairing import UntappdPairing
 from untappd_pairing.tap_api import TapBeer
 from untappd_pairing.untappd_search import UntappdCandidate
+
+
+@pytest.fixture(autouse=True)
+def mock_pushover():
+    with mock.patch.object(pairing.pushover, "send_notification") as m:
+        yield m
 
 
 def _beer(name, brewery="Falkon"):
@@ -157,3 +165,76 @@ def test_pairing_local_mode_skips_network(tmp_path, monkeypatch):
     fetch_mock.assert_not_called()
     search_mock.assert_not_called()
     assert pairings_path.exists()
+
+
+def test_pairing_sends_pushover_notification_when_beer_unmatched(tmp_path, monkeypatch, mock_pushover):
+    pairings_path = tmp_path / "pairings.json"
+    monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)
+
+    beer = _beer("Mystery Brew", "Unknown")
+
+    with (
+        mock.patch.object(pairing.tap_api, "fetch_all_beers", return_value=[beer]),
+        mock.patch.object(pairing.untappd_search, "search_beer", return_value=[]),
+    ):
+        UntappdPairing(args=Args()).run()
+
+    mock_pushover.assert_called_once()
+    message = mock_pushover.call_args.args[0]
+    assert "Mystery Brew" in message
+    assert "Unknown" in message
+    assert pairing.UNMATCHED_NO_CANDIDATES in message
+    assert "1 pivo" in message
+
+
+def test_pairing_skips_pushover_when_all_matched(tmp_path, monkeypatch, mock_pushover):
+    pairings_path = tmp_path / "pairings.json"
+    monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)
+
+    beer = _beer("Tears of St Laurent (2020)", "Wild Creatures")
+    candidates = [_candidate("Tears of St Laurent (2020)", brewery="Wild Creatures")]
+
+    with (
+        mock.patch.object(pairing.tap_api, "fetch_all_beers", return_value=[beer]),
+        mock.patch.object(pairing.untappd_search, "search_beer", return_value=candidates),
+    ):
+        UntappdPairing(args=Args()).run()
+
+    mock_pushover.assert_not_called()
+
+
+def test_pairing_notificationless_logs_instead_of_pushing(tmp_path, monkeypatch, mock_pushover, caplog):
+    pairings_path = tmp_path / "pairings.json"
+    monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)
+
+    beer = _beer("Mystery Brew", "Unknown")
+
+    with (
+        mock.patch.object(pairing.tap_api, "fetch_all_beers", return_value=[beer]),
+        mock.patch.object(pairing.untappd_search, "search_beer", return_value=[]),
+        caplog.at_level(logging.INFO, logger="untappd_pairing.pairing"),
+    ):
+        UntappdPairing(args=Args(notificationless=True)).run()
+
+    mock_pushover.assert_not_called()
+    assert any("Mystery Brew" in record.message and "Unknown" in record.message for record in caplog.records)
+
+
+def test_pairing_pushover_failure_does_not_crash_run(tmp_path, monkeypatch, mock_pushover, caplog):
+    pairings_path = tmp_path / "pairings.json"
+    monkeypatch.setattr(pairing, "PAIRINGS_PATH", pairings_path)
+
+    beer = _beer("Mystery Brew", "Unknown")
+    mock_pushover.side_effect = httpx.ConnectError("boom")
+
+    with (
+        mock.patch.object(pairing.tap_api, "fetch_all_beers", return_value=[beer]),
+        mock.patch.object(pairing.untappd_search, "search_beer", return_value=[]),
+        caplog.at_level(logging.ERROR, logger="untappd_pairing.pairing"),
+    ):
+        UntappdPairing(args=Args()).run()
+
+    assert pairings_path.exists()
+    saved = json.loads(pairings_path.read_text())
+    assert "beerstreet::Unknown::Mystery Brew" in saved["unmatched"]
+    assert any("Pushover" in record.message for record in caplog.records)

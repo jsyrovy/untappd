@@ -7,6 +7,7 @@ from untappd_pairing import matcher, normalize, tap_api, untappd_search
 from untappd_pairing import overrides as overrides_module
 from untappd_pairing.matcher import MatchResult
 from untappd_pairing.store import PAIRINGS_PATH, PairingsStore, beer_key
+from utils import pushover
 
 logger = logging.getLogger(__name__)
 
@@ -14,6 +15,14 @@ UNMATCHED_NO_CANDIDATES = "no_candidates_above_threshold"
 UNMATCHED_UPSTREAM_ERROR = "upstream_error"
 UNMATCHED_OVERRIDE_PARSE_FAILED = "override_page_parse_failed"
 OVERRIDE_QUERY_MARKER = "<override>"
+
+
+def _pluralize_pivo(count: int) -> str:
+    if count == 1:
+        return "pivo"
+    if count in {2, 3, 4}:
+        return "piva"
+    return "piv"
 
 
 class UntappdPairing(BaseRobot):
@@ -32,41 +41,63 @@ class UntappdPairing(BaseRobot):
         pending = store.select_pending(beers, overrides=overrides)
         logger.info("Pairing %d pending beers (rest already paired or in cooldown)", len(pending))
 
+        failures: list[tuple[tap_api.TapBeer, str]] = []
         for beer in pending:
-            self._pair_one(beer, store, overrides)
+            reason = self._pair_one(beer, store, overrides)
+            if reason is not None:
+                failures.append((beer, reason))
 
         store.save(PAIRINGS_PATH)
         logger.info("Saved %s (pairings=%d, unmatched=%d)", PAIRINGS_PATH, len(store.pairings), len(store.unmatched))
 
-    @staticmethod
-    def _pair_one(beer: tap_api.TapBeer, store: PairingsStore, overrides: dict[str, str]) -> None:
-        key = beer_key(beer.source, beer.brewery, beer.name)
-        if key in overrides:
-            UntappdPairing._pair_via_override(beer, store, overrides[key])
+        if failures:
+            self._notify_failures(failures)
+
+    def _notify_failures(self, failures: list[tuple[tap_api.TapBeer, str]]) -> None:
+        count = len(failures)
+        word = _pluralize_pivo(count)
+        header = f"Nepodařilo se naparovat {count} {word}:"
+        lines = [f"- {beer.brewery} :: {beer.name} ({reason})" for beer, reason in failures]
+        message = header + "\n\n" + "\n".join(lines)
+
+        if self._args.notificationless:
+            logger.info(message)
             return
 
-        UntappdPairing._pair_via_search(beer, store)
+        try:
+            pushover.send_notification(message)
+        except httpx.HTTPError:
+            logger.exception("Failed to send Pushover notification about unmatched beers")
 
     @staticmethod
-    def _pair_via_override(beer: tap_api.TapBeer, store: PairingsStore, url: str) -> None:
+    def _pair_one(beer: tap_api.TapBeer, store: PairingsStore, overrides: dict[str, str]) -> str | None:
+        key = beer_key(beer.source, beer.brewery, beer.name)
+        if key in overrides:
+            return UntappdPairing._pair_via_override(beer, store, overrides[key])
+
+        return UntappdPairing._pair_via_search(beer, store)
+
+    @staticmethod
+    def _pair_via_override(beer: tap_api.TapBeer, store: PairingsStore, url: str) -> str | None:
         try:
             candidate = untappd_search.fetch_beer_page(url)
         except httpx.HTTPError:
             logger.exception("Failed to fetch override URL %s", url)
             store.record_unmatched(beer, UNMATCHED_UPSTREAM_ERROR)
-            return
+            return UNMATCHED_UPSTREAM_ERROR
 
         if candidate is None:
             logger.error("Could not parse override beer page %s", url)
             store.record_unmatched(beer, UNMATCHED_OVERRIDE_PARSE_FAILED)
-            return
+            return UNMATCHED_OVERRIDE_PARSE_FAILED
 
         result = MatchResult(candidate=candidate, score=1.0, brewery_matched=True)
         logger.info("Override matched %s::%s -> %s", beer.brewery, beer.name, url)
         store.record_match(beer, result, OVERRIDE_QUERY_MARKER)
+        return None
 
     @staticmethod
-    def _pair_via_search(beer: tap_api.TapBeer, store: PairingsStore) -> None:
+    def _pair_via_search(beer: tap_api.TapBeer, store: PairingsStore) -> str | None:
         queries = normalize.build_search_queries(beer.name, beer.brewery)
 
         for query in queries:
@@ -75,7 +106,7 @@ class UntappdPairing(BaseRobot):
             except httpx.HTTPError:
                 logger.exception("Untappd search failed for '%s'", query)
                 store.record_unmatched(beer, UNMATCHED_UPSTREAM_ERROR)
-                return
+                return UNMATCHED_UPSTREAM_ERROR
 
             result = matcher.best_match(beer.name, beer.brewery, candidates)
             if result is not None:
@@ -87,7 +118,8 @@ class UntappdPairing(BaseRobot):
                     result.score,
                 )
                 store.record_match(beer, result, query)
-                return
+                return None
 
         logger.info("No match for %s::%s after %d queries", beer.brewery, beer.name, len(queries))
         store.record_unmatched(beer, UNMATCHED_NO_CANDIDATES)
+        return UNMATCHED_NO_CANDIDATES
