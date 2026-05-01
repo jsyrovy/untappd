@@ -1931,6 +1931,8 @@ INSERT INTO "archive" VALUES(1566113869,'2026-04-28 17:12:58.000000','sejrik','N
 INSERT INTO "archive" VALUES(1566121299,'2026-04-28 17:51:08.000000','sejrik','Citra Session','Haksna Brewery','Beer Street');
 INSERT INTO "archive" VALUES(1566125352,'2026-04-28 18:12:05.000000','sejrik','''OW MUCH','Pivovar Thrills Brewing','Beer Street');
 INSERT INTO "archive" VALUES(1566133173,'2026-04-28 18:50:48.000000','sejrik','Apač','Pivovar Louka','Beer Street');
+INSERT INTO "archive" VALUES(1566384116,'2026-04-30 12:21:57.000000','sejrik','Maisel''s Weisse Alkoholfrei','Brauerei Gebr. Maisel','Untappd at Home');
+INSERT INTO "archive" VALUES(1566406410,'2026-04-30 15:05:40.000000','sejrik','Mordýř 11','Pivovar Mordýř','Bistro Chlívek');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
