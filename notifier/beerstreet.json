@@ -1,8 +1,12 @@
 {
   "beers": [
     {
-      "name": "10° orange & cinnamon",
+      "name": "10° Orange & cinnamon",
       "description": "3.7% alc., Klenot, Sour"
+    },
+    {
+      "name": "10° Tanec Slunce",
+      "description": "4.2% alc., Čestmír, Summer Ale"
     },
     {
       "name": "11° American Pale Ale",
@@ -19,10 +23,6 @@
     {
       "name": "11° SAAZ",
       "description": "4.4% alc., Záhora, Ležák světlý"
-    },
-    {
-      "name": "11° Summer Ale",
-      "description": "4.8% alc., Mordýř, Ale"
     }
   ]
 }
