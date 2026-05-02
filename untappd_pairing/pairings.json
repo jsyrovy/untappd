@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-01T20:02:14Z",
+  "generated_at": "2026-05-02T19:53:20Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -10,6 +10,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:20Z",
       "query_used": "Denali Beskydský Pivovárek"
+    },
+    "ambasada::Chroust, Potštejn::Hoptopia": {
+      "untappd_url": "https://untappd.com/b/chroust-hoptopia/2290462",
+      "untappd_name": "Hoptopia",
+      "untappd_brewery": "Chroust",
+      "rating": 3.713,
+      "match_score": 1.0,
+      "matched_at": "2026-05-02T19:53:20Z",
+      "query_used": "Hoptopia Chroust"
     },
     "ambasada::Chroust, Potštejn::Třešňový Kompot": {
       "untappd_url": "https://untappd.com/b/chroust-tresnovy-kompot/6646338",
