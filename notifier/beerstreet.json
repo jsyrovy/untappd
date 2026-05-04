@@ -1,6 +1,10 @@
 {
   "beers": [
     {
+      "name": "10° Artur",
+      "description": "4.1% alc., U Vojtěchů, Ležák světlý"
+    },
+    {
       "name": "10° Orange & cinnamon",
       "description": "3.7% alc., Klenot, Sour"
     },
@@ -9,20 +13,16 @@
       "description": "4.2% alc., Čestmír, Summer Ale"
     },
     {
-      "name": "11° American Pale Ale",
-      "description": "4.7% alc., Hřebec, APA"
-    },
-    {
       "name": "11° Citra Session",
       "description": "4.6% alc., Haksna, Pale Ale"
     },
     {
-      "name": "11° Kašpárek",
-      "description": "4.7% alc., Loutkář, Ležák světlý"
+      "name": "11° Parohatej",
+      "description": "4.4% alc., Kojetín, Ležák světlý"
     },
     {
-      "name": "11° SAAZ",
-      "description": "4.4% alc., Záhora, Ležák světlý"
+      "name": "13° Czech Pale Ale",
+      "description": "5.5% alc., Mazák, Pale Ale"
     }
   ]
 }
