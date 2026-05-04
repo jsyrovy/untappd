@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-03T19:53:26Z",
+  "generated_at": "2026-05-04T20:13:17Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -344,6 +344,15 @@
       "matched_at": "2026-04-29T20:08:22Z",
       "query_used": "orange & cinnamon Klenot"
     },
+    "beerstreet::Kojetín::Parohatej": {
+      "untappd_url": "https://untappd.com/b/mestansky-pivovar-kojetin-parohatej/5041078",
+      "untappd_name": "Parohatej",
+      "untappd_brewery": "Měšťanský pivovar Kojetín",
+      "rating": 3.457,
+      "match_score": 1.0,
+      "matched_at": "2026-05-04T20:13:12Z",
+      "query_used": "Parohatej Kojetín"
+    },
     "beerstreet::Kročehlavy::Kladenský ležák": {
       "untappd_url": "https://untappd.com/b/pivovar-kladno-krocehlavy-kladensky-lezak-12deg/4260740",
       "untappd_name": "Kladenský ležák 12°",
@@ -407,6 +416,15 @@
       "matched_at": "2026-04-17T11:20:46Z",
       "query_used": "Velikonoční Loutkář"
     },
+    "beerstreet::Mazák::Czech Pale Ale": {
+      "untappd_url": "https://untappd.com/b/pivovar-mazak-czech-pale-ale/5102010",
+      "untappd_name": "Czech Pale Ale",
+      "untappd_brewery": "Pivovar Mazák",
+      "rating": 3.656,
+      "match_score": 1.0,
+      "matched_at": "2026-05-04T20:13:17Z",
+      "query_used": "Czech Pale Ale Mazák"
+    },
     "beerstreet::Mordýř::Summer Ale": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-summer-ale/2146925",
       "untappd_name": "Summer Ale",
@@ -469,6 +487,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-25T19:41:44Z",
       "query_used": "Ow Much Thrills Brewing"
+    },
+    "beerstreet::U Vojtěchů::Artur": {
+      "untappd_url": "https://untappd.com/b/pivovar-u-vojtechu-artur/6303126",
+      "untappd_name": "Artur",
+      "untappd_brewery": "Pivovar U Vojtěchů",
+      "rating": 3.625,
+      "match_score": 1.0,
+      "matched_at": "2026-05-04T20:13:11Z",
+      "query_used": "Artur U Vojtěchů"
     },
     "beerstreet::Záhora::NewZealand Lager": {
       "untappd_url": "https://untappd.com/b/pivovar-zahora-new-zealand-pale-lager/6340595",
