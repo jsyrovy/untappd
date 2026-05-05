@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-04T20:13:17Z",
+  "generated_at": "2026-05-05T20:05:03Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -136,6 +136,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:07Z",
       "query_used": "Mordýř Mordýř"
+    },
+    "ambasada::Mordýř, Dolní Ředice::Msopustní": {
+      "untappd_url": "https://untappd.com/b/uneticky-pivovar-uneticky-special-16deg-masopustni-bock/977876",
+      "untappd_name": "Únětický speciál 16° Masopustní bock",
+      "untappd_brewery": "Únětický pivovar",
+      "rating": 3.461,
+      "match_score": 0.875,
+      "matched_at": "2026-05-05T20:05:03Z",
+      "query_used": "Msopustní"
     },
     "ambasada::Mordýř, Dolní Ředice::Sametová": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-sametova-10/1909913",
