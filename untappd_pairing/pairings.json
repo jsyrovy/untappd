@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-05T20:05:03Z",
+  "generated_at": "2026-05-06T20:19:51Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -28,6 +28,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-18T19:39:23Z",
       "query_used": "Třešňový Kompot Chroust"
+    },
+    "ambasada::Clock, Potštejn::Glee": {
+      "untappd_url": "https://untappd.com/b/pivovar-clock-glee/3101033",
+      "untappd_name": "Glee",
+      "untappd_brewery": "Pivovar Clock",
+      "rating": 3.582,
+      "match_score": 1.0,
+      "matched_at": "2026-05-06T20:19:51Z",
+      "query_used": "Glee Clock"
     },
     "ambasada::Fracek, Praha::Gold Digger": {
       "untappd_url": "https://untappd.com/b/fracek-gold-digger/6671264",
@@ -173,6 +182,15 @@
       "matched_at": "2026-04-26T19:43:31Z",
       "query_used": "CHARGÉ D AFFAIRES Ovipistán"
     },
+    "ambasada::Pivečka, Rousínov::Lime & Mint": {
+      "untappd_url": "https://untappd.com/b/pivovar-pivecka-lime-mint-sour-ale/6384306",
+      "untappd_name": "Lime & Mint Sour Ale",
+      "untappd_brewery": "Pivovar Pivečka",
+      "rating": 3.588,
+      "match_score": 1.0,
+      "matched_at": "2026-05-06T20:19:44Z",
+      "query_used": "Lime & Mint Pivečka"
+    },
     "ambasada::Rampušák, Dobruška::Jarní Pšenka": {
       "untappd_url": "https://untappd.com/b/rodinny-pivovar-rampusak-jarni-psenka/2031433",
       "untappd_name": "Jarní pšenka",
@@ -245,6 +263,15 @@
       "matched_at": "2026-04-18T19:39:28Z",
       "query_used": "Kasteel Rouge Van Honsebrouck"
     },
+    "ambasada::Vik/Fauve::Confluence": {
+      "untappd_url": "https://untappd.com/b/pivovar-vik-confluence-neipa-vik-fauve/6660039",
+      "untappd_name": "CONFLUENCE / NEIPA Vik & Fauve",
+      "untappd_brewery": "Pivovar Vik",
+      "rating": 3.812,
+      "match_score": 1.0,
+      "matched_at": "2026-05-06T20:19:48Z",
+      "query_used": "Confluence Vik/Fauve"
+    },
     "ambasada::Wagner, Merkendorf::Wagner Weisse": {
       "untappd_url": "https://untappd.com/b/brauerei-wagner-merkendorf-wagner-weisse/170390",
       "untappd_name": "Wagner Weisse",
@@ -289,6 +316,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-23T20:04:50Z",
       "query_used": "Riwaka Čestmír"
+    },
+    "beerstreet::Chroust::Pineapple": {
+      "untappd_url": "https://untappd.com/b/chroust-pineapple-milkshake-ipa/6675190",
+      "untappd_name": "Pineapple Milkshake IPA",
+      "untappd_brewery": "Chroust",
+      "rating": 3.926,
+      "match_score": 1.0,
+      "matched_at": "2026-05-06T20:19:40Z",
+      "query_used": "Pineapple Chroust"
     },
     "beerstreet::Haksna::Citra Session": {
       "untappd_url": "https://untappd.com/b/haksna-brewery-citra-session/6613337",
