@@ -14,6 +14,9 @@ jobs:
         with:
           enable-cache: true
       - name: Run
+        env:
+          PUSHOVER_USER_KEY: ${{ secrets.PUSHOVER_USER_KEY }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
         run: make run-untappd-pairing
       - name: Save
         uses: stefanzweifel/git-auto-commit-action@v5
