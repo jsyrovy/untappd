@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T20:23:43Z",
+  "generated_at": "2026-05-07T20:29:51Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -560,6 +560,15 @@
       "matched_at": "2026-04-25T19:41:44Z",
       "query_used": "Ow Much Thrills Brewing"
     },
+    "beerstreet::Thrills::Pomgo - pomeranč+mango+limeta": {
+      "untappd_url": "https://untappd.com/b/pivovar-thrills-brewing-pomgo/6615878",
+      "untappd_name": "Pomgo",
+      "untappd_brewery": "Pivovar Thrills Brewing",
+      "rating": 3.82766,
+      "match_score": 1.0,
+      "matched_at": "2026-05-07T20:29:51Z",
+      "query_used": "<override>"
+    },
     "beerstreet::U Vojtěchů::Artur": {
       "untappd_url": "https://untappd.com/b/pivovar-u-vojtechu-artur/6303126",
       "untappd_name": "Artur",
@@ -633,11 +642,6 @@
     "beerstreet::Hřebec::Hřebec": {
       "attempts": 1,
       "last_tried_at": "2026-04-23T20:04:40Z",
-      "reason": "no_candidates_above_threshold"
-    },
-    "beerstreet::Thrills::Pomgo - pomeranč+mango+limeta": {
-      "attempts": 1,
-      "last_tried_at": "2026-05-07T20:23:37Z",
       "reason": "no_candidates_above_threshold"
     }
   }
