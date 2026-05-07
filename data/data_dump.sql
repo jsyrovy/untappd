@@ -1942,6 +1942,9 @@ INSERT INTO "archive" VALUES(1567397861,'2026-05-03 08:08:10.000000','sejrik','S
 INSERT INTO "archive" VALUES(1567403331,'2026-05-03 09:48:55.000000','sejrik','Staropramen 11','Pivovary Staropramen','Čerťák');
 INSERT INTO "archive" VALUES(1567716566,'2026-05-04 20:13:23.000000','sejrik','Shapeshift','Browar Monsters','Untappd at Home');
 INSERT INTO "archive" VALUES(1567728182,'2026-05-04 21:28:19.000000','sejrik','BERLINER Pale Ale 11','Chroust','Untappd at Home');
+INSERT INTO "archive" VALUES(1567958242,'2026-05-06 18:15:56.000000','sejrik','Last Stand','Browar Monsters','Untappd at Home');
+INSERT INTO "archive" VALUES(1567969877,'2026-05-06 19:05:44.000000','sejrik','Guinness Draught','Guinness','Untappd at Home');
+INSERT INTO "archive" VALUES(1567989650,'2026-05-06 20:30:19.000000','sejrik','Strike','Pivovar Clock','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
