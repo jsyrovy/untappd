@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-06T20:19:51Z",
+  "generated_at": "2026-05-07T20:23:43Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -37,6 +37,15 @@
       "match_score": 1.0,
       "matched_at": "2026-05-06T20:19:51Z",
       "query_used": "Glee Clock"
+    },
+    "ambasada::Clock, Potštejn::No Idols! American IPA": {
+      "untappd_url": "https://untappd.com/b/pivovar-clock-no-idols-15deg-american-ipa/873053",
+      "untappd_name": "No Idols! 15° American IPA",
+      "untappd_brewery": "Pivovar Clock",
+      "rating": 3.786,
+      "match_score": 0.9412,
+      "matched_at": "2026-05-07T20:23:43Z",
+      "query_used": "No Idols! American IPA Clock"
     },
     "ambasada::Fracek, Praha::Gold Digger": {
       "untappd_url": "https://untappd.com/b/fracek-gold-digger/6671264",
@@ -136,6 +145,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-18T19:39:27Z",
       "query_used": "California Matuška"
+    },
+    "ambasada::Mordýř, Dolní Ředice::Masopustní": {
+      "untappd_url": "https://untappd.com/b/pivovar-mordyr-masopust/3687038",
+      "untappd_name": "Masopust",
+      "untappd_brewery": "Pivovar Mordýř",
+      "rating": 3.448,
+      "match_score": 1.0,
+      "matched_at": "2026-05-07T20:23:40Z",
+      "query_used": "Masopustní Mordýř"
     },
     "ambasada::Mordýř, Dolní Ředice::Mordýř": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-mordyr-11/609306",
@@ -416,6 +434,15 @@
       "matched_at": "2026-04-25T19:41:46Z",
       "query_used": "Apač Louka"
     },
+    "beerstreet::Louka::Sv. Hubert": {
+      "untappd_url": "https://untappd.com/b/pivovar-louka-sv-hubert-12/4592832",
+      "untappd_name": "Sv. Hubert 12",
+      "untappd_brewery": "Pivovar Louka",
+      "rating": 3.37,
+      "match_score": 1.0,
+      "matched_at": "2026-05-07T20:23:31Z",
+      "query_used": "Sv. Hubert Louka"
+    },
     "beerstreet::Louka::Verbuňk": {
       "untappd_url": "https://untappd.com/b/pivovar-louka-verbunk-11/4906127",
       "untappd_name": "Verbuňk 11",
@@ -606,6 +633,11 @@
     "beerstreet::Hřebec::Hřebec": {
       "attempts": 1,
       "last_tried_at": "2026-04-23T20:04:40Z",
+      "reason": "no_candidates_above_threshold"
+    },
+    "beerstreet::Thrills::Pomgo - pomeranč+mango+limeta": {
+      "attempts": 1,
+      "last_tried_at": "2026-05-07T20:23:37Z",
       "reason": "no_candidates_above_threshold"
     }
   }
