@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-07T20:29:51Z",
+  "generated_at": "2026-05-08T20:06:14Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -634,15 +634,40 @@
     }
   },
   "unmatched": {
+    "ambasada::MadCat, Kamenice::12,7° Dragon Fruit IPA": {
+      "attempts": 1,
+      "last_tried_at": "2026-05-08T20:06:14Z",
+      "reason": "upstream_error"
+    },
+    "ambasada::Sibeeria, Praha::Tongariro": {
+      "attempts": 1,
+      "last_tried_at": "2026-05-08T20:05:56Z",
+      "reason": "upstream_error"
+    },
     "beerstreet::-::-": {
       "attempts": 1,
       "last_tried_at": "2026-04-18T19:39:13Z",
       "reason": "no_candidates_above_threshold"
     },
+    "beerstreet::Haksna::Our Lager": {
+      "attempts": 1,
+      "last_tried_at": "2026-05-08T20:05:21Z",
+      "reason": "upstream_error"
+    },
     "beerstreet::Hřebec::Hřebec": {
       "attempts": 1,
       "last_tried_at": "2026-04-23T20:04:40Z",
       "reason": "no_candidates_above_threshold"
+    },
+    "beerstreet::Mordýř::Nectaron": {
+      "attempts": 1,
+      "last_tried_at": "2026-05-08T20:05:32Z",
+      "reason": "upstream_error"
+    },
+    "beerstreet::Thrills::Pomgo - pomeranč + mango + limeta": {
+      "attempts": 1,
+      "last_tried_at": "2026-05-08T20:05:43Z",
+      "reason": "upstream_error"
     }
   }
 }
