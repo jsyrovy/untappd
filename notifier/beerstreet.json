@@ -1,24 +1,24 @@
 {
   "beers": [
     {
-      "name": "10° Tanec Slunce",
-      "description": "4.2% alc., Čestmír, Summer Ale"
+      "name": "11° Our Lager",
+      "description": "4.7% alc., Haksna, Ležák světlý"
     },
     {
-      "name": "11° Parohatej",
-      "description": "4.4% alc., Kojetín, Ležák světlý"
+      "name": "12° Nectaron",
+      "description": "5% alc., Mordýř, Smash Ale"
     },
     {
       "name": "12° Pineapple",
       "description": "4.5% alc., Chroust, Session Milkshake"
     },
     {
-      "name": "12° Pomgo - pomeranč+mango+limeta",
+      "name": "12° Pomgo - pomeranč + mango + limeta",
       "description": "5% alc., Thrills, Sour"
     },
     {
       "name": "12° Sv. Hubert",
-      "description": "4.5% alc., Louka, Ležák světlý"
+      "description": "4.7% alc., Louka, Ležák světlý"
     },
     {
       "name": "13° Czech Pale Ale",
