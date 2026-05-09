@@ -1946,6 +1946,7 @@ INSERT INTO "archive" VALUES(1567958242,'2026-05-06 18:15:56.000000','sejrik','L
 INSERT INTO "archive" VALUES(1567969877,'2026-05-06 19:05:44.000000','sejrik','Guinness Draught','Guinness','Untappd at Home');
 INSERT INTO "archive" VALUES(1567989650,'2026-05-06 20:30:19.000000','sejrik','Strike','Pivovar Clock','Untappd at Home');
 INSERT INTO "archive" VALUES(1568052977,'2026-05-07 09:31:34.000000','sejrik','Rebel Nealko','Měšťanský pivovar Havlíčkův Brod','Bike Resort Peklák');
+INSERT INTO "archive" VALUES(1568469129,'2026-05-08 21:11:34.000000','sejrik','IIPPAA','PINTA','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
