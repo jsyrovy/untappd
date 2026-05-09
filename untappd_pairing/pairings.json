@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-09T14:44:06Z",
+  "generated_at": "2026-05-09T19:56:18Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -568,6 +568,15 @@
       "match_score": 1.0,
       "matched_at": "2026-05-07T20:29:51Z",
       "query_used": "<override>"
+    },
+    "beerstreet::Thrills::Stammtisch Hugo": {
+      "untappd_url": "https://untappd.com/b/pivovar-thrills-brewing-stammtisch-hugo-11deg/6637079",
+      "untappd_name": "Stammtisch Hugo 11°",
+      "untappd_brewery": "Pivovar Thrills Brewing",
+      "rating": 3.785,
+      "match_score": 1.0,
+      "matched_at": "2026-05-09T19:56:18Z",
+      "query_used": "Stammtisch Hugo Thrills"
     },
     "beerstreet::U Vojtěchů::Artur": {
       "untappd_url": "https://untappd.com/b/pivovar-u-vojtechu-artur/6303126",
