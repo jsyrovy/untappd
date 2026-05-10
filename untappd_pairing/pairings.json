@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-09T19:56:18Z",
+  "generated_at": "2026-05-10T08:50:52Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -263,6 +263,15 @@
       "matched_at": "2026-04-18T19:39:23Z",
       "query_used": "Timeless Sibeeria"
     },
+    "ambasada::Sibeeria, Praha::Tongariro": {
+      "untappd_url": "https://untappd.com/b/sibeeria-brewery-tongariro/6597455",
+      "untappd_name": "Tongariro",
+      "untappd_brewery": "Sibeeria Brewery",
+      "rating": 3.894,
+      "match_score": 1.0,
+      "matched_at": "2026-05-10T08:50:47Z",
+      "query_used": "Tongariro Sibeeria"
+    },
     "ambasada::Sibeeria/Herrenwald, Sour Ale w/ Raspberry::Forest Spirit": {
       "untappd_url": "https://untappd.com/b/sibeeria-brewery-forest-spirit/5913749",
       "untappd_name": "Forest Spirit",
@@ -497,6 +506,15 @@
       "matched_at": "2026-05-04T20:13:17Z",
       "query_used": "Czech Pale Ale Mazák"
     },
+    "beerstreet::Mordýř::Nectaron": {
+      "untappd_url": "https://untappd.com/b/pivovar-mordyr-nectaron-smash-ale/6361344",
+      "untappd_name": "Nectaron Smash Ale",
+      "untappd_brewery": "Pivovar Mordýř",
+      "rating": 3.702,
+      "match_score": 1.0,
+      "matched_at": "2026-05-10T08:50:42Z",
+      "query_used": "Nectaron Mordýř"
+    },
     "beerstreet::Mordýř::Summer Ale": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-summer-ale/2146925",
       "untappd_name": "Summer Ale",
@@ -644,14 +662,9 @@
   },
   "unmatched": {
     "ambasada::MadCat, Kamenice::12,7° Dragon Fruit IPA": {
-      "attempts": 1,
-      "last_tried_at": "2026-05-08T20:06:14Z",
-      "reason": "upstream_error"
-    },
-    "ambasada::Sibeeria, Praha::Tongariro": {
-      "attempts": 1,
-      "last_tried_at": "2026-05-08T20:05:56Z",
-      "reason": "upstream_error"
+      "attempts": 2,
+      "last_tried_at": "2026-05-10T08:50:52Z",
+      "reason": "no_candidates_above_threshold"
     },
     "ambasada::Záhora, Kněžičky::08.BRUTIPA.I2": {
       "attempts": 1,
@@ -673,15 +686,10 @@
       "last_tried_at": "2026-04-23T20:04:40Z",
       "reason": "no_candidates_above_threshold"
     },
-    "beerstreet::Mordýř::Nectaron": {
-      "attempts": 1,
-      "last_tried_at": "2026-05-08T20:05:32Z",
-      "reason": "upstream_error"
-    },
     "beerstreet::Thrills::Pomgo - pomeranč + mango + limeta": {
-      "attempts": 1,
-      "last_tried_at": "2026-05-08T20:05:43Z",
-      "reason": "upstream_error"
+      "attempts": 2,
+      "last_tried_at": "2026-05-10T08:50:47Z",
+      "reason": "no_candidates_above_threshold"
     }
   }
 }
