@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 PAIRINGS_PATH = Path("untappd_pairing/pairings.json")
 SCHEMA_VERSION = 1
 RETRY_AFTER = timedelta(days=7)
+TRANSIENT_UNMATCHED_REASONS = frozenset({"upstream_error"})
 
 
 def beer_key(source: str, brewery: str, name: str) -> str:
@@ -57,6 +58,8 @@ class PairingsStore:
     def should_retry(self, key: str, now: datetime | None = None) -> bool:
         entry = self.unmatched.get(key)
         if entry is None:
+            return True
+        if entry.get("reason") in TRANSIENT_UNMATCHED_REASONS:
             return True
         last_tried_raw = entry.get("last_tried_at")
         if not isinstance(last_tried_raw, str):

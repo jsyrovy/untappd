@@ -1,6 +1,8 @@
 import json
 from datetime import UTC, datetime, timedelta
 
+import pytest
+
 from untappd_pairing.matcher import MatchResult
 from untappd_pairing.store import RETRY_AFTER, SCHEMA_VERSION, PairingsStore, beer_key
 from untappd_pairing.tap_api import TapBeer
@@ -80,6 +82,27 @@ def test_select_pending_skips_recently_unmatched_beers():
     beer = _beer(name="Hard to find")
     now = datetime(2026, 4, 17, 19, 0, tzinfo=UTC)
     store.record_unmatched(beer, "no_candidates_above_threshold", now=now)
+
+    pending = store.select_pending([beer], now=now + timedelta(days=1))
+    assert pending == []
+
+
+def test_select_pending_retries_upstream_error_immediately():
+    store = PairingsStore()
+    beer = _beer(name="Flaky API")
+    now = datetime(2026, 4, 17, 19, 0, tzinfo=UTC)
+    store.record_unmatched(beer, "upstream_error", now=now)
+
+    pending = store.select_pending([beer], now=now + timedelta(minutes=5))
+    assert [b.name for b in pending] == ["Flaky API"]
+
+
+@pytest.mark.parametrize("reason", ["no_candidates_above_threshold", "override_page_parse_failed"])
+def test_select_pending_still_skips_recent_non_transient_reasons(reason):
+    store = PairingsStore()
+    beer = _beer(name="Hard to find")
+    now = datetime(2026, 4, 17, 19, 0, tzinfo=UTC)
+    store.record_unmatched(beer, reason, now=now)
 
     pending = store.select_pending([beer], now=now + timedelta(days=1))
     assert pending == []
