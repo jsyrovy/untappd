@@ -1,6 +1,14 @@
 {
   "beers": [
     {
+      "name": "11° Ale",
+      "description": "4.5% alc., Klenot, Pale Ale"
+    },
+    {
+      "name": "11° Most",
+      "description": "4.1% alc., Louka, IPL"
+    },
+    {
       "name": "11° Stammtisch Hugo",
       "description": "4.9% alc., Thrills, Pils"
     },
@@ -15,14 +23,6 @@
     {
       "name": "12° Pomgo - pomeranč + mango + limeta",
       "description": "5% alc., Thrills, Sour"
-    },
-    {
-      "name": "12° Sv. Hubert",
-      "description": "4.7% alc., Louka, Ležák světlý"
-    },
-    {
-      "name": "13° Czech Pale Ale",
-      "description": "5.5% alc., Mazák, Pale Ale"
     }
   ]
 }
