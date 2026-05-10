@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-10T08:50:52Z",
+  "generated_at": "2026-05-10T08:54:54Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -118,6 +118,15 @@
       "match_score": 0.875,
       "matched_at": "2026-04-30T20:07:58Z",
       "query_used": "13, Mozaika Loutkář"
+    },
+    "ambasada::MadCat, Kamenice::12,7° Dragon Fruit IPA": {
+      "untappd_url": "https://untappd.com/b/madcat-dragon-fruit-ipa/6700803",
+      "untappd_name": "Dragon Fruit IPA",
+      "untappd_brewery": "MadCat",
+      "rating": null,
+      "match_score": 1.0,
+      "matched_at": "2026-05-10T08:54:54Z",
+      "query_used": "<override>"
     },
     "ambasada::Maisel & Friends, Bayreuth::Fusion IPA": {
       "untappd_url": "https://untappd.com/b/brauerei-gebr-maisel-maisel-friends-fusion-ipa-lervig/6590478",
@@ -578,6 +587,15 @@
       "matched_at": "2026-04-25T19:41:44Z",
       "query_used": "Ow Much Thrills Brewing"
     },
+    "beerstreet::Thrills::Pomgo - pomeranč + mango + limeta": {
+      "untappd_url": "https://untappd.com/b/pivovar-thrills-brewing-pomgo/6615878",
+      "untappd_name": "Pomgo",
+      "untappd_brewery": "Pivovar Thrills Brewing",
+      "rating": 3.798,
+      "match_score": 1.0,
+      "matched_at": "2026-05-10T08:54:50Z",
+      "query_used": "<override>"
+    },
     "beerstreet::Thrills::Pomgo - pomeranč+mango+limeta": {
       "untappd_url": "https://untappd.com/b/pivovar-thrills-brewing-pomgo/6615878",
       "untappd_name": "Pomgo",
@@ -661,11 +679,6 @@
     }
   },
   "unmatched": {
-    "ambasada::MadCat, Kamenice::12,7° Dragon Fruit IPA": {
-      "attempts": 2,
-      "last_tried_at": "2026-05-10T08:50:52Z",
-      "reason": "no_candidates_above_threshold"
-    },
     "ambasada::Záhora, Kněžičky::08.BRUTIPA.I2": {
       "attempts": 1,
       "last_tried_at": "2026-05-08T21:37:47Z",
@@ -684,11 +697,6 @@
     "beerstreet::Hřebec::Hřebec": {
       "attempts": 1,
       "last_tried_at": "2026-04-23T20:04:40Z",
-      "reason": "no_candidates_above_threshold"
-    },
-    "beerstreet::Thrills::Pomgo - pomeranč + mango + limeta": {
-      "attempts": 2,
-      "last_tried_at": "2026-05-10T08:50:47Z",
       "reason": "no_candidates_above_threshold"
     }
   }
