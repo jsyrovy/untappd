@@ -1947,6 +1947,14 @@ INSERT INTO "archive" VALUES(1567969877,'2026-05-06 19:05:44.000000','sejrik','G
 INSERT INTO "archive" VALUES(1567989650,'2026-05-06 20:30:19.000000','sejrik','Strike','Pivovar Clock','Untappd at Home');
 INSERT INTO "archive" VALUES(1568052977,'2026-05-07 09:31:34.000000','sejrik','Rebel Nealko','Měšťanský pivovar Havlíčkův Brod','Bike Resort Peklák');
 INSERT INTO "archive" VALUES(1568469129,'2026-05-08 21:11:34.000000','sejrik','IIPPAA','PINTA','Untappd at Home');
+INSERT INTO "archive" VALUES(1568675549,'2026-05-09 14:12:30.000000','sejrik','Nectar of Happiness 17','Rodinný pivovar Zichovec','U Toulavé pípy');
+INSERT INTO "archive" VALUES(1568694595,'2026-05-09 14:53:36.000000','sejrik','Our Lager','Haksna Brewery','Beer Street');
+INSERT INTO "archive" VALUES(1568705987,'2026-05-09 15:15:08.000000','sejrik','Pineapple Milkshake IPA','Chroust','Beer Street');
+INSERT INTO "archive" VALUES(1568724220,'2026-05-09 15:45:27.000000','sejrik','Sv. Hubert 12','Pivovar Louka','Beer Street');
+INSERT INTO "archive" VALUES(1568740441,'2026-05-09 16:12:32.000000','sejrik','Australia Brut /// 8.ABI.I2','Pivovar Záhora','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1568765926,'2026-05-09 16:51:52.000000','sejrik','Dragon Fruit','MadCat','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1568785916,'2026-05-09 17:22:13.000000','sejrik','Tongariro','Sibeeria Brewery','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1568794368,'2026-05-09 17:34:49.000000','sejrik','No Idols! 15° American IPA','Pivovar Clock','Pivní ambasáda');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
