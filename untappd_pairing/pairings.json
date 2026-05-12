@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-11T20:45:35Z",
+  "generated_at": "2026-05-12T20:28:28Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -155,6 +155,15 @@
       "matched_at": "2026-04-18T19:39:27Z",
       "query_used": "California Matuška"
     },
+    "ambasada::Medvěd, Vrchlabí::Intergalactic": {
+      "untappd_url": "https://untappd.com/b/krkonossky-medved-intergalactic-pale-ale-15/1251727",
+      "untappd_name": "Intergalactic Pale Ale 15",
+      "untappd_brewery": "Krkonošský medvěd",
+      "rating": 3.608,
+      "match_score": 1.0,
+      "matched_at": "2026-05-12T20:28:28Z",
+      "query_used": "Intergalactic Medvěd"
+    },
     "ambasada::Mordýř, Dolní Ředice::Masopustní": {
       "untappd_url": "https://untappd.com/b/pivovar-mordyr-masopust/3687038",
       "untappd_name": "Masopust",
@@ -253,6 +262,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:12Z",
       "query_used": "Grapefruit Lollihop Sibeeria"
+    },
+    "ambasada::Sibeeria, Praha::Liquid Luck": {
+      "untappd_url": "https://untappd.com/b/sibeeria-brewery-liquid-luck/5141491",
+      "untappd_name": "Liquid Luck",
+      "untappd_brewery": "Sibeeria Brewery",
+      "rating": 3.722,
+      "match_score": 1.0,
+      "matched_at": "2026-05-12T20:28:23Z",
+      "query_used": "Liquid Luck Sibeeria"
     },
     "ambasada::Sibeeria, Praha::One Bloom": {
       "untappd_url": "https://untappd.com/b/sibeeria-brewery-one-bloom/6690912",
