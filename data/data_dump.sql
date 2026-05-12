@@ -1955,6 +1955,8 @@ INSERT INTO "archive" VALUES(1568740441,'2026-05-09 16:12:32.000000','sejrik','A
 INSERT INTO "archive" VALUES(1568765926,'2026-05-09 16:51:52.000000','sejrik','Dragon Fruit','MadCat','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1568785916,'2026-05-09 17:22:13.000000','sejrik','Tongariro','Sibeeria Brewery','Pivní ambasáda');
 INSERT INTO "archive" VALUES(1568794368,'2026-05-09 17:34:49.000000','sejrik','No Idols! 15° American IPA','Pivovar Clock','Pivní ambasáda');
+INSERT INTO "archive" VALUES(1569340809,'2026-05-11 19:02:00.000000','sejrik','Mosaic Ale 12','Rodinný pivovar Zichovec','Untappd at Home');
+INSERT INTO "archive" VALUES(1569352192,'2026-05-11 20:15:49.000000','sejrik','Hotline 15','Rodinný pivovar Zichovec','Untappd at Home');
 CREATE TABLE [pivni_valka] (
 	[id] integer PRIMARY KEY,
 	[date] text,
