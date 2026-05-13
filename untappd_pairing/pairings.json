@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-12T20:28:28Z",
+  "generated_at": "2026-05-13T20:29:26Z",
   "pairings": {
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
@@ -379,6 +379,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-23T20:04:50Z",
       "query_used": "Riwaka Čestmír"
+    },
+    "ambasada::Švabín::Puk Malina/Granátové Jablko": {
+      "untappd_url": "https://untappd.com/b/svabin-brewery-puk-malina-granatove-jablko/6703830",
+      "untappd_name": "PUK Malina, Granátové Jablko",
+      "untappd_brewery": "Švabín Brewery",
+      "rating": null,
+      "match_score": 1.0,
+      "matched_at": "2026-05-13T20:29:26Z",
+      "query_used": "Puk Malina/Granátové Jablko Švabín"
     },
     "beerstreet::Chroust::Pineapple": {
       "untappd_url": "https://untappd.com/b/chroust-pineapple-milkshake-ipa/6675190",
