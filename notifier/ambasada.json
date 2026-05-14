@@ -21,16 +21,16 @@
       "description": "4,9% alc. piv. JungBerg, Hořice, světlý ležák"
     },
     {
+      "name": "12° White Magic",
+      "description": "5% alc. Beskdydský pivovárek, Ostravice, White Cold IPA"
+    },
+    {
       "name": "14° Ename Rouge",
       "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
     },
     {
       "name": "15° Intergalactic",
       "description": "6,4% alc. piv. Medvěd, Vrchlabí, IPA"
-    },
-    {
-      "name": "8° 08.BRUTIPA.I2",
-      "description": "5% alc. piv. Záhora, Kněžičky, Brut IPA"
     }
   ]
 }
