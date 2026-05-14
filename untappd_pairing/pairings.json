@@ -1,7 +1,16 @@
 {
   "version": 1,
-  "generated_at": "2026-05-13T20:29:26Z",
+  "generated_at": "2026-05-14T20:26:38Z",
   "pairings": {
+    "ambasada::Beskdydský pivovárek, Ostravice::White Magic": {
+      "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-white-magic/6678189",
+      "untappd_name": "White Magic",
+      "untappd_brewery": "Beskydský pivovárek",
+      "rating": 3.529,
+      "match_score": 1.0,
+      "matched_at": "2026-05-14T20:26:38Z",
+      "query_used": "White Magic Beskdydský pivovárek"
+    },
     "ambasada::Beskydský Pivovárek, Ostravice::Denali": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-denali/6075080",
       "untappd_name": "Denali",
@@ -695,6 +704,15 @@
       "matched_at": "2026-04-30T20:07:45Z",
       "query_used": "SAAZ Záhora"
     },
+    "beerstreet::Černý potoka::Centaurus": {
+      "untappd_url": "https://untappd.com/b/cerny-potoka-centaurus/6613595",
+      "untappd_name": "Centaurus",
+      "untappd_brewery": "černý potoka",
+      "rating": 3.754,
+      "match_score": 1.0,
+      "matched_at": "2026-05-14T20:26:30Z",
+      "query_used": "Centaurus Černý potoka"
+    },
     "beerstreet::Černý potoka::Elektronik 743": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-elektronik-743/6666618",
       "untappd_name": "Elektronik 743",
@@ -712,6 +730,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-22T17:58:12Z",
       "query_used": "Orion μ Černý potoka"
+    },
+    "beerstreet::Čestmír::Roots": {
+      "untappd_url": "https://untappd.com/b/pivovar-cestmir-hazy-ipa-13deg-roots/5326015",
+      "untappd_name": "Hazy IPA 13° - Roots",
+      "untappd_brewery": "Pivovar Čestmír",
+      "rating": 3.865,
+      "match_score": 1.0,
+      "matched_at": "2026-05-14T20:26:34Z",
+      "query_used": "Roots Čestmír"
     },
     "beerstreet::Čestmír::Tanec Slunce": {
       "untappd_url": "https://untappd.com/b/pivovar-cestmir-tanec-slunce-mango-ananas/3889125",
