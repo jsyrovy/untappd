@@ -13,16 +13,16 @@
       "description": "4.9% alc., Thrills, Pils"
     },
     {
+      "name": "12° Centaurus",
+      "description": "5.1% alc., Černý potoka, West Coast - Pale Ale"
+    },
+    {
       "name": "12° Nectaron",
       "description": "5% alc., Mordýř, Smash Ale"
     },
     {
-      "name": "12° Pineapple",
-      "description": "4.5% alc., Chroust, Session Milkshake"
-    },
-    {
-      "name": "12° Pomgo - pomeranč + mango + limeta",
-      "description": "5% alc., Thrills, Sour"
+      "name": "13° Roots",
+      "description": "5.6% alc., Čestmír, Hazy IPA"
     }
   ]
 }
