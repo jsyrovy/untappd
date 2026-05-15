@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-14T20:26:38Z",
+  "generated_at": "2026-05-15T20:14:37Z",
   "pairings": {
     "ambasada::Beskdydský pivovárek, Ostravice::White Magic": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-white-magic/6678189",
@@ -407,6 +407,15 @@
       "matched_at": "2026-05-06T20:19:40Z",
       "query_used": "Pineapple Chroust"
     },
+    "beerstreet::Duck&Dog::Mosaic": {
+      "untappd_url": "https://untappd.com/b/pivovar-duck-dog-duck-dog-smash-mosaic/1925044",
+      "untappd_name": "Duck & Dog SMASH Mosaic",
+      "untappd_brewery": "Pivovar Duck&Dog",
+      "rating": 3.637,
+      "match_score": 1.0,
+      "matched_at": "2026-05-15T20:14:37Z",
+      "query_used": "Mosaic Duck&Dog"
+    },
     "beerstreet::Haksna::Citra Session": {
       "untappd_url": "https://untappd.com/b/haksna-brewery-citra-session/6613337",
       "untappd_name": "Citra Session",
@@ -704,6 +713,15 @@
       "matched_at": "2026-04-30T20:07:45Z",
       "query_used": "SAAZ Záhora"
     },
+    "beerstreet::Záhora::Česká jedenáctka": {
+      "untappd_url": "https://untappd.com/b/pivovar-zahora-ceska-jedenactka/5494242",
+      "untappd_name": "Česká Jedenáctka",
+      "untappd_brewery": "Pivovar Záhora",
+      "rating": 3.733,
+      "match_score": 1.0,
+      "matched_at": "2026-05-15T20:14:33Z",
+      "query_used": "Česká jedenáctka Záhora"
+    },
     "beerstreet::Černý potoka::Centaurus": {
       "untappd_url": "https://untappd.com/b/cerny-potoka-centaurus/6613595",
       "untappd_name": "Centaurus",
@@ -757,6 +775,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:20:59Z",
       "query_used": "Tropical Sour Čestmír"
+    },
+    "beerstreet::Čestmír::Čest": {
+      "untappd_url": "https://untappd.com/b/pivovar-cestmir-svetly-lezak-11deg-cest/4892957",
+      "untappd_name": "Světlý Ležák 11° ČEST",
+      "untappd_brewery": "Pivovar Čestmír",
+      "rating": 3.579,
+      "match_score": 1.0,
+      "matched_at": "2026-05-15T20:14:33Z",
+      "query_used": "Čest Čestmír"
     }
   },
   "unmatched": {
