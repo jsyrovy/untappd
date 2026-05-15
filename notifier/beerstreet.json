@@ -1,24 +1,24 @@
 {
   "beers": [
     {
-      "name": "11° Ale",
-      "description": "4.5% alc., Klenot, Pale Ale"
+      "name": "10° Summer Ale",
+      "description": "4.1% alc., Hřebec, Ale"
     },
     {
-      "name": "11° Most",
-      "description": "4.1% alc., Louka, IPL"
+      "name": "11° Mosaic",
+      "description": "4.4% alc., Duck&Dog, Smash Ale"
     },
     {
-      "name": "11° Stammtisch Hugo",
-      "description": "4.9% alc., Thrills, Pils"
+      "name": "11° Česká jedenáctka",
+      "description": "4.4% alc., Záhora, Ležák světlý"
+    },
+    {
+      "name": "11° Čest",
+      "description": "4.5% alc., Čestmír, Ležák světlý"
     },
     {
       "name": "12° Centaurus",
       "description": "5.1% alc., Černý potoka, West Coast - Pale Ale"
-    },
-    {
-      "name": "12° Nectaron",
-      "description": "5% alc., Mordýř, Smash Ale"
     },
     {
       "name": "13° Roots",
