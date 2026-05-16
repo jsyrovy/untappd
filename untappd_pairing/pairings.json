@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-15T20:14:37Z",
+  "generated_at": "2026-05-16T20:00:28Z",
   "pairings": {
     "ambasada::Beskdydský pivovárek, Ostravice::White Magic": {
       "untappd_url": "https://untappd.com/b/beskydsky-pivovarek-white-magic/6678189",
@@ -73,6 +73,15 @@
       "match_score": 1.0,
       "matched_at": "2026-04-17T11:21:18Z",
       "query_used": "Forest IPA Haksna"
+    },
+    "ambasada::Haksna, Ostrava::Oops, wrong hole!": {
+      "untappd_url": "https://untappd.com/b/haksna-brewery-ooops-wrong-hole/6711856",
+      "untappd_name": "Ooops,Wrong Hole!",
+      "untappd_brewery": "Haksna Brewery",
+      "rating": null,
+      "match_score": 1.0,
+      "matched_at": "2026-05-16T20:00:28Z",
+      "query_used": "Oops, wrong hole! Haksna"
     },
     "ambasada::Hoppydog, Ostrava::Ginger Paw": {
       "untappd_url": "https://untappd.com/b/pivovar-hoppydog-ginger-paw/6645070",
