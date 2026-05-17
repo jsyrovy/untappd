@@ -1,8 +1,8 @@
 {
   "beers": [
     {
-      "name": "11° Liquid Luck",
-      "description": "4,3% alc. piv. Sibeeria, Praha, American Pale Ale"
+      "name": "11° Blackcurrant Sorbet",
+      "description": "3,9% alc. piv. Sibeeria, Praha, Sour Ale w/ Blackcurrant"
     },
     {
       "name": "11° Mordýř",
@@ -25,12 +25,12 @@
       "description": "5% alc. Beskdydský pivovárek, Ostravice, White Cold IPA"
     },
     {
-      "name": "14° Ename Rouge",
-      "description": "6% alc. piv. Roman, Východní Flandry, Belgian Fruit Ale, 0,25l"
-    },
-    {
       "name": "15° Oops, wrong hole!",
       "description": "7,3% alc. piv. Haksna, Ostrava, West Coast IPA"
+    },
+    {
+      "name": "25° Batalion",
+      "description": "9,3% alc. piv. Haksna, Ostrava, Stout s laktozou, malinami a vanilkou"
     }
   ]
 }
